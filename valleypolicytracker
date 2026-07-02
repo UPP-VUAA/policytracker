@@ -1,0 +1,1876 @@
+#!/usr/bin/env python3
+"""
+VUAA / UPP — Regional Policy & Ordinance Tracker
+================================================
+Tracks municipal legislation (ordinances, resolutions, zoning cases, etc.)
+across metro Phoenix and flags items touching four advocacy priorities:
+Housing, Heat mitigation, Transit, and Walkability.
+
+This is the COMPANION to the meetings tracker. The meetings tracker answers
+"what's on the agenda this week"; this answers "what's actually moving through
+the pipeline, and where does it stand."
+
+v1 data source: Legistar Web API (the cities below expose it). New cities /
+platforms slot in by adding an adapter that yields the same record shape.
+
+Run:  python3 track.py
+Out:  ./site/index.html, ./site/ordinances.json, ./site/digest.txt
+"""
+
+import urllib.request, urllib.parse, json, ssl, re, html, hashlib, datetime as dt
+from collections import Counter
+from zoneinfo import ZoneInfo
+from pathlib import Path
+
+# ----------------------------------------------------------------------------
+# CONFIG
+# ----------------------------------------------------------------------------
+WINDOW_DAYS = 90          # how far back to look (by last-modified date)
+CHANGELOG_DAYS = 7        # "What moved" panel shows changes from the last N days
+ACTION_WINDOW_DAYS = 14   # "Act now" flags items with a hearing within N days
+OUT = Path(__file__).parent / "site"
+STATE = Path(__file__).parent / "state.json"   # committed ledger for run-to-run diffs
+PHX = ZoneInfo("America/Phoenix")
+
+# Confirmed Legistar clients. (slug, Display name, County label)
+LEGISTAR_CITIES = [
+    ("phoenix",        "Phoenix",         "Maricopa"),
+    ("mesa",           "Mesa",            "Maricopa"),
+    ("goodyear",       "Goodyear",        "Maricopa"),
+    ("apachejunction", "Apache Junction", "Maricopa/Pinal"),
+    ("maricopa",       "City of Maricopa","Pinal (greater region)"),
+]
+
+# Granicus cities (agenda HTML scraped). (slug, Display, County, [view_ids])
+GRANICUS_CITIES = [
+    ("tempe",    "Tempe",    "Maricopa", [2]),
+]
+
+# DestinyHosted / AgendaQuick cities (Granicus GovAccess). (portal_id, Display, County)
+# Glendale migrated Legistar(->2017) -> Granicus(->2020) -> DestinyHosted (current).
+DESTINY_CITIES = [
+    ("45363", "Glendale", "Maricopa"),
+]
+
+# Coverage roadmap shown on the page (cities not yet wired in).
+# Discovered empirically: the rest still need their platform identified.
+ROADMAP = [
+    ("Scottsdale",   "platform TBD",     "phase2"),
+    ("Chandler",     "platform TBD",     "phase2"),
+    ("Gilbert",      "platform TBD",     "phase2"),
+    ("Peoria",       "platform TBD",     "phase2"),
+    ("Surprise",     "platform TBD",     "phase2"),
+    ("Buckeye",      "platform TBD",     "phase2"),
+    ("Avondale",     "platform TBD",     "phase2"),
+    ("Queen Creek",  "platform TBD",     "phase2"),
+    ("Maricopa County", "platform TBD",  "phase2"),
+]
+
+# ----------------------------------------------------------------------------
+# TOPIC TAXONOMY  (edit freely — this is the heart of the filter)
+# ----------------------------------------------------------------------------
+# Matching rules (handled automatically below):
+#   * a term with a space or hyphen  -> matched as a plain phrase (substring)
+#   * a plain word                   -> matched at a LEFT word boundary, so
+#                                        "rezon" hits rezoning/rezone, and
+#                                        "tree" will NOT hit "street".
+#   * terms in EXACT need both boundaries (avoids bus->business, adu->adult)
+TOPICS = {
+    "Housing": [
+        "zoning", "rezon", "zon2", "zon1", "z-2", "land use", "general plan",
+        "accessory dwelling", "middle housing", "density", "dwelling unit",
+        "setback", "lot size", "subdivision", "multifamily", "multi-family",
+        "duplex", "triplex", "fourplex", "residential", "mixed-use", "mixed use",
+        "planned unit", "infill", "affordable", "single-stair", "single stair",
+        "pad", "overlay district",
+    ],
+    "Heat": [
+        "heat", "shade", "tree", "urban forest", "tree canopy", "canopy",
+        "cool corridor", "cool pavement", "cool roof", "reflective", "landscap",
+        "cooling", "xeriscap", "drought", "shade structure",
+    ],
+    "Transit": [
+        "transit", "light rail", "streetcar", "valley metro", "mobility",
+        "micromobility", "transportation", "park-and-ride", "park and ride",
+        "bus", "rideshare",
+    ],
+    "Walkability": [
+        "walkab", "pedestrian", "sidewalk", "crosswalk", "vision zero",
+        "complete street", "road diet", "traffic calming", "bike lane",
+        "bikeway", "bicycle", "shared use path", "multi-use path", "streetscape",
+        "ada ramp",
+    ],
+}
+EXACT = {"bus", "adu", "pad", "ada", "tree"}  # tree handled as prefix is fine; bus/pad need exact
+
+# Pre-compile matchers
+def _build_matchers(terms):
+    out = []
+    for t in terms:
+        tl = t.lower()
+        if " " in tl or "-" in tl:
+            out.append(("phrase", tl))
+        elif tl in EXACT:
+            out.append(("re", re.compile(r"\b" + re.escape(tl) + r"s?\b")))
+        else:
+            out.append(("re", re.compile(r"\b" + re.escape(tl))))  # left-boundary prefix
+    return out
+
+MATCHERS = {topic: _build_matchers(terms) for topic, terms in TOPICS.items()}
+
+def topics_for(text):
+    t = text.lower()
+    hits = []
+    for topic, matchers in MATCHERS.items():
+        for kind, m in matchers:
+            if (kind == "phrase" and m in t) or (kind == "re" and m.search(t)):
+                hits.append(topic)
+                break
+    return hits
+
+# ----------------------------------------------------------------------------
+# LEGISTAR ADAPTER
+# ----------------------------------------------------------------------------
+_ctx = ssl.create_default_context(); _ctx.check_hostname = False; _ctx.verify_mode = ssl.CERT_NONE
+
+def _get_json(url, timeout=40):
+    req = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=timeout, context=_ctx) as r:
+        return json.loads(r.read().decode(errors="replace"))
+
+def _parse(dstr):
+    if not dstr:
+        return None
+    try:
+        return dt.datetime.fromisoformat(dstr.replace("Z", "")).date()
+    except Exception:
+        return None
+
+def fetch_legistar(slug, name, county, cutoff, top=600):
+    ob = urllib.parse.quote("MatterLastModifiedUtc desc")
+    url = f"https://webapi.legistar.com/v1/{slug}/matters?$top={top}&$orderby={ob}"
+    try:
+        matters = _get_json(url)
+    except Exception as e:
+        print(f"   ! {name}: fetch failed ({type(e).__name__})")
+        return []
+    records = []
+    for m in matters:
+        last_mod = _parse(m.get("MatterLastModifiedUtc"))
+        if last_mod and last_mod < cutoff:
+            continue
+        title = (m.get("MatterTitle") or m.get("MatterName") or "").strip()
+        if not title:
+            continue
+        tt = topics_for(title)
+        if not tt:
+            continue
+        mid, guid = m.get("MatterId"), m.get("MatterGuid")
+        link = (f"https://{slug}.legistar.com/LegislationDetail.aspx?ID={mid}&GUID={guid}"
+                if mid and guid else f"https://{slug}.legistar.com/Legislation.aspx")
+        records.append({
+            "city": name, "county": county, "topics": sorted(set(tt)),
+            "file": m.get("MatterFile") or "", "type": m.get("MatterTypeName") or "",
+            "status": m.get("MatterStatusName") or "", "title": title,
+            "intro": str(_parse(m.get("MatterIntroDate")) or ""),
+            "agenda": str(_parse(m.get("MatterAgendaDate")) or ""),
+            "enacted": str(_parse(m.get("MatterEnactmentDate")) or ""),
+            "last_modified": str(last_mod or ""),
+            "url": link, "source": "Legistar",
+        })
+    print(f"   - {name}: {len(records)} relevant items")
+    return records
+
+# ----------------------------------------------------------------------------
+# GRANICUS ADAPTER  (Tempe, Glendale — agenda HTML, no clean status API)
+# ----------------------------------------------------------------------------
+# Granicus is a meeting/video archive: items come from parsing each meeting's
+# agenda page. There's no per-item adopted/failed status, so status is inferred
+# from the meeting date (upcoming vs. already heard). Noisier than Legistar, so
+# we gate out consent/minutes boilerplate and require a substantive signal.
+GRAN_MAX_MEETINGS = 60       # per city, within the window
+GRAN_MAX_PER_MTG  = 25
+
+_LEGNOUNS = ["ordinance", "resolution", "public hearing", "use permit", "rezon",
+    "zoning district", "variance", "subdivision", "general plan", "special permit",
+    "preliminary plat", "final plat", "development plan", "abandonment",
+    "text amendment", "planned area development", "map amendment", "conditional use",
+    "annexation", "right-of-way", "easement", "plat", "overlay", "rezone"]
+_ACTION = ["adopt", "approve", "award", "authorize", "introduce", "hold", "consider",
+    "request", "amend", "appropriat", "ratif", "accept and disburse", "execute"]
+_CASE_RE = re.compile(r'\b(PL\d{4,}|ZON\d{2}-\d+|Z-?\d+-\d+|ZTA\d+|GPA\d+|SUP\d+|'
+    r'CUP\d{2}-\d+|VAR\d{2}-\d+|PAD\d+|ANX\d+|DR\d{2}|ZA\d+)\b', re.I)
+# strip orphan tag-attribute remnants left when splitting on <tr>/<blockquote>
+# (handles quoted values with spaces, e.g.  class=" top">  and  vAlign=top> )
+_ATTR_JUNK = re.compile(r'^\s*(?:[\w:.-]+\s*=\s*(?:"[^"]*"|\'[^\']*\'|[^\s>]+)\s*)*>\s*')
+
+def _clean_item(u):
+    t = re.sub(r'<[^>]*>', ' ', u)
+    t = html.unescape(re.sub(r'\s+', ' ', t)).strip()
+    t = _ATTR_JUNK.sub('', t).lstrip('> ').strip()
+    return t
+
+def _substantive(t):
+    tl = t.lower()
+    return any(n in tl for n in _LEGNOUNS) or bool(_CASE_RE.search(t))
+
+def _is_noise(t):
+    tl = t.lower()
+    # minutes / consent boilerplate
+    if "minutes" in tl and any(w in tl for w in ["approval of", "acceptance of",
+            "commission", "advisory board", "subcommittee"]) and not _CASE_RE.search(t):
+        return True
+    # bare board/commission/committee line with a date and no real action
+    if re.search(r'\b(commission|committee|advisory board|subcommittee)\b', tl) \
+            and not _substantive(t) and not any(a in tl for a in _ACTION):
+        return True
+    if tl.startswith(("project planner", "staff contact", "applicant:")):
+        return True
+    return False
+
+def _parse_meetings(body, view_id):
+    out = []
+    for row in re.split(r'(?i)<tr[ >]', body):
+        nm = re.search(r'headers="Name"[^>]*>([^<]+)</td>', row)
+        ts = re.search(r'display:none;">(\d{10})</span>', row)
+        cid = re.search(r'AgendaViewer\.php\?view_id=%d&clip_id=(\d+)' % view_id, row)
+        if nm and ts and cid:
+            out.append((html.unescape(nm.group(1)).strip(), int(ts.group(1)), cid.group(1)))
+    return out
+
+def _agenda_items(h):
+    h = re.sub(r'<(script|style)[^>]*>.*?</\1>', ' ', h, flags=re.S | re.I)
+    units = re.split(r'(?i)<tr[ >]', h)
+    if len(units) < 4:
+        units = re.split(r'(?i)<blockquote[ >]', h)
+    items = []
+    for u in units:
+        t = _clean_item(u)
+        if 30 <= len(t) <= 700:
+            items.append(t)
+    return items
+
+def fetch_granicus(slug, name, county, view_ids, cutoff):
+    cutoff_ts = dt.datetime(cutoff.year, cutoff.month, cutoff.day, tzinfo=PHX).timestamp()
+    now_ts = dt.datetime.now(PHX).timestamp()
+    records, seen_titles = [], set()
+    for vid in view_ids:
+        try:
+            req = urllib.request.Request(
+                f"https://{slug}.granicus.com/ViewPublisher.php?view_id={vid}",
+                headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=40, context=_ctx) as r:
+                body = r.read().decode(errors="replace")
+        except Exception as e:
+            print(f"   ! {name}: ViewPublisher failed ({type(e).__name__})")
+            continue
+        meetings = [m for m in _parse_meetings(body, vid) if m[1] >= cutoff_ts]
+        meetings.sort(key=lambda m: m[1], reverse=True)
+        for mname, ts, cid in meetings[:GRAN_MAX_MEETINGS]:
+            try:
+                req = urllib.request.Request(
+                    f"https://{slug}.granicus.com/AgendaViewer.php?view_id={vid}&clip_id={cid}",
+                    headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=30, context=_ctx) as r:
+                    ag = r.read().decode(errors="replace")
+            except Exception:
+                continue
+            mdate = dt.datetime.fromtimestamp(ts, PHX).date()
+            status = "On upcoming agenda" if ts > now_ts else f"Heard {mdate}"
+            url = f"https://{slug}.granicus.com/AgendaViewer.php?view_id={vid}&clip_id={cid}"
+            kept = 0
+            for it in _agenda_items(ag):
+                if kept >= GRAN_MAX_PER_MTG:
+                    break
+                if _is_noise(it):
+                    continue
+                tt = topics_for(it)
+                if not tt or not (_substantive(it) or len(it) >= 60):
+                    continue
+                key = (slug, it[:90].lower())
+                if key in seen_titles:
+                    continue
+                seen_titles.add(key)
+                case = _CASE_RE.search(it)
+                records.append({
+                    "city": name, "county": county, "topics": sorted(set(tt)),
+                    "file": case.group(0) if case else "",
+                    "type": mname, "status": status,
+                    "title": it[:240], "intro": "", "agenda": str(mdate),
+                    "enacted": "", "last_modified": str(mdate),
+                    "url": url, "source": "Granicus",
+                })
+                kept += 1
+    print(f"   - {name}: {len(records)} relevant items (Granicus)")
+    return records
+
+# ----------------------------------------------------------------------------
+# DESTINYHOSTED / AGENDAQUICK ADAPTER  (Glendale — Granicus GovAccess agendas)
+# ----------------------------------------------------------------------------
+# The base "mt=all" portal page aggregates current + upcoming + recent agendas.
+# Each meeting row's <a> carries title="View Agenda for {BODY} ({MM/DD/YYYY})",
+# which gives a clean body name + date and lets us drop quorum/notice rows.
+# Note: this captures current/upcoming agendas (how the portal publishes), not a
+# strict 90-day lookback — past meetings move to a separate minutes view.
+_DESTINY_BASE = "https://destinyhosted.com"
+_DESTINY_SKIP = re.compile(
+    r'quorum|notice|cancel|upcoming|proclamation|minutes|workshop summary', re.I)
+_DESTINY_LINK = re.compile(
+    r'<a href="([^"]*dsp=ag[^"]*seq=(\d+))"[^>]*title="View Agenda for (.+?) \((\d{2}/\d{2}/\d{4})\)"')
+
+def fetch_destiny(portal_id, name, county, cutoff):
+    records, seen_titles = [], set()
+    try:
+        req = urllib.request.Request(
+            f"{_DESTINY_BASE}/agenda_publish.cfm?mt=all&id={portal_id}",
+            headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=40, context=_ctx) as r:
+            body = r.read().decode(errors="replace")
+    except Exception as e:
+        print(f"   ! {name}: DestinyHosted portal failed ({type(e).__name__})")
+        return records
+    today = dt.datetime.now(PHX).date()
+    seen_seq = set()
+    for mobj in _DESTINY_LINK.finditer(body):
+        href = mobj.group(1).replace("&amp;", "&")
+        seq, bname, mds = mobj.group(2), html.unescape(mobj.group(3)).strip(), mobj.group(4)
+        if seq in seen_seq:
+            continue
+        seen_seq.add(seq)
+        if _DESTINY_SKIP.search(bname):
+            continue
+        try:
+            mdate = dt.datetime.strptime(mds, "%m/%d/%Y").date()
+        except ValueError:
+            continue
+        if mdate < cutoff:
+            continue
+        url = _DESTINY_BASE + href
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=30, context=_ctx) as r:
+                ag = r.read().decode(errors="replace")
+        except Exception:
+            continue
+        status = "On upcoming agenda" if mdate > today else f"Heard {mdate}"
+        kept = 0
+        for it in _agenda_items(ag):
+            if kept >= GRAN_MAX_PER_MTG:
+                break
+            if _is_noise(it):
+                continue
+            tt = topics_for(it)
+            if not tt or not (_substantive(it) or len(it) >= 60):
+                continue
+            key = (portal_id, it[:90].lower())
+            if key in seen_titles:
+                continue
+            seen_titles.add(key)
+            case = _CASE_RE.search(it)
+            records.append({
+                "city": name, "county": county, "topics": sorted(set(tt)),
+                "file": case.group(0) if case else "",
+                "type": bname, "status": status,
+                "title": it[:240], "intro": "", "agenda": str(mdate),
+                "enacted": "", "last_modified": str(mdate),
+                "url": url, "source": "DestinyHosted",
+            })
+            kept += 1
+    print(f"   - {name}: {len(records)} relevant items (DestinyHosted)")
+    return records
+
+# ----------------------------------------------------------------------------
+# COLLECT
+# ----------------------------------------------------------------------------
+def collect():
+    cutoff = (dt.datetime.now(PHX) - dt.timedelta(days=WINDOW_DAYS)).date()
+    print(f"Collecting items modified since {cutoff} ({WINDOW_DAYS}-day window)...")
+    rows = []
+    for slug, name, county in LEGISTAR_CITIES:
+        rows.extend(fetch_legistar(slug, name, county, cutoff))
+    for slug, name, county, vids in GRANICUS_CITIES:
+        rows.extend(fetch_granicus(slug, name, county, vids, cutoff))
+    for pid, name, county in DESTINY_CITIES:
+        rows.extend(fetch_destiny(pid, name, county, cutoff))
+    # sort: newest activity first
+    rows.sort(key=lambda r: (r["last_modified"], r["file"]), reverse=True)
+    return rows, cutoff
+
+# ----------------------------------------------------------------------------
+# CHANGE DETECTION  (run-to-run diff -> "What moved" + "Act now")
+# ----------------------------------------------------------------------------
+def item_key(r):
+    """Stable identity across runs. Legistar items have a reliable file number;
+    agenda items fall back to a hash of their normalized title."""
+    c = (r.get("city") or "").lower()
+    f = (r.get("file") or "").strip().lower()
+    if f:
+        return f"{c}|{f}"
+    t = re.sub(r'^\s*[\dA-Za-z]{1,3}[.\)]\s+', '', r.get("title", "") or "")
+    t = re.sub(r'\s+', ' ', t).strip().lower()[:140]
+    return f"{c}|t:{hashlib.md5(t.encode()).hexdigest()[:10]}"
+
+def _agenda_iso(r):
+    ag = (r.get("agenda") or "").strip()
+    try:
+        dt.date.fromisoformat(ag); return ag
+    except ValueError:
+        return None
+
+def status_rank(s):
+    """Rough pipeline stage so we can tell which way an item moved."""
+    s = (s or "").lower()
+    if any(w in s for w in ["adopt", "approv", "enact", "pass", "grant"]): return 3
+    if any(w in s for w in ["fail", "denied", "withdraw", "reject", "remov"]): return -1
+    if any(w in s for w in ["heard", "hearing", "committee", "second read"]): return 2
+    if any(w in s for w in ["upcoming", "agenda", "introduc", "filed", "pending", "first read", "scheduled"]): return 1
+    return 0
+
+def load_state():
+    try:
+        d = json.loads(STATE.read_text(encoding="utf-8"))
+        if isinstance(d, dict) and "items" in d:
+            return d
+    except Exception:
+        pass
+    return {"items": {}, "events": []}
+
+def save_state(state):
+    try:
+        STATE.write_text(json.dumps(state, indent=1), encoding="utf-8")
+    except Exception as e:
+        print(f"   ! could not write state: {type(e).__name__}")
+
+def _mkev(kind, r, today_s, frm="", to=""):
+    return {"date": today_s, "kind": kind, "city": r["city"], "title": r["title"],
+            "url": r["url"], "file": r.get("file", ""), "from": frm, "to": to,
+            "hearing": _agenda_iso(r) or "", "topics": r.get("topics", [])}
+
+def compute_changes(rows, state, today):
+    """Annotates each row with _action_days / _new / _moved, and returns the list
+    of change-events generated on THIS run plus the refreshed per-item ledger."""
+    today_s = today.isoformat()
+    prev_items = state.get("items", {})
+    first_run = len(prev_items) == 0
+    items, new_events, seen = {}, [], set()
+
+    for r in rows:
+        k = item_key(r); seen.add(k)
+        st = (r.get("status") or "").strip()
+        hd = _agenda_iso(r)
+        # action window (upcoming hearing within N days)
+        r["_action_days"] = None
+        if hd:
+            dd = (dt.date.fromisoformat(hd) - today).days
+            if 0 <= dd <= ACTION_WINDOW_DAYS:
+                r["_action_days"] = dd
+        r["_new"] = False; r["_moved"] = ""; r["_movefrom"] = ""; r["_moveto"] = ""
+        prev = prev_items.get(k)
+
+        if prev is None:
+            items[k] = {"first_seen": today_s, "last_seen": today_s, "status": st,
+                        "hearing": hd, "city": r["city"], "title": r["title"], "url": r["url"]}
+            if not first_run:
+                r["_new"] = True
+                new_events.append(_mkev("new", r, today_s))
+        else:
+            rec = dict(prev); rec["last_seen"] = today_s
+            rec["title"] = r["title"]; rec["url"] = r["url"]
+            prev_status = prev.get("status", "")
+            if st and st != prev_status:
+                rec["status"] = st
+                pr, cr = status_rank(prev_status), status_rank(st)
+                r["_movefrom"] = prev_status; r["_moveto"] = st
+                if cr == 3:
+                    r["_moved"] = "adopted"; new_events.append(_mkev("adopted", r, today_s, prev_status, st))
+                elif cr == -1:
+                    r["_moved"] = "failed"; new_events.append(_mkev("failed", r, today_s, prev_status, st))
+                elif cr > pr:
+                    r["_moved"] = "advanced"; new_events.append(_mkev("advanced", r, today_s, prev_status, st))
+            prev_h = prev.get("hearing"); rec["hearing"] = hd
+            if hd and hd != prev_h and (dt.date.fromisoformat(hd) - today).days >= 0:
+                new_events.append(_mkev("scheduled", r, today_s))
+            items[k] = rec
+
+    # keep ledger entries for items that dropped off, for up to 30 days
+    for k, v in prev_items.items():
+        if k in seen:
+            continue
+        try:
+            ls = dt.date.fromisoformat(v.get("last_seen", today_s))
+        except ValueError:
+            ls = today
+        if (today - ls).days <= 30:
+            items[k] = v
+
+    # merge + prune the event log (keep a little beyond the display window)
+    log = (state.get("events", []) + new_events)
+    keep_after = (today - dt.timedelta(days=CHANGELOG_DAYS + 7)).isoformat()
+    log = [e for e in log if e.get("date", "") >= keep_after]
+    new_state = {"updated": today_s, "items": items, "events": log}
+    return new_events, new_state, first_run
+
+
+# ----------------------------------------------------------------------------
+# RENDER
+# ----------------------------------------------------------------------------
+TOPIC_ORDER = ["Housing", "Heat", "Transit", "Walkability"]
+TOPIC_BLURB = {
+    "Housing": "Zoning, rezonings, ADUs, middle housing, density & land use",
+    "Heat": "Shade, trees, urban canopy, cool corridors & cooling infrastructure",
+    "Transit": "Bus, light rail, Valley Metro, mobility & transportation",
+    "Walkability": "Pedestrian safety, sidewalks, Vision Zero, complete streets & bike",
+}
+
+def esc(s): return html.escape(str(s or ""))
+
+# Normalized item-type tags (for the type chip + the Type filter).
+# Order matters: specific land-use actions first, generic vehicles after, so a
+# "rezoning adopted by ordinance" tags as Rezoning, not Ordinance. Retune freely.
+_KIND_RULES = [
+    ("Rezoning",       ["rezon", "zoning map amendment", "map amendment", "zoning case",
+                        "planned area development", "pad overlay", "official zoning map"]),
+    ("Use permit",     ["use permit", "conditional use", "special use", "special permit"]),
+    ("Variance",       ["variance"]),
+    ("Dev/Site plan",  ["development plan", "site plan", "design review", "development review"]),
+    ("Plan amend",     ["general plan", "specific plan amendment", "minor general plan",
+                        "major general plan"]),
+    ("Code/Text amend",["text amendment", "code amendment", "zoning text", "development code",
+                        "ordinance text", "unified development"]),
+    ("Plat/Subdiv",    ["subdivision", "preliminary plat", "final plat", "replat", " plat "]),
+    ("Annexation",     ["annexation", "annex "]),
+    ("ROW/Easement",   ["right-of-way", "right of way", "abandonment", "easement", "vacation of"]),
+    ("Ordinance",      ["ordinance"]),
+    ("Resolution",     ["resolution"]),
+    ("Contract/IGA",   ["intergovernmental", " iga", "agreement", "contract", "procure",
+                        "purchase", "award", "bid", "rfp"]),
+    ("Plan/Study",     ["master plan", "action plan", "study", "update", "presentation",
+                        "report", "briefing", "work session", "discussion", "plan "]),
+    ("Grant/Funding",  ["grant", "funding", "appropriat", "bond", "budget", "sub-grant"]),
+]
+
+def classify_kind(r):
+    hay = f"{r.get('title','')} {r.get('type','')}".lower()
+    for label, kws in _KIND_RULES:
+        if any(kw in hay for kw in kws):
+            return label
+    return "Other"
+
+def status_class(s):
+    s = (s or "").lower()
+    if any(w in s for w in ["adopt", "approv", "enact", "pass"]): return "st-pass"
+    if any(w in s for w in ["fail", "denied", "withdraw", "reject"]): return "st-fail"
+    if any(w in s for w in ["pending", "hearing", "review", "introduc", "filed", "agenda"]): return "st-live"
+    return "st-other"
+
+def _short(s, n=104):
+    s = (s or "").strip()
+    return s if len(s) <= n else s[:n].rstrip() + "…"
+
+def _when_label(d):
+    return "today" if d == 0 else ("tomorrow" if d == 1 else f"in {d} days")
+
+_NEWS_STRIP = re.compile(r'''
+    \(Ordinance[^)]*\) | \(Res[^)]*\) | \(SEE\s+ATTACHED[^)]*\) |
+    \bOrdinance\s+[A-Z]-?\d+\b | \bPHO-[0-9A-Za-z.\-]+ | \bZ-\d[\d\-]* |
+    \bZON-?\d+ | \bGPA-?\d+ | \bDR-?\d+ | \bPL-?\d+ | \bS-\d{3,} | \bRES[ \-]?\d+ |
+    \bSeries\s+\d{4} | \bAnnexation\s+\d+ | \bDistrict\s+\d+ | \bCase\s+No\.?\s*\S+ |
+    \bRFP\s+\S+ | \*{2,}[^*]*\*{2,}
+''', re.I | re.X)
+_NEWS_BOILER = re.compile(r'''
+    PUBLIC\s+HEARING\s+ITEM | ACTION\s+ITEM | INFORMATION\s+ITEM | CONSENT\s+ITEM |
+    DISCUSSION(\s+AND\s+POSSIBLE\s+ACTION)?\s+ITEM |
+    Hold\s+(the\s+second\s+and\s+final|a|the\s+first(\s+and\s+only)?)\s+public\s+hearing(\s+(for|on|to))? |
+    second\s+and\s+final\s+reading | first\s+reading |
+    Amend\s+City\s+Code | Ordinance\s+Adoption | Public\s+Hearing\s+and |
+    Request\s+for\s+Award | Request\s+to\s+Withdraw | Formal\s+Action |
+    Modification\s+of\s+Stipulation\s+Request\s+for\s+Ratification\s+of |
+    Issuance\s+of\s+a | Construction\s+Administration\s+and\s+Observation\s+Services |
+    Remove\s*/\s*Replace\s+Zoning\s+District | PCD\s+Major\s+Amendment | Series\b
+''', re.I | re.X)
+
+def news_url(r):
+    """A pre-scoped Google News search for THIS item: distinctive title terms with
+    case numbers and agenda boilerplate stripped, plus city + Arizona to keep results
+    from drifting to the other Glendale / Peoria / etc. We link to a search rather than
+    asserting a specific article, because local coverage is sparse and auto-matching
+    keylessly is unreliable."""
+    t = r.get("title", "") or ""
+    t = re.sub(r'^\s*(?:[0-9]{1,3}|[A-Za-z])[.\)]\s+', '', t)   # leading "2." / "F."
+    t = re.sub(r'^\s*(?:[0-9]{1,3}|[A-Za-z])[.\)]\s+', '', t)   # a second one if present
+    t = _NEWS_STRIP.sub(" ", t)
+    t = _NEWS_BOILER.sub(" ", t)
+    t = re.sub(r'[\-–—:;()/,]+', " ", t)
+    t = re.sub(r'\s+', " ", t).strip()
+    t = " ".join(t.split()[:10])
+    q = f'{t} {r.get("city","")} Arizona'.strip()
+    return "https://www.google.com/search?tbm=nws&q=" + urllib.parse.quote(q)
+
+_KIND_PLAIN = {
+    "Rezoning": "A request to change the zoning of a property",
+    "Use permit": "A use-permit request (permission for a specific use on a site)",
+    "Variance": "A zoning variance request (an exception to a development standard)",
+    "Dev/Site plan": "A development or site-plan review",
+    "Plan amend": "A General Plan amendment (a change to the city's long-range land-use plan)",
+    "Code/Text amend": "A change to the zoning or development code itself",
+    "Plat/Subdiv": "A subdivision plat (dividing land into lots)",
+    "Annexation": "An annexation bringing land into the city",
+    "ROW/Easement": "A right-of-way or easement action",
+    "Ordinance": "A city ordinance",
+    "Resolution": "A city resolution",
+    "Contract/IGA": "A contract or intergovernmental agreement",
+    "Plan/Study": "A plan, study, or staff briefing",
+    "Grant/Funding": "A grant or funding item",
+    "Other": "An agenda item",
+}
+_TOPIC_WHY = {
+    "Housing": "it affects what housing can be built or where",
+    "Heat": "it touches shade, trees, or heat-mitigation policy",
+    "Transit": "it relates to transit, light rail, or bus service",
+    "Walkability": "it affects walkability, biking, or street safety",
+}
+_SUBJ_TRAIL = re.compile(r'\(Ordinance[^)]*\)|\(Res[^)]*\)|[-–—]\s*District\s+\d+\s*$', re.I)
+
+def _clean_subject(title):
+    t = title or ""
+    t = re.sub(r'^\s*\((?:CONTINUED|CONT\.?|DEFERRED)[^)]*\)\s*[-–—]?\s*', '', t, flags=re.I)
+    t = re.sub(r'^\s*(?:[0-9]{1,3}|[A-Za-z])[.\)]\s+', '', t)
+    t = re.sub(r'^\s*(?:[0-9]{1,3}|[A-Za-z])[.\)]\s+', '', t)
+    t = _SUBJ_TRAIL.sub('', t)
+    t = re.sub(r'^Public Hearing\s*[-–—:]\s*', '', t, flags=re.I)
+    t = re.sub(r'^Amend City Code\s*[-–—]\s*Ordinance Adoption\s*[-–—]\s*', '', t, flags=re.I)
+    t = re.sub(r'^Public Hearing and Ordinance Adoption\s*[-–—]\s*', '', t, flags=re.I)
+    t = re.sub(r'^Remove\s*/\s*Replace Zoning District\s*[-–—]\s*', '', t, flags=re.I)
+    t = re.sub(r'^Rezoning Application\s+\S+\s*[-–—]\s*', '', t, flags=re.I)
+    t = re.sub(r'^[A-Z]{2,4}-?\d[\d\-]*,?\s+', '', t)   # leading bare case id e.g. "CUP26-05,"
+    t = re.sub(r'\s+', ' ', t).strip(' -–—')
+    return t
+
+def _trunc(s, n):
+    s = s.strip()
+    if len(s) <= n:
+        return s
+    cut = s[:n].rsplit(' ', 1)[0].rstrip(' ,;:-–—')
+    cut = re.sub(r'\s+(and|or|the|to|of|from|in|on|for|a|an|with|that)$', '', cut, flags=re.I)
+    return cut + '…'
+
+def summarize(r):
+    """Plain-language gloss built from the item's structured fields — no LLM, so it works
+    on the static deployed site and never breaks the run."""
+    kind = classify_kind(r)
+    city = r.get("city", "")
+    title = r.get("title", "") or ""
+    dm = re.search(r'District\s+(\d+)', title)
+    district = ""
+    if dm:
+        district = f", Council District {dm.group(1)}" if city == "Phoenix" else f", District {dm.group(1)}"
+    lead = f"{_KIND_PLAIN.get(kind, 'An agenda item')} in {city}{district}."
+    subj = _clean_subject(title)
+    sj = _trunc(subj, 170)
+    loc = f" Specifically: {sj}{'' if sj.endswith('…') else '.'}" if subj and len(subj) > 6 else ""
+    ad, ag, sr = r.get("_action_days"), r.get("agenda", ""), status_rank(r.get("status", ""))
+    if ad is not None:
+        st = f" A hearing is scheduled for {ag} ({_when_label(ad)})."
+    elif sr == 3:
+        st = " It has been adopted or approved."
+    elif sr == -1:
+        st = " It failed, was denied, or was withdrawn."
+    elif sr == 2:
+        st = f" It was heard on {ag}." if ag else " It has been heard."
+    elif ag:
+        st = f" It appears on the {ag} agenda."
+    else:
+        st = ""
+    topics = r.get("topics", [])
+    why = ""
+    if topics:
+        reasons = "; ".join(_TOPIC_WHY[t] for t in topics if t in _TOPIC_WHY)
+        why = f" Tracked under {', '.join(topics)} because {reasons}."
+    refs = []
+    if r.get("file"):
+        refs.append(f"case {r['file']}")
+    om = re.search(r'Ordinance\s+([A-Z]-?\d+)', title)
+    if om:
+        refs.append(f"Ordinance {om.group(1)}")
+    ref = f" ({'; '.join(refs)})." if refs else ""
+    return (lead + loc + st + why + ref).strip()
+
+def _fmt_date(d):
+    try:
+        return dt.datetime.strptime(str(d)[:10], "%Y-%m-%d").strftime("%b %-d, %Y")
+    except Exception:
+        return d or ""
+
+def item_html(r):
+    kind = classify_kind(r)
+    topic0 = (r["topics"][0].lower() if r.get("topics") else "")
+    dotcls = f"dot-{topic0}" if topic0 in ("housing", "transit", "walkability", "heat") else ""
+    if r["agenda"]:      dlabel = "Agenda " + _fmt_date(r["agenda"])
+    elif r["enacted"]:   dlabel = "Enacted " + _fmt_date(r["enacted"])
+    elif r["intro"]:     dlabel = "Introduced " + _fmt_date(r["intro"])
+    else:                dlabel = ""
+    chips = f'<span class="ot ot-kind">{esc(kind)}</span>' + "".join(
+        f'<span class="ot ot-{t.lower()}">{t}</span>' for t in r["topics"])
+    fileno = f'<span class="file">{esc(r["file"])}</span>' if r["file"] else ""
+    status = f'<span class="status {status_class(r["status"])}">{esc(r["status"])}</span>' if r["status"] else ""
+    flags = ""
+    if r.get("_new"):
+        flags += '<span class="inew">● New</span>'
+    if r.get("_moved") in ("adopted", "failed", "advanced"):
+        lbl = {"adopted": "↑ Adopted", "failed": "✕ Failed", "advanced": "↑ Advanced"}[r["_moved"]]
+        flags += f'<span class="imoved im-{r["_moved"]}">{lbl}</span>'
+    ad = r.get("_action_days")
+    if ad is not None:
+        flags += f'<span class="iact">◷ Hearing {_when_label(ad)}</span>'
+    headline = esc(_clean_subject(r["title"]) or r["title"])
+    dek = esc(summarize(r))
+    topics_attr = " ".join(t.lower() for t in r["topics"])
+    search_attr = esc(" ".join(filter(None, [r["title"], r["file"], r["type"], r["city"]])).lower())
+    dspan = f'<span class="idate">{esc(dlabel)}</span>' if dlabel else ""
+    return f"""<article class="item" data-uid="{r.get('_uid','')}" data-city="{esc(r['city'])}" data-kind="{esc(kind)}" data-topics="{esc(topics_attr)}" data-search="{search_attr}">
+  <div class="imeta"><span class="city"><i class="dot {dotcls}"></i>{esc(r['city'])}</span>{dspan}{fileno}{flags}{status}</div>
+  <a class="ititle" href="{esc(r['url'])}" target="_blank" rel="noopener">{headline}</a>
+  <p class="idek">{dek}</p>
+  <div class="ochips">{chips}<a class="inews" href="{news_url(r)}" target="_blank" rel="noopener" title="Search news coverage for this item">News ↗</a></div>
+</article>"""
+
+# ----------------------------------------------------------------------------
+# LONGITUDINAL ANALYTICS  ("By the numbers" — inline SVG, no JS deps)
+# ----------------------------------------------------------------------------
+def _svg_hbar(pairs, color="#040404", w=560, rowh=27, pad=10, label_w=150, val_w=46, maxv=None):
+    pairs = list(pairs)
+    if not pairs:
+        return '<p class="empty">No data in the current window.</p>'
+    maxv = maxv or max((v for _, v in pairs), default=1) or 1
+    barw = w - label_w - val_w - pad * 2
+    h = pad * 2 + rowh * len(pairs)
+    out = [f'<svg viewBox="0 0 {w} {h}" class="svgchart" preserveAspectRatio="xMinYMin meet" role="img">']
+    for i, (lab, v) in enumerate(pairs):
+        cy = pad + i * rowh + rowh / 2
+        bw = max(2, barw * (v / maxv))
+        col = color(lab) if callable(color) else color
+        out.append(f'<text x="{label_w-7}" y="{cy}" text-anchor="end" dominant-baseline="central" class="svglab">{esc(str(lab))}</text>')
+        out.append(f'<rect x="{label_w}" y="{cy-rowh/2+4.5}" width="{bw:.1f}" height="{rowh-9}" fill="{col}" rx="1.5"/>')
+        out.append(f'<text x="{label_w+bw+6:.1f}" y="{cy}" dominant-baseline="central" class="svgval">{v}</text>')
+    out.append('</svg>')
+    return "".join(out)
+
+def _best_month(r):
+    for f in ("enacted", "agenda", "intro", "last_modified"):
+        v = (r.get(f) or "").strip()
+        try:
+            return dt.date.fromisoformat(v).strftime("%Y-%m")
+        except ValueError:
+            continue
+    return None
+
+_STATUS_BUCKETS = [
+    ("Pending / scheduled", 1, "#040404"),
+    ("Heard", 2, "#8a6d00"),
+    ("Adopted / passed", 3, "#1c6b2e"),
+    ("Failed / withdrawn", -1, "#8a1c1c"),
+    ("In process / other", 0, "#9a9a8e"),
+]
+
+def render_trends(rows, archive_n=0):
+    # status buckets + adoption rate
+    rank = {0: 0, 1: 0, 2: 0, 3: 0, -1: 0}
+    for r in rows:
+        rank[status_rank(r.get("status", ""))] = rank.get(status_rank(r.get("status", "")), 0) + 1
+    status_pairs = [(lbl, rank.get(rk, 0)) for lbl, rk, _ in _STATUS_BUCKETS if rank.get(rk, 0)]
+    status_col = {lbl: c for lbl, _, c in _STATUS_BUCKETS}
+    decided = rank.get(3, 0) + rank.get(-1, 0)
+    adopt_rate = f"{round(100*rank.get(3,0)/decided)}%" if decided else "—"
+
+    # activity by month (chronological) — cap to recent months; older dates are
+    # stale enacted/intro stamps on items only recently modified, not window activity
+    months = Counter(m for m in (_best_month(r) for r in rows) if m)
+    month_pairs = [(m, months[m]) for m in sorted(months)][-14:]
+
+    # most active cities
+    city_pairs = Counter(r["city"] for r in rows).most_common()
+
+    # Phoenix rezoning by council district
+    dist = Counter()
+    for r in rows:
+        if r["city"] == "Phoenix" and classify_kind(r) == "Rezoning":
+            m = re.search(r'District\s+(\d+)', r.get("title", "") or "")
+            if m:
+                dist[int(m.group(1))] += 1
+    dist_pairs = [(f"District {d}", dist[d]) for d in sorted(dist)]
+
+    archive_note = (f' · accumulating a daily snapshot archive (<b>{archive_n}</b> run(s) recorded so far) '
+                    f'for true month-over-month trend lines') if archive_n else ""
+    return f"""<section class="numbers" id="numbers">
+  <header class="nhead"><h2>By the numbers</h2>
+    <span class="nblurb">A live read on the {WINDOW_DAYS}-day window across every tracked city{archive_note}.</span>
+  </header>
+  <div class="ngrid">
+    <div class="ncard ncard-stat">
+      <div class="bignum">{len(rows)}</div><div class="biglab">items tracked right now</div>
+      <div class="substat"><b>{adopt_rate}</b> of decided items were adopted <span>({rank.get(3,0)} adopted · {rank.get(-1,0)} failed/withdrawn)</span></div>
+    </div>
+    <div class="ncard"><h3>Where items stand</h3>{_svg_hbar(status_pairs, color=lambda l: status_col.get(l,"#040404"))}</div>
+    <div class="ncard ncard-wide"><h3>Activity by month <span>(by most recent action date)</span></h3>{_svg_hbar(month_pairs, color="#040404", label_w=78)}</div>
+    <div class="ncard"><h3>Most active cities</h3>{_svg_hbar(city_pairs, color="#040404")}</div>
+    <div class="ncard"><h3>Phoenix rezonings by council district</h3>{_svg_hbar(dist_pairs, color="#F6DC31", label_w=88) if dist_pairs else '<p class="empty">No districted Phoenix rezonings in window.</p>'}</div>
+  </div>
+</section>"""
+
+def render_actnow(action_items):
+    """Prospective panel: items with a hearing inside the action window."""
+    if not action_items:
+        return ""
+    rows_html = ""
+    for r in action_items[:10]:
+        d = r["_action_days"]
+        urg = "act-soon" if d <= 3 else ""
+        rows_html += (
+            f'<a class="actrow {urg}" href="{esc(r["url"])}" target="_blank" rel="noopener">'
+            f'<span class="actwhen">{esc(r["agenda"])}<i>{_when_label(d)}</i></span>'
+            f'<span class="actcity">{esc(r["city"])}</span>'
+            f'<span class="acttitle">{esc(_short(r["title"]))}</span></a>')
+    more = (f'<p class="moremsg">+{len(action_items)-10} more with hearings in the next '
+            f'{ACTION_WINDOW_DAYS} days</p>') if len(action_items) > 15 else ""
+    return f"""<section class="actnow" id="actnow">
+  <h3><span class="ahdr">Act now</span><span class="asub">{len(action_items)} item(s) with a hearing in the next {ACTION_WINDOW_DAYS} days</span></h3>
+  <div class="actlist">{rows_html}</div>{more}
+</section>"""
+
+_EVENT_GROUPS = [
+    ("adopted",   "Adopted / passed", "mg-pass"),
+    ("failed",    "Failed / withdrawn", "mg-fail"),
+    ("advanced",  "Advanced (heard or progressed)", "mg-adv"),
+    ("new",       "Newly appeared", "mg-new"),
+    ("scheduled", "Newly scheduled", "mg-sched"),
+]
+
+def render_moved(events_log, first_run, today):
+    """Retrospective panel: change-events from the last CHANGELOG_DAYS days."""
+    cutoff = (today - dt.timedelta(days=CHANGELOG_DAYS)).isoformat()
+    recent = [e for e in events_log if e.get("date", "") >= cutoff]
+    head = (f'<h3><span class="ahdr">What moved</span>'
+            f'<span class="asub">last {CHANGELOG_DAYS} days</span></h3>'
+            f'<p class="pdesc">Every night this tracker compares the latest agenda and legislative '
+            f'data against the previous run and records what changed. "What moved" lists those changes '
+            f'from the last {CHANGELOG_DAYS} days — items that newly appeared, advanced toward a decision '
+            f'(heard or progressed), were adopted or failed, or were newly scheduled for a hearing. '
+            f'Anything not listed here is unchanged since the last run.</p>')
+    if first_run:
+        return (f'<section class="moved" id="moved">{head}<p class="movedempty">Baseline established '
+                f'today — changes will start showing here on the next daily run.</p></section>')
+    if not recent:
+        return (f'<section class="moved" id="moved">{head}<p class="movedempty">No tracked changes in the '
+                f'last {CHANGELOG_DAYS} days.</p></section>')
+    by_kind = {}
+    for e in recent:
+        by_kind.setdefault(e.get("kind"), []).append(e)
+    groups = ""
+    for kind, label, cls in _EVENT_GROUPS:
+        items = by_kind.get(kind, [])
+        if not items:
+            continue
+        items.sort(key=lambda e: e.get("date", ""), reverse=True)
+        lis = ""
+        for e in items[:8]:
+            extra = ""
+            if kind in ("adopted", "failed", "advanced") and e.get("from") and e.get("to"):
+                extra = f' <span class="mdelta">{esc(_short(e["from"],28))} → {esc(_short(e["to"],28))}</span>'
+            elif kind == "scheduled" and e.get("hearing"):
+                extra = f' <span class="mdelta">hearing {esc(e["hearing"])}</span>'
+            fileno = f'<span class="mfile">{esc(e["file"])}</span>' if e.get("file") else ""
+            lis += (f'<li><a href="{esc(e["url"])}" target="_blank" rel="noopener">'
+                    f'<span class="mcity">{esc(e["city"])}</span>{fileno}'
+                    f'<span class="mtitle">{esc(_short(e["title"]))}</span>{extra}'
+                    f'<span class="mdate">{esc(e["date"])}</span></a></li>')
+        more = f'<li class="moremsg">+{len(items)-8} more</li>' if len(items) > 12 else ""
+        groups += f'<div class="mgroup"><h4 class="{cls}">{label}<b>{len(items)}</b></h4><ul>{lis}{more}</ul></div>'
+    return f'<section class="moved" id="moved">{head}<div class="mgrid">{groups}</div></section>'
+
+
+# ---------------------------------------------------------------------------
+# Cross-city reform watch: recognise when the SAME reform is moving in more than
+# one Valley city, and whether a peer has already adopted it. Keyword lists are
+# editable; add a theme by adding a (label, topic, [keywords]) entry.
+# ---------------------------------------------------------------------------
+REFORMS = {
+    "code_mod": ("Zoning & development code updates", "housing",
+        ["zoning and development code text", "development code text", "development code update",
+         "zoning code update", "zoning ordinance text", "unified development code", "code modernization",
+         "zoning text amendment", "amending the zoning", "zoning ordinance amendment", "code text amendment",
+         "text amendment", "amendments to the zoning"]),
+    "middle_housing": ("Middle / missing-middle housing", "housing",
+        ["middle housing", "missing middle", "duplex", "triplex", "fourplex", "multiplex",
+         "cottage court", "townhome", "townhouse", "two-family", "plex zoning"]),
+    "adu": ("ADUs / casitas", "housing",
+        ["accessory dwelling", "accessory unit", "casita", "guest house", "guesthouse", "backyard home"]),
+    "parking_reform": ("Parking reform", "housing",
+        ["parking minimum", "parking requirement", "parking ratio", "off-street parking",
+         "reduce parking", "eliminate parking", "parking reform", "parking standard"]),
+    "tod": ("Transit-oriented development", "transit",
+        ["transit-oriented", "transit oriented", "station area", "tod overlay", "transit overlay",
+         "transit district"]),
+    "complete_streets": ("Complete streets & safety", "walkability",
+        ["complete street", "road diet", "lane reconfigur", "lane reduction", "road reconfigur",
+         "protected bike", "bike lane", "traffic calming", "pedestrian safety", "vision zero",
+         "reverse lane", "bicycle facilit"]),
+    "shade_heat": ("Shade & heat mitigation", "heat",
+        ["tree canopy", "cool corridor", "urban heat", "heat mitigation", "cooling center",
+         "tree and shade", "urban forest", "heat resilience", "shade structure ordinance"]),
+    "density_bonus": ("Density bonus & affordability", "housing",
+        ["density bonus", "inclusionary", "affordable housing incentive", "height bonus",
+         "bonus density", "affordability overlay"]),
+}
+# Operational / site-specific kinds are never "reforms" — excluding them keeps
+# procurement contracts and one-off use permits from faking cross-city signal.
+_REFORM_EXCLUDE_KINDS = {"Contract/IGA", "Use permit", "ROW/Easement", "Variance", "Plat/Subdiv"}
+
+def reform_themes(r):
+    if classify_kind(r) in _REFORM_EXCLUDE_KINDS:
+        return []
+    t = (r.get("title", "") + " " + r.get("type", "")).lower()
+    return [k for k, (lbl, topic, kws) in REFORMS.items() if any(kw in t for kw in kws)]
+
+def _reform_bucket(status):
+    s = (status or "").lower()
+    if any(w in s for w in ("adopt", "approv", "enact", "passed")): return "Adopted"
+    if any(w in s for w in ("fail", "denied", "withdraw", "reject")): return "Failed"
+    if any(w in s for w in ("heard", "continued", "introduce")):     return "Heard"
+    return "Pending"
+
+def build_precedent(rows):
+    """Cluster reforms appearing in 2+ cities; flag 'leverage' cases where a peer
+    has adopted while another city's version is still pending/heard."""
+    buckets = {}
+    for r in rows:
+        for k in reform_themes(r):
+            buckets.setdefault(k, []).append(r)
+    clusters = []
+    for k, items in buckets.items():
+        cities = {r["city"] for r in items}
+        if len(cities) < 2:
+            continue
+        by = {}
+        for r in items:
+            by.setdefault(_reform_bucket(r["status"]), {}).setdefault(r["city"], []).append(r)
+        leverage = ("Adopted" in by) and ("Pending" in by or "Heard" in by)
+        clusters.append({"key": k, "label": REFORMS[k][0], "topic": REFORMS[k][1],
+                         "items": items, "n_cities": len(cities), "by": by, "leverage": leverage})
+    clusters.sort(key=lambda c: (not c["leverage"], -c["n_cities"], -len(c["items"])))
+    return clusters
+
+_PBUCKETS = [("Adopted", "pb-adopt", "✓"), ("Heard", "pb-heard", "◷"),
+             ("Pending", "pb-pend", "◷"), ("Failed", "pb-fail", "✕")]
+
+def render_precedent(clusters):
+    if not clusters:
+        return ""
+    cards = ""
+    for c in clusters:
+        lev = '<span class="plev">precedent set</span>' if c["leverage"] else ""
+        rows_html = ""
+        for name, cls, glyph in _PBUCKETS:
+            grp = c["by"].get(name)
+            if not grp:
+                continue
+            cl = ", ".join(
+                (f'{esc(ct)} <span class="pn">{len(its)}</span>' if len(its) > 1 else esc(ct))
+                for ct, its in sorted(grp.items(), key=lambda x: -len(x[1])))
+            rows_html += (f'<div class="prow"><span class="pb {cls}">{glyph} {name}</span>'
+                          f'<span class="pcities">{cl}</span></div>')
+        li = ""
+        for name, _, _ in _PBUCKETS:
+            grp = c["by"].get(name)
+            if not grp:
+                continue
+            for ct, its in sorted(grp.items()):
+                for r in its:
+                    li += (f'<li><span class="pic">{esc(ct)}</span>'
+                           f'<a href="{esc(r["url"])}" target="_blank" rel="noopener">'
+                           f'{esc(_trunc(_clean_subject(r["title"]), 76))}</a> '
+                           f'<span class="pis">{esc(_reform_bucket(r["status"]))}</span></li>')
+        cards += (f'<div class="pcard pc-{esc(c["topic"])}">'
+                  f'<div class="ptop"><span class="plabel">{esc(c["label"])}</span>'
+                  f'<span class="pcount">{c["n_cities"]} cities</span>{lev}</div>'
+                  f'{rows_html}'
+                  f'<details class="pitems"><summary>{len(c["items"])} item(s)</summary>'
+                  f'<ul>{li}</ul></details></div>')
+    return (f'<section class="precedent" id="precedent">'
+            f'<h3><span class="ahdr">Cross-city reform watch</span>'
+            f'<span class="asub">where the same reform is moving in more than one Valley city · educational tracking</span></h3>'
+            f'<div class="pgrid">{cards}</div></section>')
+
+def render_html(rows, cutoff, events_log=None, action_items=None, first_run=False, archive_n=0, map_payload=None, map_placed=0):
+    now = dt.datetime.now(PHX)
+    for i, r in enumerate(rows):
+        r["_uid"] = i
+    by_topic = {t: [] for t in TOPIC_ORDER}
+    for r in rows:
+        for t in r["topics"]:
+            by_topic[t].append(r)
+    counts = {t: len(by_topic[t]) for t in TOPIC_ORDER}
+    cities_live = sorted({r["city"] for r in rows})
+
+    summary = "".join(
+        f'<a class="sum sum-{t.lower()}" href="#{t.lower()}"><span class="n" data-tile="{t}">{counts[t]}</span>'
+        f'<span class="l">{t}</span></a>' for t in TOPIC_ORDER)
+
+    # ---- Filter bar (City + Type), populated only with values present ----
+    city_counts = Counter(r["city"] for r in rows)
+    cities_present = [c for c, _ in city_counts.most_common()]
+    kind_counts = Counter(classify_kind(r) for r in rows)
+    kind_pref = [k for k, _ in _KIND_RULES] + ["Other"]
+    kinds_present = sorted(kind_counts, key=lambda k: kind_pref.index(k) if k in kind_pref else 99)
+    city_chips = "".join(
+        f'<button class="chipf" data-fcity="{esc(c)}">{esc(c)}<i>{city_counts[c]}</i></button>'
+        for c in cities_present)
+    kind_chips = "".join(
+        f'<button class="chipf" data-fkind="{esc(k)}">{esc(k)}<i>{kind_counts[k]}</i></button>'
+        for k in kinds_present)
+    topic_chips = "".join(
+        f'<button class="chipf chipf-{t.lower()}" data-ftopic="{t.lower()}">{t}<i>{counts[t]}</i></button>'
+        for t in TOPIC_ORDER)
+    total = len(rows)
+    filterbar = f"""<div class="filters" id="filters">
+  <div class="frow fsearchrow">
+    <span class="flab">Find</span>
+    <input id="fsearch" class="fsearch" type="text" autocomplete="off" spellcheck="false"
+       placeholder="Search title, case number, or keyword…">
+    <button class="fx" id="fsearchx" title="Clear search" aria-label="Clear search">×</button>
+  </div>
+  <div class="frow"><span class="flab">Topic</span><div class="fchips">{topic_chips}</div></div>
+  <div class="frow"><span class="flab">City</span><div class="fchips">{city_chips}</div></div>
+  <div class="frow"><span class="flab">Type</span><div class="fchips">{kind_chips}</div></div>
+  <div class="frow ftools">
+    <button class="fclear" id="fclear">Reset filters</button>
+    <span class="fcount" id="fcount">Showing <b>{total}</b> of {total}</span>
+  </div>
+</div>"""
+
+    sections = ""
+    for t in TOPIC_ORDER:
+        # float items with an upcoming hearing to the top (soonest first),
+        # otherwise preserve the existing newest-first order
+        items = sorted(by_topic[t], key=lambda r: (
+            0 if r.get("_action_days") is not None else 1,
+            r.get("_action_days") if r.get("_action_days") is not None else 0))
+        body = "".join(item_html(r) for r in items) if items else \
+            '<p class="empty">No matching items in this window. An empty list is a clean signal, not a gap.</p>'
+        sections += f"""<section class="topic" id="{t.lower()}">
+  <header class="thead th-{t.lower()}">
+    <h2>{t}</h2><span class="tcount" data-sec="{t}">{len(items)}</span>
+    <span class="tblurb">{TOPIC_BLURB[t]}</span>
+  </header>
+  <div class="items">{body}</div>
+</section>"""
+
+    cov_live = "".join(
+        f'<li class="cov ok"><b>{esc(n)}</b><span>{esc(c)} · live</span></li>'
+        for _, n, c in LEGISTAR_CITIES) + "".join(
+        f'<li class="cov ok"><b>{esc(n)}</b><span>{esc(c)} · live (agendas)</span></li>'
+        for _, n, c, _v in GRANICUS_CITIES) + "".join(
+        f'<li class="cov ok"><b>{esc(n)}</b><span>{esc(c)} · live (agendas)</span></li>'
+        for _, n, c in DESTINY_CITIES)
+    cov_next = "".join(
+        f'<li class="cov next"><b>{esc(n)}</b><span>{esc(p)}</span></li>'
+        for n, p, _ in ROADMAP)
+
+    map_block = ""
+    if map_payload:
+        map_block = (
+            '<section class="mapsec" id="map">'
+            f'<h3><span class="ahdr">Map</span><span class="asub">{map_placed} geocoded items · '
+            'Phoenix council districts shaded by tracked activity · tap a district or pin</span>'
+            '<a class="mapfull" href="map.html" target="_blank" rel="noopener">Full screen ↗</a></h3>'
+            '<div class="mapcanvas" id="mapcanvas"><div class="mapmsg" id="mapmsg">Map loads when you scroll here…</div></div>'
+            '</section>') + _EMBED_MAP_JS.replace("/*MAPDATA*/", map_payload)
+
+    return f"""<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Regional Policy &amp; Ordinance Tracker — Valley Urban Action Alliance / Urban Phoenix Project</title>
+<style>
+:root{{--yellow:#F6DC31;--ink:#0b0b0a;--paper:#FFFFF0;--mute:#78776c;--hair:#e7e5d4;--hair2:#f1f0e4;
+  --green:#1c6b2e;--indigo:#3a3a8a;--red:#b3361f;--amber:#a9760a;}}
+*{{box-sizing:border-box;}}
+html{{scroll-behavior:smooth;}}
+body{{margin:0;background:var(--paper);color:var(--ink);
+  font-family:Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;line-height:1.5;}}
+a{{color:inherit;}}
+.wrap{{max-width:1000px;margin:0 auto;padding:0 22px 90px;}}
+
+/* Masthead — dark brand anchor, airier */
+.mast{{background:var(--ink);color:#fff;}}
+.mast .wrap{{padding:22px 22px 24px;}}
+.brand{{display:flex;align-items:center;gap:9px;font-weight:700;letter-spacing:.16em;
+  font-size:11px;text-transform:uppercase;color:#e7e7dd;}}
+.brand .dot{{width:11px;height:11px;background:var(--yellow);display:inline-block;border-radius:2px;}}
+.mast h1{{font-size:clamp(26px,4.4vw,40px);line-height:1.05;margin:14px 0 8px;font-weight:800;letter-spacing:-.022em;}}
+.mast h1 .hl{{color:var(--yellow);}}
+.tag{{font-size:14.5px;color:#c8c8bd;max-width:66ch;line-height:1.5;}}
+.runinfo{{margin-top:16px;font-size:12px;color:#a9a99d;display:flex;flex-wrap:wrap;gap:22px;}}
+.runinfo b{{color:#fff;font-weight:700;}}
+.topnav{{margin-top:16px;display:flex;gap:22px;flex-wrap:wrap;}}
+.topnav a{{font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;
+  color:var(--yellow);text-decoration:none;padding-bottom:3px;border-bottom:2px solid transparent;}}
+.topnav a:hover{{border-bottom-color:var(--yellow);}}
+.navlabel{{font-size:10.5px;font-weight:700;letter-spacing:.11em;text-transform:uppercase;color:#a0a094;align-self:center;margin-right:2px;}}
+/* header logo lockups (wordmarks from brand system — swap for real logo files if available) */
+.brandbar{{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:4px;}}
+.logo{{display:flex;align-items:center;gap:10px;}}
+.logomark{{width:30px;height:30px;flex:none;border-radius:5px;}}
+.lm-upp{{background:var(--yellow);}}
+.lm-vuaa{{background:var(--ink);border:3px solid var(--yellow);}}
+.logotext{{font-weight:800;font-size:13px;line-height:1.15;letter-spacing:.02em;text-transform:uppercase;color:#fff;}}
+.branddiv{{width:1px;height:28px;background:#39392f;flex:none;}}
+
+/* Summary tiles */
+.summary{{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin:26px 0 10px;
+  border:1px solid var(--hair);border-radius:12px;overflow:hidden;background:#fff;}}
+.sum{{padding:18px;text-decoration:none;border-right:1px solid var(--hair);
+  display:flex;flex-direction:column;gap:4px;transition:background .12s;}}
+.sum:last-child{{border-right:0;}}
+.sum:hover{{background:var(--hair2);}}
+.sum .n{{font-size:34px;font-weight:800;line-height:1;letter-spacing:-.03em;}}
+.sum .l{{font-size:11px;text-transform:uppercase;letter-spacing:.09em;font-weight:700;color:var(--mute);}}
+.sum-housing .n{{color:var(--green);}} .sum-transit .n{{color:var(--indigo);}}
+.sum-walkability .n{{color:var(--red);}} .sum-heat .n{{color:var(--amber);}}
+@media(max-width:620px){{.summary{{grid-template-columns:repeat(2,1fr);}}
+  .sum:nth-child(2){{border-right:0;}}.sum:nth-child(1),.sum:nth-child(2){{border-bottom:1px solid var(--hair);}}}}
+
+/* Panels: whitespace + thin rule + accent header */
+.actnow,.moved,.precedent,.numbers,.mapsec{{margin:32px 0 0;padding-top:20px;border-top:1px solid var(--hair);}}
+.actnow>h3,.moved>h3,.precedent>h3,.mapsec>h3{{margin:0 0 14px;display:flex;align-items:baseline;gap:11px;flex-wrap:wrap;}}
+.ahdr{{font-size:19px;font-weight:800;letter-spacing:-.012em;color:var(--ink);
+  border-left:4px solid var(--yellow);padding-left:10px;}}
+.asub{{font-size:12.5px;color:var(--mute);font-weight:400;}}
+.pdesc{{margin:-4px 0 15px;font-size:13px;line-height:1.55;color:var(--mute);max-width:82ch;}}
+
+/* Act now */
+.actlist{{display:flex;flex-direction:column;}}
+.actrow{{display:flex;gap:22px;align-items:baseline;padding:11px 0;text-decoration:none;
+  border-bottom:1px solid var(--hair);color:var(--ink);}}
+.actrow:last-child{{border-bottom:0;}}
+.actrow:hover .acttitle{{text-decoration:underline;}}
+.actwhen{{flex:0 0 128px;font-size:12px;font-weight:700;display:flex;flex-direction:column;gap:1px;color:var(--mute);}}
+.actwhen i{{font-style:normal;font-weight:800;font-size:11px;color:var(--amber);}}
+.actrow.act-soon .actwhen i{{color:var(--red);}}
+.actcity{{flex:0 0 auto;font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;
+  color:var(--mute);align-self:center;}}
+.acttitle{{flex:1;min-width:160px;font-size:14px;font-weight:600;line-height:1.35;}}
+.moremsg{{padding:9px 0 0;color:var(--mute);font-size:12px;font-style:italic;list-style:none;}}
+
+/* What moved */
+.mgrid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:40px;}}
+.mgroup h4{{margin:0 0 10px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;
+  display:flex;align-items:center;gap:8px;font-weight:800;}}
+.mgroup h4 b{{font-size:10.5px;color:#fff;padding:0 6px;border-radius:999px;}}
+.mg-pass{{color:var(--green);}} .mg-pass b{{background:var(--green);}}
+.mg-fail{{color:var(--red);}} .mg-fail b{{background:var(--red);}}
+.mg-adv{{color:var(--amber);}} .mg-adv b{{background:var(--amber);}}
+.mg-new{{color:var(--ink);}} .mg-new b{{background:var(--ink);}}
+.mg-sched{{color:var(--indigo);}} .mg-sched b{{background:var(--indigo);}}
+.mgroup ul{{list-style:none;margin:0;padding:0;}}
+.mgroup li{{margin:0 0 9px;font-size:12.5px;line-height:1.4;}}
+.mgroup li a{{text-decoration:none;color:var(--ink);display:block;}}
+.mgroup li a:hover .mtitle{{text-decoration:underline;}}
+.mcity{{font-weight:700;font-size:10px;text-transform:uppercase;letter-spacing:.04em;color:var(--mute);margin-right:6px;}}
+.mfile{{font-family:ui-monospace,Menlo,monospace;font-size:11px;color:#a2a296;margin-right:5px;}}
+.mtitle{{font-weight:600;}}
+.mdelta{{color:var(--mute);font-size:11.5px;}}
+.mdate{{color:#a8a89c;font-size:11px;margin-left:5px;}}
+.movedempty{{color:var(--mute);font-size:13px;font-style:italic;}}
+
+/* Coverage */
+.coverage{{margin:30px 0 0;border-top:1px solid var(--hair);padding-top:16px;}}
+.coverage>summary{{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:11px;
+  font-size:12px;text-transform:uppercase;letter-spacing:.1em;font-weight:800;user-select:none;}}
+.coverage>summary::-webkit-details-marker{{display:none;}}
+.coverage>summary::before{{content:"\\25B8";font-size:10px;transition:transform .15s;text-transform:none;color:var(--mute);}}
+.coverage[open]>summary::before{{transform:rotate(90deg);}}
+.coverage>summary:hover{{color:#000;}}
+.covsum{{font-weight:400;text-transform:none;letter-spacing:0;color:var(--mute);font-size:12px;}}
+.coverage:not([open])>*:not(summary){{display:none;}}
+.covgrid{{grid-template-columns:repeat(auto-fill,minmax(185px,1fr));gap:16px;margin-top:14px;list-style:none;padding:0;}}
+.coverage[open] .covgrid{{display:grid;}}
+.cov{{border:1px solid var(--hair);border-radius:8px;padding:9px 11px;display:flex;flex-direction:column;gap:2px;background:#fff;}}
+.cov b{{font-size:13.5px;}}.cov span{{font-size:11px;color:var(--mute);}}
+.cov.ok{{border-left:4px solid var(--green);}}
+.cov.next{{border-style:dashed;opacity:.72;}}
+.covnote{{font-size:11.5px;color:var(--mute);margin-top:12px;max-width:78ch;line-height:1.55;}}
+
+/* Filter bar */
+.filters{{border:1px solid var(--hair);border-radius:12px;margin:24px 0 26px;padding:14px 16px;background:#fff;}}
+.filters.active{{border-color:#d8c74a;box-shadow:inset 4px 0 0 var(--yellow);}}
+.frow{{display:flex;align-items:baseline;gap:11px;flex-wrap:wrap;margin:8px 0;}}
+.flab{{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.1em;min-width:42px;color:var(--mute);}}
+.fchips{{display:flex;gap:6px;flex-wrap:wrap;flex:1;}}
+.chipf{{font-family:inherit;font-size:11.5px;font-weight:600;cursor:pointer;
+  background:#fff;color:var(--ink);border:1px solid var(--hair);border-radius:999px;
+  padding:5px 11px;display:inline-flex;align-items:center;gap:6px;line-height:1.1;transition:border-color .1s,background .1s;}}
+.chipf:hover{{border-color:var(--ink);}}
+.chipf.on{{background:var(--yellow);border-color:var(--yellow);font-weight:700;}}
+.chipf.zero{{opacity:.34;}}
+.chipf.zero:hover{{opacity:.55;}}
+.chipf i{{font-style:normal;font-size:10px;font-weight:700;color:var(--mute);}}
+.chipf.on i{{color:#6a5a00;}}
+.ftools{{border-top:1px solid var(--hair);padding-top:12px;margin-top:10px;justify-content:space-between;}}
+.fclear{{font-family:inherit;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;
+  cursor:pointer;background:var(--ink);color:#fff;border:0;border-radius:999px;padding:7px 15px;}}
+.fclear:hover{{background:#333;}}
+.fcount{{font-size:12px;color:var(--mute);}}
+.fcount b{{color:var(--ink);font-weight:800;}}
+.fsearchrow{{align-items:center;}}
+.fsearch{{flex:1;font-family:inherit;font-size:13.5px;color:var(--ink);background:#fff;
+  border:1px solid var(--hair);border-radius:8px;padding:9px 12px;min-width:150px;}}
+.fsearch:focus{{outline:none;border-color:var(--ink);}}
+.fsearch::placeholder{{color:#a2a296;}}
+.fx{{font-family:inherit;font-size:16px;line-height:1;cursor:pointer;border:1px solid var(--hair);border-radius:8px;
+  background:#fff;width:32px;height:32px;flex:0 0 auto;display:flex;align-items:center;justify-content:center;color:var(--mute);}}
+.fx:hover{{border-color:var(--ink);color:var(--ink);}}
+.fnohit{{display:none;border:1px dashed var(--hair);border-radius:10px;padding:16px;margin:0 0 22px;font-size:14px;color:var(--mute);background:#fff;}}
+.fnohit.show{{display:block;}}
+
+/* Topic sections — clean typographic header */
+.topic{{margin-top:42px;scroll-margin-top:14px;}}
+.thead{{padding:0 0 11px;border-bottom:2px solid var(--ink);display:flex;align-items:baseline;gap:11px;flex-wrap:wrap;}}
+.thead h2{{margin:0;font-size:23px;font-weight:800;letter-spacing:-.018em;}}
+.thead .tcount{{color:var(--mute);font-weight:800;font-size:15px;}}
+.thead .tblurb{{font-size:12px;color:var(--mute);margin-left:auto;max-width:46ch;text-align:right;}}
+.th-housing{{border-color:var(--green);}} .th-transit{{border-color:var(--indigo);}}
+.th-walkability{{border-color:var(--red);}} .th-heat{{border-color:var(--amber);}}
+
+/* Item — editorial */
+.item{{padding:17px 0;border-bottom:1px solid var(--hair);}}
+.item:last-child{{border-bottom:0;}}
+.imeta{{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:6px;font-size:11.5px;}}
+.city{{display:inline-flex;align-items:center;gap:6px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.05em;font-size:11px;color:var(--ink);}}
+.dot{{width:8px;height:8px;border-radius:999px;background:var(--mute);display:inline-block;flex:none;}}
+.dot-housing{{background:var(--green);}} .dot-transit{{background:var(--indigo);}}
+.dot-walkability{{background:var(--red);}} .dot-heat{{background:var(--amber);}}
+.idate{{color:var(--mute);font-weight:500;}}
+.file{{font-family:ui-monospace,Menlo,monospace;font-size:11px;color:#a2a296;}}
+.status{{font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;
+  padding:2px 9px;border-radius:999px;margin-left:auto;}}
+.st-pass{{background:#e6f2e9;color:var(--green);}}
+.st-live{{background:#fbf3c9;color:#6a5a00;}}
+.st-fail{{background:#f6e3e0;color:var(--red);}}
+.st-other{{background:var(--hair2);color:var(--mute);}}
+.ititle{{display:block;font-size:17px;font-weight:700;text-decoration:none;line-height:1.32;
+  margin:0 0 5px;letter-spacing:-.01em;color:var(--ink);}}
+.ititle:hover{{text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:2px;}}
+.idek{{margin:0 0 9px;font-size:13px;line-height:1.5;color:#57574e;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}}
+.ochips{{display:flex;gap:6px;flex-wrap:wrap;align-items:center;}}
+.ot{{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;
+  padding:2px 9px;border-radius:999px;border:1px solid var(--hair);color:var(--mute);background:#fff;}}
+.ot-kind{{color:var(--ink);border-color:#d8d6c6;}}
+.ot-housing{{color:var(--green);border-color:#bfe0c7;}}
+.ot-transit{{color:var(--indigo);border-color:#c7c7e6;}}
+.ot-walkability{{color:var(--red);border-color:#e6c7c0;}}
+.ot-heat{{color:var(--amber);border-color:#e6d7b0;}}
+.inews{{margin-left:auto;font-size:11px;font-weight:600;color:var(--mute);text-decoration:none;white-space:nowrap;}}
+.inews:hover{{color:var(--ink);text-decoration:underline;}}
+.empty{{padding:18px 0;color:var(--mute);font-size:14px;font-style:italic;}}
+
+/* inline flags — quiet text */
+.inew{{color:var(--amber);font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;}}
+.imoved{{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.04em;}}
+.im-adopted{{color:var(--green);}} .im-failed{{color:var(--red);}} .im-advanced{{color:var(--amber);}}
+.iact{{color:var(--red);font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.03em;}}
+
+/* Cross-city reform watch */
+.pgrid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:26px;}}
+.pcard{{border:1px solid var(--hair);border-left:3px solid #b8b8a8;border-radius:10px;padding:15px 17px;background:#fff;}}
+.pc-housing{{border-left-color:var(--green);}} .pc-transit{{border-left-color:var(--indigo);}}
+.pc-walkability{{border-left-color:var(--red);}} .pc-heat{{border-left-color:var(--amber);}}
+.ptop{{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:10px;}}
+.plabel{{font-weight:800;font-size:14.5px;color:var(--ink);line-height:1.2;}}
+.pcount{{font-size:10px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--mute);}}
+.plev{{font-size:9.5px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;
+  background:var(--yellow);color:var(--ink);border-radius:999px;padding:2px 9px;}}
+.prow{{display:flex;gap:10px;align-items:baseline;margin:6px 0;font-size:13px;}}
+.pb{{flex:none;font-size:9.5px;font-weight:800;letter-spacing:.03em;text-transform:uppercase;
+  border-radius:999px;padding:3px 0;color:#fff;text-align:center;width:74px;}}
+.pb-adopt{{background:var(--green);}} .pb-heard{{background:var(--amber);}}
+.pb-pend{{background:#57574e;}} .pb-fail{{background:var(--red);}}
+.pcities{{color:#3a3a34;line-height:1.45;}}
+.pn{{display:inline-block;background:var(--hair2);color:#6a5d00;font-size:10px;font-weight:800;border-radius:4px;padding:0 5px;}}
+.pitems{{margin-top:11px;border-top:1px solid var(--hair);padding-top:9px;}}
+.pitems>summary{{cursor:pointer;list-style:none;font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--mute);}}
+.pitems>summary::-webkit-details-marker{{display:none;}}
+.pitems>summary::after{{content:" ▾";}} .pitems[open]>summary::after{{content:" ▴";}}
+.pitems ul{{margin:10px 0 2px;padding:0;list-style:none;}}
+.pitems li{{font-size:12px;line-height:1.5;margin:7px 0;color:#4a4a42;}}
+.pic{{display:inline-block;font-weight:800;color:var(--ink);margin-right:6px;}}
+.pis{{font-size:9.5px;font-weight:700;text-transform:uppercase;letter-spacing:.03em;color:#a2a296;white-space:nowrap;}}
+.pitems a{{color:var(--ink);}}
+
+/* By the numbers */
+.nhead{{display:flex;align-items:baseline;gap:11px;flex-wrap:wrap;margin-bottom:16px;}}
+.nhead h2{{margin:0;font-size:23px;font-weight:800;letter-spacing:-.018em;}}
+.nblurb{{font-size:12.5px;color:var(--mute);}}
+.ngrid{{display:grid;grid-template-columns:repeat(2,1fr);gap:26px;}}
+.ncard{{border:1px solid var(--hair);border-radius:12px;padding:16px 18px;background:#fff;}}
+.ncard-wide{{grid-column:1 / -1;}}
+.ncard h3{{margin:0 0 11px;font-size:11.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink);}}
+.ncard h3 span{{text-transform:none;letter-spacing:0;color:var(--mute);font-weight:400;}}
+.ncard-stat{{background:var(--ink);color:#fff;border-color:var(--ink);display:flex;flex-direction:column;justify-content:center;}}
+.ncard-stat h3{{color:#c8c8bd;}}
+.bignum{{font-size:44px;font-weight:800;line-height:1;color:var(--yellow);}}
+.biglab{{font-size:13px;margin-top:4px;color:#d7d7cc;}}
+.substat{{margin-top:14px;padding-top:12px;border-top:1px solid #2c2c28;font-size:12.5px;color:#e9e9df;}}
+.substat b{{color:var(--yellow);font-size:15px;}}
+.substat span{{color:#b3b3a6;}}
+.svgchart{{width:100%;height:auto;display:block;}}
+.svglab{{font:600 11px Helvetica,Arial,sans-serif;fill:#57574e;}}
+.svgval{{font:700 11px Helvetica,Arial,sans-serif;fill:#3a3a34;}}
+
+footer{{margin-top:54px;border-top:1px solid var(--hair);padding-top:18px;font-size:12px;color:var(--mute);line-height:1.6;}}
+footer b{{color:var(--ink);}}
+.legal{{margin-top:10px;font-size:11px;line-height:1.6;}}
+.item.hide{{display:none;}}
+.topic.sechide{{display:none;}}
+
+/* embedded map + back-to-top */
+.mapfull{{margin-left:auto;font-size:11.5px;font-weight:700;color:var(--mute);text-decoration:none;}}
+.mapfull:hover{{color:var(--ink);text-decoration:underline;}}
+.mapcanvas{{height:520px;border:1px solid var(--hair);border-radius:12px;overflow:hidden;background:#f2f1e3;position:relative;z-index:0;}}
+.mapmsg{{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:var(--mute);font-size:13px;padding:24px;text-align:center;line-height:1.55;}}
+.leaflet-popup-content{{font-size:13px;line-height:1.4;margin:11px 13px;font-family:Helvetica,Arial,sans-serif;}}
+.pp-t{{font-weight:700;display:block;margin-bottom:3px;}} .pp-m{{color:#555;font-size:11.5px;}}
+.pp-s{{margin:5px 0;font-size:12px;color:#33332e;}} .pp a{{color:#1c5fb3;text-decoration:none;font-weight:600;}}
+.pp-d{{font-weight:800;font-size:15px;}} .pp-rep{{color:#333;}}
+.legend{{background:#fff;padding:9px 11px;font-size:12px;line-height:1.7;box-shadow:0 1px 4px rgba(0,0,0,.3);border-radius:6px;font-family:Helvetica,Arial,sans-serif;}}
+.legend i{{width:11px;height:11px;display:inline-block;margin-right:6px;border-radius:50%;vertical-align:-1px;}}
+.legend .sw{{width:13px;height:11px;display:inline-block;margin-right:6px;vertical-align:-1px;border:1px solid #999;}}
+.legend b{{display:block;margin:2px 0 4px;text-transform:uppercase;letter-spacing:.05em;font-size:10px;}}
+.totop{{position:fixed;right:16px;bottom:16px;width:46px;height:46px;border-radius:999px;background:var(--ink);
+  color:var(--yellow);display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:800;
+  text-decoration:none;box-shadow:0 2px 10px rgba(0,0,0,.28);opacity:0;pointer-events:none;transform:translateY(8px);
+  transition:opacity .18s,transform .18s;z-index:1000;}}
+.totop.show{{opacity:1;pointer-events:auto;transform:none;}}
+.totop:hover{{background:#26261f;}}
+@media(max-width:640px){{.mapcanvas{{height:420px;}}}}
+@media(max-width:640px){{.ngrid{{grid-template-columns:1fr;}}.ititle{{font-size:16px;}}.mast .wrap{{padding:20px 20px 22px;}}}}
+</style></head>
+<body>
+<div class="mast"><div class="wrap">
+  <div class="brandbar">
+    <span class="logo"><span class="logomark lm-upp"></span><span class="logotext">Urban Phoenix Project</span></span>
+    <span class="branddiv"></span>
+    <span class="logo"><span class="logomark lm-vuaa"></span><span class="logotext">Valley Urban Action Alliance</span></span>
+  </div>
+  <h1>Regional Policy &amp; <span class="hl">Ordinance</span> Tracker</h1>
+  <p class="tag">Municipal legislation moving through metro Phoenix, flagged where it
+     touches our priorities: housing, heat, transit, and walkability. Sister tool to the
+     meetings tracker — this one follows items <em>through</em> the pipeline.</p>
+  <div class="runinfo">
+    <span>Updated <b>{now.strftime('%b %-d, %Y · %-I:%M %p')} MST</b></span>
+    <span>Window: <b>last {WINDOW_DAYS} days</b> of activity</span>
+    <span>Cities live: <b>{len(LEGISTAR_CITIES) + len(GRANICUS_CITIES) + len(DESTINY_CITIES)}</b></span>
+    <span>Items flagged: <b>{len(rows)}</b></span>
+  </div>
+  <nav class="topnav"><span class="navlabel">Jump to</span><a href="#actnow">Act now</a><a href="#moved">What moved</a><a href="#precedent">Reform watch</a><a href="#housing">Housing</a><a href="#numbers">By the numbers</a><a href="#map">Map</a></nav>
+</div></div>
+
+<div class="wrap">
+  <nav class="summary">{summary}</nav>
+
+  {render_actnow(action_items or [])}
+  {render_moved(events_log or [], first_run, now.date())}
+
+  {render_precedent(build_precedent(rows))}
+
+  <details class="coverage">
+    <summary>Coverage<span class="covsum">{len(LEGISTAR_CITIES)+len(GRANICUS_CITIES)+len(DESTINY_CITIES)} cities live · {len(ROADMAP)} pending — tap to expand</span></summary>
+    <ul class="covgrid">{cov_live}{cov_next}</ul>
+    <p class="covnote">Live cities are pulled automatically. Most expose machine-readable
+       legislative data (Legistar) with full status; Tempe (Granicus) and Glendale
+       (DestinyHosted) publish agendas instead, so their items are parsed from those
+       agendas (status shown as upcoming vs. heard). Phase-2 cities run other platforms
+       and need a one-time adapter each — drop one in and it joins the same feed.</p>
+  </details>
+
+  {filterbar}
+
+  <p class="fnohit" id="fnohit">No items match these filters — remove one, or hit Reset filters above.</p>
+
+  {sections}
+
+  {render_trends(rows, archive_n)}
+
+  {map_block}
+
+  <footer>
+    <b>How to read this.</b> Each item links to the official municipal record. Status badges
+    reflect where it sits: <span class="status st-live">live / pending</span>
+    <span class="status st-pass">adopted</span>
+    <span class="status st-fail">failed / withdrawn</span>. Topic tags are keyword-matched
+    from item titles, so treat them as a first-pass net — skim, don't assume completeness.
+    <div class="legal">Educational resource compiled from public government records —
+    the Legistar API and published municipal agendas (Granicus, DestinyHosted). Maintained
+    jointly for Urban Phoenix Project (educational) and Valley Urban Action Alliance.
+    Generated {now.strftime('%Y-%m-%d %H:%M %Z')}.</div>
+  </footer>
+</div>
+<script>
+(function(){{
+  var TOTAL = {len(rows)};
+  var TOPICS = ["housing","heat","transit","walkability"];
+  var selCity = new Set(), selKind = new Set(), selTopic = new Set();
+  var term = "";
+  function cap(s){{ return s.charAt(0).toUpperCase()+s.slice(1); }}
+
+  // Deduped record list (one per distinct item), used for faceted chip counts.
+  var ITEMS = [];
+  (function(){{
+    var seen = {{}};
+    document.querySelectorAll('.item').forEach(function(it){{
+      var u = it.getAttribute('data-uid');
+      if(seen[u]) return; seen[u] = 1;
+      ITEMS.push({{
+        city: it.getAttribute('data-city'),
+        kind: it.getAttribute('data-kind'),
+        topics: (it.getAttribute('data-topics') || '').split(' ').filter(Boolean),
+        search: it.getAttribute('data-search') || ''
+      }});
+    }});
+  }})();
+
+  function kwOk(r){{
+    if(!term) return true;
+    return term.split(/\\s+/).every(function(w){{ return !w || r.search.indexOf(w) !== -1; }});
+  }}
+  function cityOk(r){{ return selCity.size===0 || selCity.has(r.city); }}
+  function kindOk(r){{ return selKind.size===0 || selKind.has(r.kind); }}
+  function topicOk(r){{ return selTopic.size===0 || r.topics.some(function(t){{ return selTopic.has(t); }}); }}
+
+  // Counts = how many items in the CURRENT filtered result fall in each bucket.
+  // Every active filter (including the chip's own category) is applied, so the
+  // numbers in every row react to every selection. Selecting Phoenix drops the
+  // other City chips to 0, and the Type/Topic rows show Phoenix's breakdown.
+  function inResult(r){{ return cityOk(r) && kindOk(r) && topicOk(r) && kwOk(r); }}
+  function countCity(c){{ var n=0; ITEMS.forEach(function(r){{ if(r.city===c && inResult(r)) n++; }}); return n; }}
+  function countKind(k){{ var n=0; ITEMS.forEach(function(r){{ if(r.kind===k && inResult(r)) n++; }}); return n; }}
+  function countTopic(t){{ var n=0; ITEMS.forEach(function(r){{ if(r.topics.indexOf(t)!==-1 && inResult(r)) n++; }}); return n; }}
+  function setCounts(attr, fn){{
+    document.querySelectorAll('['+attr+']').forEach(function(b){{
+      var v = b.getAttribute(attr), n = fn(v), i = b.querySelector('i');
+      if(i) i.textContent = n;
+      b.classList.toggle('zero', n===0 && !b.classList.contains('on'));
+    }});
+  }}
+
+  function matchKW(it){{
+    if(!term) return true;
+    var hay = it.getAttribute('data-search') || "";
+    return term.split(/\\s+/).every(function(w){{ return !w || hay.indexOf(w) !== -1; }});
+  }}
+  function matchesCT(it){{   // city + type + keyword (topic handled per section)
+    var c = it.getAttribute('data-city'), k = it.getAttribute('data-kind');
+    return (selCity.size===0 || selCity.has(c))
+        && (selKind.size===0 || selKind.has(k))
+        && matchKW(it);
+  }}
+  function apply(){{
+    var seen = {{}};
+    TOPICS.forEach(function(t){{
+      var sec = document.getElementById(t);
+      if(!sec) return;
+      var topicOn = (selTopic.size===0 || selTopic.has(t));
+      var n = 0;
+      sec.querySelectorAll('.item').forEach(function(it){{
+        var ok = topicOn && matchesCT(it);
+        it.classList.toggle('hide', !ok);
+        if(ok){{ n++; seen[it.getAttribute('data-uid')] = 1; }}
+      }});
+      var badge = sec.querySelector('[data-sec]'); if(badge) badge.textContent = n;
+      var tile = document.querySelector('[data-tile="'+cap(t)+'"]'); if(tile) tile.textContent = n;
+      sec.classList.toggle('sechide', n===0);
+    }});
+    var vis = Object.keys(seen).length;
+    document.getElementById('fcount').innerHTML = 'Showing <b>'+vis+'</b> of '+TOTAL;
+    var anyOn = selCity.size>0 || selKind.size>0 || selTopic.size>0 || term.length>0;
+    document.getElementById('filters').classList.toggle('active', anyOn);
+    var nh = document.getElementById('fnohit'); if(nh) nh.classList.toggle('show', vis===0);
+    setCounts('data-fcity', countCity);
+    setCounts('data-fkind', countKind);
+    setCounts('data-ftopic', countTopic);
+  }}
+  function bind(attr, set){{
+    document.querySelectorAll('['+attr+']').forEach(function(b){{
+      b.addEventListener('click', function(){{
+        var v = b.getAttribute(attr);
+        if(set.has(v)){{ set.delete(v); b.classList.remove('on'); }}
+        else {{ set.add(v); b.classList.add('on'); }}
+        apply();
+      }});
+    }});
+  }}
+  bind('data-fcity', selCity);
+  bind('data-fkind', selKind);
+  bind('data-ftopic', selTopic);
+  var box = document.getElementById('fsearch');
+  box.addEventListener('input', function(){{ term = box.value.trim().toLowerCase(); apply(); }});
+  document.getElementById('fsearchx').addEventListener('click', function(){{
+    box.value = ""; term = ""; box.focus(); apply();
+  }});
+  document.getElementById('fclear').addEventListener('click', function(){{
+    selCity.clear(); selKind.clear(); selTopic.clear(); term = ""; box.value = "";
+    document.querySelectorAll('.chipf.on').forEach(function(b){{ b.classList.remove('on'); }});
+    apply();
+  }});
+}})();
+</script>
+{_TOTOP_HTML}
+</body></html>"""
+
+def render_digest(rows, cutoff):
+    now = dt.datetime.now(PHX)
+    lines = [f"VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER",
+             f"Generated {now.strftime('%Y-%m-%d %H:%M %Z')} | window {WINDOW_DAYS}d | {len(rows)} items\n"]
+    by_topic = {t: [] for t in TOPIC_ORDER}
+    for r in rows:
+        for t in r["topics"]:
+            by_topic[t].append(r)
+    for t in TOPIC_ORDER:
+        lines.append(f"\n=== {t.upper()} ({len(by_topic[t])}) ===")
+        for r in by_topic[t][:40]:
+            st = f" [{r['status']}]" if r["status"] else ""
+            lines.append(f"  {r['city']} {r['file']}{st}: {r['title'][:90]}")
+            lines.append(f"     {r['url']}")
+    return "\n".join(lines)
+
+# ----------------------------------------------------------------------------
+# MAIN
+# ----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
+# MAP  (Leaflet via CDN; Phoenix council-district choropleth + geocoded pins)
+# ----------------------------------------------------------------------------
+GEOCACHE = Path(__file__).parent / "geocache.json"
+DISTCACHE = Path(__file__).parent / "districts.geojson"
+PHX_DISTRICTS_URL = ("https://maps.phoenix.gov/pub/rest/services/Public/Council_Districts/"
+                     "MapServer/0/query?where=1%3D1&outFields=DISTRICT,REP_NAME,REP_URL&"
+                     "returnGeometry=true&f=geojson&outSR=4326")
+_ST = r'(?:Avenue|Ave|Street|St|Drive|Dr|Road|Rd|Boulevard|Blvd|Lane|Ln|Way|Place|Pl|Parkway|Pkwy|Circle|Trail|Tr)'
+_NM = r'(?:[A-Z][a-zA-Z]+|\d{1,3}(?:st|nd|rd|th))'
+_INTER_RX = re.compile(r'(' + _NM + r'(?:\s+' + _NM + r'){0,2}\s+' + _ST + r')\s*(?:and|&|/| at )\s*('
+                       + _NM + r'(?:\s+' + _NM + r'){0,2}\s+' + _ST + r')', re.I)
+_LEAD_JUNK = re.compile(r'^(?:the\s+)?(?:south|north)?(?:east|west)?\s*(?:corner|intersection)\s+of\s+', re.I)
+
+def extract_intersection(title):
+    m = _INTER_RX.search(title or "")
+    if not m:
+        return None
+    a = _LEAD_JUNK.sub("", m.group(1)).strip()
+    b = m.group(2).strip()
+    return f"{a} and {b}"
+
+def _load_json(p, default):
+    try:
+        return json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return default
+
+def geocode(address, city, cache, ctx):
+    """Census geocoder (keyless), cached. Returns [lng,lat] or None."""
+    key = f"{address}, {city}, AZ"
+    if key in cache:
+        return cache[key]
+    q = urllib.parse.urlencode({"address": key, "benchmark": "Public_AR_Current", "format": "json"})
+    url = "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?" + q
+    val = None
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "UPP-policy-tracker/1.0"})
+        d = json.loads(urllib.request.urlopen(req, timeout=20, context=ctx).read().decode("utf-8", "ignore"))
+        ms = d["result"]["addressMatches"]
+        if ms:
+            c = ms[0]["coordinates"]
+            val = [round(c["x"], 6), round(c["y"], 6)]
+    except Exception:
+        val = None
+    cache[key] = val
+    return val
+
+def _round_coords(x):
+    if isinstance(x, (list, tuple)):
+        return [_round_coords(i) for i in x]
+    if isinstance(x, float):
+        return round(x, 4)
+    return x
+
+def build_map_payload(rows):
+    """Build the JSON payload shared by the embedded dashboard map and the
+    standalone map page: slimmed district polygons + per-district counts + pins."""
+    ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
+    districts = None
+    try:
+        req = urllib.request.Request(PHX_DISTRICTS_URL, headers={"User-Agent": "UPP-policy-tracker/1.0"})
+        districts = json.loads(urllib.request.urlopen(req, timeout=30, context=ctx).read().decode("utf-8", "ignore"))
+        if districts.get("features"):
+            DISTCACHE.write_text(json.dumps(districts), encoding="utf-8")
+    except Exception:
+        districts = _load_json(DISTCACHE, None)
+    if not districts or not districts.get("features"):
+        districts = {"type": "FeatureCollection", "features": []}
+    # slim: keep only the properties the popup uses; round coords to ~11 m
+    feats = []
+    for f in districts.get("features", []):
+        p = f.get("properties", {}) or {}
+        g = f.get("geometry", {}) or {}
+        feats.append({"type": "Feature",
+                      "properties": {k: p.get(k) for k in ("DISTRICT", "REP_NAME", "REP_URL")},
+                      "geometry": {"type": g.get("type"),
+                                   "coordinates": _round_coords(g.get("coordinates", []))}})
+    districts = {"type": "FeatureCollection", "features": feats}
+
+    dd = {}
+    for r in rows:
+        if r["city"] != "Phoenix":
+            continue
+        m = re.search(r'District\s+(\d+)', r.get("title", "") or "")
+        if not m:
+            continue
+        d = m.group(1)
+        e = dd.setdefault(d, {"count": 0, "Housing": 0, "Heat": 0, "Transit": 0, "Walkability": 0})
+        e["count"] += 1
+        for t in r["topics"]:
+            e[t] = e.get(t, 0) + 1
+
+    cache = _load_json(GEOCACHE, {})
+    pins, placed = [], 0
+    _TOPIC_HEX = {"Housing": "#1c6b2e", "Transit": "#3a3a8a", "Walkability": "#b3361f",
+                  "Heat": "#c98a00"}
+    for r in rows:
+        inter = extract_intersection(r.get("title", "") or "")
+        if not inter:
+            continue
+        try:
+            ll = geocode(inter, r["city"], cache, ctx)
+        except Exception:
+            ll = None
+        if not ll:
+            continue
+        placed += 1
+        topic = r["topics"][0] if r["topics"] else "Housing"
+        pins.append({"lat": round(ll[1], 5), "lng": round(ll[0], 5),
+                     "color": _TOPIC_HEX.get(topic, "#040404"),
+                     "title": r["title"][:140], "city": r["city"], "status": r.get("status", ""),
+                     "topics": ", ".join(r["topics"]), "url": r["url"],
+                     "summary": summarize(r)[:240], "news": news_url(r)})
+    try:
+        GEOCACHE.write_text(json.dumps(cache, indent=0), encoding="utf-8")
+    except Exception:
+        pass
+    payload = json.dumps({"districts": districts, "dd": dd, "pins": pins},
+                         separators=(",", ":"))
+    return payload, placed, len(pins)
+
+def write_map(rows, out_path, prebuilt=None):
+    payload, placed, npins = prebuilt if prebuilt else build_map_payload(rows)
+    html = _MAP_TEMPLATE.replace("/*DATA*/", payload).replace(
+        "{PLACED}", str(placed)).replace("{NPINS}", str(npins)).replace(
+        "{GEN}", dt.datetime.now(PHX).strftime("%Y-%m-%d %H:%M %Z"))
+    out_path.write_text(html, encoding="utf-8")
+    print(f"   map: {len(json.loads(payload)['districts']['features'])} districts, {placed} pins placed")
+
+_TOTOP_HTML = """<a class="totop" id="totop" href="#" aria-label="Back to top">&#8593;</a>
+<script>
+(function(){var t=document.getElementById('totop');if(!t)return;
+ function u(){t.classList.toggle('show',window.scrollY>500);}
+ window.addEventListener('scroll',u,{passive:true});u();
+ t.addEventListener('click',function(e){e.preventDefault();window.scrollTo({top:0,behavior:'smooth'});});})();
+</script>"""
+
+_EMBED_MAP_JS = r"""
+<script>
+var MAPD = /*MAPDATA*/;
+(function(){
+ var inited=false, built=false;
+ var canvas=document.getElementById('mapcanvas'), msg=document.getElementById('mapmsg');
+ if(!canvas) return;
+ function fail(){ if(built||!msg) return;
+   msg.innerHTML='The interactive map needs an internet connection to load its map library and tiles. '+
+     'It loads automatically on the live site \u2014 if you\u2019re viewing this file offline or in a restricted viewer, try the deployed page.'; }
+ function build(){
+   if(built||!window.L) return; built=true; if(msg) msg.remove();
+   var map=L.map('mapcanvas',{scrollWheelZoom:false}).setView([33.52,-112.07],10);
+   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'\u00a9 OpenStreetMap'}).addTo(map);
+   function shade(c){ return c>=12?'#b8860b': c>=8?'#d9b310': c>=4?'#f0d43a': c>=1?'#fded97':'#f6f5e8'; }
+   var dlayer=L.geoJSON(MAPD.districts,{
+     style:function(f){var e=MAPD.dd[f.properties.DISTRICT];var c=e?e.count:0;
+       return {color:'#040404',weight:1.2,fillColor:shade(c),fillOpacity:.55};},
+     onEachFeature:function(f,layer){var p=f.properties,n=p.DISTRICT,
+       e=MAPD.dd[n]||{count:0,Housing:0,Heat:0,Transit:0,Walkability:0};
+       var rep=p.REP_NAME?('<div class="pp-rep">'+p.REP_NAME+(p.REP_URL?' \u00b7 <a href="'+p.REP_URL+'" target="_blank" rel="noopener">contact \u2197</a>':'')+'</div>'):'';
+       layer.bindPopup('<div class="pp"><span class="pp-d">District '+n+'</span>'+rep+
+         '<div class="pp-s"><b>'+e.count+'</b> tracked items<br>Housing '+e.Housing+' \u00b7 Transit '+e.Transit+' \u00b7 Walkability '+e.Walkability+' \u00b7 Heat '+e.Heat+'</div></div>');
+       layer.on('mouseover',function(){layer.setStyle({weight:3});});
+       layer.on('mouseout',function(){dlayer.resetStyle(layer);});}
+   }).addTo(map);
+   if(MAPD.districts.features.length){ try{ map.fitBounds(dlayer.getBounds(),{padding:[8,8]}); }catch(e){} }
+   MAPD.pins.forEach(function(p){
+     L.circleMarker([p.lat,p.lng],{radius:6,color:'#fff',weight:1.5,fillColor:p.color,fillOpacity:.95}).addTo(map)
+      .bindPopup('<div class="pp"><span class="pp-t">'+p.title.replace(/</g,'&lt;')+'</span>'+
+        '<span class="pp-m">'+p.city+(p.topics?' \u00b7 '+p.topics:'')+(p.status?' \u00b7 '+p.status.replace(/</g,'&lt;'):'')+'</span>'+
+        '<div class="pp-s">'+p.summary.replace(/</g,'&lt;')+'</div>'+
+        '<a href="'+p.url+'" target="_blank" rel="noopener">Official record \u2197</a> &nbsp; <a href="'+p.news+'" target="_blank" rel="noopener">News \u2197</a></div>');});
+   var lg=L.control({position:'bottomright'});
+   lg.onAdd=function(){var d=L.DomUtil.create('div','legend');
+     d.innerHTML='<b>Items / district</b>'+
+      '<span class="sw" style="background:#fded97"></span>1\u20133<br>'+
+      '<span class="sw" style="background:#f0d43a"></span>4\u20137<br>'+
+      '<span class="sw" style="background:#d9b310"></span>8\u201311<br>'+
+      '<span class="sw" style="background:#b8860b"></span>12+<br>'+
+      '<b style="margin-top:7px">Geocoded items</b>'+
+      '<span style="background:#1c6b2e" class="i"></span>Housing<br>'+
+      '<span style="background:#3a3a8a" class="i"></span>Transit<br>'+
+      '<span style="background:#b3361f" class="i"></span>Walkability<br>'+
+      '<span style="background:#c98a00" class="i"></span>Heat'; return d;};
+   lg.addTo(map);
+ }
+ function init(){ if(inited) return; inited=true;
+   var css=document.createElement('link'); css.rel='stylesheet';
+   css.href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css'; document.head.appendChild(css);
+   var sc=document.createElement('script');
+   sc.src='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js';
+   sc.onload=build; sc.onerror=fail; document.head.appendChild(sc);
+   setTimeout(function(){ if(!built) fail(); },9000);
+ }
+ if('IntersectionObserver' in window){
+   var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){init();io.disconnect();}});},{rootMargin:'300px'});
+   io.observe(canvas);
+ } else { init(); }
+ document.querySelectorAll('a[href="#map"]').forEach(function(a){a.addEventListener('click',init);});
+})();
+</script>"""
+
+_MAP_TEMPLATE = r"""<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Policy Tracker — Map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+ :root{--yellow:#F6DC31;--ink:#040404;--paper:#FFFFF0;}
+ *{box-sizing:border-box;} html,body{margin:0;height:100%;font-family:Helvetica,Arial,sans-serif;background:var(--paper);}
+ .mbar{background:var(--ink);color:var(--paper);padding:11px 16px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+ .mbar .sq{width:14px;height:14px;background:var(--yellow);display:inline-block;}
+ .mbar b{font-size:15px;letter-spacing:.02em;} .mbar b span{background:var(--yellow);color:var(--ink);padding:0 6px;}
+ .mbar .sub{font-size:12px;color:#c9c9bf;}
+ .mbar a{margin-left:auto;color:var(--ink);background:var(--yellow);text-decoration:none;font-weight:700;
+   font-size:12px;padding:6px 12px;}
+ #map{height:calc(100% - 50px);width:100%;}
+ .leaflet-popup-content{font-size:13px;line-height:1.4;margin:11px 13px;}
+ .pp-t{font-weight:700;display:block;margin-bottom:3px;} .pp-m{color:#555;font-size:11.5px;}
+ .pp-s{margin:5px 0;font-size:12px;color:#33332e;} .pp a{color:#1c5fb3;text-decoration:none;font-weight:600;}
+ .pp-d{font-weight:800;font-size:15px;} .pp-rep{color:#333;}
+ .legend{background:#fff;padding:9px 11px;font-size:12px;line-height:1.7;box-shadow:0 1px 4px rgba(0,0,0,.3);}
+ .legend i{width:11px;height:11px;display:inline-block;margin-right:6px;border-radius:50%;vertical-align:-1px;}
+ .legend .sw{width:13px;height:11px;display:inline-block;margin-right:6px;vertical-align:-1px;border:1px solid #999;}
+ .legend b{display:block;margin:2px 0 4px;text-transform:uppercase;letter-spacing:.05em;font-size:10px;}
+</style></head><body>
+<div class="mbar"><span class="sq"></span><b>Regional Policy <span>Map</span></b>
+ <span class="sub">Phoenix council districts shaded by tracked activity · {NPINS} geocoded items</span>
+ <a href="index.html">← Dashboard</a></div>
+<div id="map"></div>
+<script>
+var D = /*DATA*/;
+var map = L.map('map').setView([33.52, -112.07], 10);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+  {maxZoom:19, attribution:'© OpenStreetMap'}).addTo(map);
+
+function shade(c){ return c>=12?'#b8860b': c>=8?'#d9b310': c>=4?'#f0d43a': c>=1?'#fded97':'#f6f5e8'; }
+var counts = Object.keys(D.dd).map(function(k){return D.dd[k].count;});
+var maxc = counts.length?Math.max.apply(null,counts):0;
+
+var dlayer = L.geoJSON(D.districts, {
+  style: function(f){ var n=f.properties.DISTRICT; var e=D.dd[n]; var c=e?e.count:0;
+    return {color:'#040404', weight:1.4, fillColor:shade(c), fillOpacity:.62}; },
+  onEachFeature: function(f, layer){
+    var p=f.properties, n=p.DISTRICT, e=D.dd[n]||{count:0,Housing:0,Heat:0,Transit:0,Walkability:0};
+    var rep=p.REP_NAME?('<div class="pp-rep">'+p.REP_NAME+(p.REP_URL?' · <a href="'+p.REP_URL+'" target="_blank">contact ↗</a>':'')+'</div>'):'';
+    layer.bindPopup('<div class="pp"><span class="pp-d">District '+n+'</span>'+rep+
+      '<div class="pp-s"><b>'+e.count+'</b> tracked items<br>'+
+      'Housing '+e.Housing+' · Transit '+e.Transit+' · Walkability '+e.Walkability+' · Heat '+e.Heat+'</div></div>');
+    layer.on('mouseover',function(){layer.setStyle({weight:3});});
+    layer.on('mouseout',function(){dlayer.resetStyle(layer);});
+  }
+}).addTo(map);
+if(D.districts.features.length){ try{ map.fitBounds(dlayer.getBounds(),{padding:[10,10]}); }catch(e){} }
+
+D.pins.forEach(function(p){
+  L.circleMarker([p.lat,p.lng],{radius:6,color:'#fff',weight:1.5,fillColor:p.color,fillOpacity:.95})
+   .addTo(map)
+   .bindPopup('<div class="pp"><span class="pp-t">'+p.title.replace(/</g,'&lt;')+'</span>'+
+     '<span class="pp-m">'+p.city+(p.topics?' · '+p.topics:'')+(p.status?' · '+p.status.replace(/</g,'&lt;'):'')+'</span>'+
+     '<div class="pp-s">'+p.summary.replace(/</g,'&lt;')+'</div>'+
+     '<a href="'+p.url+'" target="_blank">Official record ↗</a> &nbsp; <a href="'+p.news+'" target="_blank">News ↗</a></div>');
+});
+
+var lg = L.control({position:'bottomright'});
+lg.onAdd = function(){ var d=L.DomUtil.create('div','legend');
+  d.innerHTML='<b>Items / district</b>'+
+   '<span class="sw" style="background:#fded97"></span>1–3<br>'+
+   '<span class="sw" style="background:#f0d43a"></span>4–7<br>'+
+   '<span class="sw" style="background:#d9b310"></span>8–11<br>'+
+   '<span class="sw" style="background:#b8860b"></span>12+<br>'+
+   '<b style="margin-top:7px">Geocoded items</b>'+
+   '<span style="background:#1c6b2e" class="i"></span>Housing<br>'+
+   '<span style="background:#3a3a8a" class="i"></span>Transit<br>'+
+   '<span style="background:#b3361f" class="i"></span>Walkability<br>'+
+   '<span style="background:#c98a00" class="i"></span>Heat'; return d; };
+lg.addTo(map);
+</script></body></html>"""
+
+
+def main():
+    rows, cutoff = collect()
+    today = dt.datetime.now(PHX).date()
+    state = load_state()
+    new_events, new_state, first_run = compute_changes(rows, state, today)
+    save_state(new_state)
+    action_items = sorted(
+        (r for r in rows if r.get("_action_days") is not None),
+        key=lambda r: (r["_action_days"], r["city"]))
+
+    # longitudinal archive: one aggregate snapshot per day (for month-over-month trends)
+    ARCH = Path(__file__).parent / "archive.json"
+    try:
+        archive = json.loads(ARCH.read_text(encoding="utf-8"))
+        if not isinstance(archive, list):
+            archive = []
+    except Exception:
+        archive = []
+    rk = Counter(status_rank(r.get("status", "")) for r in rows)
+    snap = {"date": today.isoformat(), "total": len(rows),
+            "topics": {t: sum(1 for r in rows if t in r["topics"]) for t in TOPIC_ORDER},
+            "adopted": rk.get(3, 0), "failed": rk.get(-1, 0),
+            "cities": sorted({r["city"] for r in rows})}
+    archive = [s for s in archive if s.get("date") != today.isoformat()] + [snap]
+    archive = archive[-400:]
+    try:
+        ARCH.write_text(json.dumps(archive, indent=1), encoding="utf-8")
+    except Exception:
+        pass
+
+    print(f"   diff: {len(new_events)} change-event(s); {len(action_items)} upcoming hearing(s); "
+          f"archive: {len(archive)} snapshot(s){' (baseline)' if first_run else ''}")
+    OUT.mkdir(exist_ok=True)
+    map_prebuilt = build_map_payload(rows)
+    (OUT / "index.html").write_text(
+        render_html(rows, cutoff, new_state["events"], action_items, first_run, len(archive),
+                    map_payload=map_prebuilt[0], map_placed=map_prebuilt[1]),
+        encoding="utf-8")
+    (OUT / "ordinances.json").write_text(json.dumps({
+        "generated": dt.datetime.now(PHX).isoformat(),
+        "window_days": WINDOW_DAYS, "count": len(rows),
+        "cities_live": [c[1] for c in LEGISTAR_CITIES], "items": rows,
+    }, indent=2), encoding="utf-8")
+    (OUT / "digest.txt").write_text(render_digest(rows, cutoff), encoding="utf-8")
+    write_map(rows, OUT / "map.html", prebuilt=map_prebuilt)
+    print(f"\nWrote {len(rows)} items -> {OUT}/index.html, map.html, ordinances.json, digest.txt")
+
+if __name__ == "__main__":
+    main()
