@@ -1,0 +1,59 @@
+# Deploying the policy tracker + council voting records to GitHub
+
+Both tools live in ONE repo: `upp-vuaa.github.io` (the same repo serving the
+meetings tracker). The daily workflow runs both scripts and publishes into
+`policy/`, so the pages land at:
+
+- Dashboard: https://upp-vuaa.github.io/policy/
+- Council records: https://upp-vuaa.github.io/policy/council.html
+
+## Web UI (no tools needed)
+
+1. Unzip `policy-tracker.zip` locally → you get a `policy-tracker/` folder.
+2. On github.com, open the `upp-vuaa.github.io` repo → **Add file → Upload
+   files** → drag the whole `policy-tracker` folder in → commit to `main`.
+   (The hidden `.github` subfolder inside it usually won't upload — fine,
+   next step handles the workflow.)
+3. Create the workflow at the repo ROOT: **Add file → Create new file** →
+   name it exactly `.github/workflows/track.yml` (typing the slashes creates
+   the folders) → paste the contents of `policy-tracker/.github/workflows/track.yml`
+   → commit. **This location matters:** Actions only runs workflows from the
+   root `.github/workflows/`, never from inside a subfolder.
+4. **Settings → Actions → General → Workflow permissions** → select
+   **Read and write permissions** → Save. (The bot commits nightly data
+   files; without this the push fails with a 403.)
+5. **Actions tab → policy-tracker → Run workflow → main.** First run takes
+   ~2–4 min — the zip ships the backfilled vote ledger, so council.py runs
+   incrementally instead of redoing 24 months.
+6. Open the two URLs above. Give Pages a minute or two after the commit.
+
+## Command line (equivalent)
+
+    git clone https://github.com/upp-vuaa/upp-vuaa.github.io
+    cd upp-vuaa.github.io
+    cp -r /path/to/policy-tracker .
+    mkdir -p .github/workflows
+    cp policy-tracker/.github/workflows/track.yml .github/workflows/
+    git add . && git commit -m "Add policy tracker + council records" && git push
+
+Then do steps 4–6 above.
+
+## Ongoing
+
+- Runs daily at 6:00 AM Phoenix (13:00 UTC); trigger manually anytime from
+  the Actions tab.
+- Edit `policy-tracker/members.json`, `positions.json`, or `vote_weights.json`
+  right in the GitHub web UI (pencil icon); changes apply on the next run.
+  members.json is never overwritten by the scraper.
+- First dashboard run establishes the "What moved" baseline — expected.
+- No secrets or tokens needed; everything is public data + the built-in
+  GITHUB_TOKEN.
+
+## If something misbehaves
+
+- Action fails on the push step → step 4 (workflow permissions) wasn't set.
+- Pages look stale → hard-refresh; confirm Settings → Pages source is
+  "Deploy from a branch: main / (root)" (already true if the meetings
+  tracker is live).
+- Broadened topic keywords later → clear `council_state.json` to re-scrape;
+  tightening keywords needs nothing (re-tag is automatic).
