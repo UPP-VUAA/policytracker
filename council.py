@@ -65,15 +65,44 @@ def _tidy_title(t):
 def topics_of(title):
     return track.topics_for(title or "")
 
+_CITY_KEYS = ("city", "City", "jurisdiction", "Jurisdiction",
+              "muni", "municipality", "Municipality")
+
 def _roster(members, city):
-    """Return the list of member dicts for a city, regardless of whether
-    members.json stores each city as {"members": [...]} or as a bare list.
-    Handles both shapes so a members.json edit outside this shape doesn't
-    crash aggregation or rendering."""
-    m_city = members.get(city, [])
-    if isinstance(m_city, dict):
-        m_city = m_city.get("members", [])
-    return m_city or []
+    """Return the member dicts for a city, tolerating EVERY members.json shape:
+      * {"Phoenix": {"members": [...]}, ...}   (keyed, wrapped)
+      * {"Phoenix": [...], ...}                (keyed, bare list)
+      * [ {...}, {...} ]                        (top-level list; each member may
+                                                 carry a city/jurisdiction field)
+      * {"members": [...]}                      (single flat list w/ city fields)
+    Returns [] when it genuinely can't determine membership — callers then fall
+    back to vote-derived names, so the page still populates and never crashes."""
+    pool = None
+    if isinstance(members, dict):
+        val = members.get(city)
+        if val is None:                      # case-insensitive key match
+            for k, v in members.items():
+                if isinstance(k, str) and k.lower() == city.lower():
+                    val = v; break
+        if isinstance(val, dict):
+            return val.get("members", []) or []
+        if isinstance(val, list):
+            return val
+        # no city key -> maybe a flat {"members":[...]} with per-member city tags
+        mm = members.get("members")
+        pool = mm if isinstance(mm, list) else []
+    elif isinstance(members, list):
+        pool = members
+    else:
+        return []
+    out = []
+    for m in pool:
+        if not isinstance(m, dict):
+            continue
+        for ck in _CITY_KEYS:
+            if ck in m and str(m[ck]).strip().lower() == city.lower():
+                out.append(m); break
+    return out
 
 # ---------------------------------------------------------------------------
 # PHOENIX — Legistar roll calls
@@ -480,7 +509,15 @@ def aggregate(votes, members, cfg, positions):
             seen.add(k); uniq.append(v)
         for v in uniq:
             v["_w"], v["_kind"] = event_weight(v, cfg)
-        roster = [m["name"] for m in _roster(members, city)]
+        roster = [m["name"] for m in _roster(members, city)
+                  if isinstance(m, dict) and m.get("name")]
+        if not roster:
+            # members.json shape yielded no names for this city — derive the
+            # roster from the actual vote records so the page still populates.
+            roster = sorted({vn for v in uniq for vn in v["votes"]})
+            if roster:
+                print(f"   {city}: members.json gave no roster; using "
+                      f"{len(roster)} names from vote records")
         agg = {}
         for mname in roster:
             per = {t: {"yes": 0, "no": 0, "other": 0, "events": []} for t in track.TOPIC_ORDER}
@@ -719,8 +756,14 @@ footer b{color:var(--ink);}
     for city in ("Phoenix", "Tempe"):
         a = agg[city]
         cards = ""
-        for m in _roster(members, city):
-            cards += member_card(city, m, a["members"].get(m["name"], {"topics": {}, "org": []}))
+        # map curated name -> member dict (if members.json provided any)
+        curated = {m["name"]: m for m in _roster(members, city)
+                   if isinstance(m, dict) and m.get("name")}
+        # render exactly the members aggregate computed; enrich with curated
+        # bio/affiliations when the name matches, else fall back to name only
+        for name in a["members"].keys():
+            m = curated.get(name, {"name": name})
+            cards += member_card(city, m, a["members"][name])
         src = ("Legistar roll-call votes (Formal Meetings + Transportation, Infrastructure & Planning Subcommittee)"
                if city == "Phoenix" else
                "Legal Action Summaries (named For / Against lists) from Tempe Agenda Online")
@@ -823,6 +866,13 @@ def main():
     VOTES.write_text(json.dumps(votes, indent=0), encoding="utf-8")
     CSTATE.write_text(json.dumps(state, indent=1), encoding="utf-8")
     members = scaffold_members(votes)
+    # diagnostic: report the actual shape so a malformed members.json is obvious
+    if isinstance(members, list):
+        ks = sorted(members[0].keys()) if members and isinstance(members[0], dict) else []
+        print(f"   members.json shape: top-level LIST of {len(members)} entries; "
+              f"first-entry keys: {ks}")
+    elif isinstance(members, dict):
+        print(f"   members.json shape: dict, top-level keys: {list(members.keys())}")
     cfg = load_weights()
     agg = aggregate(votes, members, cfg, positions)
     gen = dt.datetime.now(track.PHX).strftime("%b %-d, %Y · %-I:%M %p MST")
