@@ -470,7 +470,7 @@ def aggregate(votes, members, cfg, positions):
             seen.add(k); uniq.append(v)
         for v in uniq:
             v["_w"], v["_kind"] = event_weight(v, cfg)
-        roster = [m["name"] for m in members.get(city, {}).get("members", [])]
+        roster = [m_city = members.get(city, []) if isinstance(m_city, dict):     m_city = m_city.get("members", []) roster = [m["name"] for m in m_city](city, {}).get("members", [])]
         agg = {}
         for mname in roster:
             per = {t: {"yes": 0, "no": 0, "other": 0, "events": []} for t in track.TOPIC_ORDER}
