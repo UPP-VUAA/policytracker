@@ -65,6 +65,16 @@ def _tidy_title(t):
 def topics_of(title):
     return track.topics_for(title or "")
 
+def _roster(members, city):
+    """Return the list of member dicts for a city, regardless of whether
+    members.json stores each city as {"members": [...]} or as a bare list.
+    Handles both shapes so a members.json edit outside this shape doesn't
+    crash aggregation or rendering."""
+    m_city = members.get(city, [])
+    if isinstance(m_city, dict):
+        m_city = m_city.get("members", [])
+    return m_city or []
+
 # ---------------------------------------------------------------------------
 # PHOENIX — Legistar roll calls
 # ---------------------------------------------------------------------------
@@ -470,7 +480,7 @@ def aggregate(votes, members, cfg, positions):
             seen.add(k); uniq.append(v)
         for v in uniq:
             v["_w"], v["_kind"] = event_weight(v, cfg)
-        roster = [m_city = members.get(city, []) if isinstance(m_city, dict):     m_city = m_city.get("members", []) roster = [m["name"] for m in m_city](city, {}).get("members", [])]
+        roster = [m["name"] for m in _roster(members, city)]
         agg = {}
         for mname in roster:
             per = {t: {"yes": 0, "no": 0, "other": 0, "events": []} for t in track.TOPIC_ORDER}
@@ -709,7 +719,7 @@ footer b{color:var(--ink);}
     for city in ("Phoenix", "Tempe"):
         a = agg[city]
         cards = ""
-        for m in members.get(city, {}).get("members", []):
+        for m in _roster(members, city):
             cards += member_card(city, m, a["members"].get(m["name"], {"topics": {}, "org": []}))
         src = ("Legistar roll-call votes (Formal Meetings + Transportation, Infrastructure & Planning Subcommittee)"
                if city == "Phoenix" else
