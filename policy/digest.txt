@@ -1,5 +1,5 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-05 07:26 MST | window 90d | 260 items
+Generated 2026-07-06 09:14 MST | window 90d | 258 items
 
 
 === HOUSING (188) ===
@@ -11,8 +11,10 @@ Generated 2026-07-05 07:26 MST | window 90d | 260 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
   Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
-  Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop," 0.4± acres located at 1609 West University Drive. Rez
+  Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
+  Mesa 26-0598 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558
   Mesa HP 26-013 [Agenda Ready]: Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 6
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950
   Apache Junction 26-349 [Agenda Items]: Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, repre
@@ -81,8 +83,6 @@ Generated 2026-07-05 07:26 MST | window 90d | 260 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
   Tempe  [Heard 2026-06-23]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED  AREA DEVELOPMENT OVERLAY: NONE
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
-  Mesa PZ 26046 [Agenda Ready]: ZON26-00155. “DU 5/6 South Plan Amendment,” 750+/- acres located between East Elliot Road 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4
 
 === HEAT (7) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -100,7 +100,7 @@ Generated 2026-07-05 07:26 MST | window 90d | 260 items
   Tempe PL250087 [Heard 2026-04-14]: 4A. Request two Use Permits to allow 1) a detached engineered shade structure within the s
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4008
 
-=== TRANSIT (63) ===
+=== TRANSIT (61) ===
   Glendale  [On upcoming agenda]: July 9, 2026 6:00 PM Transportation Dept. Office 6210 W Myrtle Ave Building A, Suite 111/1
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Glendale  [On upcoming agenda]: 8.   COMMISSIONER UPDATES Commissioners will share information obtained from a variety of 
