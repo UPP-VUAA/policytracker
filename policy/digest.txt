@@ -1,26 +1,42 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-06 09:14 MST | window 90d | 258 items
+Generated 2026-07-07 08:41 MST | window 90d | 259 items
 
 
-=== HOUSING (188) ===
+=== HOUSING (189) ===
   Glendale VAR25-10 [On upcoming agenda]: a.   VAR25-10 – Marius Smocot Variance - A variance request by Marius Smocot to reduce the
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6102
+  Apache Junction 26-342 [Public Hearing]: Presentation, Discussion and Public Hearing of the development fee study update including 
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5
+  City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
+  City of Maricopa ORD 25-17 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4
+  City of Maricopa ORD 25-16 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5
+  City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
   Mesa 26-0622 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23838&GUID=51135620-DBAC-43BA-9577-C9118F821FDA
   Mesa 26-0621 [Agenda Ready]: Proposed amendments to Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 67, 81, 86, and 87. The am
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
+  Mesa 26-0613 [Agenda Ready]: Planning and Zoning Public Hearing held on March 27, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224
+  Mesa 26-0612 [Agenda Ready]: Planning and Zoning Study Session held on March 27, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6
   Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
   Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
+  Mesa 26-0607 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC
+  Mesa 26-0606 [Agenda Ready]: Planning and Zoning Study Session held on May 13, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549
   Mesa 26-0598 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558
   Mesa HP 26-013 [Agenda Ready]: Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 6
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950
   Apache Junction 26-349 [Agenda Items]: Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, repre
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12396&GUID=EFACE385-2D96-42F4-9658-6907454C00F0
-  Apache Junction 26-342 [Public Hearing]: Presentation, Discussion and Public Hearing of the development fee study update including 
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5
   Phoenix 26-1441 [Adopted]: Issuance of a Multifamily Revenue Note (The Hacienda at Sunnyslope Apartments Project), Se
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35476&GUID=03893FD5-BBFD-42CB-A2A4-04FA0CC602F9
   Phoenix 26-1381 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeas
@@ -51,10 +67,6 @@ Generated 2026-07-06 09:14 MST | window 90d | 258 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35121&GUID=B99DCC96-FD78-4998-B543-F34E446568C4
   Phoenix 26-0983 [Adopted]: Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordi
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35018&GUID=262E325E-8AD5-4871-B86C-4DA258A45919
-  Mesa 26-0607 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC
-  City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
   Mesa 26-0056 [Agenda Ready]: Proposed amendments to Chapter 1 of Title 2 and Chapters 66 and 67 of Title 11 of the Mesa
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23272&GUID=D114925F-FF1A-4312-8425-BB17BF77B87C
   Apache Junction 26-333 [Public Hearing]: Presentation, discussion, public hearing, and consideration of case P-26-4-PZ, a request b
@@ -70,18 +82,6 @@ Generated 2026-07-06 09:14 MST | window 90d | 258 items
   Mesa PZ 26045 [Agenda Ready]: ZON25-00693. "Homestead at Eastmark," 11.7+ acres located at the southwest corner of South
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23798&GUID=75750BC1-752E-4F4D-976E-03A6B92F9294
   Tempe PL260187 [Heard 2026-06-23]: F. Request a Use Permit to allow a vocational school in the GID zoning district for LINCOL
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
-  Tempe PL260168 [Heard 2026-06-23]: E. Request a Use Permit Standard to reduce the side yard setback in the R1-15 zoning distr
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
-  Tempe PL260137 [Heard 2026-06-23]: D. Request a Use Permit Standard to reduce the required street side yard setback in the R1
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
-  Tempe PL260133 [Heard 2026-06-23]: C. Request a Use Permit for a private school in the CSS zoning district for LEADERSHIP SOC
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
-  Tempe PL260054 [Heard 2026-06-23]: B. Request a Use Permit to allow a massage establishment in the CSS zoning district for MA
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
-  Tempe PL250435 [Heard 2026-06-23]: A. Request a Use Permit for live entertainment within an existing restaurant in the CSS zo
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
-  Tempe  [Heard 2026-06-23]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED  AREA DEVELOPMENT OVERLAY: NONE
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031
 
 === HEAT (7) ===

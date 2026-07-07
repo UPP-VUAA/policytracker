@@ -1,9 +1,9 @@
 {
- "updated": "2026-07-06",
+ "updated": "2026-07-07",
  "items": {
   "glendale|var25-10": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "On upcoming agenda",
    "hearing": "2026-07-09",
    "city": "Glendale",
@@ -12,7 +12,7 @@
   },
   "glendale|t:373839f322": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "On upcoming agenda",
    "hearing": "2026-07-09",
    "city": "Glendale",
@@ -21,7 +21,7 @@
   },
   "glendale|t:cf8737fe5b": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "On upcoming agenda",
    "hearing": "2026-07-09",
    "city": "Glendale",
@@ -30,16 +30,61 @@
   },
   "glendale|t:c5aa5e52ba": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "On upcoming agenda",
    "hearing": "2026-07-09",
    "city": "Glendale",
    "title": "8. \u00a0 COMMISSIONER UPDATES Commissioners will share information obtained from a variety of\u00a0sources, including other boards and committees, transportation-related\u00a0public meetings, and informal discussions with citizens. For information only .",
    "url": "https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192"
   },
+  "apache junction|26-342": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Public Hearing",
+   "hearing": "2026-07-07",
+   "city": "Apache Junction",
+   "title": "Presentation, Discussion and Public Hearing of the development fee study update including the Land Use Assumptions, Infrastructure Improvements Plan and Preliminary Draft Fees. The City\u2019s development fee consultant, Tischler Bise, will provide a presentation on development fees in preparation of an update to the development fee study and implementing ordinance.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5"
+  },
+  "city of maricopa|ord 26-13": {
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "status": "Consent Agenda",
+   "hearing": "2026-07-14",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2026 Amendments to Title 18: Zoning\" by reference to add Section 18.76.125 regarding food truck courts in the Maricopa Station Overlay and to amend Sections 18.76.060, and 18.115.040 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6"
+  },
+  "city of maricopa|ord 25-17": {
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "status": "Passed",
+   "hearing": "2025-12-02",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 18: Zoning\" by reference to amend Chapters 18.40, 18.75, 18.80, 18.90, 18.120, 18.135, 18.140 and 18.205 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4"
+  },
+  "city of maricopa|ord 25-16": {
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-07-07",
+   "status": "Passed",
+   "hearing": "2025-12-02",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 17: Subdivisions\" by reference to amend Sections 17.20.050, 17.20.060 and 17.30.040 of the Maricopa City Code and providing for severability and the effective date thereof. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5"
+  },
+  "city of maricopa|min 26-42": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Consent Agenda",
+   "hearing": "2026-07-14",
+   "city": "City of Maricopa",
+   "title": "Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts Advisory Committee meetings,  April 20, 2026 Senior Advisory Committee meeting and April 27, 2026 Planning and Zoning Commission meeting. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A"
+  },
   "mesa|26-0622": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-07-20",
    "city": "Mesa",
@@ -48,7 +93,7 @@
   },
   "mesa|26-0621": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-07-20",
    "city": "Mesa",
@@ -57,475 +102,25 @@
   },
   "mesa|26-0619": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-07-20",
    "city": "Mesa",
-   "title": "Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed limit from 40 mph to 35 mph on Horne from Brown Road to McKellips Road, and modify the speed limit from 35 mph to 30 mph on Horne between McKellips Road Street to the north City limits, as recommended by the Transportation Advisory Board. (District 1)",
+   "title": "Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed limit from 40 mph to 35 mph on Horne from Brown Road to McKellips Road, and modify the speed limit from 35 mph to 30 mph on Horne between McKellips Road to the north City limits, as recommended by the Transportation Advisory Board. (District 1)",
    "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314"
   },
   "mesa|26-0618": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-07-20",
    "city": "Mesa",
    "title": "Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed limit from 40 mph to 35 mph on Mesa Drive from Bates Street to Lehi Road, and modify the speed limit from 35 mph to 30 mph on Mesa Drive between Bates Street to the north City limits, as recommended by the Transportation Advisory Board. (District 1)",
    "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D"
   },
-  "mesa|26-0609": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "ZON26-00333 \"Faith Christian School\" 9.9 acres located at 3761 South Power Road. Council Use Permit for a Private School, and Modification of Conditions of Approval (1-5, 8, 12 & 13)  of Ordinance No. 4646, from Case No. Z06-088. Leman Academy of Excellence, Inc., Owner; Ganeen Harstick, Faith Christian School, applicant. (District 6)\r\nStaff Recommendation: Approval with conditions\u202f \r\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748"
-  },
-  "mesa|26-0608": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "ZON25-00110 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Rezone from Office Commercial (OC) to Limited Commercial with a Bonus Intensity Zone Overlay (LC-BIZ) and Site Plan Review. This request will allow for an approximately 4,015\u00b1 square foot Minor Automobile Repair facility. Tres Hermanos, LLC, Owner; All Right Builders, Inc., applicant. (District 3)\r\n \r\nStaff Recommendation: Approval with conditions \r\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F"
-  },
-  "mesa|26-0598": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558"
-  },
-  "mesa|26-0591": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-08",
-   "city": "Mesa",
-   "title": "Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 and 4)  \r\n\r\nThis project will furnish and install new playground equipment, shade structures, site amenities, concrete ramps and new playground surfacing to the existing and new playgrounds at designated areas in each park.  Sidewalk ramps, new engineered wood fiber, and new poured-in-place seamless rubber play surfacing will improve safety and make the playgrounds more accessible.  Additional amenities to be installed include benches, new lighting, and trash receptacles. \r\n\r\nStaff recommend awarding a contract for this project to the lowest responsible bidder, Valley Rain Construction Corp, in the amount of $1,271,188.26, and authorizing a change order allowance in the amount of $127,118.83 (10%), for a total authorized amount of $1,398,307.09. This project is funded by federal funding through the Community Development Block Grant Program (CDBG) granted through the Housing and Community Development Department.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288"
-  },
-  "mesa|hp 26-013": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-07",
-   "city": "Mesa",
-   "title": "Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 66, 74, and 87 relating to historic preservation",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950"
-  },
-  "apache junction|26-349": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Items",
-   "hearing": "2026-07-06",
-   "city": "Apache Junction",
-   "title": "Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2 and 3-story apartment complex.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12396&GUID=EFACE385-2D96-42F4-9658-6907454C00F0"
-  },
-  "apache junction|26-342": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Public Hearing",
-   "hearing": "2026-07-07",
-   "city": "Apache Junction",
-   "title": "Presentation, Discussion and Public Hearing of the development fee study update including the Land Use Assumptions, Infrastructure Improvements Plan and Preliminary Draft Fees. The City\u2019s development fee consultant, Tischler Bise, will provide a presentation on development fees in preparation of an update to the development fee study and implementing ordinance.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5"
-  },
-  "phoenix|26-1441": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Issuance of a Multifamily Revenue Note (The Hacienda at Sunnyslope Apartments Project), Series 2026 (Resolution 22390) - District 3",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35476&GUID=03893FD5-BBFD-42CB-A2A4-04FA0CC602F9"
-  },
-  "phoenix|26-1381": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeast Corner of 59th Avenue and Dobbins Road (Ordinance G-7532) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35416&GUID=3E186F5F-D071-4020-ADE4-253C5ED41DFA"
-  },
-  "phoenix|26-1380": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-29-23-7(8) - Approximately 300 Feet East of the Northeast Corner of 43rd Avenue and Baseline Road (Ordinance G-7531) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35415&GUID=41D89EE8-EA9A-41C6-BC59-B72825E1808C"
-  },
-  "phoenix|26-1379": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Approved",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Modification of Stipulation Request for Ratification of May 20, 2026, Planning Hearing Officer Action - PHO-2-26--Z-275-84-6 - Approximately 575 Feet East of the Intersection of 48th Street and Virginia Avenue - District 6",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35414&GUID=B0FB848A-29BE-487B-AACD-9DB9886F5D4F"
-  },
-  "phoenix|26-1368": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-27-26-8 - Southwest Corner of 14th Street and Hess Avenue (Ordinance G-7530) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35403&GUID=652966C8-203F-4D98-A15E-3E5B81B25F03"
-  },
-  "phoenix|26-1366": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-15-26-2 - Southwest Corner of 56th Street and Ranger Drive (Ordinance G-7525) - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35401&GUID=AB4F9FF9-454B-428C-88EB-57C4B3CEB70C"
-  },
-  "phoenix|26-1365": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-25-26-1-2 - Approximately 430 Feet South of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7529) - Districts 1 & 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35400&GUID=EF093578-D7BE-4D48-A74B-EC032E5385C3"
-  },
-  "phoenix|26-1364": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Passed",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner of Interstate 17 and Grandview Road - District 3",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913"
-  },
-  "phoenix|26-1363": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-145-24-1 - Approximately 200 Feet North of the Northwest Corner of 35th Avenue and Bell Road (Ordinance G-7528) - District 1",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35398&GUID=FEF16381-BDB7-417F-9775-817F2EF84235"
-  },
-  "phoenix|26-1308": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Affordable Housing Property Preservation Program - Construction Administration and Observation Services (General Obligation Bond) - Various Project Numbers (Ordinance S-53075) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35343&GUID=37955FCE-7DFB-4EC9-B9E0-EC7D453184D4"
-  },
-  "phoenix|26-1256": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Remove/Replace Zoning District - Briles Pass - Annexation 554 - Approximately 460 Feet East of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7527) - District 1",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35291&GUID=0DBD87E1-DA2E-4567-BAE9-41E55B3A0F19"
-  },
-  "phoenix|26-1236": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Multi-Family Window Replacement Contract - RFP FY26-086-13 - Request for Award (Ordinance S-53073) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35271&GUID=AE968E10-8026-4780-AE11-9E1DE76A86B8"
-  },
-  "phoenix|26-1200": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Remove/Replace Zoning District - 9th Avenue and Alameda Road - Annexation 560 - Approximately 700 Feet West of the Northwest Corner of 9th Avenue and Alameda Road (Ordinance G-7526) - District 1",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35235&GUID=932B61FB-86CB-4EA2-BC78-894AB7E67812"
-  },
-  "phoenix|26-1086": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Salt River Project Land Use License for the City of Phoenix (Ordinance S-53070) - District 6",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35121&GUID=B99DCC96-FD78-4998-B543-F34E446568C4"
-  },
-  "phoenix|26-0983": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordinance S-53067) - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35018&GUID=262E325E-8AD5-4871-B86C-4DA258A45919"
-  },
-  "mesa|26-0623": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-17",
-   "city": "Mesa",
-   "title": "Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed limit of 45 mph on Ellsworth Road from the north City limits to the south City limits by modifying the Ellsworth Road speed limit between Elliot Road and the south City limits from 50 mph to 45 mph, as recommended by the Transportation Advisory Board. (District 6)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA"
-  },
-  "mesa|26-0607": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC"
-  },
-  "city of maricopa|min 26-42": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Consent Agenda",
-   "hearing": "2026-07-14",
-   "city": "City of Maricopa",
-   "title": "Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts Advisory Committee meetings,  April 20, 2026 Senior Advisory Committee meeting and April 27, 2026 Planning and Zoning Commission meeting. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A"
-  },
-  "mesa|26-0056": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-01-12",
-   "city": "Mesa",
-   "title": "Proposed amendments to Chapter 1 of Title 2 and Chapters 66 and 67 of Title 11 of the Mesa City Code pertaining to the organization and duties of the Planning and Zoning Board and the Design Review Board. The amendments include, but are not limited to: modifying the membership and qualifications of the Planning and Zoning Board; repealing in its entirety Section 11-66-2: Planning and Zoning Board and adopting a new \u201cSection 11-66-2: Planning and Zoning Board;\u201d repealing in its entirety Section 11-66-6: Design Review Board and adopting a new \u201cSection 11-66-6: Design Review Board;\u201d and modifying appeal bodies. (Citywide) \nOrdinance No. 5997\n \nStaff Recommendation: Adoption\nP&Z Board Recommendation: Adoption with Conditions (Vote: 6-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23272&GUID=D114925F-FF1A-4312-8425-BB17BF77B87C"
-  },
-  "apache junction|26-333": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Public Hearing",
-   "hearing": "2026-06-23",
-   "city": "Apache Junction",
-   "title": "Presentation, discussion, public hearing, and consideration of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Noel Griemsmann, of Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2-story apartment complex.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12380&GUID=0AFC5E64-DAC8-42EE-921D-5A7256C4B68F"
-  },
-  "tempe|pl260139": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-05-12",
-   "hearing": "2026-05-12",
-   "city": "Tempe",
-   "title": "A. Request a Zoning and Development Code Text Amendment for TOD PARKING UPDATE for changes to Part 5, Chapter 6 - Transportation Overlay District consisting of reductions in the overlay parking requirements. The applicant is the City of Tem",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018"
-  },
-  "mesa|25-0329": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2025-04-21",
-   "city": "Mesa",
-   "title": "Amending Sections 10-4-4 and 10-4-5 of the Mesa City Code to modify the limits of the existing posted speed limit of 40 mph on Val Vista Drive between Pomegranate Street and Quenton Drive and establish a speed limit of 35 mph on Val Vista Drive between Quenton Drive and the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 5939",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=22430&GUID=B4A1F9AC-3059-49DF-9391-22493C696D7B"
-  },
-  "tempe|t:817ecdfe09": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "12. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental Agreement with Maricopa County for installation and management of a Connected Vehicle Intelligent Transportation and Freight Signal Priority system. ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:cc828d3ecd": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Action Agency (TCAA) to support City of Tempe Community Health and Human Services Department heat relief efforts. (Resolution No. R2026.86)",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:865c6eaf64": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "2. Adopt a resolution approving and authorizing the issuance of The Industrial Development Authority of the City of Tempe Multifamily Housing Revenue Bonds in an original aggregate principal amount not to exceed $48,500,000 for the benefit ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:85f3ddd16f": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "13. Approve a one-year contract renewal with Sapphire Gas Solutions LLC, for the supply of liquefied natural gas to support the City\u2019s transit and fleet operations.",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:ae823b24d5": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "1. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance to establish development standards for a Planned Area Development Overlay in the MU-4 district for TEMPE OASIS, consisting of an adaptive reuse from motel",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:45d8f119aa": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance amending the Tempe City Code, Chapter 19, relating to Motorized and Electric Mobility Devices in Sections 19-1 (b), 19-183, 19-184 (a)(b), 19-212 (d)(e), ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "mesa|pz 26047": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 67, 81, 86, and 87. The amendments include, but are not limited to: modifying entryway monumentation requirements; refining building material and color standards; updating Employment District use tables and development standards; clarifying lot and land division requirements; modifying pedestrian connection requirements; modifying standards for Detached Accessory Buildings or Structures and Accessory Dwelling Units; updating Live/Work Unit and residential use standards in Commercial Districts; refining Data Center and Battery Energy Storage System screening requirements; modifying landscaping and alternative landscape plan provisions; modifying landscape diversity requirements; updating Manufactured Home and Recreational Vehicle Accessory Structure standards; clarifying sign regulations; updating procedural requirements related to written protests, application review, and expirations; modifying definitions of \u201cHome Occupations,\u201d \u201cLive/Work Units,\u201d and \u201cIndoor Warehousing And Storage\u201d; relocating the definition of \"Skilled Nursing Facility\" to Public and Semi-Public Use Classification, and adding a definition for \u201cHazardous Material Warehousing and Storage.\u201d \n\nStaff Recommendation: Adoption",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23811&GUID=8559947D-3436-46D0-8370-FDD7F73713D2"
-  },
-  "mesa|pz 26045": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "ZON25-00693. \"Homestead at Eastmark,\" 11.7+ acres located at the southwest corner of South Signal Butte Road and East Rubidium Avenue. Major Site Plan Review for a new 261-unit apartment development and 2.2 acres of retail/commercial development. (District 6).\n \nPlanner: Jennifer Merrill\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23798&GUID=75750BC1-752E-4F4D-976E-03A6B92F9294"
-  },
-  "tempe|pl260187": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "F. Request a Use Permit to allow a vocational school in the GID zoning district for LINCOLN TECHNICAL INSTITUTE, located at 1665 West Alameda Drive, Suite 110. The applicant is Studio1200. (PL260187) Project Planner: Whitney_Mayfield@tempe.",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260168": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "E. Request a Use Permit Standard to reduce the side yard setback in the R1-15 zoning district from 15 feet to 12 feet for RADFORD RESIDENCE, located at 1318 East La Vieve Lane. The applicant is Taylor Radford. (PL260168) Project Planner: Ro",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260137": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "D. Request a Use Permit Standard to reduce the required street side yard setback in the R1-6 zoning district from 10 feet to 8 feet for an attached residential building addition for GRINDEY RESIDENCE, located at 744 East Vista Del Cerro Dri",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260133": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "C. Request a Use Permit for a private school in the CSS zoning district for LEADERSHIP SOCIETY OF ARIZONA, located at 3010 South Priest Drive. The applicant is FM Solutions Management. (PL260133) Project Planner: Warren_Rivera@tempe.gov or ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260054": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "B. Request a Use Permit to allow a massage establishment in the CSS zoning district for MAYA SPA located at 218 West Southern Avenue. The applicant is Maya Spa LLC. (PL260054) Project Planner: Whitney_Mayfield@tempe.gov or (480) 350-8486",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl250435": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "A. Request a Use Permit for live entertainment within an existing restaurant in the CSS zoning district for TWIN LOCOS LIVE ENTERTAINMENT, located at 3224 South Mill Avenue. The applicant is Robert Davis II. (PL250435) Project Planner: Warr",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|t:5109f94771": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED\u00a0 AREA DEVELOPMENT OVERLAY: NONE",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "mesa|pz 26046": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "ZON26-00155. \u201cDU 5/6 South Plan Amendment,\u201d 750+/- acres located between East Elliot Road and East Point Twenty-Two Boulevard, and west of South Signal Butte Road, but not including the area north of East Rubidium Avenue and east of South Binary. Major Amendment to the Development Unit 5/6 South Development Unit Plan (DUP). This request will modify the boundary of the eastern portion of the DUP to align with East Rubidium, and establish new boundaries for the District Land Use Group (LUG) and transition area. (District 6) \r\n\r\nPlanner: Jennifer Merrill\r\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4"
-  },
-  "mesa|pz 26051": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "Planning and Zoning minutes from June 10, 2026 Planning and Zoning Board",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23827&GUID=FF41D371-827E-464E-B586-B74811E186D0"
-  },
-  "city of maricopa|con 12-080": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Passed",
-   "hearing": "2012-11-20",
-   "city": "City of Maricopa",
-   "title": "The Mayor and City Council shall discuss and possibly take action on a request to approve an Award of Contract to Dyett & Bhatia Urban and Regional Planners of San Francisco to provide consulting services for the City of Maricopa, Development Services Zoning Code Rewrite, in an amount not to exceed $330,750; and to approve budgetary transfers to fund consulting services related to interim Planning and Zoning functions, including overseeing the Zoning Code Rewrite, through the end of FY12-13 in an amount not to exceed $136,200.  The transfer is from General Governmental CIP, Capital Projects-Transportation, Buildings, Amtrak Station Relocation (35044146-67720-35016) for $466,950 to General Governmental CIP, Capital Projects-Planning & Zoning, Design Services-Improvements Other Than Buildings, Zoning Code Rewrite (35044141-67735) for $330,750 and to General Fund, Planning and Zoning, Professional and Occupational (10044141-53320) for $136,200.  The procurement process for the contract award is in compliance with City of Maricopa Purchasing Code, Section 3-4-6. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=1962&GUID=9AB78235-8E6D-4C40-BFC9-1D63951751E8"
-  },
-  "apache junction|26-326": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Passed",
-   "hearing": "2026-06-16",
-   "city": "Apache Junction",
-   "title": "Presentation, discussion, public hearing, and consideration of Ordinance No. 1576 regarding case P-26-6-PZ, a request by Kimberly Bergman for a rezoning of 275 S. Cactus Road, approximately 1.25 gross acre parcel from Medium Density Single-Family Detached Residential (\u201cRS-10M\u201d) to General Rural Low Density Single-Family Detached Residential (\u201cRS-GR\u201d) and repealing any conflicting provisions and providing for severability.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12373&GUID=B6582500-3FC1-4617-B1D7-475BAD2C82C6"
-  },
-  "phoenix|26-1195": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Request to Submit Annual Federal Transit Administration Grant Applications and Enter into Grant Agreements (Ordinance S-53030) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35230&GUID=54294117-FF39-48B8-931B-1B23B6522C89"
-  },
-  "phoenix|26-0806": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Annual Operations Funding Agreement with Valley Metro Rail for Operational Costs for Light Rail Services for Fiscal Year 2026-27  (Ordinance S-52983) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34842&GUID=7475082B-9683-4899-BBA4-DFDB1A76C43D"
-  },
   "mesa|26-0613": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-07-20",
    "city": "Mesa",
@@ -534,16 +129,457 @@
   },
   "mesa|26-0612": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-07-20",
    "city": "Mesa",
    "title": "Planning and Zoning Study Session held on March 27, 2026.",
    "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6"
   },
+  "mesa|26-0609": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "ZON26-00333 \"Faith Christian School\" 9.9 acres located at 3761 South Power Road. Council Use Permit for a Private School, and Modification of Conditions of Approval (1-5, 8, 12 & 13)  of Ordinance No. 4646, from Case No. Z06-088. Leman Academy of Excellence, Inc., owner; Ganeen Harstick, Faith Christian School, applicant. (District 6)\n\nStaff Recommendation: Approval with conditions\u202f \nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748"
+  },
+  "mesa|26-0608": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "ZON25-00110 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Rezone from Office Commercial (OC) to Limited Commercial with a Bonus Intensity Zone Overlay (LC-BIZ) and Site Plan Review. This request will allow for an approximately 4,015\u00b1 square foot Minor Automobile Repair facility. Tres Hermanos, LLC, owner; All Right Builders, Inc., applicant. (District 3)\n \nStaff Recommendation: Approval with conditions \nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F"
+  },
+  "mesa|26-0607": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC"
+  },
+  "mesa|26-0606": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Study Session held on May 13, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549"
+  },
+  "mesa|26-0598": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558"
+  },
+  "mesa|26-0591": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-08",
+   "city": "Mesa",
+   "title": "Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 and 4)  \r\n\r\nThis project will furnish and install new playground equipment, shade structures, site amenities, concrete ramps and new playground surfacing to the existing and new playgrounds at designated areas in each park.  Sidewalk ramps, new engineered wood fiber, and new poured-in-place seamless rubber play surfacing will improve safety and make the playgrounds more accessible.  Additional amenities to be installed include benches, new lighting, and trash receptacles. \r\n\r\nStaff recommend awarding a contract for this project to the lowest responsible bidder, Valley Rain Construction Corp, in the amount of $1,271,188.26, and authorizing a change order allowance in the amount of $127,118.83 (10%), for a total authorized amount of $1,398,307.09. This project is funded by federal funding through the Community Development Block Grant Program (CDBG) granted through the Housing and Community Development Department.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288"
+  },
+  "mesa|hp 26-013": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-07",
+   "city": "Mesa",
+   "title": "Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 66, 74, and 87 relating to historic preservation",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950"
+  },
+  "apache junction|26-349": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Items",
+   "hearing": "2026-07-06",
+   "city": "Apache Junction",
+   "title": "Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2 and 3-story apartment complex.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12396&GUID=EFACE385-2D96-42F4-9658-6907454C00F0"
+  },
+  "phoenix|26-1441": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Issuance of a Multifamily Revenue Note (The Hacienda at Sunnyslope Apartments Project), Series 2026 (Resolution 22390) - District 3",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35476&GUID=03893FD5-BBFD-42CB-A2A4-04FA0CC602F9"
+  },
+  "phoenix|26-1381": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeast Corner of 59th Avenue and Dobbins Road (Ordinance G-7532) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35416&GUID=3E186F5F-D071-4020-ADE4-253C5ED41DFA"
+  },
+  "phoenix|26-1380": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-29-23-7(8) - Approximately 300 Feet East of the Northeast Corner of 43rd Avenue and Baseline Road (Ordinance G-7531) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35415&GUID=41D89EE8-EA9A-41C6-BC59-B72825E1808C"
+  },
+  "phoenix|26-1379": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Approved",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Modification of Stipulation Request for Ratification of May 20, 2026, Planning Hearing Officer Action - PHO-2-26--Z-275-84-6 - Approximately 575 Feet East of the Intersection of 48th Street and Virginia Avenue - District 6",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35414&GUID=B0FB848A-29BE-487B-AACD-9DB9886F5D4F"
+  },
+  "phoenix|26-1368": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-27-26-8 - Southwest Corner of 14th Street and Hess Avenue (Ordinance G-7530) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35403&GUID=652966C8-203F-4D98-A15E-3E5B81B25F03"
+  },
+  "phoenix|26-1366": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-15-26-2 - Southwest Corner of 56th Street and Ranger Drive (Ordinance G-7525) - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35401&GUID=AB4F9FF9-454B-428C-88EB-57C4B3CEB70C"
+  },
+  "phoenix|26-1365": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-25-26-1-2 - Approximately 430 Feet South of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7529) - Districts 1 & 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35400&GUID=EF093578-D7BE-4D48-A74B-EC032E5385C3"
+  },
+  "phoenix|26-1364": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Passed",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner of Interstate 17 and Grandview Road - District 3",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913"
+  },
+  "phoenix|26-1363": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-145-24-1 - Approximately 200 Feet North of the Northwest Corner of 35th Avenue and Bell Road (Ordinance G-7528) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35398&GUID=FEF16381-BDB7-417F-9775-817F2EF84235"
+  },
+  "phoenix|26-1308": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Affordable Housing Property Preservation Program - Construction Administration and Observation Services (General Obligation Bond) - Various Project Numbers (Ordinance S-53075) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35343&GUID=37955FCE-7DFB-4EC9-B9E0-EC7D453184D4"
+  },
+  "phoenix|26-1256": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Remove/Replace Zoning District - Briles Pass - Annexation 554 - Approximately 460 Feet East of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7527) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35291&GUID=0DBD87E1-DA2E-4567-BAE9-41E55B3A0F19"
+  },
+  "phoenix|26-1236": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Multi-Family Window Replacement Contract - RFP FY26-086-13 - Request for Award (Ordinance S-53073) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35271&GUID=AE968E10-8026-4780-AE11-9E1DE76A86B8"
+  },
+  "phoenix|26-1200": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Remove/Replace Zoning District - 9th Avenue and Alameda Road - Annexation 560 - Approximately 700 Feet West of the Northwest Corner of 9th Avenue and Alameda Road (Ordinance G-7526) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35235&GUID=932B61FB-86CB-4EA2-BC78-894AB7E67812"
+  },
+  "phoenix|26-1086": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Salt River Project Land Use License for the City of Phoenix (Ordinance S-53070) - District 6",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35121&GUID=B99DCC96-FD78-4998-B543-F34E446568C4"
+  },
+  "phoenix|26-0983": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordinance S-53067) - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35018&GUID=262E325E-8AD5-4871-B86C-4DA258A45919"
+  },
+  "mesa|26-0623": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-17",
+   "city": "Mesa",
+   "title": "Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed limit of 45 mph on Ellsworth Road from the north City limits to the south City limits by modifying the Ellsworth Road speed limit between Elliot Road and the south City limits from 50 mph to 45 mph, as recommended by the Transportation Advisory Board. (District 6)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA"
+  },
+  "mesa|26-0056": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-01-12",
+   "city": "Mesa",
+   "title": "Proposed amendments to Chapter 1 of Title 2 and Chapters 66 and 67 of Title 11 of the Mesa City Code pertaining to the organization and duties of the Planning and Zoning Board and the Design Review Board. The amendments include, but are not limited to: modifying the membership and qualifications of the Planning and Zoning Board; repealing in its entirety Section 11-66-2: Planning and Zoning Board and adopting a new \u201cSection 11-66-2: Planning and Zoning Board;\u201d repealing in its entirety Section 11-66-6: Design Review Board and adopting a new \u201cSection 11-66-6: Design Review Board;\u201d and modifying appeal bodies. (Citywide) \nOrdinance No. 5997\n \nStaff Recommendation: Adoption\nP&Z Board Recommendation: Adoption with Conditions (Vote: 6-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23272&GUID=D114925F-FF1A-4312-8425-BB17BF77B87C"
+  },
+  "apache junction|26-333": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Public Hearing",
+   "hearing": "2026-06-23",
+   "city": "Apache Junction",
+   "title": "Presentation, discussion, public hearing, and consideration of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Noel Griemsmann, of Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2-story apartment complex.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12380&GUID=0AFC5E64-DAC8-42EE-921D-5A7256C4B68F"
+  },
+  "tempe|pl260139": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-05-12",
+   "hearing": "2026-05-12",
+   "city": "Tempe",
+   "title": "A. Request a Zoning and Development Code Text Amendment for TOD PARKING UPDATE for changes to Part 5, Chapter 6 - Transportation Overlay District consisting of reductions in the overlay parking requirements. The applicant is the City of Tem",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018"
+  },
+  "mesa|25-0329": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2025-04-21",
+   "city": "Mesa",
+   "title": "Amending Sections 10-4-4 and 10-4-5 of the Mesa City Code to modify the limits of the existing posted speed limit of 40 mph on Val Vista Drive between Pomegranate Street and Quenton Drive and establish a speed limit of 35 mph on Val Vista Drive between Quenton Drive and the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 5939",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=22430&GUID=B4A1F9AC-3059-49DF-9391-22493C696D7B"
+  },
+  "tempe|t:817ecdfe09": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "12. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental Agreement with Maricopa County for installation and management of a Connected Vehicle Intelligent Transportation and Freight Signal Priority system. ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:cc828d3ecd": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Action Agency (TCAA) to support City of Tempe Community Health and Human Services Department heat relief efforts. (Resolution No. R2026.86)",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:865c6eaf64": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "2. Adopt a resolution approving and authorizing the issuance of The Industrial Development Authority of the City of Tempe Multifamily Housing Revenue Bonds in an original aggregate principal amount not to exceed $48,500,000 for the benefit ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:85f3ddd16f": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "13. Approve a one-year contract renewal with Sapphire Gas Solutions LLC, for the supply of liquefied natural gas to support the City\u2019s transit and fleet operations.",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:ae823b24d5": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "1. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance to establish development standards for a Planned Area Development Overlay in the MU-4 district for TEMPE OASIS, consisting of an adaptive reuse from motel",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:45d8f119aa": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance amending the Tempe City Code, Chapter 19, relating to Motorized and Electric Mobility Devices in Sections 19-1 (b), 19-183, 19-184 (a)(b), 19-212 (d)(e), ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "mesa|pz 26047": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 67, 81, 86, and 87. The amendments include, but are not limited to: modifying entryway monumentation requirements; refining building material and color standards; updating Employment District use tables and development standards; clarifying lot and land division requirements; modifying pedestrian connection requirements; modifying standards for Detached Accessory Buildings or Structures and Accessory Dwelling Units; updating Live/Work Unit and residential use standards in Commercial Districts; refining Data Center and Battery Energy Storage System screening requirements; modifying landscaping and alternative landscape plan provisions; modifying landscape diversity requirements; updating Manufactured Home and Recreational Vehicle Accessory Structure standards; clarifying sign regulations; updating procedural requirements related to written protests, application review, and expirations; modifying definitions of \u201cHome Occupations,\u201d \u201cLive/Work Units,\u201d and \u201cIndoor Warehousing And Storage\u201d; relocating the definition of \"Skilled Nursing Facility\" to Public and Semi-Public Use Classification, and adding a definition for \u201cHazardous Material Warehousing and Storage.\u201d \n\nStaff Recommendation: Adoption",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23811&GUID=8559947D-3436-46D0-8370-FDD7F73713D2"
+  },
+  "mesa|pz 26045": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "ZON25-00693. \"Homestead at Eastmark,\" 11.7+ acres located at the southwest corner of South Signal Butte Road and East Rubidium Avenue. Major Site Plan Review for a new 261-unit apartment development and 2.2 acres of retail/commercial development. (District 6).\n \nPlanner: Jennifer Merrill\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23798&GUID=75750BC1-752E-4F4D-976E-03A6B92F9294"
+  },
+  "tempe|pl260187": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "F. Request a Use Permit to allow a vocational school in the GID zoning district for LINCOLN TECHNICAL INSTITUTE, located at 1665 West Alameda Drive, Suite 110. The applicant is Studio1200. (PL260187) Project Planner: Whitney_Mayfield@tempe.",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260168": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "E. Request a Use Permit Standard to reduce the side yard setback in the R1-15 zoning district from 15 feet to 12 feet for RADFORD RESIDENCE, located at 1318 East La Vieve Lane. The applicant is Taylor Radford. (PL260168) Project Planner: Ro",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260137": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "D. Request a Use Permit Standard to reduce the required street side yard setback in the R1-6 zoning district from 10 feet to 8 feet for an attached residential building addition for GRINDEY RESIDENCE, located at 744 East Vista Del Cerro Dri",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260133": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "C. Request a Use Permit for a private school in the CSS zoning district for LEADERSHIP SOCIETY OF ARIZONA, located at 3010 South Priest Drive. The applicant is FM Solutions Management. (PL260133) Project Planner: Warren_Rivera@tempe.gov or ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260054": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "B. Request a Use Permit to allow a massage establishment in the CSS zoning district for MAYA SPA located at 218 West Southern Avenue. The applicant is Maya Spa LLC. (PL260054) Project Planner: Whitney_Mayfield@tempe.gov or (480) 350-8486",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl250435": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "A. Request a Use Permit for live entertainment within an existing restaurant in the CSS zoning district for TWIN LOCOS LIVE ENTERTAINMENT, located at 3224 South Mill Avenue. The applicant is Robert Davis II. (PL250435) Project Planner: Warr",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|t:5109f94771": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED\u00a0 AREA DEVELOPMENT OVERLAY: NONE",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "mesa|pz 26046": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "ZON26-00155. \u201cDU 5/6 South Plan Amendment,\u201d 750+/- acres located between East Elliot Road and East Point Twenty-Two Boulevard, and west of South Signal Butte Road, but not including the area north of East Rubidium Avenue and east of South Binary. Major Amendment to the Development Unit 5/6 South Development Unit Plan (DUP). This request will modify the boundary of the eastern portion of the DUP to align with East Rubidium, and establish new boundaries for the District Land Use Group (LUG) and transition area. (District 6) \r\n\r\nPlanner: Jennifer Merrill\r\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4"
+  },
+  "mesa|pz 26051": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "Planning and Zoning minutes from June 10, 2026 Planning and Zoning Board",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23827&GUID=FF41D371-827E-464E-B586-B74811E186D0"
+  },
+  "city of maricopa|con 12-080": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Passed",
+   "hearing": "2012-11-20",
+   "city": "City of Maricopa",
+   "title": "The Mayor and City Council shall discuss and possibly take action on a request to approve an Award of Contract to Dyett & Bhatia Urban and Regional Planners of San Francisco to provide consulting services for the City of Maricopa, Development Services Zoning Code Rewrite, in an amount not to exceed $330,750; and to approve budgetary transfers to fund consulting services related to interim Planning and Zoning functions, including overseeing the Zoning Code Rewrite, through the end of FY12-13 in an amount not to exceed $136,200.  The transfer is from General Governmental CIP, Capital Projects-Transportation, Buildings, Amtrak Station Relocation (35044146-67720-35016) for $466,950 to General Governmental CIP, Capital Projects-Planning & Zoning, Design Services-Improvements Other Than Buildings, Zoning Code Rewrite (35044141-67735) for $330,750 and to General Fund, Planning and Zoning, Professional and Occupational (10044141-53320) for $136,200.  The procurement process for the contract award is in compliance with City of Maricopa Purchasing Code, Section 3-4-6. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=1962&GUID=9AB78235-8E6D-4C40-BFC9-1D63951751E8"
+  },
+  "apache junction|26-326": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Passed",
+   "hearing": "2026-06-16",
+   "city": "Apache Junction",
+   "title": "Presentation, discussion, public hearing, and consideration of Ordinance No. 1576 regarding case P-26-6-PZ, a request by Kimberly Bergman for a rezoning of 275 S. Cactus Road, approximately 1.25 gross acre parcel from Medium Density Single-Family Detached Residential (\u201cRS-10M\u201d) to General Rural Low Density Single-Family Detached Residential (\u201cRS-GR\u201d) and repealing any conflicting provisions and providing for severability.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12373&GUID=B6582500-3FC1-4617-B1D7-475BAD2C82C6"
+  },
+  "phoenix|26-1195": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Request to Submit Annual Federal Transit Administration Grant Applications and Enter into Grant Agreements (Ordinance S-53030) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35230&GUID=54294117-FF39-48B8-931B-1B23B6522C89"
+  },
+  "phoenix|26-0806": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-07-07",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Annual Operations Funding Agreement with Valley Metro Rail for Operational Costs for Light Rail Services for Fiscal Year 2026-27  (Ordinance S-52983) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34842&GUID=7475082B-9683-4899-BBA4-DFDB1A76C43D"
+  },
   "phoenix|26-1270": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -552,7 +588,7 @@
   },
   "phoenix|26-1259": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -561,7 +597,7 @@
   },
   "phoenix|26-1162": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -570,7 +606,7 @@
   },
   "phoenix|26-1123": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -579,7 +615,7 @@
   },
   "phoenix|26-1075": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -588,7 +624,7 @@
   },
   "phoenix|26-0894": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -597,7 +633,7 @@
   },
   "phoenix|26-0877": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -606,7 +642,7 @@
   },
   "phoenix|26-0871": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-17",
    "city": "Phoenix",
@@ -615,7 +651,7 @@
   },
   "city of maricopa|misc 26-16": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-06-22",
    "city": "City of Maricopa",
@@ -624,7 +660,7 @@
   },
   "apache junction|26-137": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Items",
    "hearing": "2026-04-20",
    "city": "Apache Junction",
@@ -633,7 +669,7 @@
   },
   "tempe|pl230127": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-06-04",
    "hearing": "2026-06-04",
    "city": "Tempe",
@@ -642,7 +678,7 @@
   },
   "apache junction|26-317": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Consent Agenda",
    "hearing": "2026-06-16",
    "city": "Apache Junction",
@@ -651,7 +687,7 @@
   },
   "apache junction|26-188": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "New Business",
    "hearing": "2026-05-05",
    "city": "Apache Junction",
@@ -660,7 +696,7 @@
   },
   "phoenix|25-1267": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-07-02",
    "city": "Phoenix",
@@ -669,7 +705,7 @@
   },
   "tempe|t:f08483ebbf": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-06-11",
    "hearing": "2026-06-11",
    "city": "Tempe",
@@ -678,7 +714,7 @@
   },
   "tempe|t:6c8a7dcece": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-06-11",
    "hearing": "2026-06-11",
    "city": "Tempe",
@@ -687,7 +723,7 @@
   },
   "tempe|t:e0a8bb69e4": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-06-11",
    "hearing": "2026-06-11",
    "city": "Tempe",
@@ -696,7 +732,7 @@
   },
   "phoenix|24-2619": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2024-11-20",
    "city": "Phoenix",
@@ -705,7 +741,7 @@
   },
   "mesa|dsn 26026": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-09",
    "city": "Mesa",
@@ -714,7 +750,7 @@
   },
   "phoenix|25-2496": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-12-03",
    "city": "Phoenix",
@@ -723,7 +759,7 @@
   },
   "phoenix|25-2365": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-12-03",
    "city": "Phoenix",
@@ -732,7 +768,7 @@
   },
   "phoenix|25-2334": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-12-03",
    "city": "Phoenix",
@@ -741,7 +777,7 @@
   },
   "phoenix|25-2314": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-12-03",
    "city": "Phoenix",
@@ -750,7 +786,7 @@
   },
   "phoenix|25-2309": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-12-03",
    "city": "Phoenix",
@@ -759,7 +795,7 @@
   },
   "phoenix|25-1595": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Continued",
    "hearing": "2025-10-15",
    "city": "Phoenix",
@@ -768,7 +804,7 @@
   },
   "phoenix|25-1401": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-07-02",
    "city": "Phoenix",
@@ -777,7 +813,7 @@
   },
   "phoenix|25-1361": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Approved",
    "hearing": "2025-09-03",
    "city": "Phoenix",
@@ -786,7 +822,7 @@
   },
   "mesa|pz 26049": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-10",
    "city": "Mesa",
@@ -795,7 +831,7 @@
   },
   "mesa|pz 26044": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-10",
    "city": "Mesa",
@@ -804,25 +840,16 @@
   },
   "mesa|pz 26037": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-10",
    "city": "Mesa",
    "title": "ZON25-00110 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Rezone from Office Commercial (OC) to Limited Commercial with a Bonus Intensity Zone Overlay (LC-BIZ) and Site Plan Review. This request will allow for an approximately 4,015\u00b1 square foot Minor Automobile Repair facility. (District 3).\r\n\r\nPlanner: Emily Johnson\r\nStaff Recommendation: Approval with Conditions",
    "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23633&GUID=FC2E2A80-9315-4D2C-BFE0-0177221D6F34"
   },
-  "mesa|26-0606": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Study Session held on May 13, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549"
-  },
   "phoenix|23-0903": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2023-05-03",
    "city": "Phoenix",
@@ -831,7 +858,7 @@
   },
   "mesa|pz 26048": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-10",
    "city": "Mesa",
@@ -840,7 +867,7 @@
   },
   "apache junction|26-281": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Items",
    "hearing": "2026-06-01",
    "city": "Apache Junction",
@@ -849,7 +876,7 @@
   },
   "phoenix|26-1205": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -858,7 +885,7 @@
   },
   "phoenix|26-0824": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-06",
    "city": "Phoenix",
@@ -867,7 +894,7 @@
   },
   "mesa|26-0576": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -876,7 +903,7 @@
   },
   "mesa|26-0540": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -885,7 +912,7 @@
   },
   "mesa|26-0539": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -894,7 +921,7 @@
   },
   "tempe|t:bce9051d2a": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-06-04",
    "hearing": "2026-06-04",
    "city": "Tempe",
@@ -903,7 +930,7 @@
   },
   "tempe|t:6c50442bec": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-06-04",
    "hearing": "2026-06-04",
    "city": "Tempe",
@@ -912,7 +939,7 @@
   },
   "city of maricopa|res 26-10": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2026-06-02",
    "city": "City of Maricopa",
@@ -921,7 +948,7 @@
   },
   "phoenix|26-1120": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -930,7 +957,7 @@
   },
   "phoenix|26-1118": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -939,7 +966,7 @@
   },
   "phoenix|26-1102": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -948,7 +975,7 @@
   },
   "phoenix|26-1099": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -957,7 +984,7 @@
   },
   "phoenix|26-1088": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -966,7 +993,7 @@
   },
   "phoenix|26-1066": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -975,7 +1002,7 @@
   },
   "phoenix|26-0961": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -984,7 +1011,7 @@
   },
   "phoenix|26-0854": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -993,7 +1020,7 @@
   },
   "phoenix|26-0807": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -1002,7 +1029,7 @@
   },
   "phoenix|26-0582": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -1011,7 +1038,7 @@
   },
   "phoenix|25-1969": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-06-03",
    "city": "Phoenix",
@@ -1020,7 +1047,7 @@
   },
   "mesa|26-0512": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1029,7 +1056,7 @@
   },
   "mesa|pz 25115": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2025-12-10",
    "city": "Mesa",
@@ -1038,7 +1065,7 @@
   },
   "mesa|26-0599": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-07-20",
    "city": "Mesa",
@@ -1047,7 +1074,7 @@
   },
   "mesa|26-0597": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -1056,7 +1083,7 @@
   },
   "mesa|26-0511": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -1065,7 +1092,7 @@
   },
   "mesa|26-0500": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1074,7 +1101,7 @@
   },
   "mesa|26-0346": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1083,7 +1110,7 @@
   },
   "mesa|26-0055": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-02-23",
    "city": "Mesa",
@@ -1092,7 +1119,7 @@
   },
   "mesa|hp 26-010": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-02",
    "city": "Mesa",
@@ -1101,7 +1128,7 @@
   },
   "mesa|26-0564": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -1110,7 +1137,7 @@
   },
   "mesa|26-0537": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1119,7 +1146,7 @@
   },
   "mesa|26-0524": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1128,7 +1155,7 @@
   },
   "mesa|26-0348": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1137,7 +1164,7 @@
   },
   "phoenix|25-2399": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-11-19",
    "city": "Phoenix",
@@ -1146,7 +1173,7 @@
   },
   "apache junction|26-280": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Items",
    "hearing": "2026-06-01",
    "city": "Apache Junction",
@@ -1155,7 +1182,7 @@
   },
   "phoenix|25-2398": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-11-19",
    "city": "Phoenix",
@@ -1164,7 +1191,7 @@
   },
   "phoenix|25-2241": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Continued",
    "hearing": "2025-11-05",
    "city": "Phoenix",
@@ -1173,7 +1200,7 @@
   },
   "phoenix|20-2767": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Approved",
    "hearing": "2020-10-27",
    "city": "Phoenix",
@@ -1182,7 +1209,7 @@
   },
   "mesa|26-0578": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -1191,7 +1218,7 @@
   },
   "mesa|26-0557": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-08",
    "city": "Mesa",
@@ -1200,7 +1227,7 @@
   },
   "mesa|pz 26043": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-27",
    "city": "Mesa",
@@ -1209,7 +1236,7 @@
   },
   "mesa|pz 26042": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-27",
    "city": "Mesa",
@@ -1218,7 +1245,7 @@
   },
   "phoenix|26-0999": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1227,7 +1254,7 @@
   },
   "phoenix|25-2700": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready - Finance Department",
    "hearing": "2026-02-24",
    "city": "Phoenix",
@@ -1236,7 +1263,7 @@
   },
   "city of maricopa|res 26-09": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2026-05-19",
    "city": "City of Maricopa",
@@ -1245,7 +1272,7 @@
   },
   "city of maricopa|misc 26-12": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-05-19",
    "city": "City of Maricopa",
@@ -1254,7 +1281,7 @@
   },
   "phoenix|26-1187": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1263,7 +1290,7 @@
   },
   "phoenix|26-1084": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1272,7 +1299,7 @@
   },
   "phoenix|26-1064": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1281,7 +1308,7 @@
   },
   "phoenix|26-0979": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1290,7 +1317,7 @@
   },
   "phoenix|26-0949": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1299,7 +1326,7 @@
   },
   "phoenix|26-0833": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1308,7 +1335,7 @@
   },
   "phoenix|26-0832": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1317,7 +1344,7 @@
   },
   "phoenix|26-0679": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1326,7 +1353,7 @@
   },
   "mesa|26-0234": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1335,7 +1362,7 @@
   },
   "phoenix|25-2629": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-05-20",
    "city": "Phoenix",
@@ -1344,7 +1371,7 @@
   },
   "mesa|26-0510": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1353,7 +1380,7 @@
   },
   "mesa|26-0509": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1362,7 +1389,7 @@
   },
   "mesa|25-0957": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-01-26",
    "city": "Mesa",
@@ -1371,7 +1398,7 @@
   },
   "apache junction|26-241": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Public Hearing",
    "hearing": "2026-05-12",
    "city": "Apache Junction",
@@ -1380,7 +1407,7 @@
   },
   "mesa|26-0534": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-06-01",
    "city": "Mesa",
@@ -1389,7 +1416,7 @@
   },
   "mesa|26-0487": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1398,7 +1425,7 @@
   },
   "phoenix|25-1423": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-08-27",
    "city": "Phoenix",
@@ -1407,7 +1434,7 @@
   },
   "mesa|26-0460": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1416,7 +1443,7 @@
   },
   "mesa|26-0439": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-14",
    "city": "Mesa",
@@ -1425,7 +1452,7 @@
   },
   "phoenix|25-2649": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-02-04",
    "city": "Phoenix",
@@ -1434,7 +1461,7 @@
   },
   "tempe|t:f6a7225049": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-14",
    "hearing": "2026-05-14",
    "city": "Tempe",
@@ -1443,7 +1470,7 @@
   },
   "tempe|t:18a6de704d": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-14",
    "hearing": "2026-05-14",
    "city": "Tempe",
@@ -1452,7 +1479,7 @@
   },
   "tempe|t:1fb991f039": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-14",
    "hearing": "2026-05-14",
    "city": "Tempe",
@@ -1461,7 +1488,7 @@
   },
   "tempe|t:592e24dab5": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-14",
    "hearing": "2026-05-14",
    "city": "Tempe",
@@ -1470,7 +1497,7 @@
   },
   "tempe|t:595ecbb163": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-14",
    "hearing": "2026-05-14",
    "city": "Tempe",
@@ -1479,7 +1506,7 @@
   },
   "tempe|t:3bbf866116": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-14",
    "hearing": "2026-05-14",
    "city": "Tempe",
@@ -1488,7 +1515,7 @@
   },
   "tempe|t:2ca9ecdf33": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-14",
    "hearing": "2026-05-14",
    "city": "Tempe",
@@ -1497,7 +1524,7 @@
   },
   "phoenix|26-0861": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-15",
    "city": "Phoenix",
@@ -1506,7 +1533,7 @@
   },
   "phoenix|26-0447": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2026-03-25",
    "city": "Phoenix",
@@ -1515,7 +1542,7 @@
   },
   "phoenix|25-2164": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-10-29",
    "city": "Phoenix",
@@ -1524,7 +1551,7 @@
   },
   "tempe|pl260136": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-12",
    "hearing": "2026-05-12",
    "city": "Tempe",
@@ -1533,7 +1560,7 @@
   },
   "tempe|pl260123": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-12",
    "hearing": "2026-05-12",
    "city": "Tempe",
@@ -1542,7 +1569,7 @@
   },
   "tempe|pl260077": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-12",
    "hearing": "2026-05-12",
    "city": "Tempe",
@@ -1551,7 +1578,7 @@
   },
   "tempe|pl260032": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-12",
    "hearing": "2026-05-12",
    "city": "Tempe",
@@ -1560,7 +1587,7 @@
   },
   "tempe|t:a2d19b6f1f": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-12",
    "hearing": "2026-05-12",
    "city": "Tempe",
@@ -1569,7 +1596,7 @@
   },
   "tempe|t:6e3d30cf79": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-05-12",
    "hearing": "2026-05-12",
    "city": "Tempe",
@@ -1578,7 +1605,7 @@
   },
   "mesa|pz 26033": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-13",
    "city": "Mesa",
@@ -1587,7 +1614,7 @@
   },
   "phoenix|25-2115": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Adopted",
    "hearing": "2025-11-19",
    "city": "Phoenix",
@@ -1596,7 +1623,7 @@
   },
   "mesa|pz 26041": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-13",
    "city": "Mesa",
@@ -1605,7 +1632,7 @@
   },
   "mesa|26-0475": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1614,7 +1641,7 @@
   },
   "mesa|26-0469": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1623,7 +1650,7 @@
   },
   "mesa|26-0389": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-04",
    "city": "Mesa",
@@ -1632,7 +1659,7 @@
   },
   "city of maricopa|min 26-31": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2026-05-05",
    "city": "City of Maricopa",
@@ -1641,7 +1668,7 @@
   },
   "city of maricopa|gpa26-01": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-04-27",
    "city": "City of Maricopa",
@@ -1650,7 +1677,7 @@
   },
   "mesa|26-0454": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1659,7 +1686,7 @@
   },
   "mesa|26-0453": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-18",
    "city": "Mesa",
@@ -1668,7 +1695,7 @@
   },
   "mesa|26-0387": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-04",
    "city": "Mesa",
@@ -1677,7 +1704,7 @@
   },
   "mesa|26-0319": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-20",
    "city": "Mesa",
@@ -1686,7 +1713,7 @@
   },
   "city of maricopa|add 26-01": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-04-07",
    "city": "City of Maricopa",
@@ -1695,7 +1722,7 @@
   },
   "mesa|26-0388": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-04",
    "city": "Mesa",
@@ -1704,7 +1731,7 @@
   },
   "mesa|26-0318": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-20",
    "city": "Mesa",
@@ -1713,7 +1740,7 @@
   },
   "tempe|t:e80544a254": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-30",
    "hearing": "2026-04-30",
    "city": "Tempe",
@@ -1722,7 +1749,7 @@
   },
   "tempe|t:589e3f8cbf": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-30",
    "hearing": "2026-04-30",
    "city": "Tempe",
@@ -1731,7 +1758,7 @@
   },
   "tempe|t:f7d4206ce1": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-30",
    "hearing": "2026-04-30",
    "city": "Tempe",
@@ -1740,7 +1767,7 @@
   },
   "tempe|t:86bc865125": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-30",
    "hearing": "2026-04-30",
    "city": "Tempe",
@@ -1749,7 +1776,7 @@
   },
   "tempe|pl250190": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-29",
    "hearing": "2026-04-29",
    "city": "Tempe",
@@ -1758,7 +1785,7 @@
   },
   "tempe|pl250189": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-29",
    "hearing": "2026-04-29",
    "city": "Tempe",
@@ -1767,7 +1794,7 @@
   },
   "apache junction|26-212": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Public Hearing",
    "hearing": "2026-04-28",
    "city": "Apache Junction",
@@ -1776,7 +1803,7 @@
   },
   "apache junction|26-138": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Public Hearing",
    "hearing": "2026-04-21",
    "city": "Apache Junction",
@@ -1785,7 +1812,7 @@
   },
   "apache junction|26-116": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Public Hearing",
    "hearing": "2026-03-24",
    "city": "Apache Junction",
@@ -1794,7 +1821,7 @@
   },
   "mesa|26-0426": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-04",
    "city": "Mesa",
@@ -1803,7 +1830,7 @@
   },
   "mesa|26-0425": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-04",
    "city": "Mesa",
@@ -1812,7 +1839,7 @@
   },
   "mesa|26-0424": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-04",
    "city": "Mesa",
@@ -1821,7 +1848,7 @@
   },
   "mesa|26-0205": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-03-09",
    "city": "Mesa",
@@ -1830,7 +1857,7 @@
   },
   "tempe|pl260085": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-28",
    "hearing": "2026-04-28",
    "city": "Tempe",
@@ -1839,7 +1866,7 @@
   },
   "tempe|pl260084": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-28",
    "hearing": "2026-04-28",
    "city": "Tempe",
@@ -1848,7 +1875,7 @@
   },
   "tempe|pl260059": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-28",
    "hearing": "2026-04-28",
    "city": "Tempe",
@@ -1857,7 +1884,7 @@
   },
   "tempe|pl250368": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-28",
    "hearing": "2026-04-28",
    "city": "Tempe",
@@ -1866,7 +1893,7 @@
   },
   "tempe|pl250252": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-28",
    "hearing": "2026-04-28",
    "city": "Tempe",
@@ -1875,7 +1902,7 @@
   },
   "city of maricopa|pad26-02": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-03-23",
    "city": "City of Maricopa",
@@ -1884,7 +1911,7 @@
   },
   "city of maricopa|pad 23-07": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-03-23",
    "city": "City of Maricopa",
@@ -1893,7 +1920,7 @@
   },
   "city of maricopa|ord 26-07": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2026-04-21",
    "city": "City of Maricopa",
@@ -1902,7 +1929,7 @@
   },
   "city of maricopa|ord 26-06": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2026-04-21",
    "city": "City of Maricopa",
@@ -1911,7 +1938,7 @@
   },
   "city of maricopa|gpa 26-01": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-03-23",
    "city": "City of Maricopa",
@@ -1920,7 +1947,7 @@
   },
   "city of maricopa|app 26-05": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-04-21",
    "city": "City of Maricopa",
@@ -1929,7 +1956,7 @@
   },
   "mesa|26-0233": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-03-23",
    "city": "Mesa",
@@ -1938,7 +1965,7 @@
   },
   "mesa|26-0232": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-03-23",
    "city": "Mesa",
@@ -1947,7 +1974,7 @@
   },
   "mesa|25-0810": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2025-09-22",
    "city": "Mesa",
@@ -1956,7 +1983,7 @@
   },
   "tempe|t:04d0ed59ba": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-28",
    "hearing": "2026-04-28",
    "city": "Tempe",
@@ -1965,7 +1992,7 @@
   },
   "tempe|t:f4b6613239": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-28",
    "hearing": "2026-04-28",
    "city": "Tempe",
@@ -1974,7 +2001,7 @@
   },
   "city of maricopa|ord 26-04": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Tabled",
    "hearing": "2026-04-07",
    "city": "City of Maricopa",
@@ -1983,7 +2010,7 @@
   },
   "city of maricopa|res 14-36": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2014-11-05",
    "city": "City of Maricopa",
@@ -1992,7 +2019,7 @@
   },
   "mesa|pz 26040": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-22",
    "city": "Mesa",
@@ -2001,7 +2028,7 @@
   },
   "mesa|pz 26039": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-22",
    "city": "Mesa",
@@ -2010,7 +2037,7 @@
   },
   "mesa|pz 26032": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-22",
    "city": "Mesa",
@@ -2019,7 +2046,7 @@
   },
   "city of maricopa|ord 24-01": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2024-01-16",
    "city": "City of Maricopa",
@@ -2028,7 +2055,7 @@
   },
   "city of maricopa|res 20-04": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2020-02-04",
    "city": "City of Maricopa",
@@ -2037,7 +2064,7 @@
   },
   "city of maricopa|add 19-01": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Approved",
    "hearing": "2019-11-05",
    "city": "City of Maricopa",
@@ -2046,7 +2073,7 @@
   },
   "city of maricopa|wspres 16-15": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Work Session Agenda",
    "hearing": "2016-05-03",
    "city": "City of Maricopa",
@@ -2055,7 +2082,7 @@
   },
   "city of maricopa|pres 26-04": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2026-03-03",
    "city": "City of Maricopa",
@@ -2064,7 +2091,7 @@
   },
   "mesa|26-0391": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-20",
    "city": "Mesa",
@@ -2073,7 +2100,7 @@
   },
   "mesa|26-0430": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-05-04",
    "city": "Mesa",
@@ -2082,7 +2109,7 @@
   },
   "mesa|26-0235": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-06",
    "city": "Mesa",
@@ -2091,7 +2118,7 @@
   },
   "mesa|24-0351": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2024-04-15",
    "city": "Mesa",
@@ -2100,7 +2127,7 @@
   },
   "mesa|26-0237": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-20",
    "city": "Mesa",
@@ -2109,7 +2136,7 @@
   },
   "tempe|t:2b292f9c4f": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-16",
    "hearing": "2026-04-16",
    "city": "Tempe",
@@ -2118,7 +2145,7 @@
   },
   "tempe|t:229e17cc2d": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-16",
    "hearing": "2026-04-16",
    "city": "Tempe",
@@ -2127,7 +2154,7 @@
   },
   "tempe|t:57454302e6": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-16",
    "hearing": "2026-04-16",
    "city": "Tempe",
@@ -2136,7 +2163,7 @@
   },
   "tempe|t:f371beb59f": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-16",
    "hearing": "2026-04-16",
    "city": "Tempe",
@@ -2145,7 +2172,7 @@
   },
   "mesa|pz 25103": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2025-12-10",
    "city": "Mesa",
@@ -2154,7 +2181,7 @@
   },
   "mesa|pz 25102": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-01-14",
    "city": "Mesa",
@@ -2163,7 +2190,7 @@
   },
   "tempe|pl260061": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-14",
    "hearing": "2026-04-14",
    "city": "Tempe",
@@ -2172,7 +2199,7 @@
   },
   "tempe|pl260058": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-14",
    "hearing": "2026-04-14",
    "city": "Tempe",
@@ -2181,7 +2208,7 @@
   },
   "tempe|pl250244": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-14",
    "hearing": "2026-04-14",
    "city": "Tempe",
@@ -2190,7 +2217,7 @@
   },
   "tempe|pl250087": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Heard 2026-04-14",
    "hearing": "2026-04-14",
    "city": "Tempe",
@@ -2199,7 +2226,7 @@
   },
   "city of maricopa|zon22-10": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Regular Agenda",
    "hearing": "2022-12-12",
    "city": "City of Maricopa",
@@ -2208,7 +2235,7 @@
   },
   "mesa|26-0369": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-20",
    "city": "Mesa",
@@ -2217,7 +2244,7 @@
   },
   "mesa|26-0368": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-20",
    "city": "Mesa",
@@ -2226,7 +2253,7 @@
   },
   "mesa|26-0367": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-20",
    "city": "Mesa",
@@ -2235,7 +2262,7 @@
   },
   "city of maricopa|ord 26-05": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2026-04-07",
    "city": "City of Maricopa",
@@ -2244,7 +2271,7 @@
   },
   "city of maricopa|min 26-26": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Passed",
    "hearing": "2026-04-07",
    "city": "City of Maricopa",
@@ -2253,7 +2280,7 @@
   },
   "mesa|dsn 26020": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-14",
    "city": "Mesa",
@@ -2262,7 +2289,7 @@
   },
   "mesa|26-0392": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Agenda Ready",
    "hearing": "2026-04-16",
    "city": "Mesa",
@@ -2271,7 +2298,7 @@
   },
   "city of maricopa|res 26-07": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-07-06",
+   "last_seen": "2026-07-07",
    "status": "Tabled",
    "hearing": "2026-04-07",
    "city": "City of Maricopa",
@@ -2315,5 +2342,48 @@
    "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23380&GUID=2D7B6E19-7CCA-4403-A7C5-7C2284A20575"
   }
  },
- "events": []
+ "events": [
+  {
+   "date": "2026-07-07",
+   "kind": "new",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2026 Amendments to Title 18: Zoning\" by reference to add Section 18.76.125 regarding food truck courts in the Maricopa Station Overlay and to amend Sections 18.76.060, and 18.115.040 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6",
+   "file": "ORD 26-13",
+   "from": "",
+   "to": "",
+   "hearing": "2026-07-14",
+   "topics": [
+    "Housing"
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "kind": "new",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 18: Zoning\" by reference to amend Chapters 18.40, 18.75, 18.80, 18.90, 18.120, 18.135, 18.140 and 18.205 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4",
+   "file": "ORD 25-17",
+   "from": "",
+   "to": "",
+   "hearing": "2025-12-02",
+   "topics": [
+    "Housing"
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "kind": "new",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 17: Subdivisions\" by reference to amend Sections 17.20.050, 17.20.060 and 17.30.040 of the Maricopa City Code and providing for severability and the effective date thereof. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5",
+   "file": "ORD 25-16",
+   "from": "",
+   "to": "",
+   "hearing": "2025-12-02",
+   "topics": [
+    "Housing"
+   ]
+  }
+ ]
 }
