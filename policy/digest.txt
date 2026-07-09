@@ -1,12 +1,25 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-08 08:12 MST | window 90d | 260 items
+Generated 2026-07-09 08:53 MST | window 90d | 256 items
 
 
-=== HOUSING (189) ===
-  Glendale VAR25-10 [On upcoming agenda]: a.   VAR25-10 – Marius Smocot Variance - A variance request by Marius Smocot to reduce the
+=== HOUSING (187) ===
+  Glendale VAR25-10 [Heard 2026-07-09]: a.   VAR25-10 – Marius Smocot Variance - A variance request by Marius Smocot to reduce the
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6102
+  Apache Junction  [Passed]: Resolution 99-61
+
+RESOLUTION NO. 99-61
+A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=5413&GUID=A73EAC55-59A5-48F2-ABFC-E3CE5EB7DC53
   City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
+  Mesa 26-0613 [Agenda Ready]: Planning and Zoning Public Hearing held on May 27, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224
+  Mesa 26-0612 [Agenda Ready]: Planning and Zoning Study Session held on May 27, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6
+  Mesa 26-0607 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC
+  Mesa 26-0606 [Agenda Ready]: Planning and Zoning Study Session held on May 13, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549
   City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
   Apache Junction 26-342 [Public Hearing]: Presentation, Discussion and Public Hearing of the development fee study update including 
@@ -23,18 +36,10 @@ Generated 2026-07-08 08:12 MST | window 90d | 260 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4
   City of Maricopa ORD 25-16 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5
-  Mesa 26-0613 [Agenda Ready]: Planning and Zoning Public Hearing held on March 27, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224
-  Mesa 26-0612 [Agenda Ready]: Planning and Zoning Study Session held on March 27, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6
   Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
   Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
-  Mesa 26-0607 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC
-  Mesa 26-0606 [Agenda Ready]: Planning and Zoning Study Session held on May 13, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549
   Mesa 26-0598 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558
   Mesa HP 26-013 [Agenda Ready]: Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 6
@@ -81,8 +86,6 @@ Generated 2026-07-08 08:12 MST | window 90d | 260 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Tempe  [Heard 2026-06-25]: 1. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance to e
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
-  Mesa PZ 26047 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23811&GUID=8559947D-3436-46D0-8370-FDD7F73713D2
 
 === HEAT (7) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -100,10 +103,10 @@ Generated 2026-07-08 08:12 MST | window 90d | 260 items
   Tempe PL250087 [Heard 2026-04-14]: 4A. Request two Use Permits to allow 1) a detached engineered shade structure within the s
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4008
 
-=== TRANSIT (62) ===
-  Glendale  [On upcoming agenda]: July 9, 2026 6:00 PM Transportation Dept. Office 6210 W Myrtle Ave Building A, Suite 111/1
+=== TRANSIT (60) ===
+  Glendale  [Heard 2026-07-09]: July 9, 2026 6:00 PM Transportation Dept. Office 6210 W Myrtle Ave Building A, Suite 111/1
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
-  Glendale  [On upcoming agenda]: 8.   COMMISSIONER UPDATES Commissioners will share information obtained from a variety of 
+  Glendale  [Heard 2026-07-09]: 8.   COMMISSIONER UPDATES Commissioners will share information obtained from a variety of 
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Apache Junction 26-328 [Consent Agenda]: Consideration of the Third Amendment to the Professional Services Agreement between the Ci
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE
@@ -182,8 +185,8 @@ Generated 2026-07-08 08:12 MST | window 90d | 260 items
   Phoenix 26-0949 [Adopted]: The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD
 
-=== WALKABILITY (17) ===
-  Glendale  [On upcoming agenda]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
+=== WALKABILITY (16) ===
+  Glendale  [Heard 2026-07-09]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
@@ -207,8 +210,6 @@ Generated 2026-07-08 08:12 MST | window 90d | 260 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4019
   Tempe  [Heard 2026-05-14]: 3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance auth
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4019
-  Phoenix 25-2115 [Adopted]: Acceptance and Dedication of a Deed and Easements for Roadway, Public Utility, and Sidewal
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33341&GUID=C8FECA2F-DD27-4F34-8815-09E343F4C872
   Mesa 26-0475 [Agenda Ready]: One-Year Use of a Cooperative Term Contract with Three, One-Year Renewal Options for the P
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23690&GUID=1E9EB218-E6E6-4FB0-9AB9-81CE797C2CC0
   City of Maricopa PRES 26-04 [Regular Agenda]: The Mayor and City Council shall hear proposed Amendments to City Code - Sidewalk Use and 
