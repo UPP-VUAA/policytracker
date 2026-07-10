@@ -1,10 +1,18 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-09 08:53 MST | window 90d | 256 items
+Generated 2026-07-10 08:28 MST | window 90d | 256 items
 
 
 === HOUSING (187) ===
+  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 81, 86, and 87. The amendm
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
   Glendale VAR25-10 [Heard 2026-07-09]: a.   VAR25-10 – Marius Smocot Variance - A variance request by Marius Smocot to reduce the
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6102
+  Mesa 26-0622 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23838&GUID=51135620-DBAC-43BA-9577-C9118F821FDA
+  Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
+  Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
   Apache Junction  [Passed]: Resolution 99-61
 
 RESOLUTION NO. 99-61
@@ -24,10 +32,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
   Apache Junction 26-342 [Public Hearing]: Presentation, Discussion and Public Hearing of the development fee study update including 
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5
-  Mesa 26-0622 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23838&GUID=51135620-DBAC-43BA-9577-C9118F821FDA
-  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 67, 81, 86, and 87. The am
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
   Phoenix 25-2681 [Adopted]: (CONTINUED FROM NOVEMBER 19, DECEMBER 3 AND 17, 2025) - Public Hearing and Ordinance Adopt
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33907&GUID=444DB3BD-ADFF-4559-BC8E-950C4591E4C7
   Phoenix 25-1969 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1295 (Ordinance G-7517) - District 2
@@ -36,10 +40,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4
   City of Maricopa ORD 25-16 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5
-  Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
-  Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
   Mesa 26-0598 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558
   Mesa HP 26-013 [Agenda Ready]: Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 6
@@ -104,16 +104,16 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4008
 
 === TRANSIT (60) ===
+  Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
+  Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D
   Glendale  [Heard 2026-07-09]: July 9, 2026 6:00 PM Transportation Dept. Office 6210 W Myrtle Ave Building A, Suite 111/1
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Glendale  [Heard 2026-07-09]: 8.   COMMISSIONER UPDATES Commissioners will share information obtained from a variety of 
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Apache Junction 26-328 [Consent Agenda]: Consideration of the Third Amendment to the Professional Services Agreement between the Ci
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE
-  Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
-  Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D
   Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   Tempe PL260139 [Heard 2026-06-25]: 2. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance for 
