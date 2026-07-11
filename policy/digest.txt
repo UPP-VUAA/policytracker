@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-10 08:28 MST | window 90d | 256 items
+Generated 2026-07-11 07:19 MST | window 90d | 257 items
 
 
-=== HOUSING (187) ===
+=== HOUSING (188) ===
+  Mesa 26-0636 [Agenda Ready]: A resolution declaring the documents filed with the City Clerk titled “2026 Zoning Code Re
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23852&GUID=D38493D8-FD63-4B21-AC79-D0CC9B11AC41
   Mesa 26-0621 [Agenda Ready]: Proposed amendments to Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 81, 86, and 87. The amendm
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
   Glendale VAR25-10 [Heard 2026-07-09]: a.   VAR25-10 – Marius Smocot Variance - A variance request by Marius Smocot to reduce the
@@ -83,8 +85,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
   Tempe PL260139 [Heard 2026-06-25]: 2. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance for 
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Tempe  [Heard 2026-06-25]: 2. Adopt a resolution approving and authorizing the issuance of The Industrial Development
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
-  Tempe  [Heard 2026-06-25]: 1. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance to e
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
 === HEAT (7) ===
