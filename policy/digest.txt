@@ -1,32 +1,32 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-14 07:44 MST | window 90d | 251 items
+Generated 2026-07-15 07:43 MST | window 90d | 252 items
 
 
 === HOUSING (182) ===
+  Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
+  Mesa PZ 26022 [Agenda Ready]: GPA25-00233 "Haven at Hawes," 38± acres located at the southeast corner of South Hawes Roa
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23456&GUID=3CA338D7-EE66-48FC-81D4-27DCF7F16871
+  City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
   City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
-  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 81, 86, and 87. The amendm
+  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
+  Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
   Mesa PZ 26049 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23634&GUID=411CB7C1-306C-4344-9CCF-8F72E25BA545
   Mesa PZ 26033 [Agenda Ready]: ZON25-00626. "NTT Mesa PH10" 170± acres located at the northeast corner of East Pecos Road
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23559&GUID=3E619CFF-FB13-4556-83CA-17641E9FEF71
-  City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
   City of Maricopa CUP24-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=13114&GUID=87EB11F1-118D-4C97-AB70-768AD0B1D8AE
-  Mesa 26-0622 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23838&GUID=51135620-DBAC-43BA-9577-C9118F821FDA
-  Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
   Mesa 26-0613 [Agenda Ready]: Planning and Zoning Public Hearing held on May 27, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224
   Mesa 26-0612 [Agenda Ready]: Planning and Zoning Study Session held on May 27, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6
   Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
-  Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
   Mesa 26-0607 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC
   Mesa 26-0606 [Agenda Ready]: Planning and Zoning Study Session held on May 13, 2026.
@@ -101,13 +101,15 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
   Tempe PL250368 [Heard 2026-04-28]: 4A. Request a Use Permit to allow a detached engineered shade structure in the R1-6 zoning
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4013
 
-=== TRANSIT (61) ===
+=== TRANSIT (62) ===
+  City of Maricopa IGA 23-12 [Passed]: The Mayor and City Council shall discuss and take action to approve an Intergovernmental A
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=12254&GUID=C8E69A29-683A-4A6A-8C16-FD2213CB02A0
+  Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
   Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D
-  Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
   Glendale  [Heard 2026-07-09]: July 9, 2026 6:00 PM Transportation Dept. Office 6210 W Myrtle Ave Building A, Suite 111/1
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Glendale  [Heard 2026-07-09]: 8.   COMMISSIONER UPDATES Commissioners will share information obtained from a variety of 
@@ -180,8 +182,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35222&GUID=D57253AA-6D1B-40E8-BF4D-85D0487B7196
   Phoenix 26-1084 [Agenda Ready]: October 2026 Proposed Bus Service Changes and Public Outreach - Districts 1, 2, 3, 5, 7, 8
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35119&GUID=C9E92B91-D579-4673-B2A4-C7EB835F46E3
-  Phoenix 26-1064 [Agenda Ready]: Transit Scheduling and Dispatch Software Upgrade and Maintenance Agreement Extension - Cit
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35099&GUID=E3721521-B187-4CA6-B4D3-B375557D6220
 
 === WALKABILITY (16) ===
   Glendale  [Heard 2026-07-09]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
