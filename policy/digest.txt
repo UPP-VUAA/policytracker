@@ -1,8 +1,12 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-15 07:43 MST | window 90d | 252 items
+Generated 2026-07-16 07:53 MST | window 90d | 245 items
 
 
-=== HOUSING (182) ===
+=== HOUSING (179) ===
+  Mesa PZ 26060 [Agenda Ready]: Planning and Zoning minutes from June 24, 2026 Planning and Zoning Board
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23877&GUID=B9115364-B425-426E-BFC4-7B93ACF21B98
+  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
   Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
   Mesa PZ 26022 [Agenda Ready]: GPA25-00233 "Haven at Hawes," 38± acres located at the southeast corner of South Hawes Roa
@@ -11,8 +15,6 @@ Generated 2026-07-15 07:43 MST | window 90d | 252 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
   City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
-  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
   Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
   Mesa PZ 26049 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
@@ -84,8 +86,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35343&GUID=37955FCE-7DFB-4EC9-B9E0-EC7D453184D4
   Phoenix 26-1256 [Adopted]: Remove/Replace Zoning District - Briles Pass - Annexation 554 - Approximately 460 Feet Eas
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35291&GUID=0DBD87E1-DA2E-4567-BAE9-41E55B3A0F19
-  Phoenix 26-1236 [Adopted]: Multi-Family Window Replacement Contract - RFP FY26-086-13 - Request for Award (Ordinance 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35271&GUID=AE968E10-8026-4780-AE11-9E1DE76A86B8
 
 === HEAT (6) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -101,7 +101,7 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
   Tempe PL250368 [Heard 2026-04-28]: 4A. Request a Use Permit to allow a detached engineered shade structure in the R1-6 zoning
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4013
 
-=== TRANSIT (62) ===
+=== TRANSIT (59) ===
   City of Maricopa IGA 23-12 [Passed]: The Mayor and City Council shall discuss and take action to approve an Intergovernmental A
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=12254&GUID=C8E69A29-683A-4A6A-8C16-FD2213CB02A0
   Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
@@ -183,7 +183,7 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
   Phoenix 26-1084 [Agenda Ready]: October 2026 Proposed Bus Service Changes and Public Outreach - Districts 1, 2, 3, 5, 7, 8
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35119&GUID=C9E92B91-D579-4673-B2A4-C7EB835F46E3
 
-=== WALKABILITY (16) ===
+=== WALKABILITY (15) ===
   Glendale  [Heard 2026-07-09]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -214,5 +214,3 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15043&GUID=76C195CF-3124-4719-87B0-60BFC68CE6CC
   Mesa 26-0430 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Pavement Marking Materials and 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23645&GUID=90634311-D13C-4FDC-95B9-9C7B395E2C01
-  Tempe  [Heard 2026-04-16]: 11. Award a professional services contract to T.Y. Lin International, Inc., for Project No
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4009
