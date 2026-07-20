@@ -1,16 +1,16 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-19 07:21 MST | window 90d | 254 items
+Generated 2026-07-20 08:04 MST | window 90d | 252 items
 
 
-=== HOUSING (187) ===
-  Mesa 26-0686 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55
+=== HOUSING (186) ===
   Mesa 26-0685 [Agenda Ready]: A resolution declaring the document filed with the City Clerk titled "Option 2: Section 11
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23900&GUID=4A98B4E4-3DAC-4DB4-B9C9-BA62FF59CF15
   Mesa 26-0684 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23899&GUID=F3D834D2-46A5-4E0E-B2F2-F36ADAA35638
   Mesa 26-0683 [Agenda Ready]: A resolution declaring the document filed with the City Clerk titled "Option 1: Section 11
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23898&GUID=AFC1988C-B45F-489C-9D6B-12540582CA5A
+  Mesa 26-0686 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55
   Mesa 26-0638 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23854&GUID=7784C37A-19A9-4C75-9093-C527B8345252
   Mesa 26-0636 [Agenda Ready]: A resolution declaring the documents filed with the City Clerk titled “2026 Zoning Code Re
@@ -101,7 +101,7 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
   Tempe PL250368 [Heard 2026-04-28]: 4A. Request a Use Permit to allow a detached engineered shade structure in the R1-6 zoning
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4013
 
-=== TRANSIT (60) ===
+=== TRANSIT (59) ===
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
   Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
@@ -183,7 +183,7 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
   Phoenix 26-1187 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35222&GUID=D57253AA-6D1B-40E8-BF4D-85D0487B7196
 
-=== WALKABILITY (15) ===
+=== WALKABILITY (14) ===
   Glendale  [Heard 2026-07-09]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -212,5 +212,3 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23690&GUID=1E9EB218-E6E6-4FB0-9AB9-81CE797C2CC0
   City of Maricopa PRES 26-04 [Regular Agenda]: The Mayor and City Council shall hear proposed Amendments to City Code - Sidewalk Use and 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15043&GUID=76C195CF-3124-4719-87B0-60BFC68CE6CC
-  Mesa 26-0430 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Pavement Marking Materials and 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23645&GUID=90634311-D13C-4FDC-95B9-9C7B395E2C01
