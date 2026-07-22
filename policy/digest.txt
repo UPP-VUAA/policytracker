@@ -1,10 +1,12 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-21 07:59 MST | window 90d | 250 items
+Generated 2026-07-22 08:00 MST | window 90d | 248 items
 
 
-=== HOUSING (186) ===
+=== HOUSING (184) ===
   City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
+  Phoenix 26-1364 [Passed]: ***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoni
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913
   Mesa 26-0686 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55
   Mesa 26-0684 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
@@ -84,8 +86,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950
   Apache Junction 26-349 [Agenda Items]: Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, repre
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12396&GUID=EFACE385-2D96-42F4-9658-6907454C00F0
-  Phoenix 26-1441 [Adopted]: Issuance of a Multifamily Revenue Note (The Hacienda at Sunnyslope Apartments Project), Se
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35476&GUID=03893FD5-BBFD-42CB-A2A4-04FA0CC602F9
 
 === HEAT (6) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 

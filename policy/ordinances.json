@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-21T07:59:10.587247-07:00",
+  "generated": "2026-07-22T08:00:02.827716-07:00",
   "window_days": 90,
-  "count": 250,
+  "count": 248,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -34,6 +34,29 @@
       "_uid": 0
     },
     {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-1364",
+      "type": "Formal Action",
+      "status": "Passed",
+      "title": "***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner of Interstate 17 and Grandview Road - District 3",
+      "intro": "2026-06-01",
+      "agenda": "2026-07-01",
+      "enacted": "",
+      "last_modified": "2026-07-21",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 1
+    },
+    {
       "city": "Mesa",
       "county": "Maricopa",
       "topics": [
@@ -54,7 +77,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 2
     },
     {
       "city": "Mesa",
@@ -77,7 +100,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
+      "_uid": 3
     },
     {
       "city": "Mesa",
@@ -95,12 +118,12 @@
       "last_modified": "2026-07-21",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23854&GUID=7784C37A-19A9-4C75-9093-C527B8345252",
       "source": "Legistar",
-      "_action_days": 6,
+      "_action_days": 5,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 4
     },
     {
       "city": "Mesa",
@@ -123,7 +146,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
+      "_uid": 5
     },
     {
       "city": "Phoenix",
@@ -146,7 +169,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 5
+      "_uid": 6
     },
     {
       "city": "Phoenix",
@@ -165,11 +188,11 @@
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=22237&GUID=FA800265-E87C-4217-A0A1-8568C31462E5",
       "source": "Legistar",
       "_action_days": null,
-      "_new": true,
+      "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 7
     },
     {
       "city": "Mesa",
@@ -192,7 +215,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 8
     },
     {
       "city": "Mesa",
@@ -215,7 +238,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
+      "_uid": 9
     },
     {
       "city": "Mesa",
@@ -238,7 +261,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 9
+      "_uid": 10
     },
     {
       "city": "Mesa",
@@ -261,7 +284,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 10
+      "_uid": 11
     },
     {
       "city": "Mesa",
@@ -279,12 +302,12 @@
       "last_modified": "2026-07-16",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23889&GUID=C74F58A7-EBC0-42BC-B42D-FB59C5E24AC5",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 11
+      "_uid": 12
     },
     {
       "city": "Mesa",
@@ -302,12 +325,12 @@
       "last_modified": "2026-07-16",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23877&GUID=B9115364-B425-426E-BFC4-7B93ACF21B98",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 12
+      "_uid": 13
     },
     {
       "city": "Mesa",
@@ -325,12 +348,12 @@
       "last_modified": "2026-07-16",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23856&GUID=3E7DB38B-899C-4251-A299-0DBA752930B5",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 13
+      "_uid": 14
     },
     {
       "city": "City of Maricopa",
@@ -348,12 +371,12 @@
       "last_modified": "2026-07-16",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15403&GUID=2886FB4A-C69F-4FDB-A640-921FEC268657",
       "source": "Legistar",
-      "_action_days": 6,
+      "_action_days": 5,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 14
+      "_uid": 15
     },
     {
       "city": "City of Maricopa",
@@ -371,12 +394,12 @@
       "last_modified": "2026-07-16",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15392&GUID=1E34198C-179D-4479-BC45-B744F5C9A78D",
       "source": "Legistar",
-      "_action_days": 6,
+      "_action_days": 5,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 15
+      "_uid": 16
     },
     {
       "city": "Mesa",
@@ -399,7 +422,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 16
+      "_uid": 17
     },
     {
       "city": "Mesa",
@@ -422,7 +445,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 17
+      "_uid": 18
     },
     {
       "city": "Mesa",
@@ -445,7 +468,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 18
+      "_uid": 19
     },
     {
       "city": "Mesa",
@@ -468,7 +491,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 19
+      "_uid": 20
     },
     {
       "city": "Mesa",
@@ -491,7 +514,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 20
+      "_uid": 21
     },
     {
       "city": "Mesa",
@@ -514,7 +537,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 21
+      "_uid": 22
     },
     {
       "city": "Mesa",
@@ -537,7 +560,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 22
+      "_uid": 23
     },
     {
       "city": "Phoenix",
@@ -560,7 +583,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 23
+      "_uid": 24
     },
     {
       "city": "Mesa",
@@ -583,7 +606,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 24
+      "_uid": 25
     },
     {
       "city": "City of Maricopa",
@@ -606,7 +629,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 25
+      "_uid": 26
     },
     {
       "city": "City of Maricopa",
@@ -629,7 +652,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 26
+      "_uid": 27
     },
     {
       "city": "Mesa",
@@ -653,7 +676,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 27
+      "_uid": 28
     },
     {
       "city": "Mesa",
@@ -676,7 +699,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 28
+      "_uid": 29
     },
     {
       "city": "Mesa",
@@ -699,7 +722,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 29
+      "_uid": 30
     },
     {
       "city": "City of Maricopa",
@@ -722,7 +745,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 30
+      "_uid": 31
     },
     {
       "city": "Mesa",
@@ -745,7 +768,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 31
+      "_uid": 32
     },
     {
       "city": "Phoenix",
@@ -768,7 +791,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 32
+      "_uid": 33
     },
     {
       "city": "Glendale",
@@ -791,7 +814,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 33
+      "_uid": 34
     },
     {
       "city": "Apache Junction",
@@ -814,7 +837,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 34
+      "_uid": 35
     },
     {
       "city": "Glendale",
@@ -837,7 +860,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 35
+      "_uid": 36
     },
     {
       "city": "Glendale",
@@ -860,7 +883,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 36
+      "_uid": 37
     },
     {
       "city": "Glendale",
@@ -883,7 +906,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 37
+      "_uid": 38
     },
     {
       "city": "Apache Junction",
@@ -906,7 +929,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 38
+      "_uid": 39
     },
     {
       "city": "Apache Junction",
@@ -929,7 +952,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 39
+      "_uid": 40
     },
     {
       "city": "Phoenix",
@@ -952,7 +975,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 40
+      "_uid": 41
     },
     {
       "city": "Phoenix",
@@ -975,7 +998,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 41
+      "_uid": 42
     },
     {
       "city": "City of Maricopa",
@@ -998,7 +1021,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 42
+      "_uid": 43
     },
     {
       "city": "City of Maricopa",
@@ -1021,7 +1044,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 43
+      "_uid": 44
     },
     {
       "city": "Mesa",
@@ -1044,7 +1067,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 44
+      "_uid": 45
     },
     {
       "city": "Mesa",
@@ -1068,7 +1091,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 45
+      "_uid": 46
     },
     {
       "city": "Mesa",
@@ -1091,7 +1114,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 46
+      "_uid": 47
     },
     {
       "city": "Apache Junction",
@@ -1114,7 +1137,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 47
+      "_uid": 48
     },
     {
       "city": "Phoenix",
@@ -1137,7 +1160,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 48
+      "_uid": 49
     },
     {
       "city": "Phoenix",
@@ -1160,7 +1183,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 49
+      "_uid": 50
     },
     {
       "city": "Phoenix",
@@ -1183,7 +1206,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 50
+      "_uid": 51
     },
     {
       "city": "Phoenix",
@@ -1206,7 +1229,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 51
+      "_uid": 52
     },
     {
       "city": "Phoenix",
@@ -1229,7 +1252,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 52
+      "_uid": 53
     },
     {
       "city": "Phoenix",
@@ -1252,7 +1275,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 53
+      "_uid": 54
     },
     {
       "city": "Phoenix",
@@ -1269,29 +1292,6 @@
       "enacted": "",
       "last_modified": "2026-07-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35400&GUID=EF093578-D7BE-4D48-A74B-EC032E5385C3",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 54
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-1364",
-      "type": "Formal Action",
-      "status": "Passed",
-      "title": "***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner of Interstate 17 and Grandview Road - District 3",
-      "intro": "2026-06-01",
-      "agenda": "2026-07-01",
-      "enacted": "",
-      "last_modified": "2026-07-01",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913",
       "source": "Legistar",
       "_action_days": null,
       "_new": false,
@@ -5726,52 +5726,6 @@
       "_movefrom": "",
       "_moveto": "",
       "_uid": 247
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Housing"
-      ],
-      "file": "RES 20-04",
-      "type": "Resolution",
-      "status": "Regular Agenda",
-      "title": "A Resolution of the Mayor and City Council of the City of Maricopa, Arizona, approving the renaming of the following streets located within the subdivision of the Maricopa Townsite:  West Maricopa Avenue to Heritage Lane, West Burkett Avenue to West Stagecoach Lane, West Arizona Avenue to West Arizona Lane, a portion of West Maricopa Casa Grande Hwy. to West Mercado Street, and North Pershing Street to North Main Street. Discussion and Action.",
-      "intro": "2020-01-17",
-      "agenda": "2020-02-04",
-      "enacted": "",
-      "last_modified": "2026-04-22",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=9314&GUID=04053441-7292-44AD-B0EA-70852A2035A5",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 248
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Housing"
-      ],
-      "file": "ADD 19-01",
-      "type": "Addressing",
-      "status": "Approved",
-      "title": "An initation by the Mayor and City Council of the City of Maricopa, Arizona, approving staff to pursue six (6) street name changes within Subdivision of Block 3, within the Heritage Redevelopment District.  Discussion and Action.",
-      "intro": "2019-09-26",
-      "agenda": "2019-11-05",
-      "enacted": "",
-      "last_modified": "2026-04-22",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=9054&GUID=ED2F35B3-A9FC-486D-83E7-CDCA1B9A6DBC",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 249
     }
   ]
 }
