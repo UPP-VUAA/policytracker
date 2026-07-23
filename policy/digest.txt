@@ -1,8 +1,22 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-22 08:00 MST | window 90d | 248 items
+Generated 2026-07-23 08:03 MST | window 90d | 245 items
 
 
-=== HOUSING (184) ===
+=== HOUSING (185) ===
+  Phoenix 26-0983 [Adopted]: Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordi
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35018&GUID=262E325E-8AD5-4871-B86C-4DA258A45919
+  Phoenix 26-0561 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1300 (Ordinance G-7469) - District 6
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34597&GUID=CB25670F-3C49-469A-A933-782BE5067D89
+  Phoenix 25-2794 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-9-25-4 - Approximately 76
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34020&GUID=1FFEF153-99AD-4DE9-B4DB-FEDE20D529F9
+  Phoenix 25-2791 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-121-25-4 - Approximately 765
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34017&GUID=C333E786-5DCF-4DCA-82C8-9CDFA1FC2BD3
+  Phoenix 25-2788 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-127-25-2 - Approximately 585
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34014&GUID=1905CF2F-E3C2-4702-8BB0-ABBD60FC2C33
+  Phoenix 25-2763 [Adopted]: Public Hearing and Ordinance Adoption - Rezoning Application Z-44-25-6 (2400 Biltmore Resi
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33989&GUID=C2429BFF-05EB-4A5D-8DAA-6DC596882345
+  Phoenix 25-2739 [Passed]: PCD Major Amendment - Rezoning Application Z-237-M-85-2 - Southeast Corner of Cave Creek R
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33965&GUID=824F3219-86DC-4BEF-ADE4-BCFD370C1B87
   City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
   Phoenix 26-1364 [Passed]: ***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoni
@@ -72,20 +86,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=5413&GUID=A73EAC55-59A5-48F2-ABFC-E3CE5EB7DC53
   Apache Junction 26-342 [Public Hearing]: Presentation, Discussion and Public Hearing of the development fee study update including 
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5
-  Phoenix 25-2681 [Adopted]: (CONTINUED FROM NOVEMBER 19, DECEMBER 3 AND 17, 2025) - Public Hearing and Ordinance Adopt
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33907&GUID=444DB3BD-ADFF-4559-BC8E-950C4591E4C7
-  Phoenix 25-1969 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1295 (Ordinance G-7517) - District 2
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33196&GUID=BC0E2AF6-5FAD-456F-9ED6-16D4102E2D3B
-  City of Maricopa ORD 25-17 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4
-  City of Maricopa ORD 25-16 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5
-  Mesa 26-0598 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558
-  Mesa HP 26-013 [Agenda Ready]: Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 6
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950
-  Apache Junction 26-349 [Agenda Items]: Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, repre
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12396&GUID=EFACE385-2D96-42F4-9658-6907454C00F0
 
 === HEAT (6) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -101,7 +101,7 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
   Tempe PL250368 [Heard 2026-04-28]: 4A. Request a Use Permit to allow a detached engineered shade structure in the R1-6 zoning
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4013
 
-=== TRANSIT (58) ===
+=== TRANSIT (54) ===
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
   Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
@@ -180,10 +180,10 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12327&GUID=A3AF8400-DB20-4F8A-A955-4EA9FC8342CE
   Mesa 26-0578 [Agenda Ready]: Purchase of Solar-Powered Portable Traffic Signal Trailers for the Transportation Departme
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23794&GUID=E3541BC7-64D1-49E9-948D-B11772886B2C
-  Phoenix 26-1187 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35222&GUID=D57253AA-6D1B-40E8-BF4D-85D0487B7196
+  Phoenix 26-0949 [Adopted]: The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD
 
-=== WALKABILITY (13) ===
+=== WALKABILITY (12) ===
   Glendale  [Heard 2026-07-09]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -202,8 +202,6 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34715&GUID=0E239BB3-89AB-4683-BA7E-61F8227ACECE
   Mesa 26-0534 [Agenda Ready]: 10-Month Use of a Cooperative Term Contract with Four One-Year Renewal Options for the Pur
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23750&GUID=E21D5C1E-0BC2-4866-B895-1C23D1DC828F
-  Phoenix 25-1423 [Adopted]: Acceptance and Dedication of Deeds and Easements for Multi Use Trail, Bus Bay, Roadway, Pu
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=32650&GUID=0D5E1B4F-483D-48CE-A86B-FE760E17EB3A
   Tempe  [Heard 2026-05-14]: 2) one-tenth of one percent (0.1%) allocated for the improvement and operation of Tempe’s 
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4019
   Tempe  [Heard 2026-05-14]: 3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance auth
