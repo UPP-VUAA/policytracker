@@ -1,8 +1,8 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-24 07:48 MST | window 90d | 197 items
+Generated 2026-07-25 07:27 MST | window 90d | 246 items
 
 
-=== HOUSING (149) ===
+=== HOUSING (186) ===
   Mesa PZ 26057 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23864&GUID=AD8FD861-9BFF-49BE-93A4-6C13CE40922D
   Mesa 26-0638 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
@@ -87,17 +87,21 @@ RESOLUTION NO. 99-61
 A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=5413&GUID=A73EAC55-59A5-48F2-ABFC-E3CE5EB7DC53
 
-=== HEAT (4) ===
+=== HEAT (6) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
+  Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Phoenix 26-1205 [Agenda Ready]: Hiking and Heat Safety Update - Citywide
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35240&GUID=BC348B91-8D6A-400D-B11A-9D0C58171958
   Phoenix 26-0999 [Adopted]: Authorization to Amend Emergency Shelter/Heat Related Respite Operator and Supportive Serv
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35034&GUID=775334FE-4CB3-4010-AF3D-77A2C7D12785
   Phoenix 25-2700 [Agenda Ready - Finance Department]: Heat Relief Online Training Curriculum Contract - RFQ-26-0144 Request for Award (Ordinance
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33926&GUID=F0FD9D5D-0336-4E76-9450-C6FA6C1A7AB2
+  Tempe PL250368 [Heard 2026-04-28]: 4A. Request a Use Permit to allow a detached engineered shade structure in the R1-6 zoning
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4013
 
-=== TRANSIT (41) ===
+=== TRANSIT (54) ===
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
   Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
@@ -116,8 +120,16 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE
   Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
+  Tempe PL260139 [Heard 2026-06-25]: 2. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance for 
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Mesa 25-0329 [Agenda Ready]: Amending Sections 10-4-4 and 10-4-5 of the Mesa City Code to modify the limits of the exis
      https://mesa.legistar.com/LegislationDetail.aspx?ID=22430&GUID=B4A1F9AC-3059-49DF-9391-22493C696D7B
+  Tempe  [Heard 2026-06-25]: 12. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
+  Tempe  [Heard 2026-06-25]: 13. Approve a one-year contract renewal with Sapphire Gas Solutions LLC, for the supply of
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
+  Tempe  [Heard 2026-06-25]: 3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance amen
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Mesa PZ 26046 [Agenda Ready]: ZON26-00155. “DU 5/6 South Plan Amendment,” 750+/- acres located between East Elliot Road 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4
   City of Maricopa CON 12-080 [Passed]: The Mayor and City Council shall discuss and possibly take action on a request to approve 
@@ -138,6 +150,12 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12364&GUID=251EB27E-5439-421D-9ED0-116BE014B378
   Apache Junction 26-188 [New Business]: Presentation, discussion and consideration of proposed Resolution No. 26-20 authorizing th
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12234&GUID=24AEB08A-4A86-4EDA-B5DE-5910001B84D4
+  Tempe  [Heard 2026-06-11]: 1. Approve and authorize Deputy City Manager Greg Ruiz to execute the Settlement Agreement
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030
+  Tempe  [Heard 2026-06-11]: 2. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance a
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030
+  Tempe PL260139 [Heard 2026-06-04]: 2. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance f
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025
   Mesa 26-0540 [Agenda Ready]: Approving and authorizing the City Manager to enter into an amendment to Intergovernmental
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23756&GUID=2AC2BED8-FAF4-4713-8041-7D8D281FDDC3
   Mesa 26-0539 [Agenda Ready]: Approving and authorizing the City Manager to enter into a funding agreement with Valley M
@@ -164,22 +182,8 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23794&GUID=E3541BC7-64D1-49E9-948D-B11772886B2C
   Phoenix 26-0949 [Adopted]: The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD
-  Phoenix 26-0833 [Adopted]: Clark Electric Sales, Inc., dba Clark Transportation Solutions and Sierra Transportation &
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34869&GUID=F1540DC0-D075-420A-A118-23EDB86240A2
-  Phoenix 26-0832 [Adopted]: Intergovernmental Agreement with Arizona Department of Transportation for Abandonment and 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34868&GUID=7A01D635-5353-457D-AE9E-A3CA20159D78
-  Mesa 26-0534 [Agenda Ready]: 10-Month Use of a Cooperative Term Contract with Four One-Year Renewal Options for the Pur
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23750&GUID=E21D5C1E-0BC2-4866-B895-1C23D1DC828F
-  Mesa 26-0460 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Intergovernmental Agreement (I
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23675&GUID=C8CC20F5-FFFF-465B-811F-DC7FD8F8ADBD
-  Mesa 26-0439 [Agenda Ready]: Hear a presentation, discuss, and provide direction on the proposed 2026 general obligatio
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23654&GUID=9D21F208-3E17-4514-B787-B88B269624AD
-  Mesa 26-0475 [Agenda Ready]: One-Year Use of a Cooperative Term Contract with Three, One-Year Renewal Options for the P
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23690&GUID=1E9EB218-E6E6-4FB0-9AB9-81CE797C2CC0
-  Mesa 26-0469 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Vehicle Detection Systems for I
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23684&GUID=FE91FF75-E19C-4666-BF16-18A992A46FC4
 
-=== WALKABILITY (10) ===
+=== WALKABILITY (12) ===
   Glendale  [Heard 2026-07-09]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -198,5 +202,9 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34715&GUID=0E239BB3-89AB-4683-BA7E-61F8227ACECE
   Mesa 26-0534 [Agenda Ready]: 10-Month Use of a Cooperative Term Contract with Four One-Year Renewal Options for the Pur
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23750&GUID=E21D5C1E-0BC2-4866-B895-1C23D1DC828F
+  Tempe  [Heard 2026-05-14]: 2) one-tenth of one percent (0.1%) allocated for the improvement and operation of Tempe’s 
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4019
+  Tempe  [Heard 2026-05-14]: 3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance auth
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4019
   Mesa 26-0475 [Agenda Ready]: One-Year Use of a Cooperative Term Contract with Three, One-Year Renewal Options for the P
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23690&GUID=1E9EB218-E6E6-4FB0-9AB9-81CE797C2CC0
