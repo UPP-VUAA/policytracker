@@ -17311,5 +17311,152 @@
 "absent": 1,
 "recused": 0
 }
+},
+{
+"city": "Tempe",
+"date": "2026-06-04",
+"body": "Regular City Council",
+"title": "Transportation Commission - April 14, 2026 and April 30, 2026",
+"file": "4B11",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1856&doctype=3",
+"topics": [
+"Transit"
+],
+"result": "Passed",
+"motion": "Motion to Approve Items 4B1 \u2013 4B11 made by Councilmember Keating and seconded by Councilmember Amberg",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Garlid": "Yes",
+"Adams": "Yes",
+"Amberg": "Yes",
+"Chin": "Yes",
+"Keating": "Yes"
+},
+"tally": {
+"aye": 6,
+"nay": 0,
+"abstain": 0,
+"absent": 1,
+"recused": 0
+}
+},
+{
+"city": "Tempe",
+"date": "2026-06-04",
+"body": "Regular City Council",
+"title": "PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance for a Zoning Map Amendment from R-4 and CSS to MU-4, a Planned Area Development Overlay to establish development standards, and a Develop",
+"file": "8C1",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1856&doctype=3",
+"topics": [
+"Housing"
+],
+"result": "Passed",
+"motion": "Motion to Continue Item 8C1 for six",
+"source": "action-summary",
+"votes": {
+"Garlid": "Yes",
+"Adams": "Yes",
+"Amberg": "Yes",
+"Chin": "Yes",
+"Hodge": "Yes",
+"Keating": "Yes",
+"Woods": "No"
+},
+"tally": {
+"aye": 6,
+"nay": 1,
+"abstain": 0,
+"absent": 0,
+"recused": 0
+}
+},
+{
+"city": "Tempe",
+"date": "2026-06-04",
+"body": "Regular City Council",
+"title": "PUBLIC HEARING ITEM Hold the second and final public hearing to adopt a resolution for a General Plan Land Use and Residential Density Map Amendment from Commercial to Mixed-Use High (up to 65 du/ac) and an ordinance for",
+"file": "8C2",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1856&doctype=3",
+"topics": [
+"Housing"
+],
+"result": "Passed",
+"motion": "Motion to Adopt the Resolution for a General Plan Land Use and Residential Density Map Amendment, made by Councilmember Hodge and seconded by Councilmember Amberg",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Garlid": "Yes",
+"Amberg": "Yes",
+"Chin": "Yes",
+"Hodge": "Yes",
+"Keating": "Yes"
+},
+"tally": {
+"aye": 6,
+"nay": 0,
+"abstain": 0,
+"absent": 1,
+"recused": 0
+}
+},
+{
+"city": "Tempe",
+"date": "2026-06-04",
+"body": "Regular City Council",
+"title": "PUBLIC HEARING ITEM Hold the second and final public hearing to adopt a resolution for a General Plan Land Use and Residential Density Map Amendment from Commercial to Mixed-Use High (up to 65 du/ac) and an ordinance for",
+"file": "8C2",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1856&doctype=3",
+"topics": [
+"Housing"
+],
+"result": "Passed",
+"motion": "Motion to Adopt the Ordinance for a Zoning Map Amendment and an Amended Planned Area Development, made by Councilmember Hodge and seconded by Councilmember Chin",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Garlid": "Yes",
+"Adams": "Yes",
+"Amberg": "Yes",
+"Chin": "Yes",
+"Hodge": "Yes",
+"Keating": "Yes"
+},
+"tally": {
+"aye": 7,
+"nay": 0,
+"abstain": 0,
+"absent": 0,
+"recused": 0
+}
+},
+{
+"city": "Tempe",
+"date": "2026-06-04",
+"body": "Regular City Council",
+"title": "PUBLIC HEARING ITEM Hold the second and final public hearing to adopt two related ordinances, Ordinance No. O2026.22 and Ordinance No. O2026.23, for the Tempe Zoning and Development Code, including amendments to Part 4,",
+"file": "8C3",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1856&doctype=3",
+"topics": [
+"Housing"
+],
+"result": "Passed",
+"motion": "Motion to Approve Item 8C3 made by Councilmember Hodge and seconded by Councilmember Amberg",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Garlid": "Yes",
+"Amberg": "Yes",
+"Chin": "Yes",
+"Hodge": "Yes",
+"Keating": "Yes"
+},
+"tally": {
+"aye": 6,
+"nay": 0,
+"abstain": 0,
+"absent": 1,
+"recused": 0
+}
 }
 ]

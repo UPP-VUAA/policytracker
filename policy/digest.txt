@@ -1,16 +1,38 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-27 08:38 MST | window 90d | 244 items
+Generated 2026-07-28 08:14 MST | window 90d | 228 items
 
 
-=== HOUSING (185) ===
+=== HOUSING (170) ===
+  City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
+  City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
+  Phoenix 26-1381 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeas
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35416&GUID=3E186F5F-D071-4020-ADE4-253C5ED41DFA
+  Phoenix 26-1379 [Approved]: Modification of Stipulation Request for Ratification of May 20, 2026, Planning Hearing Off
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35414&GUID=B0FB848A-29BE-487B-AACD-9DB9886F5D4F
+  Phoenix 26-1368 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-27-26-8 - Southwest Corner o
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35403&GUID=652966C8-203F-4D98-A15E-3E5B81B25F03
+  Phoenix 26-1236 [Adopted]: Multi-Family Window Replacement Contract - RFP FY26-086-13 - Request for Award (Ordinance 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35271&GUID=AE968E10-8026-4780-AE11-9E1DE76A86B8
+  Phoenix 26-1086 [Adopted]: Salt River Project Land Use License for the City of Phoenix (Ordinance S-53070) - District
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35121&GUID=B99DCC96-FD78-4998-B543-F34E446568C4
+  Phoenix 26-0983 [Adopted]: Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordi
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35018&GUID=262E325E-8AD5-4871-B86C-4DA258A45919
+  Mesa 26-0686 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55
+  Mesa 26-0684 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23899&GUID=F3D834D2-46A5-4E0E-B2F2-F36ADAA35638
+  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
+  Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
   Mesa PZ 26057 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23864&GUID=AD8FD861-9BFF-49BE-93A4-6C13CE40922D
   Mesa 26-0638 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23854&GUID=7784C37A-19A9-4C75-9093-C527B8345252
   Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
-  Phoenix 26-0983 [Adopted]: Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordi
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35018&GUID=262E325E-8AD5-4871-B86C-4DA258A45919
   Phoenix 26-0561 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1300 (Ordinance G-7469) - District 6
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34597&GUID=CB25670F-3C49-469A-A933-782BE5067D89
   Phoenix 25-2794 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-9-25-4 - Approximately 76
@@ -23,14 +45,8 @@ Generated 2026-07-27 08:38 MST | window 90d | 244 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33989&GUID=C2429BFF-05EB-4A5D-8DAA-6DC596882345
   Phoenix 25-2739 [Passed]: PCD Major Amendment - Rezoning Application Z-237-M-85-2 - Southeast Corner of Cave Creek R
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33965&GUID=824F3219-86DC-4BEF-ADE4-BCFD370C1B87
-  City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
   Phoenix 26-1364 [Passed]: ***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoni
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913
-  Mesa 26-0686 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55
-  Mesa 26-0684 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23899&GUID=F3D834D2-46A5-4E0E-B2F2-F36ADAA35638
   Phoenix 24-1523 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-113-23-3 - Approximately 810
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=29781&GUID=61CC18FB-C315-4C31-95D0-4F9CC8239004
   Phoenix 21-3766 [Adopted]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-SM-CC-1-21-7-8 (South 
@@ -41,8 +57,6 @@ Generated 2026-07-27 08:38 MST | window 90d | 244 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23898&GUID=AFC1988C-B45F-489C-9D6B-12540582CA5A
   Mesa 26-0636 [Agenda Ready]: A resolution declaring the documents filed with the City Clerk titled “2026 Zoning Code Re
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23852&GUID=D38493D8-FD63-4B21-AC79-D0CC9B11AC41
-  Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
   Mesa PZ 26063 [Agenda Ready]: ZON26-00243. "Boeing ACA Expansion", 38.0± acres located approximately 1,700± feet north o
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23889&GUID=C74F58A7-EBC0-42BC-B42D-FB59C5E24AC5
   Mesa PZ 26060 [Agenda Ready]: Planning and Zoning minutes from June 24, 2026 Planning and Zoning Board
@@ -53,8 +67,6 @@ Generated 2026-07-27 08:38 MST | window 90d | 244 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15403&GUID=2886FB4A-C69F-4FDB-A640-921FEC268657
   City of Maricopa CUP 26-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15392&GUID=1E34198C-179D-4479-BC45-B744F5C9A78D
-  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
   Mesa 26-0613 [Agenda Ready]: Planning and Zoning Public Hearing held on May 27, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224
   Mesa 26-0612 [Agenda Ready]: Planning and Zoning Study Session held on May 27, 2026.
@@ -65,29 +77,14 @@ Generated 2026-07-27 08:38 MST | window 90d | 244 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549
   Mesa PZ 26022 [Agenda Ready]: GPA25-00233 "Haven at Hawes," 38± acres located at the southeast corner of South Hawes Roa
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23456&GUID=3CA338D7-EE66-48FC-81D4-27DCF7F16871
-  City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
   Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
   Mesa PZ 26049 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23634&GUID=411CB7C1-306C-4344-9CCF-8F72E25BA545
   Mesa PZ 26033 [Agenda Ready]: ZON25-00626. "NTT Mesa PH10" 170± acres located at the northeast corner of East Pecos Road
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23559&GUID=3E619CFF-FB13-4556-83CA-17641E9FEF71
-  City of Maricopa CUP24-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=13114&GUID=87EB11F1-118D-4C97-AB70-768AD0B1D8AE
-  Mesa 26-0235 [Agenda Ready]: ZON25-00942 “Rio Salado 25” 3.1± acres located at the northwest corner of West Rio Salado 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23450&GUID=92378ED4-B0CC-4FD7-8B16-A80CDA007A75
-  Phoenix 25-2595 [Adopted]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-PV-1-25-2 - Approximat
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33821&GUID=97C0F8A2-5C21-426C-BC39-E24F28E49340
-  Glendale VAR25-10 [Heard 2026-07-09]: a.   VAR25-10 – Marius Smocot Variance - A variance request by Marius Smocot to reduce the
-     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6102
-  Apache Junction  [Passed]: Resolution 99-61
 
-RESOLUTION NO. 99-61
-A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=5413&GUID=A73EAC55-59A5-48F2-ABFC-E3CE5EB7DC53
-
-=== HEAT (6) ===
+=== HEAT (5) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
@@ -98,10 +95,8 @@ A RESOLUTION OF THE MAYOR AND CITY COUNCIL OF TH
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35034&GUID=775334FE-4CB3-4010-AF3D-77A2C7D12785
   Phoenix 25-2700 [Agenda Ready - Finance Department]: Heat Relief Online Training Curriculum Contract - RFQ-26-0144 Request for Award (Ordinance
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33926&GUID=F0FD9D5D-0336-4E76-9450-C6FA6C1A7AB2
-  Tempe PL250368 [Heard 2026-04-28]: 4A. Request a Use Permit to allow a detached engineered shade structure in the R1-6 zoning
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4013
 
-=== TRANSIT (53) ===
+=== TRANSIT (52) ===
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
   Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
