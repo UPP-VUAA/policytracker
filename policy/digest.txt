@@ -1,12 +1,40 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-28 08:14 MST | window 90d | 228 items
+Generated 2026-07-29 08:30 MST | window 90d | 227 items
 
 
-=== HOUSING (170) ===
+=== HOUSING (169) ===
+  Mesa PZ 26057 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23864&GUID=AD8FD861-9BFF-49BE-93A4-6C13CE40922D
+  City of Maricopa PRES 26-14 [Regular Agenda]: The Planning and Zoning Commission will receive a presentation on the mid-year permitting 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15403&GUID=2886FB4A-C69F-4FDB-A640-921FEC268657
+  Tempe PL260185 [Heard 2026-07-28]: F. Request a Use Permit to allow two (2) required parking spaces within the front yard set
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
+  Tempe PL260176 [Heard 2026-07-28]: E. Request a Use Permit to allow two (2) required parking spaces in the front yard buildin
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
+  Tempe PL260171 [Heard 2026-07-28]: D. Request a Use Permit to allow two (2) required parking spaces in the front yard buildin
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
+  Tempe PL260156 [Heard 2026-07-28]: C. Request a Use Permit to allow two (2) required parking spaces in the front yard buildin
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
+  Tempe PL260146 [Heard 2026-07-28]: B. Request a Use Permit to allow two (2) required parking spaces within the front yard set
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
+  Tempe PL260038 [Heard 2026-07-28]: A. Request a Use Permit to allow live entertainment in the CSS zoning district for MILLS M
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
   City of Maricopa ORD 26-13 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6
   City of Maricopa MIN 26-42 [Consent Agenda]: Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts A
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A
+  City of Maricopa CUP 26-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15392&GUID=1E34198C-179D-4479-BC45-B744F5C9A78D
+  Phoenix 26-0734 [Approved]: Modification of Stipulation Request for Ratification of March 18, 2026 Planning Hearing Of
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34770&GUID=1964BC23-EC1C-47BE-BDDA-751374D606B9
+  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
+  Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
+  Tempe  [Heard 2026-07-28]: G. Request a Use Permit to allow a fitness center in the GID zoning district for REDLINE A
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
+  Tempe  [Heard 2026-07-28]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED        AREA DEVELOPMENT OVERLAY
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
   Phoenix 26-1381 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeas
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35416&GUID=3E186F5F-D071-4020-ADE4-253C5ED41DFA
   Phoenix 26-1379 [Approved]: Modification of Stipulation Request for Ratification of May 20, 2026, Planning Hearing Off
@@ -23,12 +51,6 @@ Generated 2026-07-28 08:14 MST | window 90d | 228 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55
   Mesa 26-0684 [Agenda Ready]: Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23899&GUID=F3D834D2-46A5-4E0E-B2F2-F36ADAA35638
-  Mesa 26-0621 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE
-  Mesa 26-0609 [Agenda Ready]: ZON26-00333 "Faith Christian School" 9.9 acres located at 3761 South Power Road. Council U
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748
-  Mesa PZ 26057 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23864&GUID=AD8FD861-9BFF-49BE-93A4-6C13CE40922D
   Mesa 26-0638 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23854&GUID=7784C37A-19A9-4C75-9093-C527B8345252
   Mesa 26-0608 [Agenda Ready]: ZON25-00110 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Rezo
@@ -61,30 +83,10 @@ Generated 2026-07-28 08:14 MST | window 90d | 228 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23889&GUID=C74F58A7-EBC0-42BC-B42D-FB59C5E24AC5
   Mesa PZ 26060 [Agenda Ready]: Planning and Zoning minutes from June 24, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23877&GUID=B9115364-B425-426E-BFC4-7B93ACF21B98
-  Mesa PZ 26055 [Agenda Ready]: Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 6
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23856&GUID=3E7DB38B-899C-4251-A299-0DBA752930B5
-  City of Maricopa PRES 26-14 [Regular Agenda]: The Planning and Zoning Commission will receive a presentation on the mid-year permitting 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15403&GUID=2886FB4A-C69F-4FDB-A640-921FEC268657
-  City of Maricopa CUP 26-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15392&GUID=1E34198C-179D-4479-BC45-B744F5C9A78D
-  Mesa 26-0613 [Agenda Ready]: Planning and Zoning Public Hearing held on May 27, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224
-  Mesa 26-0612 [Agenda Ready]: Planning and Zoning Study Session held on May 27, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6
-  Mesa 26-0607 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC
-  Mesa 26-0606 [Agenda Ready]: Planning and Zoning Study Session held on May 13, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549
-  Mesa PZ 26022 [Agenda Ready]: GPA25-00233 "Haven at Hawes," 38± acres located at the southeast corner of South Hawes Roa
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23456&GUID=3CA338D7-EE66-48FC-81D4-27DCF7F16871
-  Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
-  Mesa PZ 26049 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23634&GUID=411CB7C1-306C-4344-9CCF-8F72E25BA545
-  Mesa PZ 26033 [Agenda Ready]: ZON25-00626. "NTT Mesa PH10" 170± acres located at the northeast corner of East Pecos Road
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23559&GUID=3E619CFF-FB13-4556-83CA-17641E9FEF71
 
-=== HEAT (5) ===
+=== HEAT (6) ===
+  Tempe PL260146 [Heard 2026-07-28]: B. Request a Use Permit to allow two (2) required parking spaces within the front yard set
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4037
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
