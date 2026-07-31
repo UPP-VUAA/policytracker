@@ -1,5 +1,5 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-30 08:05 MST | window 90d | 213 items
+Generated 2026-07-31 08:13 MST | window 90d | 213 items
 
 
 === HOUSING (158) ===
@@ -97,6 +97,8 @@ Generated 2026-07-30 08:05 MST | window 90d | 213 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33926&GUID=F0FD9D5D-0336-4E76-9450-C6FA6C1A7AB2
 
 === TRANSIT (49) ===
+  Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
   Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
@@ -113,8 +115,6 @@ Generated 2026-07-30 08:05 MST | window 90d | 213 items
      https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Apache Junction 26-328 [Consent Agenda]: Consideration of the Third Amendment to the Professional Services Agreement between the Ci
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE
-  Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   Tempe PL260139 [Heard 2026-06-25]: 2. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance for 
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Mesa 25-0329 [Agenda Ready]: Amending Sections 10-4-4 and 10-4-5 of the Mesa City Code to modify the limits of the exis
