@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-07-31 08:13 MST | window 90d | 213 items
+Generated 2026-08-01 07:23 MST | window 90d | 211 items
 
 
-=== HOUSING (158) ===
+=== HOUSING (156) ===
+  Phoenix 26-0528 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1306 (Ordinance G-7503) - District 2
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34564&GUID=9B9DED8B-7907-439B-A9C0-80DC612A2483
   City of Maricopa CUP 26-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15392&GUID=1E34198C-179D-4479-BC45-B744F5C9A78D
   Mesa PZ 26057 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
@@ -81,8 +83,6 @@ Generated 2026-07-31 08:13 MST | window 90d | 213 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23456&GUID=3CA338D7-EE66-48FC-81D4-27DCF7F16871
   Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
-  Mesa PZ 26049 [Agenda Ready]: GPA26-00111 "San Antonio Tire Shop" 0.4± acres located at 1609 West University Drive. Mino
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23634&GUID=411CB7C1-306C-4344-9CCF-8F72E25BA545
 
 === HEAT (5) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
@@ -97,6 +97,14 @@ Generated 2026-07-31 08:13 MST | window 90d | 213 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33926&GUID=F0FD9D5D-0336-4E76-9450-C6FA6C1A7AB2
 
 === TRANSIT (49) ===
+  Glendale  [On upcoming agenda]: 2.   COUNCIL ITEM OF SPECIAL INTEREST - SAFE DRIVER PLEDGE Presented by: Purab Adabala, Di
+     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=8&get_year=2026&dsp=ag&seq=6139
+  Glendale  [On upcoming agenda]: August 6, 2026 6:00 PM Transportation Dept. Office 6210 W Myrtle Ave Building A, Suite 111
+     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=8&get_year=2026&dsp=ag&seq=6223
+  Glendale  [On upcoming agenda]: 9.   COMMISSIONER UPDATES Commissioners will share information obtained from a variety of 
+     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=8&get_year=2026&dsp=ag&seq=6223
+  Phoenix 25-0328 [Adopted]: Acquisition of Real Property and Related Easements and Licenses for the Capitol Extension 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=31556&GUID=8BAB8F53-5EC2-4E0B-AFEF-0168634AEC17
   Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
@@ -109,10 +117,6 @@ Generated 2026-07-31 08:13 MST | window 90d | 213 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=12254&GUID=C8E69A29-683A-4A6A-8C16-FD2213CB02A0
   Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
-  Glendale  [Heard 2026-07-09]: July 9, 2026 6:00 PM Transportation Dept. Office 6210 W Myrtle Ave Building A, Suite 111/1
-     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
-  Glendale  [Heard 2026-07-09]: 8.   COMMISSIONER UPDATES Commissioners will share information obtained from a variety of 
-     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
   Apache Junction 26-328 [Consent Agenda]: Consideration of the Third Amendment to the Professional Services Agreement between the Ci
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE
   Tempe PL260139 [Heard 2026-06-25]: 2. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance for 
@@ -173,14 +177,12 @@ Generated 2026-07-31 08:13 MST | window 90d | 213 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23740&GUID=E43922CF-6746-4C1F-A9F5-E78F685E7BDA
   Apache Junction 26-280 [Agenda Items]: Presentation and discussion on the Third Amendment to the Professional Services Agreement 
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12327&GUID=A3AF8400-DB20-4F8A-A955-4EA9FC8342CE
-  Mesa 26-0578 [Agenda Ready]: Purchase of Solar-Powered Portable Traffic Signal Trailers for the Transportation Departme
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23794&GUID=E3541BC7-64D1-49E9-948D-B11772886B2C
-  Phoenix 26-0949 [Adopted]: The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD
 
 === WALKABILITY (12) ===
-  Glendale  [Heard 2026-07-09]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
-     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=7&get_year=2026&dsp=ag&seq=6192
+  Glendale  [On upcoming agenda]: 6.   PROJECT UPDATE - VISION ZERO/SAFETY ACTION PLAN Marta Gerber from Stanley Consultants
+     https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=8&get_year=2026&dsp=ag&seq=6223
+  Phoenix 26-0262 [Agenda Ready - Planning & Development Department]: Acceptance and Dedication of Easements for Public Utility, Sidewalk and Multi-use Trail Pu
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34298&GUID=96ED7E42-3582-49B3-A966-A19B7730B03F
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
   Mesa PZ 26047 [Agenda Ready]: Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 
@@ -193,8 +195,6 @@ Generated 2026-07-31 08:13 MST | window 90d | 213 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=32494&GUID=FAAEFDDF-D61C-4063-A6CE-5083C877628A
   Mesa 26-0576 [Agenda Ready]: Dollar Limit Increase to Use of the Cooperative Term Contract for Route Planning and Manag
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23792&GUID=57429114-D82E-447F-B9A7-F5D8942E2306
-  Phoenix 26-0679 [Adopted]: 56th Street: Thomas Road to Indian School Road - Phase 2 Bike and Pedestrian Improvements 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34715&GUID=0E239BB3-89AB-4683-BA7E-61F8227ACECE
   Mesa 26-0534 [Agenda Ready]: 10-Month Use of a Cooperative Term Contract with Four One-Year Renewal Options for the Pur
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23750&GUID=E21D5C1E-0BC2-4866-B895-1C23D1DC828F
   Tempe  [Heard 2026-05-14]: 2) one-tenth of one percent (0.1%) allocated for the improvement and operation of Tempe’s 
