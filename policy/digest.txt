@@ -1,8 +1,8 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-02 07:24 MST | window 90d | 211 items
+Generated 2026-08-03 08:39 MST | window 90d | 206 items
 
 
-=== HOUSING (156) ===
+=== HOUSING (151) ===
   Phoenix 26-0528 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1306 (Ordinance G-7503) - District 2
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34564&GUID=9B9DED8B-7907-439B-A9C0-80DC612A2483
   City of Maricopa CUP 26-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
