@@ -1,8 +1,8 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-04 08:18 MST | window 90d | 207 items
+Generated 2026-08-05 08:09 MST | window 90d | 207 items
 
 
-=== HOUSING (154) ===
+=== HOUSING (153) ===
   City of Maricopa ZON23-01 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=11908&GUID=CE6AE43A-EFA9-4798-ADAE-7CB21C1D7662
   Mesa PZ 26057 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
@@ -84,25 +84,27 @@ Generated 2026-08-04 08:18 MST | window 90d | 207 items
   Mesa 26-0607 [Agenda Ready]: Planning and Zoning Public Hearing held on May 13, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC
 
-=== HEAT (5) ===
+=== HEAT (4) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Phoenix 26-1205 [Agenda Ready]: Hiking and Heat Safety Update - Citywide
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35240&GUID=BC348B91-8D6A-400D-B11A-9D0C58171958
-  Phoenix 26-0999 [Adopted]: Authorization to Amend Emergency Shelter/Heat Related Respite Operator and Supportive Serv
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35034&GUID=775334FE-4CB3-4010-AF3D-77A2C7D12785
   Phoenix 25-2700 [Agenda Ready - Finance Department]: Heat Relief Online Training Curriculum Contract - RFQ-26-0144 Request for Award (Ordinance
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33926&GUID=F0FD9D5D-0336-4E76-9450-C6FA6C1A7AB2
 
-=== TRANSIT (48) ===
+=== TRANSIT (50) ===
+  Mesa 26-0737 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Intergovernmental Agreement wi
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1
   Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
-  Mesa 26-0734 [Agenda Ready]: Transportation Advisory Board meeting held on May 19, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5
+  Phoenix 22-1468 [Adopted]: October 2022 Proposed Bus Service Improvements (Ordinance S-49025)
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=23973&GUID=DB633617-8853-45BD-928E-21C9815CD02F
   Phoenix 21-1917 [Adopted]: Fare Policy Amendment - Use of ARPA Funds to Purchase Transit Passes (Ordinance S-47872)
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=20388&GUID=458EB4C7-56BF-4C4E-9BEF-2F76F76A44C9
+  Mesa 26-0734 [Agenda Ready]: Transportation Advisory Board meeting held on May 19, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5
   Phoenix 25-0328 [Adopted]: Acquisition of Real Property and Related Easements and Licenses for the Capitol Extension 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=31556&GUID=8BAB8F53-5EC2-4E0B-AFEF-0168634AEC17
   Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
@@ -173,10 +175,6 @@ Generated 2026-08-04 08:18 MST | window 90d | 207 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23753&GUID=A81FC723-A3CC-4DFD-B681-4C1C914A33A4
   Mesa 26-0524 [Agenda Ready]: Modifying fees and charges for the Transportation Department. (Citywide) Resolution No. 12
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23740&GUID=E43922CF-6746-4C1F-A9F5-E78F685E7BDA
-  Apache Junction 26-280 [Agenda Items]: Presentation and discussion on the Third Amendment to the Professional Services Agreement 
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12327&GUID=A3AF8400-DB20-4F8A-A955-4EA9FC8342CE
-  Mesa 26-0578 [Agenda Ready]: Purchase of Solar-Powered Portable Traffic Signal Trailers for the Transportation Departme
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23794&GUID=E3541BC7-64D1-49E9-948D-B11772886B2C
 
 === WALKABILITY (11) ===
   Phoenix 26-0262 [Agenda Ready - Planning & Development Department]: Acceptance and Dedication of Easements for Public Utility, Sidewalk and Multi-use Trail Pu
