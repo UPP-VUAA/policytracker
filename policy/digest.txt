@@ -1,14 +1,16 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-07 07:06 MST | window 90d | 211 items
+Generated 2026-08-08 06:39 MST | window 90d | 212 items
 
 
-=== HOUSING (157) ===
+=== HOUSING (158) ===
   Mesa DSN 26037 [Agenda Ready]: ZON26-00414. "Magna Steyr Canopies," 10.8± acres located at 7237 E Pecos Road. Alternative
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23961&GUID=03C973FD-6849-4086-AF3E-704E24EE10C3
   Mesa DSN 26036 [Agenda Ready]: ZON26-00411. "ER2," 8.70± acres located approximately 630± feet south of the of the southw
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23960&GUID=40212FD5-101A-4C3B-9AE5-935FC79A0279
   Mesa DSN 26032 [Agenda Ready]: DRB24-00707. "Park North Multi-Family," 5± acres located approximately 270± feet east of t
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23956&GUID=58647065-80AE-42AA-9999-7F2B9461CF6D
+  Phoenix 20-2734 [Continued]: Eight-Hour Rule Request to Research Intergovernmental Agreements Related to Affordable Hou
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=17876&GUID=3AB59CD0-E10D-4366-891E-D4F2568180F2
   Mesa PZ 26068 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23949&GUID=5C1F364C-67B1-4B24-83D6-813F50871A36
   Mesa PZ 26067 [Agenda Ready]: Planning and Zoning minutes from July 29, 2026 Planning and Zoning Board
@@ -81,8 +83,6 @@ Generated 2026-08-07 07:06 MST | window 90d | 211 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33965&GUID=824F3219-86DC-4BEF-ADE4-BCFD370C1B87
   Phoenix 26-1364 [Passed]: ***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoni
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913
-  Phoenix 24-1523 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-113-23-3 - Approximately 810
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=29781&GUID=61CC18FB-C315-4C31-95D0-4F9CC8239004
 
 === HEAT (3) ===
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
