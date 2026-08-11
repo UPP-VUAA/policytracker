@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10T07:16:12.539493-07:00",
+  "generated": "2026-08-11T07:14:20.969711-07:00",
   "window_days": 90,
-  "count": 212,
+  "count": 205,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -10,6 +10,29 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-0737",
+      "type": "Resolution",
+      "status": "Agenda Ready",
+      "title": "Approving and authorizing the City Manager to enter into an Intergovernmental Agreement with the Regional Public Transportation Authority for the design and construction management of improvements to existing bus stops at various locations in Mesa. The project is funded by a combination of a federal grant, transit advertising revenue and the Transit Fund. The total fiscal impact of the project is $2,520,000. (Districts 1, 2, 3, 4 and 6)",
+      "intro": "2026-08-04",
+      "agenda": "2026-08-17",
+      "enacted": "",
+      "last_modified": "2026-08-11",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1",
+      "source": "Legistar",
+      "_action_days": 6,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
     {
       "city": "Mesa",
       "county": "Maricopa",
@@ -26,12 +49,12 @@
       "last_modified": "2026-08-07",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23961&GUID=03C973FD-6849-4086-AF3E-704E24EE10C3",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 1
     },
     {
       "city": "Mesa",
@@ -49,12 +72,12 @@
       "last_modified": "2026-08-07",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23960&GUID=40212FD5-101A-4C3B-9AE5-935FC79A0279",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 2
     },
     {
       "city": "Mesa",
@@ -72,12 +95,12 @@
       "last_modified": "2026-08-07",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23956&GUID=58647065-80AE-42AA-9999-7F2B9461CF6D",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
+      "_uid": 3
     },
     {
       "city": "Phoenix",
@@ -100,7 +123,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 4
     },
     {
       "city": "Mesa",
@@ -118,12 +141,12 @@
       "last_modified": "2026-08-06",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23949&GUID=5C1F364C-67B1-4B24-83D6-813F50871A36",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
+      "_uid": 5
     },
     {
       "city": "Mesa",
@@ -141,12 +164,12 @@
       "last_modified": "2026-08-06",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23948&GUID=11928E50-A19E-408C-B29D-F0CEDF66FFE6",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 5
+      "_uid": 6
     },
     {
       "city": "Mesa",
@@ -164,12 +187,12 @@
       "last_modified": "2026-08-06",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23909&GUID=9BD118B5-8B49-42D7-8DF0-46938235E1C0",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 7
     },
     {
       "city": "Mesa",
@@ -187,12 +210,12 @@
       "last_modified": "2026-08-06",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23892&GUID=B58AE004-C2D5-42F7-A126-6CD8505C35FF",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 8
     },
     {
       "city": "Mesa",
@@ -215,7 +238,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
+      "_uid": 9
     },
     {
       "city": "Phoenix",
@@ -238,7 +261,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 9
+      "_uid": 10
     },
     {
       "city": "Phoenix",
@@ -257,29 +280,6 @@
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD",
       "source": "Legistar",
       "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 10
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0737",
-      "type": "Resolution",
-      "status": "Agenda Ready",
-      "title": "Approving and authorizing the City Manager to enter into an Intergovernmental Agreement with the Regional Public Transportation Authority for the design and construction management of improvements to existing bus stops at various locations in Mesa. The project is funded by a combination of a federal grant, transit advertising revenue and the Transit Fund. The total fiscal impact of the project is $2,520,000. (Districts 1, 2, 3, 4 and 6)",
-      "intro": "2026-08-04",
-      "agenda": "2026-08-17",
-      "enacted": "",
-      "last_modified": "2026-08-05",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1",
-      "source": "Legistar",
-      "_action_days": 7,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -325,7 +325,7 @@
       "last_modified": "2026-08-05",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95",
       "source": "Legistar",
-      "_action_days": 7,
+      "_action_days": 6,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -348,7 +348,7 @@
       "last_modified": "2026-08-05",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA",
       "source": "Legistar",
-      "_action_days": 7,
+      "_action_days": 6,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -509,7 +509,7 @@
       "last_modified": "2026-08-03",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5",
       "source": "Legistar",
-      "_action_days": 7,
+      "_action_days": 6,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -4733,168 +4733,6 @@
       "_movefrom": "",
       "_moveto": "",
       "_uid": 204
-    },
-    {
-      "city": "Tempe",
-      "county": "Maricopa",
-      "topics": [
-        "Housing",
-        "Transit"
-      ],
-      "file": "PL260139",
-      "type": "Development Review Commission",
-      "status": "Heard 2026-05-12",
-      "title": "A. Request a Zoning and Development Code Text Amendment for TOD PARKING UPDATE for changes to Part 5, Chapter 6 - Transportation Overlay District consisting of reductions in the overlay parking requirements. The applicant is the City of Tem",
-      "intro": "",
-      "agenda": "2026-05-12",
-      "enacted": "",
-      "last_modified": "2026-05-12",
-      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
-      "source": "Granicus",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 205
-    },
-    {
-      "city": "Tempe",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "PL260136",
-      "type": "Development Review Commission",
-      "status": "Heard 2026-05-12",
-      "title": "D. Request a Use Permit to allow a bar/tavern in the CSS zoning district for LITTLE QUAIL, located at 764 West Broadway Road. The applicant is Architectural Collaborative Team, LLC. (PL260136) Project Planner: Robert_Mansolillo@tempe.gov or",
-      "intro": "",
-      "agenda": "2026-05-12",
-      "enacted": "",
-      "last_modified": "2026-05-12",
-      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
-      "source": "Granicus",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 206
-    },
-    {
-      "city": "Tempe",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "PL260123",
-      "type": "Development Review Commission",
-      "status": "Heard 2026-05-12",
-      "title": "C. Request a Use Permit to allow aquamation (water cremation) in the GID zoning district for AQUACROSSINGS, located at 1818 West 4th Street. The applicant is Matthew Mansour, AquaCrossings. (PL260123) Project Planner: Robert_Mansolillo@temp",
-      "intro": "",
-      "agenda": "2026-05-12",
-      "enacted": "",
-      "last_modified": "2026-05-12",
-      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
-      "source": "Granicus",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 207
-    },
-    {
-      "city": "Tempe",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "PL260077",
-      "type": "Development Review Commission",
-      "status": "Heard 2026-05-12",
-      "title": "B. Request a Use Permit to allow two (2) required parking spaces within the front yard setback for TEMPE CARPORT OFFICE, located at 1336 West 13th Place. The applicant is Arc One Associates LLC. (PL260077) Project Planner: Lucas_Jensen@temp",
-      "intro": "",
-      "agenda": "2026-05-12",
-      "enacted": "",
-      "last_modified": "2026-05-12",
-      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
-      "source": "Granicus",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 208
-    },
-    {
-      "city": "Tempe",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "PL260032",
-      "type": "Development Review Commission",
-      "status": "Heard 2026-05-12",
-      "title": "A. Request a Planned Area Development Overlay to establish development standards for the existing MU-4 zoning district for TEMPE OASIS, consisting of the reuse of an existing hotel to multi-family use with 142 units, including commercial, l",
-      "intro": "",
-      "agenda": "2026-05-12",
-      "enacted": "",
-      "last_modified": "2026-05-12",
-      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
-      "source": "Granicus",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 209
-    },
-    {
-      "city": "Tempe",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "",
-      "type": "Development Review Commission",
-      "status": "Heard 2026-05-12",
-      "title": "6. CODE TEXT AMENDMENT\u00a0 The following includes amendments within the Zoning and Development Code requiring a public hearing notice in accordance with the Code. The Commission is the recommending body for these requests:",
-      "intro": "",
-      "agenda": "2026-05-12",
-      "enacted": "",
-      "last_modified": "2026-05-12",
-      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
-      "source": "Granicus",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 210
-    },
-    {
-      "city": "Tempe",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "",
-      "type": "Development Review Commission",
-      "status": "Heard 2026-05-12",
-      "title": "5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED AREA DEVELOPMENT OVERLAY\u00a0 The following, including other related requests, consist of items requiring a neighborhood meeting and a public hearing notice in accordance with the Code.",
-      "intro": "",
-      "agenda": "2026-05-12",
-      "enacted": "",
-      "last_modified": "2026-05-12",
-      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
-      "source": "Granicus",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 211
     }
   ]
 }

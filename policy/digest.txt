@@ -1,8 +1,8 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-10 07:16 MST | window 90d | 212 items
+Generated 2026-08-11 07:14 MST | window 90d | 205 items
 
 
-=== HOUSING (158) ===
+=== HOUSING (151) ===
   Mesa DSN 26037 [Agenda Ready]: ZON26-00414. "Magna Steyr Canopies," 10.8± acres located at 7237 E Pecos Road. Alternative
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23961&GUID=03C973FD-6849-4086-AF3E-704E24EE10C3
   Mesa DSN 26036 [Agenda Ready]: ZON26-00411. "ER2," 8.70± acres located approximately 630± feet south of the of the southw
@@ -92,11 +92,11 @@ Generated 2026-08-10 07:16 MST | window 90d | 212 items
   Phoenix 26-1205 [Agenda Ready]: Hiking and Heat Safety Update - Citywide
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35240&GUID=BC348B91-8D6A-400D-B11A-9D0C58171958
 
-=== TRANSIT (49) ===
-  Phoenix 26-0949 [Adopted]: The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD
+=== TRANSIT (48) ===
   Mesa 26-0737 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Intergovernmental Agreement wi
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1
+  Phoenix 26-0949 [Adopted]: The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD
   Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   Phoenix 22-1468 [Adopted]: October 2022 Proposed Bus Service Improvements (Ordinance S-49025)
