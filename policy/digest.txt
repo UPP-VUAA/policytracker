@@ -1,8 +1,22 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-11 07:14 MST | window 90d | 205 items
+Generated 2026-08-12 07:16 MST | window 90d | 211 items
 
 
-=== HOUSING (151) ===
+=== HOUSING (157) ===
+  Tempe PL260170 [Heard 2026-08-11]: C. Request a Use Permit to allow a drive-through restaurant in the CSS zoning district for
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
+  Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
+  Mesa 26-0675 [Agenda Ready]: Approving and authorizing the City Manager to enter into a Development Agreement, Governme
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95
+  Mesa 26-0666 [Agenda Ready]: Planning and Zoning Public Hearing held on June 10, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23881&GUID=AD3ED42B-5759-4F13-AFC3-738672338FD8
+  Mesa 26-0665 [Agenda Ready]: Planning and Zoning Study Session held on June 10, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23880&GUID=24C06713-1A03-48BB-A670-9D31D9BBEE03
+  Phoenix 23-1970 [Passed]: Public Hearing and Ordinance Adoption - Rezoning Application Z-SP-5-23-7 - Southwest Corne
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=27023&GUID=424DB530-4C00-4CAF-A84A-4A6707005878
+  Tempe  [Heard 2026-08-11]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED        AREA DEVELOPMENT OVERLAY
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
   Mesa DSN 26037 [Agenda Ready]: ZON26-00414. "Magna Steyr Canopies," 10.8± acres located at 7237 E Pecos Road. Alternative
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23961&GUID=03C973FD-6849-4086-AF3E-704E24EE10C3
   Mesa DSN 26036 [Agenda Ready]: ZON26-00411. "ER2," 8.70± acres located approximately 630± feet south of the of the southw
@@ -21,8 +35,6 @@ Generated 2026-08-11 07:14 MST | window 90d | 205 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23892&GUID=B58AE004-C2D5-42F7-A126-6CD8505C35FF
   Phoenix 26-0979 [Adopted]: Purchase of Residential 35-, 65-, and 95-Gallon Containers Contract - RFP 27-SW-001 - Requ
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35014&GUID=02E5E243-DE0A-4FED-B9C8-99B6EBEE1B1F
-  Mesa 26-0675 [Agenda Ready]: Approving and authorizing the City Manager to enter into a Development Agreement, Governme
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95
   Phoenix 25-2629 [Adopted]: Request to Enter Into an Easement and Drainage Agreement with Empire Residential Communiti
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33855&GUID=0EC78028-B5BB-49CA-86FF-84C4D6FB4DC1
   City of Maricopa ZON23-01 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
@@ -71,20 +83,10 @@ Generated 2026-08-11 07:14 MST | window 90d | 205 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F
   Phoenix 26-0561 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1300 (Ordinance G-7469) - District 6
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34597&GUID=CB25670F-3C49-469A-A933-782BE5067D89
-  Phoenix 25-2794 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-9-25-4 - Approximately 76
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34020&GUID=1FFEF153-99AD-4DE9-B4DB-FEDE20D529F9
-  Phoenix 25-2791 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-121-25-4 - Approximately 765
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34017&GUID=C333E786-5DCF-4DCA-82C8-9CDFA1FC2BD3
-  Phoenix 25-2788 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-127-25-2 - Approximately 585
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34014&GUID=1905CF2F-E3C2-4702-8BB0-ABBD60FC2C33
-  Phoenix 25-2763 [Adopted]: Public Hearing and Ordinance Adoption - Rezoning Application Z-44-25-6 (2400 Biltmore Resi
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33989&GUID=C2429BFF-05EB-4A5D-8DAA-6DC596882345
-  Phoenix 25-2739 [Passed]: PCD Major Amendment - Rezoning Application Z-237-M-85-2 - Southeast Corner of Cave Creek R
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33965&GUID=824F3219-86DC-4BEF-ADE4-BCFD370C1B87
-  Phoenix 26-1364 [Passed]: ***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoni
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913
 
-=== HEAT (3) ===
+=== HEAT (4) ===
+  Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
