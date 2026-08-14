@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T07:18:29.193914-07:00",
+  "generated": "2026-08-14T07:10:49.157067-07:00",
   "window_days": 90,
   "count": 203,
   "cities_live": [
@@ -10,6 +10,144 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-0737",
+      "type": "Resolution",
+      "status": "Agenda Ready",
+      "title": "Approving and authorizing the City Manager to enter into an Intergovernmental Agreement with the Regional Public Transportation Authority for the design and construction management of improvements to existing bus stops at various locations in Mesa. The project is funded by a combination of a federal grant, transit advertising revenue and the Transit Fund. The total fiscal impact of the project is $2,520,000. (Districts 1, 2, 3, 4 and 6) Resolution No. 12566",
+      "intro": "2026-08-04",
+      "agenda": "2026-08-17",
+      "enacted": "",
+      "last_modified": "2026-08-13",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1",
+      "source": "Legistar",
+      "_action_days": 3,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-0734",
+      "type": "Minutes",
+      "status": "Agenda Ready",
+      "title": "Transportation Advisory Board meeting held on May 19, 2026.",
+      "intro": "2026-08-03",
+      "agenda": "2026-08-17",
+      "enacted": "",
+      "last_modified": "2026-08-13",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5",
+      "source": "Legistar",
+      "_action_days": 3,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 1
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0675",
+      "type": "Resolution",
+      "status": "Agenda Ready",
+      "title": "Approving and authorizing the City Manager to enter into a Development Agreement, Government Property Lease Exise Tax Agreement, and Public Access Easement Agreements with Pride Ventures LLC II, for the development of a mixed-use project to be known as \"Ovio\" on the real property generally located at the northeast corner of Dobson Road and Main Street. (District 3) Resolution No. 12567",
+      "intro": "2026-07-13",
+      "agenda": "2026-08-17",
+      "enacted": "",
+      "last_modified": "2026-08-13",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95",
+      "source": "Legistar",
+      "_action_days": 3,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 2
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0666",
+      "type": "Minutes",
+      "status": "Agenda Ready",
+      "title": "Planning and Zoning Public Hearing held on June 10, 2026.",
+      "intro": "2026-07-08",
+      "agenda": "2026-08-17",
+      "enacted": "",
+      "last_modified": "2026-08-13",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23881&GUID=AD3ED42B-5759-4F13-AFC3-738672338FD8",
+      "source": "Legistar",
+      "_action_days": 3,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 3
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0665",
+      "type": "Minutes",
+      "status": "Agenda Ready",
+      "title": "Planning and Zoning Study Session held on June 10, 2026.",
+      "intro": "2026-07-08",
+      "agenda": "2026-08-17",
+      "enacted": "",
+      "last_modified": "2026-08-13",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23880&GUID=24C06713-1A03-48BB-A670-9D31D9BBEE03",
+      "source": "Legistar",
+      "_action_days": 3,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 4
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-0623",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed limit of 45 mph on Ellsworth Road from the north City limits to the south City limits by modifying the Ellsworth Road speed limit between Elliot Road and the south City limits from 50 mph to 45 mph, as recommended by the Transportation Advisory Board. (District 6) Ordinance No. 6028",
+      "intro": "2026-06-29",
+      "agenda": "2026-08-17",
+      "enacted": "",
+      "last_modified": "2026-08-13",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA",
+      "source": "Legistar",
+      "_action_days": 3,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 5
+    },
     {
       "city": "City of Maricopa",
       "county": "Pinal (greater region)",
@@ -27,12 +165,12 @@
       "last_modified": "2026-08-12",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15429&GUID=7D41635C-124B-407C-8F70-2D42D6BABEC8",
       "source": "Legistar",
-      "_action_days": 11,
-      "_new": true,
+      "_action_days": 10,
+      "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 6
     },
     {
       "city": "Mesa",
@@ -55,7 +193,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 7
     },
     {
       "city": "Mesa",
@@ -78,99 +216,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0734",
-      "type": "Minutes",
-      "status": "Agenda Ready",
-      "title": "Transportation Advisory Board meeting held on May 19, 2026.",
-      "intro": "2026-08-03",
-      "agenda": "2026-08-17",
-      "enacted": "",
-      "last_modified": "2026-08-12",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5",
-      "source": "Legistar",
-      "_action_days": 4,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 3
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0675",
-      "type": "Resolution",
-      "status": "Agenda Ready",
-      "title": "Approving and authorizing the City Manager to enter into a Development Agreement, Government Property Lease Exise Tax Agreement, and Public Access Easement Agreements with Pride Ventures LLC II, for the development of a mixed-use project on the real property generally located at the northeast corner of Dobson Road and Main Street. (District 3)",
-      "intro": "2026-07-13",
-      "agenda": "2026-08-17",
-      "enacted": "",
-      "last_modified": "2026-08-12",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95",
-      "source": "Legistar",
-      "_action_days": 4,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 4
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0666",
-      "type": "Minutes",
-      "status": "Agenda Ready",
-      "title": "Planning and Zoning Public Hearing held on June 10, 2026.",
-      "intro": "2026-07-08",
-      "agenda": "2026-08-17",
-      "enacted": "",
-      "last_modified": "2026-08-12",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23881&GUID=AD3ED42B-5759-4F13-AFC3-738672338FD8",
-      "source": "Legistar",
-      "_action_days": 4,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 5
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0665",
-      "type": "Minutes",
-      "status": "Agenda Ready",
-      "title": "Planning and Zoning Study Session held on June 10, 2026.",
-      "intro": "2026-07-08",
-      "agenda": "2026-08-17",
-      "enacted": "",
-      "last_modified": "2026-08-12",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23880&GUID=24C06713-1A03-48BB-A670-9D31D9BBEE03",
-      "source": "Legistar",
-      "_action_days": 4,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 6
+      "_uid": 8
     },
     {
       "city": "Tempe",
@@ -193,7 +239,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 9
     },
     {
       "city": "Tempe",
@@ -217,30 +263,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0737",
-      "type": "Resolution",
-      "status": "Agenda Ready",
-      "title": "Approving and authorizing the City Manager to enter into an Intergovernmental Agreement with the Regional Public Transportation Authority for the design and construction management of improvements to existing bus stops at various locations in Mesa. The project is funded by a combination of a federal grant, transit advertising revenue and the Transit Fund. The total fiscal impact of the project is $2,520,000. (Districts 1, 2, 3, 4 and 6)",
-      "intro": "2026-08-04",
-      "agenda": "2026-08-17",
-      "enacted": "",
-      "last_modified": "2026-08-11",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1",
-      "source": "Legistar",
-      "_action_days": 4,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 9
+      "_uid": 10
     },
     {
       "city": "Phoenix",
@@ -263,7 +286,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 10
+      "_uid": 11
     },
     {
       "city": "Tempe",
@@ -286,7 +309,7 @@
       "_moved": "",
       "_movefrom": "Heard 2026-06-23",
       "_moveto": "Heard 2026-08-11",
-      "_uid": 11
+      "_uid": 12
     },
     {
       "city": "Mesa",
@@ -309,7 +332,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 12
+      "_uid": 13
     },
     {
       "city": "Mesa",
@@ -332,7 +355,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 13
+      "_uid": 14
     },
     {
       "city": "Mesa",
@@ -355,7 +378,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 14
+      "_uid": 15
     },
     {
       "city": "Phoenix",
@@ -378,7 +401,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 15
+      "_uid": 16
     },
     {
       "city": "Mesa",
@@ -401,7 +424,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 16
+      "_uid": 17
     },
     {
       "city": "Mesa",
@@ -424,7 +447,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 17
+      "_uid": 18
     },
     {
       "city": "Mesa",
@@ -447,7 +470,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 18
+      "_uid": 19
     },
     {
       "city": "Phoenix",
@@ -470,7 +493,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 19
+      "_uid": 20
     },
     {
       "city": "Phoenix",
@@ -493,7 +516,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 20
+      "_uid": 21
     },
     {
       "city": "Phoenix",
@@ -512,29 +535,6 @@
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34715&GUID=0E239BB3-89AB-4683-BA7E-61F8227ACECE",
       "source": "Legistar",
       "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 21
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0623",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed limit of 45 mph on Ellsworth Road from the north City limits to the south City limits by modifying the Ellsworth Road speed limit between Elliot Road and the south City limits from 50 mph to 45 mph, as recommended by the Transportation Advisory Board. (District 6)",
-      "intro": "2026-06-29",
-      "agenda": "2026-08-17",
-      "enacted": "",
-      "last_modified": "2026-08-05",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA",
-      "source": "Legistar",
-      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
