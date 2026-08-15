@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-14 07:10 MST | window 90d | 203 items
+Generated 2026-08-15 06:24 MST | window 90d | 203 items
 
 
 === HOUSING (154) ===
+  Mesa 26-0732 [Agenda Ready]: Planning and Zoning Public Hearing held on June 24, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B
   Mesa 26-0675 [Agenda Ready]: Approving and authorizing the City Manager to enter into a Development Agreement, Governme
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95
   Mesa 26-0666 [Agenda Ready]: Planning and Zoning Public Hearing held on June 10, 2026.
@@ -45,8 +47,6 @@ Generated 2026-08-14 07:10 MST | window 90d | 203 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23864&GUID=AD8FD861-9BFF-49BE-93A4-6C13CE40922D
   Phoenix 26-1381 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeas
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35416&GUID=3E186F5F-D071-4020-ADE4-253C5ED41DFA
-  Mesa 26-0732 [Agenda Ready]: Planning and Zoning Public Hearing held on June 24, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B
   Mesa 26-0731 [Agenda Ready]: Planning and Zoning Study Session held on June 24, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23946&GUID=E32B2345-E9F9-46AD-9722-2A40E3F0588D
   Phoenix 26-0528 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1306 (Ordinance G-7503) - District 2
