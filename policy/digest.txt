@@ -1,5 +1,5 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-15 06:24 MST | window 90d | 203 items
+Generated 2026-08-16 06:25 MST | window 90d | 203 items
 
 
 === HOUSING (154) ===
@@ -95,12 +95,12 @@ Generated 2026-08-15 06:24 MST | window 90d | 203 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35240&GUID=BC348B91-8D6A-400D-B11A-9D0C58171958
 
 === TRANSIT (45) ===
+  Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   Mesa 26-0737 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Intergovernmental Agreement wi
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1
   Mesa 26-0734 [Agenda Ready]: Transportation Advisory Board meeting held on May 19, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5
-  Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   City of Maricopa ZON 26-03 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone several parcels of land, total
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15429&GUID=7D41635C-124B-407C-8F70-2D42D6BABEC8
   Phoenix 26-0949 [Adopted]: The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT
