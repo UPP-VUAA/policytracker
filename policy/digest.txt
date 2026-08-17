@@ -1,8 +1,8 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-16 06:25 MST | window 90d | 203 items
+Generated 2026-08-17 06:33 MST | window 90d | 200 items
 
 
-=== HOUSING (154) ===
+=== HOUSING (152) ===
   Mesa 26-0732 [Agenda Ready]: Planning and Zoning Public Hearing held on June 24, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B
   Mesa 26-0675 [Agenda Ready]: Approving and authorizing the City Manager to enter into a Development Agreement, Governme
@@ -94,7 +94,7 @@ Generated 2026-08-16 06:25 MST | window 90d | 203 items
   Phoenix 26-1205 [Agenda Ready]: Hiking and Heat Safety Update - Citywide
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35240&GUID=BC348B91-8D6A-400D-B11A-9D0C58171958
 
-=== TRANSIT (45) ===
+=== TRANSIT (44) ===
   Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
   Mesa 26-0737 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Intergovernmental Agreement wi
@@ -176,7 +176,7 @@ Generated 2026-08-16 06:25 MST | window 90d | 203 items
   Mesa 26-0500 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Amendment No. 2 to the Intergo
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23715&GUID=7F8ED709-3432-45DE-A8E8-3919173786F3
 
-=== WALKABILITY (10) ===
+=== WALKABILITY (9) ===
   Mesa 26-0748 [Agenda Ready]: Elliot Road: Eastern Maricopa Floodway to Ellsworth Road, Design-Bid-Build Contract (Distr
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23964&GUID=C0577125-1AEB-4EF6-BB53-860130D87D69
   Phoenix 26-0679 [Adopted]: 56th Street: Thomas Road to Indian School Road - Phase 2 Bike and Pedestrian Improvements 
@@ -195,5 +195,3 @@ Generated 2026-08-16 06:25 MST | window 90d | 203 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=32494&GUID=FAAEFDDF-D61C-4063-A6CE-5083C877628A
   Mesa 26-0576 [Agenda Ready]: Dollar Limit Increase to Use of the Cooperative Term Contract for Route Planning and Manag
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23792&GUID=57429114-D82E-447F-B9A7-F5D8942E2306
-  Mesa 26-0534 [Agenda Ready]: 10-Month Use of a Cooperative Term Contract with Four One-Year Renewal Options for the Pur
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23750&GUID=E21D5C1E-0BC2-4866-B895-1C23D1DC828F
