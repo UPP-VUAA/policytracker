@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24T06:56:48.775439-07:00",
+  "generated": "2026-08-25T06:42:04.969904-07:00",
   "window_days": 90,
-  "count": 188,
+  "count": 187,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -10,6 +10,29 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-1475",
+      "type": "Ordinance-G",
+      "status": "Agenda Ready - Planning & Development Department",
+      "title": "Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5",
+      "intro": "2026-06-22",
+      "agenda": "2026-08-26",
+      "enacted": "",
+      "last_modified": "2026-08-24",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35510&GUID=7B005F66-0D8F-44C0-AC63-2A6EE32814B9",
+      "source": "Legistar",
+      "_action_days": 1,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
     {
       "city": "Mesa",
       "county": "Maricopa",
@@ -26,12 +49,12 @@
       "last_modified": "2026-08-20",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23969&GUID=1BB572D7-3F08-42FC-8248-51E51DBE34CC",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 1
     },
     {
       "city": "Mesa",
@@ -49,12 +72,12 @@
       "last_modified": "2026-08-20",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23955&GUID=C6F28EA6-FF98-4333-B93C-7FB26FC6D4F7",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 2
     },
     {
       "city": "Mesa",
@@ -72,12 +95,12 @@
       "last_modified": "2026-08-20",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23954&GUID=679AE001-7EC7-4EA7-86D9-C4307C6D015B",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
+      "_uid": 3
     },
     {
       "city": "Mesa",
@@ -95,12 +118,12 @@
       "last_modified": "2026-08-20",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23891&GUID=53C06BAD-3237-4E67-809D-90AB37719B5C",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 4
     },
     {
       "city": "City of Maricopa",
@@ -118,12 +141,12 @@
       "last_modified": "2026-08-20",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A",
       "source": "Legistar",
-      "_action_days": 8,
+      "_action_days": 7,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
+      "_uid": 5
     },
     {
       "city": "Apache Junction",
@@ -141,12 +164,12 @@
       "last_modified": "2026-08-20",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12484&GUID=B81E21E1-792A-46AD-BCC2-ABCBA82A3CDC",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 5
+      "_uid": 6
     },
     {
       "city": "Apache Junction",
@@ -164,12 +187,12 @@
       "last_modified": "2026-08-20",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12480&GUID=ADD1F56C-2985-4592-899B-E2DA38674FC9",
       "source": "Legistar",
-      "_action_days": 7,
+      "_action_days": 6,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 7
     },
     {
       "city": "Phoenix",
@@ -187,12 +210,12 @@
       "last_modified": "2026-08-20",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35730&GUID=CBDB509C-6B46-4389-8E67-A7DD7DF16FC8",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 8
     },
     {
       "city": "Phoenix",
@@ -210,12 +233,12 @@
       "last_modified": "2026-08-20",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35663&GUID=E427C8A7-D4E7-461C-87C5-197EA4720498",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
+      "_uid": 9
     },
     {
       "city": "Phoenix",
@@ -233,12 +256,12 @@
       "last_modified": "2026-08-20",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35625&GUID=CA1C952F-AC34-4611-9E5D-C3CD70F66D5A",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 9
+      "_uid": 10
     },
     {
       "city": "Phoenix",
@@ -256,30 +279,7 @@
       "last_modified": "2026-08-20",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35565&GUID=FE7F65C2-1452-4834-A3AB-E4B9CD8BFB54",
       "source": "Legistar",
-      "_action_days": 2,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 10
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-1475",
-      "type": "Ordinance-G",
-      "status": "Agenda Ready - Planning & Development Department",
-      "title": "Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5",
-      "intro": "2026-06-22",
-      "agenda": "2026-08-26",
-      "enacted": "",
-      "last_modified": "2026-08-20",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35510&GUID=7B005F66-0D8F-44C0-AC63-2A6EE32814B9",
-      "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -302,7 +302,7 @@
       "last_modified": "2026-08-20",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35335&GUID=3B406C45-D275-4230-8570-22B3F588EC2B",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -348,7 +348,7 @@
       "last_modified": "2026-08-20",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23964&GUID=C0577125-1AEB-4EF6-BB53-860130D87D69",
       "source": "Legistar",
-      "_action_days": 7,
+      "_action_days": 6,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -395,7 +395,7 @@
       "last_modified": "2026-08-19",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15429&GUID=7D41635C-124B-407C-8F70-2D42D6BABEC8",
       "source": "Legistar",
-      "_action_days": 0,
+      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -464,7 +464,7 @@
       "last_modified": "2026-08-18",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15430&GUID=2BDC1869-394E-472B-8397-0D5E5AE1E7C7",
       "source": "Legistar",
-      "_action_days": 0,
+      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -487,7 +487,7 @@
       "last_modified": "2026-08-17",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15432&GUID=C541B593-F234-4E48-BE14-D78B9493F26F",
       "source": "Legistar",
-      "_action_days": 0,
+      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -602,7 +602,7 @@
       "last_modified": "2026-08-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B",
       "source": "Legistar",
-      "_action_days": 7,
+      "_action_days": 6,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -625,7 +625,7 @@
       "last_modified": "2026-08-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23946&GUID=E32B2345-E9F9-46AD-9722-2A40E3F0588D",
       "source": "Legistar",
-      "_action_days": 7,
+      "_action_days": 6,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -4319,29 +4319,6 @@
       "_movefrom": "",
       "_moveto": "",
       "_uid": 186
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0578",
-      "type": "Contract",
-      "status": "Agenda Ready",
-      "title": "Purchase of Solar-Powered Portable Traffic Signal Trailers for the Transportation Department (Sole Source) (Citywide)\r\n\r\nThis purchase will provide a Solar-Powered Portable Traffic Signal System to support the City of Mesa\u2019s ongoing commitment to public safety, effective traffic management, and efficient roadway operations. The system will serve as a temporary traffic control solution at locations requiring enhanced safety measures or operational flexibility, particularly in areas with increased commercial vehicle activity or shifting traffic patterns. \r\n\r\nThe Transportation Department and Procurement Services recommend awarding the contract to the sole source vendor, OMJC Signal, in an amount not to exceed $315,000.",
-      "intro": "2026-05-21",
-      "agenda": "2026-06-08",
-      "enacted": "",
-      "last_modified": "2026-05-26",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23794&GUID=E3541BC7-64D1-49E9-948D-B11772886B2C",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 187
     }
   ]
 }

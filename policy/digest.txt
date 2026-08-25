@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-24 06:56 MST | window 90d | 188 items
+Generated 2026-08-25 06:42 MST | window 90d | 187 items
 
 
 === HOUSING (142) ===
+  Phoenix 26-1475 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35510&GUID=7B005F66-0D8F-44C0-AC63-2A6EE32814B9
   Mesa PZ 26071 [Agenda Ready]: Planning and Zoning minutes from August 12, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23969&GUID=1BB572D7-3F08-42FC-8248-51E51DBE34CC
   Mesa PZ 26070 [Agenda Ready]: ZON26-00411 "ER2", 8.7± acres located approximately 630± feet south of the southwest corne
@@ -19,8 +21,6 @@ Generated 2026-08-24 06:56 MST | window 90d | 188 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35663&GUID=E427C8A7-D4E7-461C-87C5-197EA4720498
   Phoenix 26-1590 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1310 (Ordinance G-7534) - District 2
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35625&GUID=CA1C952F-AC34-4611-9E5D-C3CD70F66D5A
-  Phoenix 26-1475 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35510&GUID=7B005F66-0D8F-44C0-AC63-2A6EE32814B9
   Phoenix 26-1300 [Agenda Ready - Aviation Dept]: Phoenix Sky Harbor International Airport Terminal 3 Garage Expansion Joints and Bearing Pa
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35335&GUID=3B406C45-D275-4230-8570-22B3F588EC2B
   Phoenix 26-0983 [Adopted]: Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordi
@@ -92,7 +92,7 @@ Generated 2026-08-24 06:56 MST | window 90d | 188 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (42) ===
+=== TRANSIT (41) ===
   City of Maricopa POL 26-01 [Consent Agenda]: The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Te
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A
   Phoenix 26-1695 [Agenda Ready - Public Transit and Light Rail Department]: October 2026 Proposed Bus Service Improvements (Ordinance S-53136) - Districts 1, 2, 3, 5,
