@@ -1,16 +1,24 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-27 15:42 MST | window 90d | 191 items
+Generated 2026-08-28 15:50 MST | window 90d | 192 items
 
 
-=== HOUSING (146) ===
-  City of Maricopa MIN 26-52 [Consent Agenda]: Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Adviso
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E
+=== HOUSING (147) ===
+  Mesa HP 26-016 [Agenda Ready]: Amendments to Chapters 23, 44, 66, 74, and 87 of Title 11, Zoning Ordinance, of the Mesa C
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24002&GUID=0082979A-F519-4124-A458-B05130FCD6EC
   Apache Junction 26-441 [Consent Agenda]: Consideration of approval of the Land Use Assumptions and Infrastructure Improvements Plan
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12488&GUID=5571E6B5-06D5-4899-A2B7-6F09C26F8C5E
-  Phoenix 26-1475 [Continued]: ***REQUEST TO CONTINUE (SEE ATTACHED MEMO)*** Amend City Code - Official Supplementary Zon
+  Apache Junction 26-433 [Agenda Items]: Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, repre
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12480&GUID=ADD1F56C-2985-4592-899B-E2DA38674FC9
+  Phoenix 26-1475 [Continued]: Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35510&GUID=7B005F66-0D8F-44C0-AC63-2A6EE32814B9
+  Mesa 26-0775 [Agenda Ready]: Planning and Zoning Study Session held on July 22, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157
+  Mesa 26-0774 [Agenda Ready]: Planning and Zoning Public Hearing held on July 22, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC
   Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
+  City of Maricopa MIN 26-52 [Consent Agenda]: Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Adviso
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E
   City of Maricopa ZON 26-04 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone three parcels of land that tot
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15432&GUID=C541B593-F234-4E48-BE14-D78B9493F26F
   City of Maricopa ZON 26-03 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone several parcels of land, total
@@ -31,8 +39,6 @@ Generated 2026-08-27 15:42 MST | window 90d | 191 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
   Tempe PL260008 [Heard 2026-08-25]: A. Request a Zoning Map Amendment from R/O to CSS for approximately .34 acres and a Use Pe
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
-  Apache Junction 26-433 [Agenda Items]: Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, repre
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12480&GUID=ADD1F56C-2985-4592-899B-E2DA38674FC9
   Tempe  [Heard 2026-08-25]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED  AREA DEVELOPMENT OVERLAY
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
   Mesa PZ 26071 [Agenda Ready]: Planning and Zoning minutes from August 12, 2026 Planning and Zoning Board
@@ -53,10 +59,6 @@ Generated 2026-08-27 15:42 MST | window 90d | 191 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15430&GUID=2BDC1869-394E-472B-8397-0D5E5AE1E7C7
   Mesa PZ 26067 [Agenda Ready]: Planning and Zoning Public Hearing held on July 29, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23948&GUID=11928E50-A19E-408C-B29D-F0CEDF66FFE6
-  Mesa 26-0775 [Agenda Ready]: Planning and Zoning Study Session held on July 22, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157
-  Mesa 26-0774 [Agenda Ready]: Planning and Zoning Public Hearing held on July 22, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC
   Mesa 26-0732 [Agenda Ready]: Planning and Zoning Public Hearing held on June 24, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B
   Mesa 26-0731 [Agenda Ready]: Planning and Zoning Study Session held on June 24, 2026.
@@ -81,8 +83,6 @@ Generated 2026-08-27 15:42 MST | window 90d | 191 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
   Mesa DSN 26037 [Agenda Ready]: ZON26-00414. "Magna Steyr Canopies," 10.8± acres located at 7237 E Pecos Road. Alternative
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23961&GUID=03C973FD-6849-4086-AF3E-704E24EE10C3
-  Mesa DSN 26036 [Agenda Ready]: ZON26-00411. "ER2," 8.70± acres located approximately 630± feet south of the of the southw
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23960&GUID=40212FD5-101A-4C3B-9AE5-935FC79A0279
 
 === HEAT (4) ===
   Tempe PL260208 [Heard 2026-08-25]: A. Request a Use Permit to allow two (2) required parking spaces in the street side yard s
@@ -95,12 +95,12 @@ Generated 2026-08-27 15:42 MST | window 90d | 191 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
 === TRANSIT (41) ===
-  City of Maricopa POL 26-01 [Consent Agenda]: The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Te
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A
   Mesa 26-0797 [Agenda Ready]: Five-Year Term Contract for Electrical Equipment, Part & Supplies for Various Citywide Dep
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24015&GUID=CDB55927-5D63-4474-8487-611DF35BB9AC
   Mesa 26-0796 [Agenda Ready]: Five-Year Use of a Cooperative Term Contract for Information Technology (IT) Temporary and
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24014&GUID=63FF59DB-D85A-4721-9B81-BD7586DEF437
+  City of Maricopa POL 26-01 [Consent Agenda]: The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Te
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A
   City of Maricopa ZON 26-03 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone several parcels of land, total
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15429&GUID=7D41635C-124B-407C-8F70-2D42D6BABEC8
   Phoenix 26-1724 [Agenda Ready]: Request to Issue a Competitive Solicitation and Award a Contract for Bus Stop and Transit 
