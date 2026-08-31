@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-08-30 10:06 MST | window 90d | 192 items
+Generated 2026-08-31 12:19 MST | window 90d | 185 items
 
 
-=== HOUSING (147) ===
+=== HOUSING (142) ===
+  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Mesa HP 26-016 [Agenda Ready]: Amendments to Chapters 23, 44, 66, 74, and 87 of Title 11, Zoning Ordinance, of the Mesa C
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24002&GUID=0082979A-F519-4124-A458-B05130FCD6EC
   Apache Junction 26-441 [Consent Agenda]: Consideration of approval of the Land Use Assumptions and Infrastructure Improvements Plan
@@ -15,8 +17,6 @@ Generated 2026-08-30 10:06 MST | window 90d | 192 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157
   Mesa 26-0774 [Agenda Ready]: Planning and Zoning Public Hearing held on July 22, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC
-  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   City of Maricopa MIN 26-52 [Consent Agenda]: Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Adviso
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E
   City of Maricopa ZON 26-04 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone three parcels of land that tot
@@ -94,7 +94,7 @@ Generated 2026-08-30 10:06 MST | window 90d | 192 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (41) ===
+=== TRANSIT (39) ===
   Mesa 26-0797 [Agenda Ready]: Five-Year Term Contract for Electrical Equipment, Part & Supplies for Various Citywide Dep
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24015&GUID=CDB55927-5D63-4474-8487-611DF35BB9AC
   Mesa 26-0796 [Agenda Ready]: Five-Year Use of a Cooperative Term Contract for Information Technology (IT) Temporary and
@@ -173,8 +173,6 @@ Generated 2026-08-30 10:06 MST | window 90d | 192 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23756&GUID=2AC2BED8-FAF4-4713-8041-7D8D281FDDC3
   Mesa 26-0539 [Agenda Ready]: Approving and authorizing the City Manager to enter into a funding agreement with Valley M
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23755&GUID=16189703-A544-46AC-B23F-7EBF578E28AD
-  Mesa 26-0597 [Agenda Ready]: Transportation Advisory Board meeting held on March 17, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23813&GUID=0E3972A2-4600-4819-B399-5D239540AFC9
 
 === WALKABILITY (10) ===
   Phoenix 26-1530 [Adopted]: Van Buren Street: 7th Street to 24th Street Signal and Pedestrian Improvements - Design-Bi

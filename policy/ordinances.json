@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30T10:06:08.208923-07:00",
+  "generated": "2026-08-31T12:19:49.410679-07:00",
   "window_days": 90,
-  "count": 192,
+  "count": 185,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -10,6 +10,75 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-0797",
+      "type": "Contract",
+      "status": "Agenda Ready",
+      "title": "Five-Year Term Contract for Electrical Equipment, Part & Supplies for Various Citywide Departments (Citywide)\n \nThis contract will provide industrial and non-industrial electrical equipment, parts, and supplies, as well as data communications products, to support various projects citywide. Most common items include fuses, distribution panels, conduit fittings, breakers, relays, overloads, contactors, sensors, lighting and electrical supplies, intrusion and access control parts, and motor control equipment. \n\nThe City partnered with the AXIA Cooperative to lead the solicitation that created this term contract. The contract will be available to over 30,000 public agencies nationally through AXIA\u2019s cooperative purchasing program. As part of the agreement, the City will receive a rebate based on all sales against the contract. \n \nA committee representing the Water Resources, Department of Innovation and Technology, Energy Resources, Engineering, Facilities Management, Park, Recreation & Community Facilities, and Transportation Departments and Procurement Services evaluated responses and recommend awarding the contract to the qualified proposals from City Electric Supply Company; Consolidated Electrical Distributors, Inc. dba Arizona Electric Supply (a Mesa business); Elliot Electric Supply (a Mesa business); and Lighting Unlimited in a combined total amount not to exceed $3,520,000.00 annually, with an annual increase allowance of up to 5% or the adjusted Consumer Price Index.",
+      "intro": "2026-08-26",
+      "agenda": "2026-09-14",
+      "enacted": "",
+      "last_modified": "2026-08-31",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24015&GUID=CDB55927-5D63-4474-8487-611DF35BB9AC",
+      "source": "Legistar",
+      "_action_days": 14,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-0796",
+      "type": "Contract",
+      "status": "Agenda Ready",
+      "title": "Five-Year Use of a Cooperative Term Contract for Information Technology (IT) Temporary and Professional Services for the Mesa Police Department (Citywide)\r\n\r\nThis contract will provide a dedicated Technical Account Manager (TAM) to support body-worn camera redaction and digital evidence sharing. The TAM will be on-site four days a week and will assist with ongoing system set up and configuration, account maintenance, data analysis and reporting, and provide technical assistance. The Mesa Police Department currently fills these roles through Axon, which has discontinued this temporary staffing function and transferred it to Insight Global, LLC. Transitioning the functions preserves program knowledge and prevents a gap in support for body-worn camera and digital evidence redaction operations.  \r\n\r\nThe Mesa Police Department and Procurement Services recommend authorizing the purchase using the Omnia Partners cooperative contract with Insight Global, LLC in an amount not to exceed $260,000 annually, with an annual increase allowance of up to 5% or the adjusted Consumer Price Index.",
+      "intro": "2026-08-26",
+      "agenda": "2026-09-14",
+      "enacted": "",
+      "last_modified": "2026-08-31",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24014&GUID=63FF59DB-D85A-4721-9B81-BD7586DEF437",
+      "source": "Legistar",
+      "_action_days": 14,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 1
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0756",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "ZON25-00891 \"Legacy Park\" 196.3\u00b1 acres located at the northeast corner of South Ellsworth Road and East Williams Field Road. Rezone from Light Industrial to Planned Community District (PC). This request will allow for the development of a mixed-use planned community. Pacific Proving LLC, Owner; Susan Demmitt/Dennis Newcombe, Gammage & Burnham, Applicant. (District 6) Ordinance No. 6031\n\nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+      "intro": "2026-08-11",
+      "agenda": "2026-08-31",
+      "enacted": "",
+      "last_modified": "2026-08-31",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375",
+      "source": "Legistar",
+      "_action_days": 0,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 2
+    },
     {
       "city": "Mesa",
       "county": "Maricopa",
@@ -26,12 +95,12 @@
       "last_modified": "2026-08-28",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24002&GUID=0082979A-F519-4124-A458-B05130FCD6EC",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 3
     },
     {
       "city": "Apache Junction",
@@ -49,12 +118,12 @@
       "last_modified": "2026-08-28",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12488&GUID=5571E6B5-06D5-4899-A2B7-6F09C26F8C5E",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 4
     },
     {
       "city": "Apache Junction",
@@ -72,12 +141,12 @@
       "last_modified": "2026-08-28",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12480&GUID=ADD1F56C-2985-4592-899B-E2DA38674FC9",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
+      "_uid": 5
     },
     {
       "city": "Phoenix",
@@ -100,53 +169,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0797",
-      "type": "Contract",
-      "status": "Agenda Ready",
-      "title": "Five-Year Term Contract for Electrical Equipment, Part & Supplies for Various Citywide Departments (Citywide)\n \nThis contract will provide industrial and non-industrial electrical equipment, parts, and supplies, as well as data communications products, to support various projects citywide. Most common items include fuses, distribution panels, conduit fittings, breakers, relays, overloads, contactors, sensors, lighting and electrical supplies, intrusion and access control parts, and motor control equipment. \n\nThe City partnered with the AXIA Cooperative to lead the solicitation that created this term contract. The contract will be available to over 30,000 public agencies nationally through AXIA\u2019s cooperative purchasing program. As part of the agreement, the City will receive a rebate based on all sales against the contract. \n \nA committee representing the Water Resources, Department of Innovation and Technology, Energy Resources, Engineering, Facilities Management, Park, Recreation & Community Facilities, and Transportation Departments and Procurement Services evaluated responses and recommend awarding the contract to the qualified proposals from City Electric Supply Company; Consolidated Electrical Distributors, Inc. dba Arizona Electric Supply (a Mesa business); Elliot Electric Supply (a Mesa business); and Lighting Unlimited in a combined total amount not to exceed $3,520,000.00 annually, with an annual increase allowance of up to 5% or the adjusted Consumer Price Index.",
-      "intro": "2026-08-26",
-      "agenda": "2026-09-14",
-      "enacted": "",
-      "last_modified": "2026-08-28",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24015&GUID=CDB55927-5D63-4474-8487-611DF35BB9AC",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 4
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0796",
-      "type": "Contract",
-      "status": "Agenda Ready",
-      "title": "Five-Year Use of a Cooperative Term Contract for Information Technology (IT) Temporary and Professional Services for the Mesa Police Department (Citywide)\r\n\r\nThis contract will provide a dedicated Technical Account Manager (TAM) to support body-worn camera redaction and digital evidence sharing. The TAM will be on-site four days a week and will assist with ongoing system set up and configuration, account maintenance, data analysis and reporting, and provide technical assistance. The Mesa Police Department currently fills these roles through Axon, which has discontinued this temporary staffing function and transferred it to Insight Global, LLC. Transitioning the functions preserves program knowledge and prevents a gap in support for body-worn camera and digital evidence redaction operations.  \r\n\r\nThe Mesa Police Department and Procurement Services recommend authorizing the purchase using the Omnia Partners cooperative contract with Insight Global, LLC in an amount not to exceed $260,000 annually, with an annual increase allowance of up to 5% or the adjusted Consumer Price Index.",
-      "intro": "2026-08-26",
-      "agenda": "2026-09-14",
-      "enacted": "",
-      "last_modified": "2026-08-28",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24014&GUID=63FF59DB-D85A-4721-9B81-BD7586DEF437",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 5
+      "_uid": 6
     },
     {
       "city": "Mesa",
@@ -164,12 +187,12 @@
       "last_modified": "2026-08-28",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157",
       "source": "Legistar",
-      "_action_days": null,
+      "_action_days": 14,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 7
     },
     {
       "city": "Mesa",
@@ -187,30 +210,7 @@
       "last_modified": "2026-08-28",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC",
       "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 7
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0756",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "ZON25-00891 \"Legacy Park\" 196.3\u00b1 acres located at the northeast corner of South Ellsworth Road and East Williams Field Road. Rezone from Light Industrial to Planned Community District (PC). This request will allow for the development of a mixed-use planned community. Pacific Proving LLC, Owner; Susan Demmitt/Dennis Newcombe, Gammage & Burnham, Applicant. (District 6) Ordinance No. 6031\n\nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-      "intro": "2026-08-11",
-      "agenda": "2026-08-31",
-      "enacted": "",
-      "last_modified": "2026-08-28",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375",
-      "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 14,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -233,7 +233,7 @@
       "last_modified": "2026-08-27",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -256,7 +256,7 @@
       "last_modified": "2026-08-27",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E",
       "source": "Legistar",
-      "_action_days": 2,
+      "_action_days": 1,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -741,7 +741,7 @@
       "last_modified": "2026-08-20",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23964&GUID=C0577125-1AEB-4EF6-BB53-860130D87D69",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -856,7 +856,7 @@
       "last_modified": "2026-08-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23948&GUID=11928E50-A19E-408C-B29D-F0CEDF66FFE6",
       "source": "Legistar",
-      "_action_days": null,
+      "_action_days": 14,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -879,7 +879,7 @@
       "last_modified": "2026-08-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -902,7 +902,7 @@
       "last_modified": "2026-08-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23946&GUID=E32B2345-E9F9-46AD-9722-2A40E3F0588D",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -4274,167 +4274,6 @@
       "_movefrom": "",
       "_moveto": "",
       "_uid": 184
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "PZ 25115",
-      "type": "PZ City Code",
-      "status": "Agenda Ready",
-      "title": "Proposed amendments to Chapters 66 and 67 of the Mesa City Code pertaining to the organization and duties of the Planning and Zoning Board and the Design Review Board. The amendments include, but are not limited to: modifying the membership and qualifications of the Planning and Zoning Board; repealing in its entirety Section 11-66-2: Planning and Zoning Board and adopting a new \u201cSection 11-66-2: Planning and Zoning Board;\u201d repealing in its entirety Section 11-66-6: Design Review Board and adopting a new \u201cSection 11-66-6: Design Review Board;\u201d and modifying appeal bodies. Although not subject to recommendation of the Board, the discussion may also cover related, proposed amendments to Chapter 1 of Title 2 of the Mesa City Code pertaining to the Planning and Zoning Board.\r\n\r\nPlanner: Rachel Phillips\r\nStaff Recommendation: Adoption",
-      "intro": "2025-12-03",
-      "agenda": "2025-12-10",
-      "enacted": "",
-      "last_modified": "2026-06-01",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23208&GUID=F6402ED7-268B-40A9-B1C1-0A65C4C3925C",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 185
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0599",
-      "type": "Minutes",
-      "status": "Agenda Ready",
-      "title": "Planning and Zoning Study Session held on May 13, 2026.",
-      "intro": "2026-06-01",
-      "agenda": "2026-07-20",
-      "enacted": "",
-      "last_modified": "2026-06-01",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23815&GUID=2C7A628D-0AD7-4AC1-8793-132B7296F0B0",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 186
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0597",
-      "type": "Minutes",
-      "status": "Agenda Ready",
-      "title": "Transportation Advisory Board meeting held on March 17, 2026.",
-      "intro": "2026-06-01",
-      "agenda": "2026-06-08",
-      "enacted": "",
-      "last_modified": "2026-06-01",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23813&GUID=0E3972A2-4600-4819-B399-5D239540AFC9",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 187
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0511",
-      "type": "Minutes",
-      "status": "Agenda Ready",
-      "title": "Planning and Zoning Study Session held on April 22, 2026.",
-      "intro": "2026-05-12",
-      "agenda": "2026-06-08",
-      "enacted": "",
-      "last_modified": "2026-06-01",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23727&GUID=35CAC18A-75CD-4A7F-BE2B-C8CB1E208202",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 188
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0500",
-      "type": "Resolution",
-      "status": "Agenda Ready",
-      "title": "Approving and authorizing the City Manager to enter into an Amendment No. 2 to the Intergovernmental Agreement (IGA) with the Flood Control District of Maricopa County (FCDMC) for the design and construction of drainage improvements within City right-of-way on a portion of Baseline Road located east of Signal Butte Road and west of Meridian Road under FCDMC\u2019s Small Project Assistant Program (SPAP), to extend the project completion date and update the estimated project costs. The estimated total fiscal impact of this IGA is $1,040,901, and 75% of this estimated total, up to $500,000 is eligible for reimbursement through SPAP, meaning the estimated fiscal impact on the City is $540,901. This project is funded by Local Streets, HURF and Transportation Funds. (Districts 5 and 6) Resolution No. 12524",
-      "intro": "2026-05-06",
-      "agenda": "2026-06-01",
-      "enacted": "",
-      "last_modified": "2026-06-01",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23715&GUID=7F8ED709-3432-45DE-A8E8-3919173786F3",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 189
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0346",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "Staff recommended ordinance for ZON25-00635 \"Ascension,\" 40\u00b1 acres located at the northeast corner of East Brown Road and North 32nd Street. Rezone from Agricultural (AG) to Single Residence-15 with a Planned Area Development Overlay (RS-15-PAD). This request will allow for a 46-lot single residence development. Brown Road Citrus, LLC, Owner; Baylee Lopez, Wood, Patel & Associates, applicant.  (District 1) Ordinance No. 6018",
-      "intro": "2026-03-30",
-      "agenda": "2026-05-18",
-      "enacted": "",
-      "last_modified": "2026-06-01",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23561&GUID=6D8F0D9F-2F7E-42B4-806C-F49555A08BF9",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 190
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0055",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "An ordinance proposing amendments to Chapters 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 14, 20, 21, 22, 30, 31, 32, 33, 34, 35, 42, 46, 56, 63, 66, 67, 69, 70, 71, 72, 73, 76, 80, 81, 86, and 87 of Title 11 of the Mesa City Code pertaining to administrative review in compliance with A.R.S. \u00a7 9-500.49. The amendments replace, amend, and update procedures for submission, review, approval, modification, expiration, and enforcement for land use applications associated with administrative approval, along with corresponding revisions needed to align related provisions for consistency. The amendments replace, amend, and update development standards citywide to incorporate technical updates and objective standards in compliance with A.R.S. \u00a7 9-500.49. The amendments also include related changes in terminology and definitions, modifications to rules of measurement, and updates to alternative compliance. (Citywide) \nOrdinance No. 5996\n \nStaff Recommendation: Adoption\nP&Z Recommendation: Adoption with Conditions (Vote: 6-0)\n \nThe Planning and Zoning Board recommended adoption of the proposed Mesa Zoning Ordinance (MZO) Administrative Review text amendments with the condition that staff clarify the meaning of \u201cChange of Use\u201d as it pertains to Section 11-69-5 and related sections. The ordinance being introduced reflects modifications made by staff in response to the Board\u2019s recommendations as well as input and various comments from stakeholders within the development community.",
-      "intro": "2025-12-02",
-      "agenda": "2026-02-23",
-      "enacted": "",
-      "last_modified": "2026-06-01",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23202&GUID=828104DB-B065-46F0-B401-E117B935F414",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 191
     }
   ]
 }
