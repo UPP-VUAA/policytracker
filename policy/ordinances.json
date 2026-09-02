@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-01T10:05:18.859714-07:00",
+  "generated": "2026-09-02T09:56:18.092798-07:00",
   "window_days": 90,
-  "count": 184,
+  "count": 183,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -10,6 +10,75 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "City of Maricopa",
+      "county": "Pinal (greater region)",
+      "topics": [
+        "Transit"
+      ],
+      "file": "POL 26-01",
+      "type": "Policy",
+      "status": "Approved",
+      "title": "The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Testing Program, Federal Transit Administration (FTA) and Federal Motor Carrier Safety Administration (FMCSA) policy.  Discussion and Action.",
+      "intro": "2026-08-11",
+      "agenda": "2026-09-01",
+      "enacted": "",
+      "last_modified": "2026-09-02",
+      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "adopted",
+      "_movefrom": "Consent Agenda",
+      "_moveto": "Approved",
+      "_uid": 0
+    },
+    {
+      "city": "City of Maricopa",
+      "county": "Pinal (greater region)",
+      "topics": [
+        "Housing"
+      ],
+      "file": "MIN 26-52",
+      "type": "Minutes",
+      "status": "Passed",
+      "title": "Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Advisory Committee meetings, May 18, 2026, June 15, 2026 and July 20, 2026 Cultural Affairs and Arts Advisory Committee meetings, June 22, 2026 and July 27, 2026 Planning and Zoning Commission meetings. Discussion and Action.",
+      "intro": "2026-08-27",
+      "agenda": "2026-09-01",
+      "enacted": "",
+      "last_modified": "2026-09-02",
+      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "adopted",
+      "_movefrom": "Consent Agenda",
+      "_moveto": "Passed",
+      "_uid": 1
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-1643",
+      "type": "Ordinance-G",
+      "status": "Agenda Ready - Planning & Development Department",
+      "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-30-26-1 - Approximately 425 Feet East of the Southeast Corner of 51st Avenue and Union Hills Drive (Ordinance G-) - District 1",
+      "intro": "2026-07-29",
+      "agenda": "2026-09-09",
+      "enacted": "",
+      "last_modified": "2026-09-02",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35678&GUID=8C80ABB3-E941-4172-9EE3-FB8C3DAF7C59",
+      "source": "Legistar",
+      "_action_days": 7,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 2
+    },
     {
       "city": "Apache Junction",
       "county": "Maricopa/Pinal",
@@ -31,30 +100,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Transit"
-      ],
-      "file": "POL 26-01",
-      "type": "Policy",
-      "status": "Consent Agenda",
-      "title": "The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Testing Program, Federal Transit Administration (FTA) and Federal Motor Carrier Safety Administration (FMCSA) policy.  Discussion and Action.",
-      "intro": "2026-08-11",
-      "agenda": "2026-09-01",
-      "enacted": "",
-      "last_modified": "2026-08-31",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A",
-      "source": "Legistar",
-      "_action_days": 0,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 1
+      "_uid": 3
     },
     {
       "city": "Mesa",
@@ -69,15 +115,15 @@
       "intro": "2026-08-26",
       "agenda": "2026-09-14",
       "enacted": "",
-      "last_modified": "2026-08-31",
+      "last_modified": "2026-09-01",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24015&GUID=CDB55927-5D63-4474-8487-611DF35BB9AC",
       "source": "Legistar",
-      "_action_days": 13,
+      "_action_days": 12,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
+      "_uid": 4
     },
     {
       "city": "Mesa",
@@ -92,15 +138,15 @@
       "intro": "2026-08-26",
       "agenda": "2026-09-14",
       "enacted": "",
-      "last_modified": "2026-08-31",
+      "last_modified": "2026-09-01",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24014&GUID=63FF59DB-D85A-4721-9B81-BD7586DEF437",
       "source": "Legistar",
-      "_action_days": 13,
+      "_action_days": 12,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 5
     },
     {
       "city": "Mesa",
@@ -115,7 +161,7 @@
       "intro": "2026-08-11",
       "agenda": "2026-08-31",
       "enacted": "",
-      "last_modified": "2026-08-31",
+      "last_modified": "2026-09-01",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375",
       "source": "Legistar",
       "_action_days": null,
@@ -123,7 +169,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
+      "_uid": 6
     },
     {
       "city": "Mesa",
@@ -141,12 +187,12 @@
       "last_modified": "2026-08-28",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24002&GUID=0082979A-F519-4124-A458-B05130FCD6EC",
       "source": "Legistar",
-      "_action_days": 0,
+      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 5
+      "_uid": 7
     },
     {
       "city": "Apache Junction",
@@ -164,12 +210,12 @@
       "last_modified": "2026-08-28",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12488&GUID=5571E6B5-06D5-4899-A2B7-6F09C26F8C5E",
       "source": "Legistar",
-      "_action_days": 0,
+      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 8
     },
     {
       "city": "Apache Junction",
@@ -192,7 +238,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 9
     },
     {
       "city": "Phoenix",
@@ -215,7 +261,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
+      "_uid": 10
     },
     {
       "city": "Mesa",
@@ -233,12 +279,12 @@
       "last_modified": "2026-08-28",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157",
       "source": "Legistar",
-      "_action_days": 13,
+      "_action_days": 12,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 9
+      "_uid": 11
     },
     {
       "city": "Mesa",
@@ -256,35 +302,12 @@
       "last_modified": "2026-08-28",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC",
       "source": "Legistar",
-      "_action_days": 13,
+      "_action_days": 12,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 10
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Housing"
-      ],
-      "file": "MIN 26-52",
-      "type": "Minutes",
-      "status": "Consent Agenda",
-      "title": "Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Advisory Committee meetings, May 18, 2026, June 15, 2026 and July 20, 2026 Cultural Affairs and Arts Advisory Committee meetings, June 22, 2026 and July 27, 2026 Planning and Zoning Commission meetings. Discussion and Action.",
-      "intro": "2026-08-27",
-      "agenda": "2026-09-01",
-      "enacted": "",
-      "last_modified": "2026-08-27",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E",
-      "source": "Legistar",
-      "_action_days": 0,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 11
+      "_uid": 12
     },
     {
       "city": "City of Maricopa",
@@ -307,7 +330,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 12
+      "_uid": 13
     },
     {
       "city": "City of Maricopa",
@@ -331,7 +354,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 13
+      "_uid": 14
     },
     {
       "city": "Tempe",
@@ -354,7 +377,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 14
+      "_uid": 15
     },
     {
       "city": "City of Maricopa",
@@ -377,7 +400,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 15
+      "_uid": 16
     },
     {
       "city": "Phoenix",
@@ -400,7 +423,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 16
+      "_uid": 17
     },
     {
       "city": "Phoenix",
@@ -423,7 +446,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 17
+      "_uid": 18
     },
     {
       "city": "Phoenix",
@@ -446,7 +469,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 18
+      "_uid": 19
     },
     {
       "city": "Phoenix",
@@ -469,7 +492,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 19
+      "_uid": 20
     },
     {
       "city": "Phoenix",
@@ -492,7 +515,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 20
+      "_uid": 21
     },
     {
       "city": "Phoenix",
@@ -515,7 +538,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 21
+      "_uid": 22
     },
     {
       "city": "Phoenix",
@@ -538,7 +561,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 22
+      "_uid": 23
     },
     {
       "city": "Mesa",
@@ -561,7 +584,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 23
+      "_uid": 24
     },
     {
       "city": "Tempe",
@@ -585,7 +608,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 24
+      "_uid": 25
     },
     {
       "city": "Tempe",
@@ -608,7 +631,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 25
+      "_uid": 26
     },
     {
       "city": "Tempe",
@@ -631,7 +654,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 26
+      "_uid": 27
     },
     {
       "city": "Mesa",
@@ -654,7 +677,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 27
+      "_uid": 28
     },
     {
       "city": "Mesa",
@@ -677,7 +700,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 28
+      "_uid": 29
     },
     {
       "city": "Mesa",
@@ -700,7 +723,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 29
+      "_uid": 30
     },
     {
       "city": "Phoenix",
@@ -723,7 +746,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 30
+      "_uid": 31
     },
     {
       "city": "Mesa",
@@ -746,7 +769,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 31
+      "_uid": 32
     },
     {
       "city": "Mesa",
@@ -769,7 +792,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 32
+      "_uid": 33
     },
     {
       "city": "City of Maricopa",
@@ -792,7 +815,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 33
+      "_uid": 34
     },
     {
       "city": "City of Maricopa",
@@ -809,29 +832,6 @@
       "enacted": "",
       "last_modified": "2026-08-19",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15091&GUID=236A23C9-23BF-4EE5-8EA8-C1C56829C6EE",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 34
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Housing"
-      ],
-      "file": "ZON 26-05",
-      "type": "Rezoning",
-      "status": "Regular Agenda",
-      "title": "PUBLIC HEARING: A request by the City of Maricopa to rezone a parcel of land, totaling \u00b1146.8-acres, from the Pinal County Light Industry & Warehouse (CI-1) zoning district to the municipal General Industrial (GI) zoning district, generally located south of the Maricopa-Casa Grande Highway, east of N. Fuqua Road, west of N. Hartman Road, and north of W. Peters and Nall Road. DISCUSSION AND ACTION.",
-      "intro": "2026-08-03",
-      "agenda": "2026-08-24",
-      "enacted": "",
-      "last_modified": "2026-08-18",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15430&GUID=2BDC1869-394E-472B-8397-0D5E5AE1E7C7",
       "source": "Legistar",
       "_action_days": null,
       "_new": false,
@@ -856,7 +856,7 @@
       "last_modified": "2026-08-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23948&GUID=11928E50-A19E-408C-B29D-F0CEDF66FFE6",
       "source": "Legistar",
-      "_action_days": 13,
+      "_action_days": 12,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -4228,29 +4228,6 @@
       "_movefrom": "",
       "_moveto": "",
       "_uid": 182
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Housing"
-      ],
-      "file": "RES 26-10",
-      "type": "Resolution",
-      "status": "Passed",
-      "title": "PUBLIC HEARING: A resolution of the Mayor and City Council of the City of Maricopa, Arizona adopting \"Advancing Maricopa\", the Maricopa General Plan and Land Use Map which will replace the City of Maricopa General Plan 2016 as adopted by City Council, and all successor amendments thereto, and directing that \"Advancing Maricopa,\" the Maricopa General Plan and Land Use Map be submitted to the voters for ratification at an election to be held on November 3, 2026. Discussion and Action.",
-      "intro": "2026-04-29",
-      "agenda": "2026-06-02",
-      "enacted": "",
-      "last_modified": "2026-06-03",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15233&GUID=F7A81DBF-BDEC-4AAC-924D-8C2C97FDF696",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 183
     }
   ]
 }

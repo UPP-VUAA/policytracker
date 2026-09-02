@@ -1,27 +1,45 @@
 {
- "updated": "2026-09-01",
+ "updated": "2026-09-02",
  "items": {
+  "city of maricopa|pol 26-01": {
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-09-02",
+   "status": "Approved",
+   "hearing": "2026-09-01",
+   "city": "City of Maricopa",
+   "title": "The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Testing Program, Federal Transit Administration (FTA) and Federal Motor Carrier Safety Administration (FMCSA) policy.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A"
+  },
+  "city of maricopa|min 26-52": {
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2026-09-01",
+   "city": "City of Maricopa",
+   "title": "Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Advisory Committee meetings, May 18, 2026, June 15, 2026 and July 20, 2026 Cultural Affairs and Arts Advisory Committee meetings, June 22, 2026 and July 27, 2026 Planning and Zoning Commission meetings. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E"
+  },
+  "phoenix|26-1643": {
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready - Planning & Development Department",
+   "hearing": "2026-09-09",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-30-26-1 - Approximately 425 Feet East of the Southeast Corner of 51st Avenue and Union Hills Drive (Ordinance G-) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35678&GUID=8C80ABB3-E941-4172-9EE3-FB8C3DAF7C59"
+  },
   "apache junction|26-437": {
    "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Public Hearing",
    "hearing": "2026-08-25",
    "city": "Apache Junction",
    "title": "Presentation, discussion, public hearing and consideration of proposed Conditional Use Permit (\"CUP\u201d) case P-25-46-CUP, a request by Bela Flor, represented by Reese Anderson of Pew & Lake, PLC, for the approval of a 210-unit, three-story, multi-family residential rental community on approximately 9-acres zoned City Center (\"B-3\") at the northeast corner of Idaho Road and Junction Street.",
    "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12484&GUID=B81E21E1-792A-46AD-BCC2-ABCBA82A3CDC"
   },
-  "city of maricopa|pol 26-01": {
-   "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
-   "status": "Consent Agenda",
-   "hearing": "2026-09-01",
-   "city": "City of Maricopa",
-   "title": "The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Testing Program, Federal Transit Administration (FTA) and Federal Motor Carrier Safety Administration (FMCSA) policy.  Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A"
-  },
   "mesa|26-0797": {
    "first_seen": "2026-08-27",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-09-14",
    "city": "Mesa",
@@ -30,7 +48,7 @@
   },
   "mesa|26-0796": {
    "first_seen": "2026-08-27",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-09-14",
    "city": "Mesa",
@@ -39,7 +57,7 @@
   },
   "mesa|26-0756": {
    "first_seen": "2026-08-26",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-08-31",
    "city": "Mesa",
@@ -48,7 +66,7 @@
   },
   "mesa|hp 26-016": {
    "first_seen": "2026-08-28",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-09-01",
    "city": "Mesa",
@@ -57,7 +75,7 @@
   },
   "apache junction|26-441": {
    "first_seen": "2026-08-26",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Consent Agenda",
    "hearing": "2026-09-01",
    "city": "Apache Junction",
@@ -66,7 +84,7 @@
   },
   "apache junction|26-433": {
    "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Items",
    "hearing": "2026-08-31",
    "city": "Apache Junction",
@@ -75,7 +93,7 @@
   },
   "phoenix|26-1475": {
    "first_seen": "2026-08-19",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Continued",
    "hearing": "2026-08-26",
    "city": "Phoenix",
@@ -84,7 +102,7 @@
   },
   "mesa|26-0775": {
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-09-14",
    "city": "Mesa",
@@ -93,25 +111,16 @@
   },
   "mesa|26-0774": {
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-09-14",
    "city": "Mesa",
    "title": "Planning and Zoning Public Hearing held on July 22, 2026.",
    "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC"
   },
-  "city of maricopa|min 26-52": {
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-09-01",
-   "status": "Consent Agenda",
-   "hearing": "2026-09-01",
-   "city": "City of Maricopa",
-   "title": "Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Advisory Committee meetings, May 18, 2026, June 15, 2026 and July 20, 2026 Cultural Affairs and Arts Advisory Committee meetings, June 22, 2026 and July 27, 2026 Planning and Zoning Commission meetings. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E"
-  },
   "city of maricopa|zon 26-04": {
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Regular Agenda",
    "hearing": "2026-08-24",
    "city": "City of Maricopa",
@@ -120,7 +129,7 @@
   },
   "city of maricopa|zon 26-03": {
    "first_seen": "2026-08-13",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Regular Agenda",
    "hearing": "2026-08-24",
    "city": "City of Maricopa",
@@ -129,7 +138,7 @@
   },
   "tempe|pl260219": {
    "first_seen": "2026-08-27",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Heard 2026-08-26",
    "hearing": "2026-08-26",
    "city": "Tempe",
@@ -138,7 +147,7 @@
   },
   "city of maricopa|cup25-02": {
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Regular Agenda",
    "hearing": "2026-08-24",
    "city": "City of Maricopa",
@@ -147,7 +156,7 @@
   },
   "phoenix|26-1724": {
    "first_seen": "2026-08-26",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-10-21",
    "city": "Phoenix",
@@ -156,7 +165,7 @@
   },
   "phoenix|26-1695": {
    "first_seen": "2026-08-19",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Adopted",
    "hearing": "2026-08-26",
    "city": "Phoenix",
@@ -165,7 +174,7 @@
   },
   "phoenix|26-1628": {
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Adopted",
    "hearing": "2026-08-26",
    "city": "Phoenix",
@@ -174,7 +183,7 @@
   },
   "phoenix|26-1590": {
    "first_seen": "2026-08-19",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Adopted",
    "hearing": "2026-08-26",
    "city": "Phoenix",
@@ -183,7 +192,7 @@
   },
   "phoenix|26-1530": {
    "first_seen": "2026-08-19",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Adopted",
    "hearing": "2026-08-26",
    "city": "Phoenix",
@@ -192,7 +201,7 @@
   },
   "phoenix|26-1300": {
    "first_seen": "2026-08-19",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Adopted",
    "hearing": "2026-08-26",
    "city": "Phoenix",
@@ -201,7 +210,7 @@
   },
   "phoenix|21-3412": {
    "first_seen": "2026-08-27",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Adopted",
    "hearing": "2022-02-02",
    "city": "Phoenix",
@@ -210,7 +219,7 @@
   },
   "mesa|pz 26064": {
    "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-08-26",
    "city": "Mesa",
@@ -219,7 +228,7 @@
   },
   "tempe|pl260208": {
    "first_seen": "2026-08-26",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Heard 2026-08-25",
    "hearing": "2026-08-25",
    "city": "Tempe",
@@ -228,7 +237,7 @@
   },
   "tempe|pl260008": {
    "first_seen": "2026-08-26",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Heard 2026-08-25",
    "hearing": "2026-08-25",
    "city": "Tempe",
@@ -237,7 +246,7 @@
   },
   "tempe|t:f4b6613239": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Heard 2026-08-25",
    "hearing": "2026-08-25",
    "city": "Tempe",
@@ -246,7 +255,7 @@
   },
   "mesa|pz 26071": {
    "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-08-26",
    "city": "Mesa",
@@ -255,7 +264,7 @@
   },
   "mesa|pz 26070": {
    "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-08-26",
    "city": "Mesa",
@@ -264,7 +273,7 @@
   },
   "mesa|pz 26069": {
    "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-08-26",
    "city": "Mesa",
@@ -273,7 +282,7 @@
   },
   "phoenix|26-0983": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Adopted",
    "hearing": "2026-07-01",
    "city": "Phoenix",
@@ -282,7 +291,7 @@
   },
   "mesa|26-0748": {
    "first_seen": "2026-08-07",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-08-31",
    "city": "Mesa",
@@ -291,7 +300,7 @@
   },
   "mesa|26-0623": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Agenda Ready",
    "hearing": "2026-08-17",
    "city": "Mesa",
@@ -300,7 +309,7 @@
   },
   "city of maricopa|pres 26-14": {
    "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Regular Agenda",
    "hearing": "2026-07-27",
    "city": "City of Maricopa",
@@ -309,12 +318,1308 @@
   },
   "city of maricopa|gpa 26-01": {
    "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "status": "Regular Agenda",
    "hearing": "2026-03-23",
    "city": "City of Maricopa",
    "title": "Public Hearing: The Planning and Zoning Commission shall conduct a public hearing to receive public comment on the draft Advancing Maricopa General Plan update. This item is for discussion only and no action will be taken. Discussion Only.",
    "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15091&GUID=236A23C9-23BF-4EE5-8EA8-C1C56829C6EE"
+  },
+  "mesa|pz 26067": {
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-09-14",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on July 29, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23948&GUID=11928E50-A19E-408C-B29D-F0CEDF66FFE6"
+  },
+  "mesa|26-0732": {
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-31",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on June 24, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B"
+  },
+  "mesa|26-0731": {
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-31",
+   "city": "Mesa",
+   "title": "Planning and Zoning Study Session held on June 24, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23946&GUID=E32B2345-E9F9-46AD-9722-2A40E3F0588D"
+  },
+  "mesa|26-0675": {
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-17",
+   "city": "Mesa",
+   "title": "Approving and authorizing the City Manager to enter into a Development Agreement, Government Property Lease Exise Tax Agreement, and Public Access Easement Agreements with Pride Ventures LLC II, for the development of a mixed-use project to be known as \"Ovio\" on the real property generally located at the northeast corner of Dobson Road and Main Street. (District 3) Resolution No. 12567",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95"
+  },
+  "mesa|26-0737": {
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-17",
+   "city": "Mesa",
+   "title": "Approving and authorizing the City Manager to enter into an Intergovernmental Agreement with the Regional Public Transportation Authority for the design and construction management of improvements to existing bus stops at various locations in Mesa. The project is funded by a combination of a federal grant, transit advertising revenue and the Transit Fund. The total fiscal impact of the project is $2,520,000. (Districts 1, 2, 3, 4 and 6) Resolution No. 12566",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1"
+  },
+  "mesa|26-0734": {
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-17",
+   "city": "Mesa",
+   "title": "Transportation Advisory Board meeting held on May 19, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5"
+  },
+  "mesa|26-0666": {
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-17",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on June 10, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23881&GUID=AD3ED42B-5759-4F13-AFC3-738672338FD8"
+  },
+  "mesa|26-0665": {
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-17",
+   "city": "Mesa",
+   "title": "Planning and Zoning Study Session held on June 10, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23880&GUID=24C06713-1A03-48BB-A670-9D31D9BBEE03"
+  },
+  "mesa|pz 26068": {
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-12",
+   "city": "Mesa",
+   "title": "GPA26-00161 \"Hawes Crossing Village 7\", 103\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Major General Plan Amendment to change the Placetype from Urban Center to Urban Residential on 29.7\u00b1 acres and Local Employment Center to Urban Residential on 73.2\u00b1 acres. (District 6)\n \nPlanner: Joshua Grandlienard\nStaff Recommendation: Adoption",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23949&GUID=5C1F364C-67B1-4B24-83D6-813F50871A36"
+  },
+  "mesa|pz 26065": {
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-12",
+   "city": "Mesa",
+   "title": "ZON26-00160 \"Hawes Crossing Village 7\", 153.5\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Rezone 102.9\u00b1 acres from Mixed Use with a Planned Area Development Overlay (MX-PAD) (29.7\u00b1 acres) and Light Industrial with a Planned Area Development Overlay (LI-PAD) (73.2\u00b1 acres) to Residential Small Lot - 2.5 with a Planned Area Development Overlay (RSL-2.5-PAD). And Rezone 50.6\u00b1 acres from Limited Commercial with a Planned Area Development Overlay (LC-PAD) (23.5\u00b1 acres) and MX-PAD (27.1\u00b1 acres) to LC-PAD (27.8\u00b1 acres) and MX-PAD (22.8\u00b1 acres). This request will allow for future residential, commercial and mixed-use development. (District 6)\n\n \nPlanner: Josh Grandlienard\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23892&GUID=B58AE004-C2D5-42F7-A126-6CD8505C35FF"
+  },
+  "tempe|pl260170": {
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-08-11",
+   "hearing": "2026-08-11",
+   "city": "Tempe",
+   "title": "C. Request a Use Permit to allow a drive-through restaurant in the CSS zoning district for DUTCH BROS COFFEE, located at 1801 East Southern Avenue. The applicant is Dutch Bros, LLC. (PL260170) Project Planner: Robert_Mansolillo@tempe.gov or",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041"
+  },
+  "tempe|pl250281": {
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-08-11",
+   "hearing": "2026-08-11",
+   "city": "Tempe",
+   "title": "A. Request a Use Permit to allow a detached engineered shade structure within the front yard setback for FARABEE RESIDENCE, located at 1233 East Marigold Lane. The applicant is Bryce Farabee. (PL250281) Project Planner: Lucas_Jensen@tempe.g",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041"
+  },
+  "phoenix|23-1970": {
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2023-09-20",
+   "city": "Phoenix",
+   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-SP-5-23-7 - Southwest Corner of 15th Avenue and Jackson Street (Ordinance G-7167)",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=27023&GUID=424DB530-4C00-4CAF-A84A-4A6707005878"
+  },
+  "tempe|t:5109f94771": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED\u00a0 AREA DEVELOPMENT OVERLAY: NONE",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "mesa|dsn 26037": {
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-11",
+   "city": "Mesa",
+   "title": "ZON26-00414. \"Magna Steyr Canopies,\" 10.8\u00b1 acres located at 7237 E Pecos Road. Alternative Compliance Request to allow for the expansion of an Outdoor Storage facility. (District 6)\r\n\r\nStaff Planner: Joshua Grandlienard",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23961&GUID=03C973FD-6849-4086-AF3E-704E24EE10C3"
+  },
+  "mesa|dsn 26036": {
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-11",
+   "city": "Mesa",
+   "title": "ZON26-00411. \"ER2,\" 8.70\u00b1 acres located approximately 630\u00b1 feet south of the of the southwest corner of North Greenfield Road and East McDowell Road. Alternative Compliance request to allow for an approximately 155,597 square foot Industrial development. (District 1)\r\n\r\nStaff Planner: Charlotte Bridges",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23960&GUID=40212FD5-101A-4C3B-9AE5-935FC79A0279"
+  },
+  "mesa|dsn 26032": {
+   "first_seen": "2026-08-06",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-11",
+   "city": "Mesa",
+   "title": "DRB24-00707. \"Park North Multi-Family,\" 5\u00b1 acres located approximately 270\u00b1 feet east of the northeast corner of South Power Road and East Guadalupe Road. Design Review to allow for a 78-lot attached single residence development. (District 6) \r\n \r\nStaff Planner: Charlotte Bridges",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23956&GUID=58647065-80AE-42AA-9999-7F2B9461CF6D"
+  },
+  "phoenix|20-2734": {
+   "first_seen": "2026-08-08",
+   "last_seen": "2026-09-02",
+   "status": "Continued",
+   "hearing": "2020-10-21",
+   "city": "Phoenix",
+   "title": "Eight-Hour Rule Request to Research Intergovernmental Agreements Related to Affordable Housing and Homelessness",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=17876&GUID=3AB59CD0-E10D-4366-891E-D4F2568180F2"
+  },
+  "mesa|pz 26066": {
+   "first_seen": "2026-08-07",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-08-12",
+   "city": "Mesa",
+   "title": "Planning and Zoning minutes from July 22, 2026 Planning and Zoning Board",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23909&GUID=9BD118B5-8B49-42D7-8DF0-46938235E1C0"
+  },
+  "phoenix|26-0979": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-05-20",
+   "city": "Phoenix",
+   "title": "Purchase of Residential 35-, 65-, and 95-Gallon Containers Contract - RFP 27-SW-001 - Request for Award (Ordinance S-52888) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35014&GUID=02E5E243-DE0A-4FED-B9C8-99B6EBEE1B1F"
+  },
+  "phoenix|26-0949": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-05-20",
+   "city": "Phoenix",
+   "title": "The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT00130063 (Ordinance S-52886) - District 7",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD"
+  },
+  "phoenix|26-0679": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-05-20",
+   "city": "Phoenix",
+   "title": "56th Street: Thomas Road to Indian School Road - Phase 2 Bike and Pedestrian Improvements - Design-Bid-Build Services - ST87210047 and ST87210049 (Ordinance S-52858) - District 6",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34715&GUID=0E239BB3-89AB-4683-BA7E-61F8227ACECE"
+  },
+  "phoenix|25-2629": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-05-20",
+   "city": "Phoenix",
+   "title": "Request to Enter Into an Easement and Drainage Agreement with Empire Residential Communities Fund IV, LLC (Ordinance S-52849) - District 7",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33855&GUID=0EC78028-B5BB-49CA-86FF-84C4D6FB4DC1"
+  },
+  "city of maricopa|zon23-01": {
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-09-02",
+   "status": "Regular Agenda",
+   "hearing": "2023-03-28",
+   "city": "City of Maricopa",
+   "title": "PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a request for a Zoning Map Amendment on approximately 63 acres effectively rezoning the site from the CB-2 (General Business), CI-1 Light Industry and Warehouse, CB-1 (Local Business), and GR (General Rural) zoning districts to the SC (Shopping Center), MU-G (General Mixed Use), and GC (General Commercial) zoning districts. The site is generally located at the northeast, southeast, northwest, and southwest of John Wayne Pkwy. and W. Honeycutt Ave., within the City of Maricopa. DISCUSSION AND ACTION.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=11908&GUID=CE6AE43A-EFA9-4798-ADAE-7CB21C1D7662"
+  },
+  "phoenix|22-1468": {
+   "first_seen": "2026-08-05",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2022-09-21",
+   "city": "Phoenix",
+   "title": "October 2022 Proposed Bus Service Improvements (Ordinance S-49025)",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=23973&GUID=DB633617-8853-45BD-928E-21C9815CD02F"
+  },
+  "phoenix|21-1917": {
+   "first_seen": "2026-08-04",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2021-08-25",
+   "city": "Phoenix",
+   "title": "Fare Policy Amendment - Use of ARPA Funds to Purchase Transit Passes (Ordinance S-47872)",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=20388&GUID=458EB4C7-56BF-4C4E-9BEF-2F76F76A44C9"
+  },
+  "mesa|pz 26057": {
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-29",
+   "city": "Mesa",
+   "title": "GPA26-00161 \"Hawes Crossing Village 7\", 103\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Major General Plan Amendment to change the Placetype from Urban Center to Urban Residential on 29.7\u00b1 acres and Local Employment Center to Urban Residential on 73.2\u00b1 acres. (District 6)\r\n\r\n\r\nPlanner: Joshua Grandlienard\r\nStaff Recommendation: Adoption",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23864&GUID=AD8FD861-9BFF-49BE-93A4-6C13CE40922D"
+  },
+  "phoenix|26-1381": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeast Corner of 59th Avenue and Dobbins Road (Ordinance G-7532) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35416&GUID=3E186F5F-D071-4020-ADE4-253C5ED41DFA"
+  },
+  "phoenix|26-0528": {
+   "first_seen": "2026-08-01",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-04-08",
+   "city": "Phoenix",
+   "title": "Amend City Code - Official Supplementary Zoning Map 1306 (Ordinance G-7503) - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34564&GUID=9B9DED8B-7907-439B-A9C0-80DC612A2483"
+  },
+  "phoenix|26-0262": {
+   "first_seen": "2026-08-01",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready - Planning & Development Department",
+   "hearing": "2027-01-01",
+   "city": "Phoenix",
+   "title": "Acceptance and Dedication of Easements for Public Utility, Sidewalk and Multi-use Trail Purposes (Ordinance S-52525) - Districts 1, 6, 7 & 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34298&GUID=96ED7E42-3582-49B3-A966-A19B7730B03F"
+  },
+  "phoenix|25-0328": {
+   "first_seen": "2026-08-01",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2025-06-04",
+   "city": "Phoenix",
+   "title": "Acquisition of Real Property and Related Easements and Licenses for the Capitol Extension (CAPEX) Light Rail Project (Ordinance S-51963) - District 7",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=31556&GUID=8BAB8F53-5EC2-4E0B-AFEF-0168634AEC17"
+  },
+  "city of maricopa|cup 26-02": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Regular Agenda",
+   "hearing": "2026-07-27",
+   "city": "City of Maricopa",
+   "title": "PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a request for a Conditional Use Permit application for an existing 99-foot-tall wireless facility. The subject property is located at 44870 W. Hathaway Ave., on the northwest corner of W. Hathaway Ave. and N. Condrey Ave. DISCUSSION AND ACTION.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15392&GUID=1E34198C-179D-4479-BC45-B744F5C9A78D"
+  },
+  "city of maricopa|ord 26-13": {
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-09-02",
+   "status": "Consent Agenda",
+   "hearing": "2026-07-14",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2026 Amendments to Title 18: Zoning\" by reference to add Section 18.76.125 regarding food truck courts in the Maricopa Station Overlay and to amend Sections 18.76.060, and 18.115.040 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6"
+  },
+  "city of maricopa|min 26-42": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Consent Agenda",
+   "hearing": "2026-07-14",
+   "city": "City of Maricopa",
+   "title": "Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts Advisory Committee meetings,  April 20, 2026 Senior Advisory Committee meeting and April 27, 2026 Planning and Zoning Commission meeting. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A"
+  },
+  "phoenix|26-0734": {
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-09-02",
+   "status": "Approved",
+   "hearing": "2026-04-22",
+   "city": "Phoenix",
+   "title": "Modification of Stipulation Request for Ratification of March 18, 2026 Planning Hearing Officer Action - PHO-1-25--Z-257-84-5(4) - Southeast Corner of 24th Avenue and Coolidge Street - District 4",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34770&GUID=1964BC23-EC1C-47BE-BDDA-751374D606B9"
+  },
+  "mesa|26-0621": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 81, 86, and 87. The amendments include, but are not limited to: modifying entryway monumentation requirements; refining building material and color standards; updating Employment District use tables and development standards; clarifying lot and land division requirements; modifying standards for Detached Accessory Buildings or Structures and Accessory Dwelling Units; updating Live/Work Unit and residential use standards in Commercial Districts; refining screening requirements for certain specific uses and activities; modifying landscaping and alternative landscape plan provisions; modifying landscape diversity requirements; updating Manufactured Home and Recreational Vehicle Accessory Structure standards; clarifying sign regulations; updating procedural requirements related to written protests, application review, and expirations; modifying definitions of \"Home Occupations,\" \"Live/Work Units,\" and \"Indoor Warehousing And Storage\"; and adding a definition for \"Hazardous Material Warehousing and Storage.\"\n(Citywide) Ordinance No. 6025\n\nStaff Recommendation: Adoption\nP&Z Recommendation: Adoption with Conditions (Vote: 5-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE"
+  },
+  "mesa|26-0609": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "ZON26-00333 \"Faith Christian School\" 9.9 acres located at 3761 South Power Road. Council Use Permit for a Private School, and Modification of Conditions of Approval (1-5, 8, 12 & 13)  of Ordinance No. 4646, from Case No. Z06-088. Leman Academy of Excellence, Inc., owner; Ganeen Harstick, Faith Christian School, applicant. (District 6) Ordinance No. 6024\n\nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748"
+  },
+  "phoenix|26-1379": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Approved",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Modification of Stipulation Request for Ratification of May 20, 2026, Planning Hearing Officer Action - PHO-2-26--Z-275-84-6 - Approximately 575 Feet East of the Intersection of 48th Street and Virginia Avenue - District 6",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35414&GUID=B0FB848A-29BE-487B-AACD-9DB9886F5D4F"
+  },
+  "phoenix|26-1368": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-27-26-8 - Southwest Corner of 14th Street and Hess Avenue (Ordinance G-7530) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35403&GUID=652966C8-203F-4D98-A15E-3E5B81B25F03"
+  },
+  "phoenix|26-1236": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Multi-Family Window Replacement Contract - RFP FY26-086-13 - Request for Award (Ordinance S-53073) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35271&GUID=AE968E10-8026-4780-AE11-9E1DE76A86B8"
+  },
+  "phoenix|26-1086": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Salt River Project Land Use License for the City of Phoenix (Ordinance S-53070) - District 6",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35121&GUID=B99DCC96-FD78-4998-B543-F34E446568C4"
+  },
+  "mesa|26-0686": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and Service Stations. The amendments include, but are not limited to: adding definitions for Fleet-Based Services, Heavy Fleet-Based Services, and Accessory Electric Vehicle Charging; modifying definitions for Light Fleet-Based Services and Service Stations; adding Heavy Fleet-Based Services, Accessory Electric Vehicle Charging, and related footnotes to land use tables; modifying Section 11-31-25 titled, \u201cService Stations\u201d; and adding Section 11-31-40 titled, \u201cFleet-Based Services.\u201d (Citywide) Ordinance No. 6027\r\n\r\nThis ordinance is a modified version of the ordinance discussed at July,16, 2026 study session modifying the required separation of Fleet-Based Services  and Service Stations from residential uses and zoning districts from 100 to 150 feet, modifying the land use process for Light Fleet-Based Services in the LC District from permitted to requiring a Council Use Permit, and modifying the maximum height of fleet vehicle parking, charging, and storage from 30 feet to located at grade, except for in the GI and HI Districts where the maximum height would be 30 feet.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55"
+  },
+  "mesa|26-0684": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and Service Stations. The amendments include, but are not limited to: adding definitions for Fleet-Based Services, Heavy Fleet-Based Services, and Accessory Electric Vehicle Charging; modifying definitions for Light Fleet-Based Services and Service Stations; adding Heavy Fleet-Based Services, Accessory Electric Vehicle Charging, and related footnotes to land use tables; modifying Section 11-31-25 titled, \u201cService Stations\u201d; and adding Section 11-31-40 titled, \u201cFleet-Based Services.\u201d (Citywide) Ordinance No. 6026\r\n\r\nThis ordinance is a modified version of the ordinance discussed at July 16, 2026 study session modifying the required separation of Fleet-Based Services  and Service Stations from residential uses and zoning districts from 100 to 150 feet and modifying the land use process for Light Fleet-Based Services in the LC District from permitted to requiring a Council Use Permit.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23899&GUID=F3D834D2-46A5-4E0E-B2F2-F36ADAA35638"
+  },
+  "mesa|26-0619": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed limit from 40 mph to 35 mph on Horne from Brown Road to McKellips Road, and modify the speed limit from 35 mph to 30 mph on Horne between McKellips Road to the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 6022",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314"
+  },
+  "mesa|26-0618": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed limit from 40 mph to 35 mph on Mesa Drive from Bates Street to Lehi Road, and modify the speed limit from 35 mph to 30 mph on Mesa Drive between Bates Street to the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 6021",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D"
+  },
+  "mesa|26-0638": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-27",
+   "city": "Mesa",
+   "title": "GPA26-00111 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Minor General Plan Amendment to change the Placetype from Urban Residential to Urban Center. Tres Hermanos, LLC, owner; All Right Builders, Inc., applicant. (District 3) Resolution No. 12560\n \nStaff Recommendation: Approval with conditions \nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23854&GUID=7784C37A-19A9-4C75-9093-C527B8345252"
+  },
+  "mesa|26-0608": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "ZON25-00110 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Rezone from Office Commercial (OC) to Limited Commercial with a Bonus Intensity Zone Overlay (LC-BIZ) and Site Plan Review. This request will allow for an approximately 4,015\u00b1 square foot Minor Automobile Repair facility. Tres Hermanos, LLC, owner; All Right Builders, Inc., applicant. (District 3) Ordinance No. 6023\n \nStaff Recommendation: Approval with conditions \nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F"
+  },
+  "phoenix|26-0561": {
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready - Planning & Development Department",
+   "hearing": "2027-01-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Official Supplementary Zoning Map 1300 (Ordinance G-7469) - District 6",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34597&GUID=CB25670F-3C49-469A-A933-782BE5067D89"
+  },
+  "phoenix|25-2794": {
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-02-04",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-9-25-4 - Approximately 765 Feet South of the Southwest Corner of 37th Drive and Roanoke Avenue (Ordinance G-7481) - District 4",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34020&GUID=1FFEF153-99AD-4DE9-B4DB-FEDE20D529F9"
+  },
+  "phoenix|25-2791": {
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-02-04",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-121-25-4 - Approximately 765 Feet South of the Southwest Corner of 37th Drive and Roanoke Avenue (Ordinance G-7480) - District 4",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34017&GUID=C333E786-5DCF-4DCA-82C8-9CDFA1FC2BD3"
+  },
+  "phoenix|25-2788": {
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-02-04",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-127-25-2 - Approximately 585 Feet West of the Southwest Corner of Cave Creek Road and Quail Avenue (Ordinance G-7479) - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34014&GUID=1905CF2F-E3C2-4702-8BB0-ABBD60FC2C33"
+  },
+  "phoenix|25-2763": {
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-02-04",
+   "city": "Phoenix",
+   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-44-25-6 (2400 Biltmore Residential PUD) - Northeast Corner of 24th Street and Arizona Biltmore Circle (Ordinance G-7482) - District 6",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33989&GUID=C2429BFF-05EB-4A5D-8DAA-6DC596882345"
+  },
+  "phoenix|25-2739": {
+   "first_seen": "2026-07-23",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2026-02-04",
+   "city": "Phoenix",
+   "title": "PCD Major Amendment - Rezoning Application Z-237-M-85-2 - Southeast Corner of Cave Creek Road and Desert Willow Parkway - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33965&GUID=824F3219-86DC-4BEF-ADE4-BCFD370C1B87"
+  },
+  "phoenix|26-1364": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner of Interstate 17 and Grandview Road - District 3",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913"
+  },
+  "phoenix|24-1523": {
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2024-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-113-23-3 - Approximately 810 Feet West of the Northwest Corner of 23rd Avenue and Townley Avenue (Ordinance G-7279)",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=29781&GUID=61CC18FB-C315-4C31-95D0-4F9CC8239004"
+  },
+  "phoenix|21-3766": {
+   "first_seen": "2026-07-21",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2022-03-02",
+   "city": "Phoenix",
+   "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-SM-CC-1-21-7-8 (South Central TOD Community Plan) - Area Generally Bounded by Union Pacific Railroad Tracks (South of Jefferson Street) on the North, 7th Street on the East, South Mountain Avenue on the South, and 7th Avenue on the West (Resolution 22002)",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=22237&GUID=FA800265-E87C-4217-A0A1-8568C31462E5"
+  },
+  "mesa|26-0685": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "A resolution declaring the document filed with the City Clerk titled \"Option 2: Section 11-31-40: Fleet-Based Services\u201d to be a public record available for public use and inspection at the Office of the City Clerk. (Citywide) Resolution No. 12555\n\nThis resolution is a modified version of the resolution discussed at July,16, 2026 study session modifying the maximum height of fleet vehicle parking, charging, and storage from 30 feet to located at grade, except for in the GI and HI Districts where the maximum height would be 30 feet; and modifying the required separation of Fleet-Based Services from residential uses and zoning districts from 100 to 150 feet.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23900&GUID=4A98B4E4-3DAC-4DB4-B9C9-BA62FF59CF15"
+  },
+  "mesa|26-0683": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "A resolution declaring the document filed with the City Clerk titled \"Option 1: Section 11-31-40: Fleet-Based Services\u201d to be a public record available for public use and inspection at the Office of the City Clerk. (Citywide) Resolution No. 12556  \r\n\r\nThis resolution is a modified version of the resolution discussed at July,16, 2026 study session modifying the required separation of Fleet-Based Services and from residential uses and zoning districts from 100 to 150 feet.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23898&GUID=AFC1988C-B45F-489C-9D6B-12540582CA5A"
+  },
+  "mesa|26-0636": {
+   "first_seen": "2026-07-11",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "A resolution declaring the documents filed with the City Clerk titled \u201c2026 Zoning Code Refinement Text Amendment\u201d to be a public record and providing for the availability of the documents for public use and inspection with the City Clerk. (Citywide) Resolution No. 12554",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23852&GUID=D38493D8-FD63-4B21-AC79-D0CC9B11AC41"
+  },
+  "mesa|pz 26063": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-22",
+   "city": "Mesa",
+   "title": "ZON26-00243. \"Boeing ACA Expansion\", 38.0\u00b1 acres located approximately 1,700\u00b1 feet north of the northeast corner of North Greenfield Road and East McDowell Road. Development Plan Review and Special Use Permit. This request will allow for an approximately 263,386\u00b1 square foot expansion of a Manufacturing facility. (District 5).\r\n\r\nPlanner: Charlotte Bridges\r\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23889&GUID=C74F58A7-EBC0-42BC-B42D-FB59C5E24AC5"
+  },
+  "mesa|pz 26060": {
+   "first_seen": "2026-07-16",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-22",
+   "city": "Mesa",
+   "title": "Planning and Zoning minutes from June 24, 2026 Planning and Zoning Board",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23877&GUID=B9115364-B425-426E-BFC4-7B93ACF21B98"
+  },
+  "mesa|pz 26055": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-22",
+   "city": "Mesa",
+   "title": "Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 66, 74, and 87 relating to historic preservation",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23856&GUID=3E7DB38B-899C-4251-A299-0DBA752930B5"
+  },
+  "mesa|26-0613": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on May 27, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224"
+  },
+  "mesa|26-0612": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Study Session held on May 27, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6"
+  },
+  "mesa|26-0607": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC"
+  },
+  "mesa|26-0606": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Study Session held on May 13, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549"
+  },
+  "phoenix|17-4232": {
+   "first_seen": "2026-07-17",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2017-09-12",
+   "city": "Phoenix",
+   "title": "Transportation 2050 (T2050) Performance Measures",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=5478&GUID=379F9B36-8474-49DE-AB4A-6EE6478BEBE1"
+  },
+  "mesa|pz 26022": {
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-03-25",
+   "city": "Mesa",
+   "title": "GPA25-00233 \"Haven at Hawes,\" 38\u00b1 acres located at the southeast corner of South Hawes Road and East Mesquite Street. Major General Plan Amendment to change the Placetype from Local Employment Center to Urban Residential. (District 6) \n \nPlanner: Jennifer Merrill\nStaff Recommendation: Adoption",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23456&GUID=3CA338D7-EE66-48FC-81D4-27DCF7F16871"
+  },
+  "city of maricopa|iga 23-12": {
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2023-08-01",
+   "city": "City of Maricopa",
+   "title": "The Mayor and City Council shall discuss and take action to approve an Intergovernmental Agreement (IGA) with the Arizona Department of Transportation (ADOT) concerning the appropriation of funds from ADOT to the City in the amount of $10,300,000 to design and construct improvements to State Route 238 or State Route 347, or both. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=12254&GUID=C8E69A29-683A-4A6A-8C16-FD2213CB02A0"
+  },
+  "mesa|26-0615": {
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-16",
+   "city": "Mesa",
+   "title": "Hear a presentation, discuss, and provide direction on a proposed Development Agreement and Government Property Lease Excise Tax agreement for the development of a mixed-use, multi-residence project adjacent to the Sycamore Light Rail Station known as Ovio.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D"
+  },
+  "mesa|pz 26049": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-10",
+   "city": "Mesa",
+   "title": "GPA26-00111 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Minor General Plan Amendment to change the Placetype from Urban Residential to Urban Center. (District 3).\r\n\r\nPlanner: Emily Johnson\r\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23634&GUID=411CB7C1-306C-4344-9CCF-8F72E25BA545"
+  },
+  "mesa|pz 26033": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-05-13",
+   "city": "Mesa",
+   "title": "ZON25-00626. \"NTT Mesa PH10\" 170\u00b1 acres located at the northeast corner of East Pecos Road and the South Crismon Road alignment. Rezone from Light Industrial with a Planned Area Development Overlay (LI-PAD) to Light Industrial with a new Planned Area Development Overlay (LI-PAD), Council Use Permit and Major Site Plan Modification. This request will allow for an approximately 2,257,581\u00b1 square foot Data Center development. (District 6). \n\nPlanner: Joshua Grandlienard\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23559&GUID=3E619CFF-FB13-4556-83CA-17641E9FEF71"
+  },
+  "city of maricopa|cup24-02": {
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-09-02",
+   "status": "Regular Agenda",
+   "hearing": "2024-04-22",
+   "city": "City of Maricopa",
+   "title": "PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a request for a Conditional Use Permit renewal application for an existing 59-foot tall stealth wireless facility. The subject property is located at 44705 W. Garden Ln., adjacent to the Cobblestone Farms subdivision. DISCUSSION AND ACTION.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=13114&GUID=87EB11F1-118D-4C97-AB70-768AD0B1D8AE"
+  },
+  "mesa|26-0235": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-04-06",
+   "city": "Mesa",
+   "title": "ZON25-00942 \u201cRio Salado 25\u201d 3.1\u00b1 acres located at the northwest corner of West Rio Salado Parkway and North Cubs Way. Rezone from General Commercial (GC) to General Commercial with a Bonus Intensity Zone Overlay (GC-BIZ), Council Use Permit (CUP), and Site Plan Review. This request will allow for the development of an approximately 54,725\u00b1 square foot hotel and 36-unit multiple residence building. Rio Salado 25, LLC, Owner; Jonathan Boyd, Boyd Development, applicant. (District 3) \nOrdinance No. 6007\n \nStaff Recommendation: Approval with conditions \nP&Z Board Recommendation: Approval with conditions (Vote: 6-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23450&GUID=92378ED4-B0CC-4FD7-8B16-A80CDA007A75"
+  },
+  "phoenix|25-2595": {
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-01-07",
+   "city": "Phoenix",
+   "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-PV-1-25-2 - Approximately 660 Feet West of the Southwest Corner of Scottsdale Road and Bell Road (Resolution 22357) - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33821&GUID=97C0F8A2-5C21-426C-BC39-E24F28E49340"
+  },
+  "apache junction|t:b98234101c": {
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "1999-01-01",
+   "city": "Apache Junction",
+   "title": "Resolution 99-61\r\n\r\nRESOLUTION NO. 99-61\r\nA RESOLUTION OF THE MAYOR AND CITY COUNCIL OF THE CITY OF APACHE JUNCTION, ARIZONA, APPROVING THE FINAL SUBDIVISION PLAT FOR SUNRISE SHADOWS SUBDIVISION, CASE NO. SD-97-10, BY BEAZER HOMES, TEMPE, ARIZONA.\r\n\r\nWHEREAS, the subdivider in case SD-97-10 proposes to sub-divide 15.0 acres at the northwest corner 12th Avenue and San Marcos Drive into 48 single family residential lots pursuant to Arizona Revised Statutes Annotated \u00a79-463 et seq., and pursuant to the Apache Junction City Code (hereinafter \"A.J.C.C.\"), Vol.Land Development Code (hereinafter \"L.D.C.\"), Chapter 2, Subdivision Regulations; and\r\n\r\nWHEREAS, the Apache Junction Planning and Zoning Commission held a public hearing regarding SD-97-10 on July 25, 1998 and recommended approval of the preliminary plat by a vote of 5 to 2; and WHEREAS, the Apache Junction City Council held a public hearing regarding the preliminary plat for SD-97-10 on November 3, 1998 and approved said preliminary plat in accordance with Resolution No. 98-27, by a vote of 7 to 0;and\r\n\r\nWHEREAS, this Council finds this proposed subdivision to be consistent with the Medium Density (1 to 6 dwelling units per acre) designation of the 1987 Apache Junction General Plan; and WHEREAS, this Council finds this proposed subdivision to be in compliance with the and the A.J.C.C., Vol. II, L.D.C., Chapter 1, Zoning Ordinance and Chapter 2, Subdivision Regulations; and \r\n\r\nWHEREAS, this Council finds the proposed final plat for SD-97-10, Sunrise Shadows, to be in substantial compliance with the approved preliminary plat. \r\n\r\nNOW, THEREFORE, BE IT RESOLVED by the Mayor and City Council of the City of Apache Junction, Arizona, that: \r\n\r\nSaid final subdivision plat, SD-97-10, which includes the on and off-site improvements, landscape and amenity plans, be approved.\r\n\r\n\r\nKATHLEEN CONNELLY\r\nCity Clerk\r\nPASSED AND ADOPTED BY THE MAYOR AND CITY COUNCIL OF THE CITY OF APACHE\r\nJUNCTION, ARIZONA, THIS 21ST DAY OF MARCH , 2000.\r\nSIGNED AND ATTESTED TO THIS 21ST DAY OF MARCH , 2000.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=5413&GUID=A73EAC55-59A5-48F2-ABFC-E3CE5EB7DC53"
+  },
+  "apache junction|26-328": {
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-09-02",
+   "status": "Consent Agenda",
+   "hearing": "2026-06-16",
+   "city": "Apache Junction",
+   "title": "Consideration of the Third Amendment to the Professional Services Agreement between the City of Apache Junction and Central Arizona Council on Developmental Disabilities for senior services transportation.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE"
+  },
+  "apache junction|26-342": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Public Hearing",
+   "hearing": "2026-07-07",
+   "city": "Apache Junction",
+   "title": "Presentation, Discussion and Public Hearing of the development fee study update including the Land Use Assumptions, Infrastructure Improvements Plan and Preliminary Draft Fees. The City\u2019s development fee consultant, Tischler Bise, will provide a presentation on development fees in preparation of an update to the development fee study and implementing ordinance.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5"
+  },
+  "phoenix|25-2681": {
+   "first_seen": "2026-07-08",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-01-21",
+   "city": "Phoenix",
+   "title": "(CONTINUED FROM NOVEMBER 19, DECEMBER 3 AND 17, 2025) - Public Hearing and Ordinance Adoption - Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-25--Z-29-12-7(5) - Southeast Corner of 99th Avenue and Thomas Road (Ordinance G-7451) - District 5",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33907&GUID=444DB3BD-ADFF-4559-BC8E-950C4591E4C7"
+  },
+  "phoenix|25-1969": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-03",
+   "city": "Phoenix",
+   "title": "Amend City Code - Official Supplementary Zoning Map 1295 (Ordinance G-7517) - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33196&GUID=BC0E2AF6-5FAD-456F-9ED6-16D4102E2D3B"
+  },
+  "city of maricopa|ord 25-17": {
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2025-12-02",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 18: Zoning\" by reference to amend Chapters 18.40, 18.75, 18.80, 18.90, 18.120, 18.135, 18.140 and 18.205 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4"
+  },
+  "city of maricopa|ord 25-16": {
+   "first_seen": "2026-07-07",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2025-12-02",
+   "city": "City of Maricopa",
+   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 17: Subdivisions\" by reference to amend Sections 17.20.050, 17.20.060 and 17.30.040 of the Maricopa City Code and providing for severability and the effective date thereof. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5"
+  },
+  "mesa|26-0598": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-20",
+   "city": "Mesa",
+   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558"
+  },
+  "mesa|26-0591": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-08",
+   "city": "Mesa",
+   "title": "Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 and 4)  \r\n\r\nThis project will furnish and install new playground equipment, shade structures, site amenities, concrete ramps and new playground surfacing to the existing and new playgrounds at designated areas in each park.  Sidewalk ramps, new engineered wood fiber, and new poured-in-place seamless rubber play surfacing will improve safety and make the playgrounds more accessible.  Additional amenities to be installed include benches, new lighting, and trash receptacles. \r\n\r\nStaff recommend awarding a contract for this project to the lowest responsible bidder, Valley Rain Construction Corp, in the amount of $1,271,188.26, and authorizing a change order allowance in the amount of $127,118.83 (10%), for a total authorized amount of $1,398,307.09. This project is funded by federal funding through the Community Development Block Grant Program (CDBG) granted through the Housing and Community Development Department.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288"
+  },
+  "mesa|hp 26-013": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-07-07",
+   "city": "Mesa",
+   "title": "Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 66, 74, and 87 relating to historic preservation",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950"
+  },
+  "apache junction|26-349": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Items",
+   "hearing": "2026-07-06",
+   "city": "Apache Junction",
+   "title": "Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2 and 3-story apartment complex.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12396&GUID=EFACE385-2D96-42F4-9658-6907454C00F0"
+  },
+  "phoenix|26-1441": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Issuance of a Multifamily Revenue Note (The Hacienda at Sunnyslope Apartments Project), Series 2026 (Resolution 22390) - District 3",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35476&GUID=03893FD5-BBFD-42CB-A2A4-04FA0CC602F9"
+  },
+  "phoenix|26-1380": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-29-23-7(8) - Approximately 300 Feet East of the Northeast Corner of 43rd Avenue and Baseline Road (Ordinance G-7531) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35415&GUID=41D89EE8-EA9A-41C6-BC59-B72825E1808C"
+  },
+  "phoenix|26-1366": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-15-26-2 - Southwest Corner of 56th Street and Ranger Drive (Ordinance G-7525) - District 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35401&GUID=AB4F9FF9-454B-428C-88EB-57C4B3CEB70C"
+  },
+  "phoenix|26-1365": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-25-26-1-2 - Approximately 430 Feet South of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7529) - Districts 1 & 2",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35400&GUID=EF093578-D7BE-4D48-A74B-EC032E5385C3"
+  },
+  "phoenix|26-1363": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-145-24-1 - Approximately 200 Feet North of the Northwest Corner of 35th Avenue and Bell Road (Ordinance G-7528) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35398&GUID=FEF16381-BDB7-417F-9775-817F2EF84235"
+  },
+  "phoenix|26-1308": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Affordable Housing Property Preservation Program - Construction Administration and Observation Services (General Obligation Bond) - Various Project Numbers (Ordinance S-53075) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35343&GUID=37955FCE-7DFB-4EC9-B9E0-EC7D453184D4"
+  },
+  "phoenix|26-1256": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Remove/Replace Zoning District - Briles Pass - Annexation 554 - Approximately 460 Feet East of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7527) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35291&GUID=0DBD87E1-DA2E-4567-BAE9-41E55B3A0F19"
+  },
+  "phoenix|26-1200": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-07-01",
+   "city": "Phoenix",
+   "title": "Remove/Replace Zoning District - 9th Avenue and Alameda Road - Annexation 560 - Approximately 700 Feet West of the Northwest Corner of 9th Avenue and Alameda Road (Ordinance G-7526) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35235&GUID=932B61FB-86CB-4EA2-BC78-894AB7E67812"
+  },
+  "mesa|26-0056": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-01-12",
+   "city": "Mesa",
+   "title": "Proposed amendments to Chapter 1 of Title 2 and Chapters 66 and 67 of Title 11 of the Mesa City Code pertaining to the organization and duties of the Planning and Zoning Board and the Design Review Board. The amendments include, but are not limited to: modifying the membership and qualifications of the Planning and Zoning Board; repealing in its entirety Section 11-66-2: Planning and Zoning Board and adopting a new \u201cSection 11-66-2: Planning and Zoning Board;\u201d repealing in its entirety Section 11-66-6: Design Review Board and adopting a new \u201cSection 11-66-6: Design Review Board;\u201d and modifying appeal bodies. (Citywide) \nOrdinance No. 5997\n \nStaff Recommendation: Adoption\nP&Z Board Recommendation: Adoption with Conditions (Vote: 6-0)",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23272&GUID=D114925F-FF1A-4312-8425-BB17BF77B87C"
+  },
+  "apache junction|26-333": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Public Hearing",
+   "hearing": "2026-06-23",
+   "city": "Apache Junction",
+   "title": "Presentation, discussion, public hearing, and consideration of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Noel Griemsmann, of Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2-story apartment complex.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12380&GUID=0AFC5E64-DAC8-42EE-921D-5A7256C4B68F"
+  },
+  "tempe|pl260139": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-04",
+   "hearing": "2026-06-04",
+   "city": "Tempe",
+   "title": "2. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance for a Zoning and Development Code Text Amendment for TOD PARKING UPDATE for changes to Part 5, Chapter 6 - Transportation Overlay District, consisting ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
+  },
+  "mesa|25-0329": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2025-04-21",
+   "city": "Mesa",
+   "title": "Amending Sections 10-4-4 and 10-4-5 of the Mesa City Code to modify the limits of the existing posted speed limit of 40 mph on Val Vista Drive between Pomegranate Street and Quenton Drive and establish a speed limit of 35 mph on Val Vista Drive between Quenton Drive and the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 5939",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=22430&GUID=B4A1F9AC-3059-49DF-9391-22493C696D7B"
+  },
+  "tempe|t:817ecdfe09": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "12. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental Agreement with Maricopa County for installation and management of a Connected Vehicle Intelligent Transportation and Freight Signal Priority system. ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:cc828d3ecd": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Action Agency (TCAA) to support City of Tempe Community Health and Human Services Department heat relief efforts. (Resolution No. R2026.86)",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:865c6eaf64": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "2. Adopt a resolution approving and authorizing the issuance of The Industrial Development Authority of the City of Tempe Multifamily Housing Revenue Bonds in an original aggregate principal amount not to exceed $48,500,000 for the benefit ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:85f3ddd16f": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "13. Approve a one-year contract renewal with Sapphire Gas Solutions LLC, for the supply of liquefied natural gas to support the City\u2019s transit and fleet operations.",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:ae823b24d5": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "1. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance to establish development standards for a Planned Area Development Overlay in the MU-4 district for TEMPE OASIS, consisting of an adaptive reuse from motel",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "tempe|t:45d8f119aa": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-25",
+   "hearing": "2026-06-25",
+   "city": "Tempe",
+   "title": "3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance amending the Tempe City Code, Chapter 19, relating to Motorized and Electric Mobility Devices in Sections 19-1 (b), 19-183, 19-184 (a)(b), 19-212 (d)(e), ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
+  },
+  "mesa|pz 26047": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 67, 81, 86, and 87. The amendments include, but are not limited to: modifying entryway monumentation requirements; refining building material and color standards; updating Employment District use tables and development standards; clarifying lot and land division requirements; modifying pedestrian connection requirements; modifying standards for Detached Accessory Buildings or Structures and Accessory Dwelling Units; updating Live/Work Unit and residential use standards in Commercial Districts; refining Data Center and Battery Energy Storage System screening requirements; modifying landscaping and alternative landscape plan provisions; modifying landscape diversity requirements; updating Manufactured Home and Recreational Vehicle Accessory Structure standards; clarifying sign regulations; updating procedural requirements related to written protests, application review, and expirations; modifying definitions of \u201cHome Occupations,\u201d \u201cLive/Work Units,\u201d and \u201cIndoor Warehousing And Storage\u201d; relocating the definition of \"Skilled Nursing Facility\" to Public and Semi-Public Use Classification, and adding a definition for \u201cHazardous Material Warehousing and Storage.\u201d \n\nStaff Recommendation: Adoption",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23811&GUID=8559947D-3436-46D0-8370-FDD7F73713D2"
+  },
+  "mesa|pz 26045": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "ZON25-00693. \"Homestead at Eastmark,\" 11.7+ acres located at the southwest corner of South Signal Butte Road and East Rubidium Avenue. Major Site Plan Review for a new 261-unit apartment development and 2.2 acres of retail/commercial development. (District 6).\n \nPlanner: Jennifer Merrill\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23798&GUID=75750BC1-752E-4F4D-976E-03A6B92F9294"
+  },
+  "tempe|pl260187": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "F. Request a Use Permit to allow a vocational school in the GID zoning district for LINCOLN TECHNICAL INSTITUTE, located at 1665 West Alameda Drive, Suite 110. The applicant is Studio1200. (PL260187) Project Planner: Whitney_Mayfield@tempe.",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260168": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "E. Request a Use Permit Standard to reduce the side yard setback in the R1-15 zoning district from 15 feet to 12 feet for RADFORD RESIDENCE, located at 1318 East La Vieve Lane. The applicant is Taylor Radford. (PL260168) Project Planner: Ro",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260137": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "D. Request a Use Permit Standard to reduce the required street side yard setback in the R1-6 zoning district from 10 feet to 8 feet for an attached residential building addition for GRINDEY RESIDENCE, located at 744 East Vista Del Cerro Dri",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260133": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "C. Request a Use Permit for a private school in the CSS zoning district for LEADERSHIP SOCIETY OF ARIZONA, located at 3010 South Priest Drive. The applicant is FM Solutions Management. (PL260133) Project Planner: Warren_Rivera@tempe.gov or ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl260054": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "B. Request a Use Permit to allow a massage establishment in the CSS zoning district for MAYA SPA located at 218 West Southern Avenue. The applicant is Maya Spa LLC. (PL260054) Project Planner: Whitney_Mayfield@tempe.gov or (480) 350-8486",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "tempe|pl250435": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-23",
+   "hearing": "2026-06-23",
+   "city": "Tempe",
+   "title": "A. Request a Use Permit for live entertainment within an existing restaurant in the CSS zoning district for TWIN LOCOS LIVE ENTERTAINMENT, located at 3224 South Mill Avenue. The applicant is Robert Davis II. (PL250435) Project Planner: Warr",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
+  },
+  "mesa|pz 26046": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "ZON26-00155. \u201cDU 5/6 South Plan Amendment,\u201d 750+/- acres located between East Elliot Road and East Point Twenty-Two Boulevard, and west of South Signal Butte Road, but not including the area north of East Rubidium Avenue and east of South Binary. Major Amendment to the Development Unit 5/6 South Development Unit Plan (DUP). This request will modify the boundary of the eastern portion of the DUP to align with East Rubidium, and establish new boundaries for the District Land Use Group (LUG) and transition area. (District 6) \r\n\r\nPlanner: Jennifer Merrill\r\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4"
+  },
+  "mesa|pz 26051": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-24",
+   "city": "Mesa",
+   "title": "Planning and Zoning minutes from June 10, 2026 Planning and Zoning Board",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23827&GUID=FF41D371-827E-464E-B586-B74811E186D0"
+  },
+  "city of maricopa|con 12-080": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2012-11-20",
+   "city": "City of Maricopa",
+   "title": "The Mayor and City Council shall discuss and possibly take action on a request to approve an Award of Contract to Dyett & Bhatia Urban and Regional Planners of San Francisco to provide consulting services for the City of Maricopa, Development Services Zoning Code Rewrite, in an amount not to exceed $330,750; and to approve budgetary transfers to fund consulting services related to interim Planning and Zoning functions, including overseeing the Zoning Code Rewrite, through the end of FY12-13 in an amount not to exceed $136,200.  The transfer is from General Governmental CIP, Capital Projects-Transportation, Buildings, Amtrak Station Relocation (35044146-67720-35016) for $466,950 to General Governmental CIP, Capital Projects-Planning & Zoning, Design Services-Improvements Other Than Buildings, Zoning Code Rewrite (35044141-67735) for $330,750 and to General Fund, Planning and Zoning, Professional and Occupational (10044141-53320) for $136,200.  The procurement process for the contract award is in compliance with City of Maricopa Purchasing Code, Section 3-4-6. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=1962&GUID=9AB78235-8E6D-4C40-BFC9-1D63951751E8"
+  },
+  "apache junction|26-326": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Passed",
+   "hearing": "2026-06-16",
+   "city": "Apache Junction",
+   "title": "Presentation, discussion, public hearing, and consideration of Ordinance No. 1576 regarding case P-26-6-PZ, a request by Kimberly Bergman for a rezoning of 275 S. Cactus Road, approximately 1.25 gross acre parcel from Medium Density Single-Family Detached Residential (\u201cRS-10M\u201d) to General Rural Low Density Single-Family Detached Residential (\u201cRS-GR\u201d) and repealing any conflicting provisions and providing for severability.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12373&GUID=B6582500-3FC1-4617-B1D7-475BAD2C82C6"
+  },
+  "phoenix|26-1195": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Request to Submit Annual Federal Transit Administration Grant Applications and Enter into Grant Agreements (Ordinance S-53030) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35230&GUID=54294117-FF39-48B8-931B-1B23B6522C89"
+  },
+  "phoenix|26-0806": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Annual Operations Funding Agreement with Valley Metro Rail for Operational Costs for Light Rail Services for Fiscal Year 2026-27  (Ordinance S-52983) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34842&GUID=7475082B-9683-4899-BBA4-DFDB1A76C43D"
+  },
+  "phoenix|26-1270": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Accessible Mobility Vehicles and Vehicle Conversion Services CO-OP BPM007074 - Request for Award (Ordinance S-53050) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35305&GUID=92DA30BA-C07C-4FDC-BA6D-58DB772E1893"
+  },
+  "phoenix|26-1259": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Parking Services for Public Transit Department Building (Ordinance S-53045) - District 7",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35294&GUID=4EE8D525-B135-4D3E-941B-1CCC93ECB386"
+  },
+  "phoenix|26-1162": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Funding for The Moreland Phase II Affordable Housing Development (Ordinance S-53026) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35197&GUID=5EFC24CA-3F2D-4EEF-8CA1-F5DF94207499"
+  },
+  "phoenix|26-1123": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Playgrounds, Splash Pads, Outdoor Fitness, and Related Equipment - Contract - COOP 26-0072 Request for Award (Ordinance S-53014) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35158&GUID=CC071EA4-6C58-4CA2-9BE4-48B5A66FEF80"
+  },
+  "phoenix|26-1075": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Acceptance and Dedication of a Deed and an Easement for Roadway and Sidewalk Purposes (Ordinance S-53008) - Districts 2 & 4",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35110&GUID=CB557443-77E3-41F8-94E2-E44146234BB0"
+  },
+  "phoenix|26-0894": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Authorization to Grant an Easement to the Arizona Department of Transportation Across City-Owned Property Located at 320 W. Watkins Street (Ordinance S-52991) - District 8",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34930&GUID=CFD9F9F7-1B84-4032-A928-C79C5CEC9522"
+  },
+  "phoenix|26-0877": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Transit Scheduling and Dispatch Software Upgrade and Maintenance Agreement Extension (Ordinance S-52988) - Citywide",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34913&GUID=1AAC4E26-3BBE-45D1-BE40-5C458E1FF088"
+  },
+  "phoenix|26-0871": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Adopted",
+   "hearing": "2026-06-17",
+   "city": "Phoenix",
+   "title": "Dedication of an Easement for Sidewalk Purposes Within City-Owned Property Located at 2526 W. Northern Avenue - (Ordinance S-52987) - District 5",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34907&GUID=7C0A742D-8547-429B-9F58-EF984EDB62D4"
+  },
+  "city of maricopa|misc 26-16": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Regular Agenda",
+   "hearing": "2026-06-22",
+   "city": "City of Maricopa",
+   "title": "The Planning and Zoning Commission shall hear a presentation from the Development Services Director regarding 2026 Arizona State Legislative Updates. Discussion only.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15334&GUID=101163A4-EB7E-4990-92AF-60A339035FBC"
+  },
+  "apache junction|26-137": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Items",
+   "hearing": "2026-04-20",
+   "city": "Apache Junction",
+   "title": "Presentation and discussion of the development fee study update including the Land Use Assumptions, Infrastructure Improvements Plan and Preliminary Draft Fees. The City\u2019s development fee consultant, Tischler Bise, will provide a presentation on development fees and the preparation of an update of the development fee study and implementing ordinance.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12181&GUID=572EED22-5342-40CA-BF31-A3CD8DDE7121"
+  },
+  "tempe|pl230127": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-04",
+   "hearing": "2026-06-04",
+   "city": "Tempe",
+   "title": "3. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance authorizing the transfer and/or abandonment of various property interests and authorizing the City Manager to execute an amended Development Agreement ",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
+  },
+  "apache junction|26-317": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Consent Agenda",
+   "hearing": "2026-06-16",
+   "city": "Apache Junction",
+   "title": "Consideration of approval of the Third Amendment to the Professional Services Agreement between the City of Apache Junction and Central Arizona Council on Developmental Disabilities for senior services transportation.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12364&GUID=251EB27E-5439-421D-9ED0-116BE014B378"
+  },
+  "apache junction|26-188": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "New Business",
+   "hearing": "2026-05-05",
+   "city": "Apache Junction",
+   "title": "Presentation, discussion and consideration of proposed Resolution No. 26-20 authorizing the city to enter into an Intergovernmental Agreement (IGA) Amendment No. 1 with Arizona Department of Transportation (ADOT) for the City's Tomahawk Road Widening Improvement Project from Highway US60 to Southern Avenue for additional construction costs with the City's financial contribution being $908,143 and federal contribution of $4,866,101 for a construction total of $5,774,244.",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12234&GUID=24AEB08A-4A86-4EDA-B5DE-5910001B84D4"
+  },
+  "tempe|t:f08483ebbf": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-11",
+   "hearing": "2026-06-11",
+   "city": "Tempe",
+   "title": "1. Approve and authorize Deputy City Manager Greg Ruiz to execute the Settlement Agreement between the Office of Inspector General (OIG) of the United States Department of Health and Human Services and the City of Tempe for the purpose of p",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030"
+  },
+  "tempe|t:6c8a7dcece": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-11",
+   "hearing": "2026-06-11",
+   "city": "Tempe",
+   "title": "1. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance to establish development standards for a Planned Area Development Overlay in the MU-4 district for TEMPE OASIS, consisting of an adaptive reuse from mo",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030"
+  },
+  "tempe|t:e0a8bb69e4": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-11",
+   "hearing": "2026-06-11",
+   "city": "Tempe",
+   "title": "2. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance amending the Tempe City Code, Chapter 19, relating to Motorized and Electric Mobility Devices in Sections 19-1 (b), 19-183, 19-184 (a)(b), 19-212 (d)(e",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030"
+  },
+  "mesa|dsn 26026": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-09",
+   "city": "Mesa",
+   "title": "ZON26-00419. \"Longbow Mixed-Use,\" 3.3 \u00b1 acres located approximately 1,700 feet west of the southwest corner of North Recker Road and East Longbow Parkway. Design Review and Alternative Compliance to allow for the construction of a Hotel and future commercial development. (District 5)\n\nStaff Planner: Cassidy Welch\nRecommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23817&GUID=9DB7E79F-23D9-4265-A0DE-070E388AE2E7"
+  },
+  "mesa|pz 26044": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-10",
+   "city": "Mesa",
+   "title": "ZON26-00333 \"Faith Christian School,\" 9.9\u00b1 acres located at 3761 South Power Road. Council Use Permit and amending Conditions of Approval Nos. 1, 2, 3, 4, 5, 8, 12 and 13 of Ordinance No. 4646. This request will allow for a Private School. (District 6)\n\nPlanner: Jennifer Merrill \nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23797&GUID=8EDCBC04-90F7-4C84-AD5C-5C945FF6C683"
+  },
+  "mesa|pz 26037": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-10",
+   "city": "Mesa",
+   "title": "ZON25-00110 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Rezone from Office Commercial (OC) to Limited Commercial with a Bonus Intensity Zone Overlay (LC-BIZ) and Site Plan Review. This request will allow for an approximately 4,015\u00b1 square foot Minor Automobile Repair facility. (District 3).\r\n\r\nPlanner: Emily Johnson\r\nStaff Recommendation: Approval with Conditions",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23633&GUID=FC2E2A80-9315-4D2C-BFE0-0177221D6F34"
+  },
+  "mesa|pz 26048": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-10",
+   "city": "Mesa",
+   "title": "Planning and Zoning minutes from May 27, 2026 Planning and Zoning Board",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23820&GUID=7C2B75A6-4CB2-4E40-AAA4-EE92525FCD0A"
+  },
+  "apache junction|26-281": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Items",
+   "hearing": "2026-06-01",
+   "city": "Apache Junction",
+   "title": "Presentation and discussion of case P-26-6-PZ, a request by Kimberly Bergman for a rezoning of 275 S. Cactus Road, an approximately 1.25 gross acre parcel from Medium Density Single-Family Detached Residential (\u201cRS-10M\u201d) to General Rural Low Density Single-Family Detached Residential (\u201cRS-GR\u201d).",
+   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12328&GUID=A3E8FE15-97C9-468B-96DA-8CD00BCBD75C"
+  },
+  "mesa|26-0576": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-08",
+   "city": "Mesa",
+   "title": "Dollar Limit Increase to Use of the Cooperative Term Contract for Route Planning and Management Solutions as Requested by the Solid Waste Department and Department of Innovation and Technology (Citywide)\n\nA dollar limit increase is needed to implement an AI-enabled camera system. Solid Waste currently utilizes external, legacy vehicle camera systems to support safe fleet operations; however, the existing system no longer meets operational needs. The Samsara system provides improved image quality, real-time AI alerts to the Solid Waste driver for pedestrians and hazards, and cloud-based video storage and access, which eliminates the need to physically retrieve and reinstall hard drives from vehicles to view video, which is currently required with the existing, labor-intensive system.  \n\nThe Solid Waste Department, Department of Innovation and Technology, and Procurement Services recommend increasing the original dollar limit with Wastech Corp./Routeware, Inc. by an additional amount of $480,320, which includes $138,375 for installation services and $341,945 for two and half years of annual subscription fees for a revised total contract amount not to exceed $807,820.",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23792&GUID=57429114-D82E-447F-B9A7-F5D8942E2306"
+  },
+  "mesa|26-0540": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-08",
+   "city": "Mesa",
+   "title": "Approving and authorizing the City Manager to enter into an amendment to Intergovernmental Agreement with the Regional Public Transportation Authority (RPTA) for fixed-route bus, paratransit and RideChoice, services that was approved by the City Council on January 26, 2026 for FY 25/26. The estimated cost of transit services for FY26/27 is $41,409,954 . Public Transportation Funds (PTF) from Propositions 400 and 479 will fund $35,886,106 and the City's General Fund will fund $5,523,848. (Citywide) Resolution No. 12545",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23756&GUID=2AC2BED8-FAF4-4713-8041-7D8D281FDDC3"
+  },
+  "mesa|26-0539": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Agenda Ready",
+   "hearing": "2026-06-08",
+   "city": "Mesa",
+   "title": "Approving and authorizing the City Manager to enter into a funding agreement with Valley Metro Rail, Inc., for the current light rail operations in the City of Mesa. The estimated cost of service for operations, maintenance and facility landscaping of the existing light rail line for fiscal year 2026/27 is $21,148,000. The City anticipates receiving $2,866,000 in light rail fares, advertising, preventive maintenance grant and Arizona Lottery Funds for a net impact to the City\u2019s General Fund of $18,282,000. (Districts 3 and 4) Resolution No. 12544",
+   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23755&GUID=16189703-A544-46AC-B23F-7EBF578E28AD"
+  },
+  "tempe|t:bce9051d2a": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-04",
+   "hearing": "2026-06-04",
+   "city": "Tempe",
+   "title": "2. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt a resolution for a General Plan Land use and Residential Density Map Amendment from Commercial to Mixed-Use High (up to 65 du/ac) and an ordinance for a Zoning Map Ame",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
+  },
+  "tempe|t:6c50442bec": {
+   "first_seen": "2026-07-03",
+   "last_seen": "2026-09-02",
+   "status": "Heard 2026-06-04",
+   "hearing": "2026-06-04",
+   "city": "Tempe",
+   "title": "3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt two related ordinances, Ordinance No. O2026.22 and Ordinance No. O2026.23, for the Tempe Zoning and Development Code, including amendments to Part 4, Chapter 9 (Signs)",
+   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
   },
   "city of maricopa|zon 26-05": {
    "first_seen": "2026-08-18",
@@ -324,1302 +1629,6 @@
    "city": "City of Maricopa",
    "title": "PUBLIC HEARING: A request by the City of Maricopa to rezone a parcel of land, totaling \u00b1146.8-acres, from the Pinal County Light Industry & Warehouse (CI-1) zoning district to the municipal General Industrial (GI) zoning district, generally located south of the Maricopa-Casa Grande Highway, east of N. Fuqua Road, west of N. Hartman Road, and north of W. Peters and Nall Road. DISCUSSION AND ACTION.",
    "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15430&GUID=2BDC1869-394E-472B-8397-0D5E5AE1E7C7"
-  },
-  "mesa|pz 26067": {
-   "first_seen": "2026-08-07",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-09-14",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on July 29, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23948&GUID=11928E50-A19E-408C-B29D-F0CEDF66FFE6"
-  },
-  "mesa|26-0732": {
-   "first_seen": "2026-08-04",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-31",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on June 24, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23947&GUID=6952005E-AD37-49BC-B263-2F455B8E939B"
-  },
-  "mesa|26-0731": {
-   "first_seen": "2026-08-04",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-31",
-   "city": "Mesa",
-   "title": "Planning and Zoning Study Session held on June 24, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23946&GUID=E32B2345-E9F9-46AD-9722-2A40E3F0588D"
-  },
-  "mesa|26-0675": {
-   "first_seen": "2026-08-06",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-17",
-   "city": "Mesa",
-   "title": "Approving and authorizing the City Manager to enter into a Development Agreement, Government Property Lease Exise Tax Agreement, and Public Access Easement Agreements with Pride Ventures LLC II, for the development of a mixed-use project to be known as \"Ovio\" on the real property generally located at the northeast corner of Dobson Road and Main Street. (District 3) Resolution No. 12567",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23890&GUID=D135FB3D-874C-4BDC-93F3-C8BEBF5DDF95"
-  },
-  "mesa|26-0737": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-17",
-   "city": "Mesa",
-   "title": "Approving and authorizing the City Manager to enter into an Intergovernmental Agreement with the Regional Public Transportation Authority for the design and construction management of improvements to existing bus stops at various locations in Mesa. The project is funded by a combination of a federal grant, transit advertising revenue and the Transit Fund. The total fiscal impact of the project is $2,520,000. (Districts 1, 2, 3, 4 and 6) Resolution No. 12566",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1"
-  },
-  "mesa|26-0734": {
-   "first_seen": "2026-08-04",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-17",
-   "city": "Mesa",
-   "title": "Transportation Advisory Board meeting held on May 19, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5"
-  },
-  "mesa|26-0666": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-17",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on June 10, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23881&GUID=AD3ED42B-5759-4F13-AFC3-738672338FD8"
-  },
-  "mesa|26-0665": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-17",
-   "city": "Mesa",
-   "title": "Planning and Zoning Study Session held on June 10, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23880&GUID=24C06713-1A03-48BB-A670-9D31D9BBEE03"
-  },
-  "mesa|pz 26068": {
-   "first_seen": "2026-08-06",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-12",
-   "city": "Mesa",
-   "title": "GPA26-00161 \"Hawes Crossing Village 7\", 103\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Major General Plan Amendment to change the Placetype from Urban Center to Urban Residential on 29.7\u00b1 acres and Local Employment Center to Urban Residential on 73.2\u00b1 acres. (District 6)\n \nPlanner: Joshua Grandlienard\nStaff Recommendation: Adoption",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23949&GUID=5C1F364C-67B1-4B24-83D6-813F50871A36"
-  },
-  "mesa|pz 26065": {
-   "first_seen": "2026-08-07",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-12",
-   "city": "Mesa",
-   "title": "ZON26-00160 \"Hawes Crossing Village 7\", 153.5\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Rezone 102.9\u00b1 acres from Mixed Use with a Planned Area Development Overlay (MX-PAD) (29.7\u00b1 acres) and Light Industrial with a Planned Area Development Overlay (LI-PAD) (73.2\u00b1 acres) to Residential Small Lot - 2.5 with a Planned Area Development Overlay (RSL-2.5-PAD). And Rezone 50.6\u00b1 acres from Limited Commercial with a Planned Area Development Overlay (LC-PAD) (23.5\u00b1 acres) and MX-PAD (27.1\u00b1 acres) to LC-PAD (27.8\u00b1 acres) and MX-PAD (22.8\u00b1 acres). This request will allow for future residential, commercial and mixed-use development. (District 6)\n\n \nPlanner: Josh Grandlienard\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23892&GUID=B58AE004-C2D5-42F7-A126-6CD8505C35FF"
-  },
-  "tempe|pl260170": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-08-11",
-   "hearing": "2026-08-11",
-   "city": "Tempe",
-   "title": "C. Request a Use Permit to allow a drive-through restaurant in the CSS zoning district for DUTCH BROS COFFEE, located at 1801 East Southern Avenue. The applicant is Dutch Bros, LLC. (PL260170) Project Planner: Robert_Mansolillo@tempe.gov or",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041"
-  },
-  "tempe|pl250281": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-08-11",
-   "hearing": "2026-08-11",
-   "city": "Tempe",
-   "title": "A. Request a Use Permit to allow a detached engineered shade structure within the front yard setback for FARABEE RESIDENCE, located at 1233 East Marigold Lane. The applicant is Bryce Farabee. (PL250281) Project Planner: Lucas_Jensen@tempe.g",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041"
-  },
-  "phoenix|23-1970": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2023-09-20",
-   "city": "Phoenix",
-   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-SP-5-23-7 - Southwest Corner of 15th Avenue and Jackson Street (Ordinance G-7167)",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=27023&GUID=424DB530-4C00-4CAF-A84A-4A6707005878"
-  },
-  "tempe|t:5109f94771": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED\u00a0 AREA DEVELOPMENT OVERLAY: NONE",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "mesa|dsn 26037": {
-   "first_seen": "2026-08-06",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-11",
-   "city": "Mesa",
-   "title": "ZON26-00414. \"Magna Steyr Canopies,\" 10.8\u00b1 acres located at 7237 E Pecos Road. Alternative Compliance Request to allow for the expansion of an Outdoor Storage facility. (District 6)\r\n\r\nStaff Planner: Joshua Grandlienard",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23961&GUID=03C973FD-6849-4086-AF3E-704E24EE10C3"
-  },
-  "mesa|dsn 26036": {
-   "first_seen": "2026-08-06",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-11",
-   "city": "Mesa",
-   "title": "ZON26-00411. \"ER2,\" 8.70\u00b1 acres located approximately 630\u00b1 feet south of the of the southwest corner of North Greenfield Road and East McDowell Road. Alternative Compliance request to allow for an approximately 155,597 square foot Industrial development. (District 1)\r\n\r\nStaff Planner: Charlotte Bridges",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23960&GUID=40212FD5-101A-4C3B-9AE5-935FC79A0279"
-  },
-  "mesa|dsn 26032": {
-   "first_seen": "2026-08-06",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-11",
-   "city": "Mesa",
-   "title": "DRB24-00707. \"Park North Multi-Family,\" 5\u00b1 acres located approximately 270\u00b1 feet east of the northeast corner of South Power Road and East Guadalupe Road. Design Review to allow for a 78-lot attached single residence development. (District 6) \r\n \r\nStaff Planner: Charlotte Bridges",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23956&GUID=58647065-80AE-42AA-9999-7F2B9461CF6D"
-  },
-  "phoenix|20-2734": {
-   "first_seen": "2026-08-08",
-   "last_seen": "2026-09-01",
-   "status": "Continued",
-   "hearing": "2020-10-21",
-   "city": "Phoenix",
-   "title": "Eight-Hour Rule Request to Research Intergovernmental Agreements Related to Affordable Housing and Homelessness",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=17876&GUID=3AB59CD0-E10D-4366-891E-D4F2568180F2"
-  },
-  "mesa|pz 26066": {
-   "first_seen": "2026-08-07",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-08-12",
-   "city": "Mesa",
-   "title": "Planning and Zoning minutes from July 22, 2026 Planning and Zoning Board",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23909&GUID=9BD118B5-8B49-42D7-8DF0-46938235E1C0"
-  },
-  "phoenix|26-0979": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-05-20",
-   "city": "Phoenix",
-   "title": "Purchase of Residential 35-, 65-, and 95-Gallon Containers Contract - RFP 27-SW-001 - Request for Award (Ordinance S-52888) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35014&GUID=02E5E243-DE0A-4FED-B9C8-99B6EBEE1B1F"
-  },
-  "phoenix|26-0949": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-05-20",
-   "city": "Phoenix",
-   "title": "The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT00130063 (Ordinance S-52886) - District 7",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD"
-  },
-  "phoenix|26-0679": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-05-20",
-   "city": "Phoenix",
-   "title": "56th Street: Thomas Road to Indian School Road - Phase 2 Bike and Pedestrian Improvements - Design-Bid-Build Services - ST87210047 and ST87210049 (Ordinance S-52858) - District 6",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34715&GUID=0E239BB3-89AB-4683-BA7E-61F8227ACECE"
-  },
-  "phoenix|25-2629": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-05-20",
-   "city": "Phoenix",
-   "title": "Request to Enter Into an Easement and Drainage Agreement with Empire Residential Communities Fund IV, LLC (Ordinance S-52849) - District 7",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33855&GUID=0EC78028-B5BB-49CA-86FF-84C4D6FB4DC1"
-  },
-  "city of maricopa|zon23-01": {
-   "first_seen": "2026-08-04",
-   "last_seen": "2026-09-01",
-   "status": "Regular Agenda",
-   "hearing": "2023-03-28",
-   "city": "City of Maricopa",
-   "title": "PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a request for a Zoning Map Amendment on approximately 63 acres effectively rezoning the site from the CB-2 (General Business), CI-1 Light Industry and Warehouse, CB-1 (Local Business), and GR (General Rural) zoning districts to the SC (Shopping Center), MU-G (General Mixed Use), and GC (General Commercial) zoning districts. The site is generally located at the northeast, southeast, northwest, and southwest of John Wayne Pkwy. and W. Honeycutt Ave., within the City of Maricopa. DISCUSSION AND ACTION.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=11908&GUID=CE6AE43A-EFA9-4798-ADAE-7CB21C1D7662"
-  },
-  "phoenix|22-1468": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2022-09-21",
-   "city": "Phoenix",
-   "title": "October 2022 Proposed Bus Service Improvements (Ordinance S-49025)",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=23973&GUID=DB633617-8853-45BD-928E-21C9815CD02F"
-  },
-  "phoenix|21-1917": {
-   "first_seen": "2026-08-04",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2021-08-25",
-   "city": "Phoenix",
-   "title": "Fare Policy Amendment - Use of ARPA Funds to Purchase Transit Passes (Ordinance S-47872)",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=20388&GUID=458EB4C7-56BF-4C4E-9BEF-2F76F76A44C9"
-  },
-  "mesa|pz 26057": {
-   "first_seen": "2026-07-24",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-29",
-   "city": "Mesa",
-   "title": "GPA26-00161 \"Hawes Crossing Village 7\", 103\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Major General Plan Amendment to change the Placetype from Urban Center to Urban Residential on 29.7\u00b1 acres and Local Employment Center to Urban Residential on 73.2\u00b1 acres. (District 6)\r\n\r\n\r\nPlanner: Joshua Grandlienard\r\nStaff Recommendation: Adoption",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23864&GUID=AD8FD861-9BFF-49BE-93A4-6C13CE40922D"
-  },
-  "phoenix|26-1381": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-45-22-8 - Southeast Corner of 59th Avenue and Dobbins Road (Ordinance G-7532) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35416&GUID=3E186F5F-D071-4020-ADE4-253C5ED41DFA"
-  },
-  "phoenix|26-0528": {
-   "first_seen": "2026-08-01",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-04-08",
-   "city": "Phoenix",
-   "title": "Amend City Code - Official Supplementary Zoning Map 1306 (Ordinance G-7503) - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34564&GUID=9B9DED8B-7907-439B-A9C0-80DC612A2483"
-  },
-  "phoenix|26-0262": {
-   "first_seen": "2026-08-01",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready - Planning & Development Department",
-   "hearing": "2027-01-01",
-   "city": "Phoenix",
-   "title": "Acceptance and Dedication of Easements for Public Utility, Sidewalk and Multi-use Trail Purposes (Ordinance S-52525) - Districts 1, 6, 7 & 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34298&GUID=96ED7E42-3582-49B3-A966-A19B7730B03F"
-  },
-  "phoenix|25-0328": {
-   "first_seen": "2026-08-01",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2025-06-04",
-   "city": "Phoenix",
-   "title": "Acquisition of Real Property and Related Easements and Licenses for the Capitol Extension (CAPEX) Light Rail Project (Ordinance S-51963) - District 7",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=31556&GUID=8BAB8F53-5EC2-4E0B-AFEF-0168634AEC17"
-  },
-  "city of maricopa|cup 26-02": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Regular Agenda",
-   "hearing": "2026-07-27",
-   "city": "City of Maricopa",
-   "title": "PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a request for a Conditional Use Permit application for an existing 99-foot-tall wireless facility. The subject property is located at 44870 W. Hathaway Ave., on the northwest corner of W. Hathaway Ave. and N. Condrey Ave. DISCUSSION AND ACTION.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15392&GUID=1E34198C-179D-4479-BC45-B744F5C9A78D"
-  },
-  "city of maricopa|ord 26-13": {
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-09-01",
-   "status": "Consent Agenda",
-   "hearing": "2026-07-14",
-   "city": "City of Maricopa",
-   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2026 Amendments to Title 18: Zoning\" by reference to add Section 18.76.125 regarding food truck courts in the Maricopa Station Overlay and to amend Sections 18.76.060, and 18.115.040 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15365&GUID=5C4FE907-63C7-4762-928D-5808FBE7C2F6"
-  },
-  "city of maricopa|min 26-42": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Consent Agenda",
-   "hearing": "2026-07-14",
-   "city": "City of Maricopa",
-   "title": "Acceptance of Minutes from the March 16, 2026 and May 18, 2026 Cultural Affairs and Arts Advisory Committee meetings,  April 20, 2026 Senior Advisory Committee meeting and April 27, 2026 Planning and Zoning Commission meeting. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15358&GUID=2B5B0E87-1309-4756-840A-6D38E56EB25A"
-  },
-  "phoenix|26-0734": {
-   "first_seen": "2026-07-29",
-   "last_seen": "2026-09-01",
-   "status": "Approved",
-   "hearing": "2026-04-22",
-   "city": "Phoenix",
-   "title": "Modification of Stipulation Request for Ratification of March 18, 2026 Planning Hearing Officer Action - PHO-1-25--Z-257-84-5(4) - Southeast Corner of 24th Avenue and Coolidge Street - District 4",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34770&GUID=1964BC23-EC1C-47BE-BDDA-751374D606B9"
-  },
-  "mesa|26-0621": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 34, 43, 67, 81, 86, and 87. The amendments include, but are not limited to: modifying entryway monumentation requirements; refining building material and color standards; updating Employment District use tables and development standards; clarifying lot and land division requirements; modifying standards for Detached Accessory Buildings or Structures and Accessory Dwelling Units; updating Live/Work Unit and residential use standards in Commercial Districts; refining screening requirements for certain specific uses and activities; modifying landscaping and alternative landscape plan provisions; modifying landscape diversity requirements; updating Manufactured Home and Recreational Vehicle Accessory Structure standards; clarifying sign regulations; updating procedural requirements related to written protests, application review, and expirations; modifying definitions of \"Home Occupations,\" \"Live/Work Units,\" and \"Indoor Warehousing And Storage\"; and adding a definition for \"Hazardous Material Warehousing and Storage.\"\n(Citywide) Ordinance No. 6025\n\nStaff Recommendation: Adoption\nP&Z Recommendation: Adoption with Conditions (Vote: 5-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23837&GUID=8BF5677F-BA90-4960-B2DE-AF5F4B3D8FAE"
-  },
-  "mesa|26-0609": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "ZON26-00333 \"Faith Christian School\" 9.9 acres located at 3761 South Power Road. Council Use Permit for a Private School, and Modification of Conditions of Approval (1-5, 8, 12 & 13)  of Ordinance No. 4646, from Case No. Z06-088. Leman Academy of Excellence, Inc., owner; Ganeen Harstick, Faith Christian School, applicant. (District 6) Ordinance No. 6024\n\nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23825&GUID=F3FD6024-ACB3-4ACD-9BF5-B2B1F35C9748"
-  },
-  "phoenix|26-1379": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Approved",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Modification of Stipulation Request for Ratification of May 20, 2026, Planning Hearing Officer Action - PHO-2-26--Z-275-84-6 - Approximately 575 Feet East of the Intersection of 48th Street and Virginia Avenue - District 6",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35414&GUID=B0FB848A-29BE-487B-AACD-9DB9886F5D4F"
-  },
-  "phoenix|26-1368": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-27-26-8 - Southwest Corner of 14th Street and Hess Avenue (Ordinance G-7530) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35403&GUID=652966C8-203F-4D98-A15E-3E5B81B25F03"
-  },
-  "phoenix|26-1236": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Multi-Family Window Replacement Contract - RFP FY26-086-13 - Request for Award (Ordinance S-53073) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35271&GUID=AE968E10-8026-4780-AE11-9E1DE76A86B8"
-  },
-  "phoenix|26-1086": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Salt River Project Land Use License for the City of Phoenix (Ordinance S-53070) - District 6",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35121&GUID=B99DCC96-FD78-4998-B543-F34E446568C4"
-  },
-  "mesa|26-0686": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and Service Stations. The amendments include, but are not limited to: adding definitions for Fleet-Based Services, Heavy Fleet-Based Services, and Accessory Electric Vehicle Charging; modifying definitions for Light Fleet-Based Services and Service Stations; adding Heavy Fleet-Based Services, Accessory Electric Vehicle Charging, and related footnotes to land use tables; modifying Section 11-31-25 titled, \u201cService Stations\u201d; and adding Section 11-31-40 titled, \u201cFleet-Based Services.\u201d (Citywide) Ordinance No. 6027\r\n\r\nThis ordinance is a modified version of the ordinance discussed at July,16, 2026 study session modifying the required separation of Fleet-Based Services  and Service Stations from residential uses and zoning districts from 100 to 150 feet, modifying the land use process for Light Fleet-Based Services in the LC District from permitted to requiring a Council Use Permit, and modifying the maximum height of fleet vehicle parking, charging, and storage from 30 feet to located at grade, except for in the GI and HI Districts where the maximum height would be 30 feet.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23901&GUID=D9D9594C-3F11-48DC-8BFB-A85BCEAD0C55"
-  },
-  "mesa|26-0684": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Proposed amendments to Chapters 6, 7, 8, 31, and 86 pertaining to Fleet-Based Services and Service Stations. The amendments include, but are not limited to: adding definitions for Fleet-Based Services, Heavy Fleet-Based Services, and Accessory Electric Vehicle Charging; modifying definitions for Light Fleet-Based Services and Service Stations; adding Heavy Fleet-Based Services, Accessory Electric Vehicle Charging, and related footnotes to land use tables; modifying Section 11-31-25 titled, \u201cService Stations\u201d; and adding Section 11-31-40 titled, \u201cFleet-Based Services.\u201d (Citywide) Ordinance No. 6026\r\n\r\nThis ordinance is a modified version of the ordinance discussed at July 16, 2026 study session modifying the required separation of Fleet-Based Services  and Service Stations from residential uses and zoning districts from 100 to 150 feet and modifying the land use process for Light Fleet-Based Services in the LC District from permitted to requiring a Council Use Permit.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23899&GUID=F3D834D2-46A5-4E0E-B2F2-F36ADAA35638"
-  },
-  "mesa|26-0619": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed limit from 40 mph to 35 mph on Horne from Brown Road to McKellips Road, and modify the speed limit from 35 mph to 30 mph on Horne between McKellips Road to the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 6022",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314"
-  },
-  "mesa|26-0618": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed limit from 40 mph to 35 mph on Mesa Drive from Bates Street to Lehi Road, and modify the speed limit from 35 mph to 30 mph on Mesa Drive between Bates Street to the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 6021",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D"
-  },
-  "mesa|26-0638": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-27",
-   "city": "Mesa",
-   "title": "GPA26-00111 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Minor General Plan Amendment to change the Placetype from Urban Residential to Urban Center. Tres Hermanos, LLC, owner; All Right Builders, Inc., applicant. (District 3) Resolution No. 12560\n \nStaff Recommendation: Approval with conditions \nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23854&GUID=7784C37A-19A9-4C75-9093-C527B8345252"
-  },
-  "mesa|26-0608": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "ZON25-00110 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Rezone from Office Commercial (OC) to Limited Commercial with a Bonus Intensity Zone Overlay (LC-BIZ) and Site Plan Review. This request will allow for an approximately 4,015\u00b1 square foot Minor Automobile Repair facility. Tres Hermanos, LLC, owner; All Right Builders, Inc., applicant. (District 3) Ordinance No. 6023\n \nStaff Recommendation: Approval with conditions \nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23824&GUID=BDC51CA8-4950-404C-A4F4-4361DBB6BD8F"
-  },
-  "phoenix|26-0561": {
-   "first_seen": "2026-07-23",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready - Planning & Development Department",
-   "hearing": "2027-01-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Official Supplementary Zoning Map 1300 (Ordinance G-7469) - District 6",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34597&GUID=CB25670F-3C49-469A-A933-782BE5067D89"
-  },
-  "phoenix|25-2794": {
-   "first_seen": "2026-07-23",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-02-04",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-9-25-4 - Approximately 765 Feet South of the Southwest Corner of 37th Drive and Roanoke Avenue (Ordinance G-7481) - District 4",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34020&GUID=1FFEF153-99AD-4DE9-B4DB-FEDE20D529F9"
-  },
-  "phoenix|25-2791": {
-   "first_seen": "2026-07-23",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-02-04",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-121-25-4 - Approximately 765 Feet South of the Southwest Corner of 37th Drive and Roanoke Avenue (Ordinance G-7480) - District 4",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34017&GUID=C333E786-5DCF-4DCA-82C8-9CDFA1FC2BD3"
-  },
-  "phoenix|25-2788": {
-   "first_seen": "2026-07-23",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-02-04",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-127-25-2 - Approximately 585 Feet West of the Southwest Corner of Cave Creek Road and Quail Avenue (Ordinance G-7479) - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34014&GUID=1905CF2F-E3C2-4702-8BB0-ABBD60FC2C33"
-  },
-  "phoenix|25-2763": {
-   "first_seen": "2026-07-23",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-02-04",
-   "city": "Phoenix",
-   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-44-25-6 (2400 Biltmore Residential PUD) - Northeast Corner of 24th Street and Arizona Biltmore Circle (Ordinance G-7482) - District 6",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33989&GUID=C2429BFF-05EB-4A5D-8DAA-6DC596882345"
-  },
-  "phoenix|25-2739": {
-   "first_seen": "2026-07-23",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2026-02-04",
-   "city": "Phoenix",
-   "title": "PCD Major Amendment - Rezoning Application Z-237-M-85-2 - Southeast Corner of Cave Creek Road and Desert Willow Parkway - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33965&GUID=824F3219-86DC-4BEF-ADE4-BCFD370C1B87"
-  },
-  "phoenix|26-1364": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner of Interstate 17 and Grandview Road - District 3",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913"
-  },
-  "phoenix|24-1523": {
-   "first_seen": "2026-07-14",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2024-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-113-23-3 - Approximately 810 Feet West of the Northwest Corner of 23rd Avenue and Townley Avenue (Ordinance G-7279)",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=29781&GUID=61CC18FB-C315-4C31-95D0-4F9CC8239004"
-  },
-  "phoenix|21-3766": {
-   "first_seen": "2026-07-21",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2022-03-02",
-   "city": "Phoenix",
-   "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-SM-CC-1-21-7-8 (South Central TOD Community Plan) - Area Generally Bounded by Union Pacific Railroad Tracks (South of Jefferson Street) on the North, 7th Street on the East, South Mountain Avenue on the South, and 7th Avenue on the West (Resolution 22002)",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=22237&GUID=FA800265-E87C-4217-A0A1-8568C31462E5"
-  },
-  "mesa|26-0685": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "A resolution declaring the document filed with the City Clerk titled \"Option 2: Section 11-31-40: Fleet-Based Services\u201d to be a public record available for public use and inspection at the Office of the City Clerk. (Citywide) Resolution No. 12555\n\nThis resolution is a modified version of the resolution discussed at July,16, 2026 study session modifying the maximum height of fleet vehicle parking, charging, and storage from 30 feet to located at grade, except for in the GI and HI Districts where the maximum height would be 30 feet; and modifying the required separation of Fleet-Based Services from residential uses and zoning districts from 100 to 150 feet.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23900&GUID=4A98B4E4-3DAC-4DB4-B9C9-BA62FF59CF15"
-  },
-  "mesa|26-0683": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "A resolution declaring the document filed with the City Clerk titled \"Option 1: Section 11-31-40: Fleet-Based Services\u201d to be a public record available for public use and inspection at the Office of the City Clerk. (Citywide) Resolution No. 12556  \r\n\r\nThis resolution is a modified version of the resolution discussed at July,16, 2026 study session modifying the required separation of Fleet-Based Services and from residential uses and zoning districts from 100 to 150 feet.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23898&GUID=AFC1988C-B45F-489C-9D6B-12540582CA5A"
-  },
-  "mesa|26-0636": {
-   "first_seen": "2026-07-11",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "A resolution declaring the documents filed with the City Clerk titled \u201c2026 Zoning Code Refinement Text Amendment\u201d to be a public record and providing for the availability of the documents for public use and inspection with the City Clerk. (Citywide) Resolution No. 12554",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23852&GUID=D38493D8-FD63-4B21-AC79-D0CC9B11AC41"
-  },
-  "mesa|pz 26063": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-22",
-   "city": "Mesa",
-   "title": "ZON26-00243. \"Boeing ACA Expansion\", 38.0\u00b1 acres located approximately 1,700\u00b1 feet north of the northeast corner of North Greenfield Road and East McDowell Road. Development Plan Review and Special Use Permit. This request will allow for an approximately 263,386\u00b1 square foot expansion of a Manufacturing facility. (District 5).\r\n\r\nPlanner: Charlotte Bridges\r\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23889&GUID=C74F58A7-EBC0-42BC-B42D-FB59C5E24AC5"
-  },
-  "mesa|pz 26060": {
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-22",
-   "city": "Mesa",
-   "title": "Planning and Zoning minutes from June 24, 2026 Planning and Zoning Board",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23877&GUID=B9115364-B425-426E-BFC4-7B93ACF21B98"
-  },
-  "mesa|pz 26055": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-22",
-   "city": "Mesa",
-   "title": "Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 66, 74, and 87 relating to historic preservation",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23856&GUID=3E7DB38B-899C-4251-A299-0DBA752930B5"
-  },
-  "mesa|26-0613": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on May 27, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23829&GUID=918BA77B-18C7-4684-8293-FC749326F224"
-  },
-  "mesa|26-0612": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Study Session held on May 27, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23828&GUID=DF4D4EF2-2D1D-4330-B88B-9E25EA98BBD6"
-  },
-  "mesa|26-0607": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23823&GUID=D13115F3-B507-474E-B715-677DADE8DDEC"
-  },
-  "mesa|26-0606": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Study Session held on May 13, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23822&GUID=947F1C11-556F-47AF-88BA-B36098C2D549"
-  },
-  "phoenix|17-4232": {
-   "first_seen": "2026-07-17",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2017-09-12",
-   "city": "Phoenix",
-   "title": "Transportation 2050 (T2050) Performance Measures",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=5478&GUID=379F9B36-8474-49DE-AB4A-6EE6478BEBE1"
-  },
-  "mesa|pz 26022": {
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-03-25",
-   "city": "Mesa",
-   "title": "GPA25-00233 \"Haven at Hawes,\" 38\u00b1 acres located at the southeast corner of South Hawes Road and East Mesquite Street. Major General Plan Amendment to change the Placetype from Local Employment Center to Urban Residential. (District 6) \n \nPlanner: Jennifer Merrill\nStaff Recommendation: Adoption",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23456&GUID=3CA338D7-EE66-48FC-81D4-27DCF7F16871"
-  },
-  "city of maricopa|iga 23-12": {
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2023-08-01",
-   "city": "City of Maricopa",
-   "title": "The Mayor and City Council shall discuss and take action to approve an Intergovernmental Agreement (IGA) with the Arizona Department of Transportation (ADOT) concerning the appropriation of funds from ADOT to the City in the amount of $10,300,000 to design and construct improvements to State Route 238 or State Route 347, or both. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=12254&GUID=C8E69A29-683A-4A6A-8C16-FD2213CB02A0"
-  },
-  "mesa|26-0615": {
-   "first_seen": "2026-07-14",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-16",
-   "city": "Mesa",
-   "title": "Hear a presentation, discuss, and provide direction on a proposed Development Agreement and Government Property Lease Excise Tax agreement for the development of a mixed-use, multi-residence project adjacent to the Sycamore Light Rail Station known as Ovio.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D"
-  },
-  "mesa|pz 26049": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-10",
-   "city": "Mesa",
-   "title": "GPA26-00111 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Minor General Plan Amendment to change the Placetype from Urban Residential to Urban Center. (District 3).\r\n\r\nPlanner: Emily Johnson\r\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23634&GUID=411CB7C1-306C-4344-9CCF-8F72E25BA545"
-  },
-  "mesa|pz 26033": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-05-13",
-   "city": "Mesa",
-   "title": "ZON25-00626. \"NTT Mesa PH10\" 170\u00b1 acres located at the northeast corner of East Pecos Road and the South Crismon Road alignment. Rezone from Light Industrial with a Planned Area Development Overlay (LI-PAD) to Light Industrial with a new Planned Area Development Overlay (LI-PAD), Council Use Permit and Major Site Plan Modification. This request will allow for an approximately 2,257,581\u00b1 square foot Data Center development. (District 6). \n\nPlanner: Joshua Grandlienard\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23559&GUID=3E619CFF-FB13-4556-83CA-17641E9FEF71"
-  },
-  "city of maricopa|cup24-02": {
-   "first_seen": "2026-07-14",
-   "last_seen": "2026-09-01",
-   "status": "Regular Agenda",
-   "hearing": "2024-04-22",
-   "city": "City of Maricopa",
-   "title": "PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a request for a Conditional Use Permit renewal application for an existing 59-foot tall stealth wireless facility. The subject property is located at 44705 W. Garden Ln., adjacent to the Cobblestone Farms subdivision. DISCUSSION AND ACTION.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=13114&GUID=87EB11F1-118D-4C97-AB70-768AD0B1D8AE"
-  },
-  "mesa|26-0235": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-04-06",
-   "city": "Mesa",
-   "title": "ZON25-00942 \u201cRio Salado 25\u201d 3.1\u00b1 acres located at the northwest corner of West Rio Salado Parkway and North Cubs Way. Rezone from General Commercial (GC) to General Commercial with a Bonus Intensity Zone Overlay (GC-BIZ), Council Use Permit (CUP), and Site Plan Review. This request will allow for the development of an approximately 54,725\u00b1 square foot hotel and 36-unit multiple residence building. Rio Salado 25, LLC, Owner; Jonathan Boyd, Boyd Development, applicant. (District 3) \nOrdinance No. 6007\n \nStaff Recommendation: Approval with conditions \nP&Z Board Recommendation: Approval with conditions (Vote: 6-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23450&GUID=92378ED4-B0CC-4FD7-8B16-A80CDA007A75"
-  },
-  "phoenix|25-2595": {
-   "first_seen": "2026-07-14",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-01-07",
-   "city": "Phoenix",
-   "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-PV-1-25-2 - Approximately 660 Feet West of the Southwest Corner of Scottsdale Road and Bell Road (Resolution 22357) - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33821&GUID=97C0F8A2-5C21-426C-BC39-E24F28E49340"
-  },
-  "apache junction|t:b98234101c": {
-   "first_seen": "2026-07-09",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "1999-01-01",
-   "city": "Apache Junction",
-   "title": "Resolution 99-61\r\n\r\nRESOLUTION NO. 99-61\r\nA RESOLUTION OF THE MAYOR AND CITY COUNCIL OF THE CITY OF APACHE JUNCTION, ARIZONA, APPROVING THE FINAL SUBDIVISION PLAT FOR SUNRISE SHADOWS SUBDIVISION, CASE NO. SD-97-10, BY BEAZER HOMES, TEMPE, ARIZONA.\r\n\r\nWHEREAS, the subdivider in case SD-97-10 proposes to sub-divide 15.0 acres at the northwest corner 12th Avenue and San Marcos Drive into 48 single family residential lots pursuant to Arizona Revised Statutes Annotated \u00a79-463 et seq., and pursuant to the Apache Junction City Code (hereinafter \"A.J.C.C.\"), Vol.Land Development Code (hereinafter \"L.D.C.\"), Chapter 2, Subdivision Regulations; and\r\n\r\nWHEREAS, the Apache Junction Planning and Zoning Commission held a public hearing regarding SD-97-10 on July 25, 1998 and recommended approval of the preliminary plat by a vote of 5 to 2; and WHEREAS, the Apache Junction City Council held a public hearing regarding the preliminary plat for SD-97-10 on November 3, 1998 and approved said preliminary plat in accordance with Resolution No. 98-27, by a vote of 7 to 0;and\r\n\r\nWHEREAS, this Council finds this proposed subdivision to be consistent with the Medium Density (1 to 6 dwelling units per acre) designation of the 1987 Apache Junction General Plan; and WHEREAS, this Council finds this proposed subdivision to be in compliance with the and the A.J.C.C., Vol. II, L.D.C., Chapter 1, Zoning Ordinance and Chapter 2, Subdivision Regulations; and \r\n\r\nWHEREAS, this Council finds the proposed final plat for SD-97-10, Sunrise Shadows, to be in substantial compliance with the approved preliminary plat. \r\n\r\nNOW, THEREFORE, BE IT RESOLVED by the Mayor and City Council of the City of Apache Junction, Arizona, that: \r\n\r\nSaid final subdivision plat, SD-97-10, which includes the on and off-site improvements, landscape and amenity plans, be approved.\r\n\r\n\r\nKATHLEEN CONNELLY\r\nCity Clerk\r\nPASSED AND ADOPTED BY THE MAYOR AND CITY COUNCIL OF THE CITY OF APACHE\r\nJUNCTION, ARIZONA, THIS 21ST DAY OF MARCH , 2000.\r\nSIGNED AND ATTESTED TO THIS 21ST DAY OF MARCH , 2000.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=5413&GUID=A73EAC55-59A5-48F2-ABFC-E3CE5EB7DC53"
-  },
-  "apache junction|26-328": {
-   "first_seen": "2026-07-08",
-   "last_seen": "2026-09-01",
-   "status": "Consent Agenda",
-   "hearing": "2026-06-16",
-   "city": "Apache Junction",
-   "title": "Consideration of the Third Amendment to the Professional Services Agreement between the City of Apache Junction and Central Arizona Council on Developmental Disabilities for senior services transportation.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE"
-  },
-  "apache junction|26-342": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Public Hearing",
-   "hearing": "2026-07-07",
-   "city": "Apache Junction",
-   "title": "Presentation, Discussion and Public Hearing of the development fee study update including the Land Use Assumptions, Infrastructure Improvements Plan and Preliminary Draft Fees. The City\u2019s development fee consultant, Tischler Bise, will provide a presentation on development fees in preparation of an update to the development fee study and implementing ordinance.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12389&GUID=105C9315-D52A-42CB-ABA8-9DD3914478B5"
-  },
-  "phoenix|25-2681": {
-   "first_seen": "2026-07-08",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-01-21",
-   "city": "Phoenix",
-   "title": "(CONTINUED FROM NOVEMBER 19, DECEMBER 3 AND 17, 2025) - Public Hearing and Ordinance Adoption - Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-25--Z-29-12-7(5) - Southeast Corner of 99th Avenue and Thomas Road (Ordinance G-7451) - District 5",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33907&GUID=444DB3BD-ADFF-4559-BC8E-950C4591E4C7"
-  },
-  "phoenix|25-1969": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-03",
-   "city": "Phoenix",
-   "title": "Amend City Code - Official Supplementary Zoning Map 1295 (Ordinance G-7517) - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33196&GUID=BC0E2AF6-5FAD-456F-9ED6-16D4102E2D3B"
-  },
-  "city of maricopa|ord 25-17": {
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2025-12-02",
-   "city": "City of Maricopa",
-   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 18: Zoning\" by reference to amend Chapters 18.40, 18.75, 18.80, 18.90, 18.120, 18.135, 18.140 and 18.205 of the Maricopa City Code and providing for severability and the effective date thereof.  Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14812&GUID=02D62CBC-C232-4C10-BB2F-91B19CDBB2A4"
-  },
-  "city of maricopa|ord 25-16": {
-   "first_seen": "2026-07-07",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2025-12-02",
-   "city": "City of Maricopa",
-   "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the document filed with the City Clerk and entitled \"2025 Amendments to Title 17: Subdivisions\" by reference to amend Sections 17.20.050, 17.20.060 and 17.30.040 of the Maricopa City Code and providing for severability and the effective date thereof. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=14811&GUID=05A3A0DC-D05D-4538-A638-B8C430FDF2B5"
-  },
-  "mesa|26-0598": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-20",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on May 13, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23814&GUID=FD78FA68-9B73-4641-A9F4-5CC845A24558"
-  },
-  "mesa|26-0591": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-08",
-   "city": "Mesa",
-   "title": "Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 and 4)  \r\n\r\nThis project will furnish and install new playground equipment, shade structures, site amenities, concrete ramps and new playground surfacing to the existing and new playgrounds at designated areas in each park.  Sidewalk ramps, new engineered wood fiber, and new poured-in-place seamless rubber play surfacing will improve safety and make the playgrounds more accessible.  Additional amenities to be installed include benches, new lighting, and trash receptacles. \r\n\r\nStaff recommend awarding a contract for this project to the lowest responsible bidder, Valley Rain Construction Corp, in the amount of $1,271,188.26, and authorizing a change order allowance in the amount of $127,118.83 (10%), for a total authorized amount of $1,398,307.09. This project is funded by federal funding through the Community Development Block Grant Program (CDBG) granted through the Housing and Community Development Department.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288"
-  },
-  "mesa|hp 26-013": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-07-07",
-   "city": "Mesa",
-   "title": "Discuss the proposed text amendments to Mesa Zoning Ordinance Title 11, Chapters 23, 44, 66, 74, and 87 relating to historic preservation",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23861&GUID=DFAEF0AF-65B2-43CF-8D00-EF35B92BF950"
-  },
-  "apache junction|26-349": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Items",
-   "hearing": "2026-07-06",
-   "city": "Apache Junction",
-   "title": "Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2 and 3-story apartment complex.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12396&GUID=EFACE385-2D96-42F4-9658-6907454C00F0"
-  },
-  "phoenix|26-1441": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Issuance of a Multifamily Revenue Note (The Hacienda at Sunnyslope Apartments Project), Series 2026 (Resolution 22390) - District 3",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35476&GUID=03893FD5-BBFD-42CB-A2A4-04FA0CC602F9"
-  },
-  "phoenix|26-1380": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-29-23-7(8) - Approximately 300 Feet East of the Northeast Corner of 43rd Avenue and Baseline Road (Ordinance G-7531) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35415&GUID=41D89EE8-EA9A-41C6-BC59-B72825E1808C"
-  },
-  "phoenix|26-1366": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-15-26-2 - Southwest Corner of 56th Street and Ranger Drive (Ordinance G-7525) - District 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35401&GUID=AB4F9FF9-454B-428C-88EB-57C4B3CEB70C"
-  },
-  "phoenix|26-1365": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-25-26-1-2 - Approximately 430 Feet South of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7529) - Districts 1 & 2",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35400&GUID=EF093578-D7BE-4D48-A74B-EC032E5385C3"
-  },
-  "phoenix|26-1363": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-145-24-1 - Approximately 200 Feet North of the Northwest Corner of 35th Avenue and Bell Road (Ordinance G-7528) - District 1",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35398&GUID=FEF16381-BDB7-417F-9775-817F2EF84235"
-  },
-  "phoenix|26-1308": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Affordable Housing Property Preservation Program - Construction Administration and Observation Services (General Obligation Bond) - Various Project Numbers (Ordinance S-53075) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35343&GUID=37955FCE-7DFB-4EC9-B9E0-EC7D453184D4"
-  },
-  "phoenix|26-1256": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Remove/Replace Zoning District - Briles Pass - Annexation 554 - Approximately 460 Feet East of the Southeast Corner of 19th Avenue and Jomax Road (Ordinance G-7527) - District 1",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35291&GUID=0DBD87E1-DA2E-4567-BAE9-41E55B3A0F19"
-  },
-  "phoenix|26-1200": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-07-01",
-   "city": "Phoenix",
-   "title": "Remove/Replace Zoning District - 9th Avenue and Alameda Road - Annexation 560 - Approximately 700 Feet West of the Northwest Corner of 9th Avenue and Alameda Road (Ordinance G-7526) - District 1",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35235&GUID=932B61FB-86CB-4EA2-BC78-894AB7E67812"
-  },
-  "mesa|26-0056": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-01-12",
-   "city": "Mesa",
-   "title": "Proposed amendments to Chapter 1 of Title 2 and Chapters 66 and 67 of Title 11 of the Mesa City Code pertaining to the organization and duties of the Planning and Zoning Board and the Design Review Board. The amendments include, but are not limited to: modifying the membership and qualifications of the Planning and Zoning Board; repealing in its entirety Section 11-66-2: Planning and Zoning Board and adopting a new \u201cSection 11-66-2: Planning and Zoning Board;\u201d repealing in its entirety Section 11-66-6: Design Review Board and adopting a new \u201cSection 11-66-6: Design Review Board;\u201d and modifying appeal bodies. (Citywide) \nOrdinance No. 5997\n \nStaff Recommendation: Adoption\nP&Z Board Recommendation: Adoption with Conditions (Vote: 6-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23272&GUID=D114925F-FF1A-4312-8425-BB17BF77B87C"
-  },
-  "apache junction|26-333": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Public Hearing",
-   "hearing": "2026-06-23",
-   "city": "Apache Junction",
-   "title": "Presentation, discussion, public hearing, and consideration of case P-26-4-PZ, a request by Banyan Residential, LLC, represented by Noel Griemsmann, of Snell & Wilmer LLP, for a planned development rezoning of approximately 6.7 net acres currently zoned High Density Multiple-Family Residential (\u201cRM-2\u201d) to High Density Multiple-Family Residential by Planned Development (\u201cRM-2/PD\u201d) with a new planned development overlay to authorize an amendment to the development plans previously approved in Ordinance No. 1526 for the development of a 146 unit, 2-story apartment complex.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12380&GUID=0AFC5E64-DAC8-42EE-921D-5A7256C4B68F"
-  },
-  "tempe|pl260139": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-04",
-   "hearing": "2026-06-04",
-   "city": "Tempe",
-   "title": "2. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance for a Zoning and Development Code Text Amendment for TOD PARKING UPDATE for changes to Part 5, Chapter 6 - Transportation Overlay District, consisting ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
-  },
-  "mesa|25-0329": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2025-04-21",
-   "city": "Mesa",
-   "title": "Amending Sections 10-4-4 and 10-4-5 of the Mesa City Code to modify the limits of the existing posted speed limit of 40 mph on Val Vista Drive between Pomegranate Street and Quenton Drive and establish a speed limit of 35 mph on Val Vista Drive between Quenton Drive and the north City limits, as recommended by the Transportation Advisory Board. (District 1) Ordinance No. 5939",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=22430&GUID=B4A1F9AC-3059-49DF-9391-22493C696D7B"
-  },
-  "tempe|t:817ecdfe09": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "12. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental Agreement with Maricopa County for installation and management of a Connected Vehicle Intelligent Transportation and Freight Signal Priority system. ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:cc828d3ecd": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Action Agency (TCAA) to support City of Tempe Community Health and Human Services Department heat relief efforts. (Resolution No. R2026.86)",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:865c6eaf64": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "2. Adopt a resolution approving and authorizing the issuance of The Industrial Development Authority of the City of Tempe Multifamily Housing Revenue Bonds in an original aggregate principal amount not to exceed $48,500,000 for the benefit ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:85f3ddd16f": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "13. Approve a one-year contract renewal with Sapphire Gas Solutions LLC, for the supply of liquefied natural gas to support the City\u2019s transit and fleet operations.",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:ae823b24d5": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "1. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance to establish development standards for a Planned Area Development Overlay in the MU-4 district for TEMPE OASIS, consisting of an adaptive reuse from motel",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "tempe|t:45d8f119aa": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-25",
-   "hearing": "2026-06-25",
-   "city": "Tempe",
-   "title": "3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance amending the Tempe City Code, Chapter 19, relating to Motorized and Electric Mobility Devices in Sections 19-1 (b), 19-183, 19-184 (a)(b), 19-212 (d)(e), ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034"
-  },
-  "mesa|pz 26047": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "Proposed amendments to Mesa City Code, Title 11, Chapters 5, 6, 7, 8, 30, 31, 33, 34, 43, 67, 81, 86, and 87. The amendments include, but are not limited to: modifying entryway monumentation requirements; refining building material and color standards; updating Employment District use tables and development standards; clarifying lot and land division requirements; modifying pedestrian connection requirements; modifying standards for Detached Accessory Buildings or Structures and Accessory Dwelling Units; updating Live/Work Unit and residential use standards in Commercial Districts; refining Data Center and Battery Energy Storage System screening requirements; modifying landscaping and alternative landscape plan provisions; modifying landscape diversity requirements; updating Manufactured Home and Recreational Vehicle Accessory Structure standards; clarifying sign regulations; updating procedural requirements related to written protests, application review, and expirations; modifying definitions of \u201cHome Occupations,\u201d \u201cLive/Work Units,\u201d and \u201cIndoor Warehousing And Storage\u201d; relocating the definition of \"Skilled Nursing Facility\" to Public and Semi-Public Use Classification, and adding a definition for \u201cHazardous Material Warehousing and Storage.\u201d \n\nStaff Recommendation: Adoption",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23811&GUID=8559947D-3436-46D0-8370-FDD7F73713D2"
-  },
-  "mesa|pz 26045": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "ZON25-00693. \"Homestead at Eastmark,\" 11.7+ acres located at the southwest corner of South Signal Butte Road and East Rubidium Avenue. Major Site Plan Review for a new 261-unit apartment development and 2.2 acres of retail/commercial development. (District 6).\n \nPlanner: Jennifer Merrill\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23798&GUID=75750BC1-752E-4F4D-976E-03A6B92F9294"
-  },
-  "tempe|pl260187": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "F. Request a Use Permit to allow a vocational school in the GID zoning district for LINCOLN TECHNICAL INSTITUTE, located at 1665 West Alameda Drive, Suite 110. The applicant is Studio1200. (PL260187) Project Planner: Whitney_Mayfield@tempe.",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260168": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "E. Request a Use Permit Standard to reduce the side yard setback in the R1-15 zoning district from 15 feet to 12 feet for RADFORD RESIDENCE, located at 1318 East La Vieve Lane. The applicant is Taylor Radford. (PL260168) Project Planner: Ro",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260137": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "D. Request a Use Permit Standard to reduce the required street side yard setback in the R1-6 zoning district from 10 feet to 8 feet for an attached residential building addition for GRINDEY RESIDENCE, located at 744 East Vista Del Cerro Dri",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260133": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "C. Request a Use Permit for a private school in the CSS zoning district for LEADERSHIP SOCIETY OF ARIZONA, located at 3010 South Priest Drive. The applicant is FM Solutions Management. (PL260133) Project Planner: Warren_Rivera@tempe.gov or ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl260054": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "B. Request a Use Permit to allow a massage establishment in the CSS zoning district for MAYA SPA located at 218 West Southern Avenue. The applicant is Maya Spa LLC. (PL260054) Project Planner: Whitney_Mayfield@tempe.gov or (480) 350-8486",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "tempe|pl250435": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-23",
-   "hearing": "2026-06-23",
-   "city": "Tempe",
-   "title": "A. Request a Use Permit for live entertainment within an existing restaurant in the CSS zoning district for TWIN LOCOS LIVE ENTERTAINMENT, located at 3224 South Mill Avenue. The applicant is Robert Davis II. (PL250435) Project Planner: Warr",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4031"
-  },
-  "mesa|pz 26046": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "ZON26-00155. \u201cDU 5/6 South Plan Amendment,\u201d 750+/- acres located between East Elliot Road and East Point Twenty-Two Boulevard, and west of South Signal Butte Road, but not including the area north of East Rubidium Avenue and east of South Binary. Major Amendment to the Development Unit 5/6 South Development Unit Plan (DUP). This request will modify the boundary of the eastern portion of the DUP to align with East Rubidium, and establish new boundaries for the District Land Use Group (LUG) and transition area. (District 6) \r\n\r\nPlanner: Jennifer Merrill\r\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4"
-  },
-  "mesa|pz 26051": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-24",
-   "city": "Mesa",
-   "title": "Planning and Zoning minutes from June 10, 2026 Planning and Zoning Board",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23827&GUID=FF41D371-827E-464E-B586-B74811E186D0"
-  },
-  "city of maricopa|con 12-080": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2012-11-20",
-   "city": "City of Maricopa",
-   "title": "The Mayor and City Council shall discuss and possibly take action on a request to approve an Award of Contract to Dyett & Bhatia Urban and Regional Planners of San Francisco to provide consulting services for the City of Maricopa, Development Services Zoning Code Rewrite, in an amount not to exceed $330,750; and to approve budgetary transfers to fund consulting services related to interim Planning and Zoning functions, including overseeing the Zoning Code Rewrite, through the end of FY12-13 in an amount not to exceed $136,200.  The transfer is from General Governmental CIP, Capital Projects-Transportation, Buildings, Amtrak Station Relocation (35044146-67720-35016) for $466,950 to General Governmental CIP, Capital Projects-Planning & Zoning, Design Services-Improvements Other Than Buildings, Zoning Code Rewrite (35044141-67735) for $330,750 and to General Fund, Planning and Zoning, Professional and Occupational (10044141-53320) for $136,200.  The procurement process for the contract award is in compliance with City of Maricopa Purchasing Code, Section 3-4-6. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=1962&GUID=9AB78235-8E6D-4C40-BFC9-1D63951751E8"
-  },
-  "apache junction|26-326": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Passed",
-   "hearing": "2026-06-16",
-   "city": "Apache Junction",
-   "title": "Presentation, discussion, public hearing, and consideration of Ordinance No. 1576 regarding case P-26-6-PZ, a request by Kimberly Bergman for a rezoning of 275 S. Cactus Road, approximately 1.25 gross acre parcel from Medium Density Single-Family Detached Residential (\u201cRS-10M\u201d) to General Rural Low Density Single-Family Detached Residential (\u201cRS-GR\u201d) and repealing any conflicting provisions and providing for severability.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12373&GUID=B6582500-3FC1-4617-B1D7-475BAD2C82C6"
-  },
-  "phoenix|26-1195": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Request to Submit Annual Federal Transit Administration Grant Applications and Enter into Grant Agreements (Ordinance S-53030) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35230&GUID=54294117-FF39-48B8-931B-1B23B6522C89"
-  },
-  "phoenix|26-0806": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Annual Operations Funding Agreement with Valley Metro Rail for Operational Costs for Light Rail Services for Fiscal Year 2026-27  (Ordinance S-52983) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34842&GUID=7475082B-9683-4899-BBA4-DFDB1A76C43D"
-  },
-  "phoenix|26-1270": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Accessible Mobility Vehicles and Vehicle Conversion Services CO-OP BPM007074 - Request for Award (Ordinance S-53050) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35305&GUID=92DA30BA-C07C-4FDC-BA6D-58DB772E1893"
-  },
-  "phoenix|26-1259": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Parking Services for Public Transit Department Building (Ordinance S-53045) - District 7",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35294&GUID=4EE8D525-B135-4D3E-941B-1CCC93ECB386"
-  },
-  "phoenix|26-1162": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Funding for The Moreland Phase II Affordable Housing Development (Ordinance S-53026) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35197&GUID=5EFC24CA-3F2D-4EEF-8CA1-F5DF94207499"
-  },
-  "phoenix|26-1123": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Playgrounds, Splash Pads, Outdoor Fitness, and Related Equipment - Contract - COOP 26-0072 Request for Award (Ordinance S-53014) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35158&GUID=CC071EA4-6C58-4CA2-9BE4-48B5A66FEF80"
-  },
-  "phoenix|26-1075": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Acceptance and Dedication of a Deed and an Easement for Roadway and Sidewalk Purposes (Ordinance S-53008) - Districts 2 & 4",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35110&GUID=CB557443-77E3-41F8-94E2-E44146234BB0"
-  },
-  "phoenix|26-0894": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Authorization to Grant an Easement to the Arizona Department of Transportation Across City-Owned Property Located at 320 W. Watkins Street (Ordinance S-52991) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34930&GUID=CFD9F9F7-1B84-4032-A928-C79C5CEC9522"
-  },
-  "phoenix|26-0877": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Transit Scheduling and Dispatch Software Upgrade and Maintenance Agreement Extension (Ordinance S-52988) - Citywide",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34913&GUID=1AAC4E26-3BBE-45D1-BE40-5C458E1FF088"
-  },
-  "phoenix|26-0871": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Adopted",
-   "hearing": "2026-06-17",
-   "city": "Phoenix",
-   "title": "Dedication of an Easement for Sidewalk Purposes Within City-Owned Property Located at 2526 W. Northern Avenue - (Ordinance S-52987) - District 5",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34907&GUID=7C0A742D-8547-429B-9F58-EF984EDB62D4"
-  },
-  "city of maricopa|misc 26-16": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Regular Agenda",
-   "hearing": "2026-06-22",
-   "city": "City of Maricopa",
-   "title": "The Planning and Zoning Commission shall hear a presentation from the Development Services Director regarding 2026 Arizona State Legislative Updates. Discussion only.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15334&GUID=101163A4-EB7E-4990-92AF-60A339035FBC"
-  },
-  "apache junction|26-137": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Items",
-   "hearing": "2026-04-20",
-   "city": "Apache Junction",
-   "title": "Presentation and discussion of the development fee study update including the Land Use Assumptions, Infrastructure Improvements Plan and Preliminary Draft Fees. The City\u2019s development fee consultant, Tischler Bise, will provide a presentation on development fees and the preparation of an update of the development fee study and implementing ordinance.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12181&GUID=572EED22-5342-40CA-BF31-A3CD8DDE7121"
-  },
-  "tempe|pl230127": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-04",
-   "hearing": "2026-06-04",
-   "city": "Tempe",
-   "title": "3. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance authorizing the transfer and/or abandonment of various property interests and authorizing the City Manager to execute an amended Development Agreement ",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
-  },
-  "apache junction|26-317": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Consent Agenda",
-   "hearing": "2026-06-16",
-   "city": "Apache Junction",
-   "title": "Consideration of approval of the Third Amendment to the Professional Services Agreement between the City of Apache Junction and Central Arizona Council on Developmental Disabilities for senior services transportation.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12364&GUID=251EB27E-5439-421D-9ED0-116BE014B378"
-  },
-  "apache junction|26-188": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "New Business",
-   "hearing": "2026-05-05",
-   "city": "Apache Junction",
-   "title": "Presentation, discussion and consideration of proposed Resolution No. 26-20 authorizing the city to enter into an Intergovernmental Agreement (IGA) Amendment No. 1 with Arizona Department of Transportation (ADOT) for the City's Tomahawk Road Widening Improvement Project from Highway US60 to Southern Avenue for additional construction costs with the City's financial contribution being $908,143 and federal contribution of $4,866,101 for a construction total of $5,774,244.",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12234&GUID=24AEB08A-4A86-4EDA-B5DE-5910001B84D4"
-  },
-  "tempe|t:f08483ebbf": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-11",
-   "hearing": "2026-06-11",
-   "city": "Tempe",
-   "title": "1. Approve and authorize Deputy City Manager Greg Ruiz to execute the Settlement Agreement between the Office of Inspector General (OIG) of the United States Department of Health and Human Services and the City of Tempe for the purpose of p",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030"
-  },
-  "tempe|t:6c8a7dcece": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-11",
-   "hearing": "2026-06-11",
-   "city": "Tempe",
-   "title": "1. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance to establish development standards for a Planned Area Development Overlay in the MU-4 district for TEMPE OASIS, consisting of an adaptive reuse from mo",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030"
-  },
-  "tempe|t:e0a8bb69e4": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-11",
-   "hearing": "2026-06-11",
-   "city": "Tempe",
-   "title": "2. PUBLIC HEARING ITEM Introduce and hold the first public hearing to adopt an ordinance amending the Tempe City Code, Chapter 19, relating to Motorized and Electric Mobility Devices in Sections 19-1 (b), 19-183, 19-184 (a)(b), 19-212 (d)(e",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4030"
-  },
-  "mesa|dsn 26026": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-09",
-   "city": "Mesa",
-   "title": "ZON26-00419. \"Longbow Mixed-Use,\" 3.3 \u00b1 acres located approximately 1,700 feet west of the southwest corner of North Recker Road and East Longbow Parkway. Design Review and Alternative Compliance to allow for the construction of a Hotel and future commercial development. (District 5)\n\nStaff Planner: Cassidy Welch\nRecommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23817&GUID=9DB7E79F-23D9-4265-A0DE-070E388AE2E7"
-  },
-  "mesa|pz 26044": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-10",
-   "city": "Mesa",
-   "title": "ZON26-00333 \"Faith Christian School,\" 9.9\u00b1 acres located at 3761 South Power Road. Council Use Permit and amending Conditions of Approval Nos. 1, 2, 3, 4, 5, 8, 12 and 13 of Ordinance No. 4646. This request will allow for a Private School. (District 6)\n\nPlanner: Jennifer Merrill \nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23797&GUID=8EDCBC04-90F7-4C84-AD5C-5C945FF6C683"
-  },
-  "mesa|pz 26037": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-10",
-   "city": "Mesa",
-   "title": "ZON25-00110 \"San Antonio Tire Shop\" 0.4\u00b1 acres located at 1609 West University Drive. Rezone from Office Commercial (OC) to Limited Commercial with a Bonus Intensity Zone Overlay (LC-BIZ) and Site Plan Review. This request will allow for an approximately 4,015\u00b1 square foot Minor Automobile Repair facility. (District 3).\r\n\r\nPlanner: Emily Johnson\r\nStaff Recommendation: Approval with Conditions",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23633&GUID=FC2E2A80-9315-4D2C-BFE0-0177221D6F34"
-  },
-  "mesa|pz 26048": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-10",
-   "city": "Mesa",
-   "title": "Planning and Zoning minutes from May 27, 2026 Planning and Zoning Board",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23820&GUID=7C2B75A6-4CB2-4E40-AAA4-EE92525FCD0A"
-  },
-  "apache junction|26-281": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Items",
-   "hearing": "2026-06-01",
-   "city": "Apache Junction",
-   "title": "Presentation and discussion of case P-26-6-PZ, a request by Kimberly Bergman for a rezoning of 275 S. Cactus Road, an approximately 1.25 gross acre parcel from Medium Density Single-Family Detached Residential (\u201cRS-10M\u201d) to General Rural Low Density Single-Family Detached Residential (\u201cRS-GR\u201d).",
-   "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12328&GUID=A3E8FE15-97C9-468B-96DA-8CD00BCBD75C"
-  },
-  "mesa|26-0576": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-08",
-   "city": "Mesa",
-   "title": "Dollar Limit Increase to Use of the Cooperative Term Contract for Route Planning and Management Solutions as Requested by the Solid Waste Department and Department of Innovation and Technology (Citywide)\n\nA dollar limit increase is needed to implement an AI-enabled camera system. Solid Waste currently utilizes external, legacy vehicle camera systems to support safe fleet operations; however, the existing system no longer meets operational needs. The Samsara system provides improved image quality, real-time AI alerts to the Solid Waste driver for pedestrians and hazards, and cloud-based video storage and access, which eliminates the need to physically retrieve and reinstall hard drives from vehicles to view video, which is currently required with the existing, labor-intensive system.  \n\nThe Solid Waste Department, Department of Innovation and Technology, and Procurement Services recommend increasing the original dollar limit with Wastech Corp./Routeware, Inc. by an additional amount of $480,320, which includes $138,375 for installation services and $341,945 for two and half years of annual subscription fees for a revised total contract amount not to exceed $807,820.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23792&GUID=57429114-D82E-447F-B9A7-F5D8942E2306"
-  },
-  "mesa|26-0540": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-08",
-   "city": "Mesa",
-   "title": "Approving and authorizing the City Manager to enter into an amendment to Intergovernmental Agreement with the Regional Public Transportation Authority (RPTA) for fixed-route bus, paratransit and RideChoice, services that was approved by the City Council on January 26, 2026 for FY 25/26. The estimated cost of transit services for FY26/27 is $41,409,954 . Public Transportation Funds (PTF) from Propositions 400 and 479 will fund $35,886,106 and the City's General Fund will fund $5,523,848. (Citywide) Resolution No. 12545",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23756&GUID=2AC2BED8-FAF4-4713-8041-7D8D281FDDC3"
-  },
-  "mesa|26-0539": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Agenda Ready",
-   "hearing": "2026-06-08",
-   "city": "Mesa",
-   "title": "Approving and authorizing the City Manager to enter into a funding agreement with Valley Metro Rail, Inc., for the current light rail operations in the City of Mesa. The estimated cost of service for operations, maintenance and facility landscaping of the existing light rail line for fiscal year 2026/27 is $21,148,000. The City anticipates receiving $2,866,000 in light rail fares, advertising, preventive maintenance grant and Arizona Lottery Funds for a net impact to the City\u2019s General Fund of $18,282,000. (Districts 3 and 4) Resolution No. 12544",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23755&GUID=16189703-A544-46AC-B23F-7EBF578E28AD"
-  },
-  "tempe|t:bce9051d2a": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-04",
-   "hearing": "2026-06-04",
-   "city": "Tempe",
-   "title": "2. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt a resolution for a General Plan Land use and Residential Density Map Amendment from Commercial to Mixed-Use High (up to 65 du/ac) and an ordinance for a Zoning Map Ame",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
-  },
-  "tempe|t:6c50442bec": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-09-01",
-   "status": "Heard 2026-06-04",
-   "hearing": "2026-06-04",
-   "city": "Tempe",
-   "title": "3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt two related ordinances, Ordinance No. O2026.22 and Ordinance No. O2026.23, for the Tempe Zoning and Development Code, including amendments to Part 4, Chapter 9 (Signs)",
-   "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4025"
   },
   "city of maricopa|res 26-10": {
    "first_seen": "2026-07-03",
@@ -2349,152 +2358,9 @@
    "city": "Glendale",
    "title": "9. \u00a0 COMMISSIONER UPDATES Commissioners will share information obtained from a variety of sources, including other boards and committees, transportation-related public meetings, and informal discussions with citizens. For information only .",
    "url": "https://destinyhosted.com/agenda_publish.cfm?id=45363&mt=all&get_month=8&get_year=2026&dsp=ag&seq=6223"
-  },
-  "city of maricopa|gpa26-01": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-08-02",
-   "status": "Regular Agenda",
-   "hearing": "2026-04-27",
-   "city": "City of Maricopa",
-   "title": "Public Hearing Major General Plan Amendment, GPA26-01 Advancing Maricopa 2026 General Plan Update: The Planning and Zoning Commission shall discuss and take action on the state mandated, Advancing Maricopa, 2026 General Plan Update. Discussion and Action.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15191&GUID=897B8940-A283-46D2-B055-8C2E483B34F3"
-  },
-  "mesa|26-0454": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-08-02",
-   "status": "Agenda Ready",
-   "hearing": "2026-05-18",
-   "city": "Mesa",
-   "title": "Planning and Zoning Board Public Hearing held on April 8, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23669&GUID=514E0AAE-6A3A-404A-9766-C25A4B36F5ED"
-  },
-  "mesa|26-0453": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-08-02",
-   "status": "Agenda Ready",
-   "hearing": "2026-05-18",
-   "city": "Mesa",
-   "title": "Planning and Zoning Board Study Session held on April 8, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23668&GUID=00EF1C63-60AC-4CAD-B597-E7366B37BCAB"
-  },
-  "mesa|26-0387": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-08-02",
-   "status": "Agenda Ready",
-   "hearing": "2026-05-04",
-   "city": "Mesa",
-   "title": "GPA25-00233 \"Haven at Hawes,\" 38\u00b1 acres located at the southeast corner of South Hawes Road and East Mesquite Street. Major General Plan Amendment to change the Placetype from Local Employment Center to Urban Residential. Stewart Development II, LLC, Owner; Sean Lake / Sarah Prince, Pew & Lake, P.L.C., Applicant. (District 6) Resolution No. 12515\n \nStaff Recommendation: Adoption\nP&Z Board Recommendation: Adoption (Vote: 6-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23602&GUID=0EABFBA1-FC12-426E-ACC1-7FE83E77BA9C"
-  },
-  "mesa|26-0319": {
-   "first_seen": "2026-07-03",
-   "last_seen": "2026-08-02",
-   "status": "Agenda Ready",
-   "hearing": "2026-04-20",
-   "city": "Mesa",
-   "title": "ZON25-00234 \"Haven at Hawes,\" 38\u00b1 acres located at the southeast corner of South Hawes Road and East Mesquite Street. Rezoning from Agricultural (AG) to Residential Small-Lot 2.5 with a Planned Area Development overlay (RSL-2.5-PAD) and approval of residential product. This request will allow for a 230-lot single residence development. Stewart Development II, LLC, Owner; Sean Lake / Sarah Prince, Pew & Lake, P.L.C., applicant. \n(District 6) Ordinance No. 6011\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 6-0)",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23534&GUID=01CADD14-8C84-46B1-BFCE-5FA15DC5A9CA"
   }
  },
  "events": [
-  {
-   "date": "2026-08-18",
-   "kind": "new",
-   "city": "City of Maricopa",
-   "title": "PUBLIC HEARING: A request by the City of Maricopa to rezone a parcel of land, totaling \u00b1146.8-acres, from the Pinal County Light Industry & Warehouse (CI-1) zoning district to the municipal General Industrial (GI) zoning district, generally located south of the Maricopa-Casa Grande Highway, east of N. Fuqua Road, west of N. Hartman Road, and north of W. Peters and Nall Road. DISCUSSION AND ACTION.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15430&GUID=2BDC1869-394E-472B-8397-0D5E5AE1E7C7",
-   "file": "ZON 26-05",
-   "from": "",
-   "to": "",
-   "hearing": "2026-08-24",
-   "topics": [
-    "Housing"
-   ]
-  },
-  {
-   "date": "2026-08-18",
-   "kind": "new",
-   "city": "City of Maricopa",
-   "title": "PUBLIC HEARING: A request by the City of Maricopa to rezone three parcels of land that total \u00b10.90 acres, from the Pinal County General Rural (GR) and General Business (CB-2) zoning districts to the City of Maricopa Public Institutional (PI) zoning district, located at the northwest corner of West Mercado Street and North Main Street, specifically parcel numbers 510-26-048A, 510-26-048B, and 510-26-0490. DISCUSSION AND ACTION.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15432&GUID=C541B593-F234-4E48-BE14-D78B9493F26F",
-   "file": "ZON 26-04",
-   "from": "",
-   "to": "",
-   "hearing": "2026-08-24",
-   "topics": [
-    "Housing"
-   ]
-  },
-  {
-   "date": "2026-08-18",
-   "kind": "scheduled",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on July 29, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23948&GUID=11928E50-A19E-408C-B29D-F0CEDF66FFE6",
-   "file": "PZ 26067",
-   "from": "",
-   "to": "",
-   "hearing": "2026-09-14",
-   "topics": [
-    "Housing"
-   ]
-  },
-  {
-   "date": "2026-08-18",
-   "kind": "new",
-   "city": "City of Maricopa",
-   "title": "PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a request for a Conditional Use Permit application for an existing 300-foot-tall wireless facility. The subject property is located at 20386 N. Murphy Rd., on the west side of N. Murphy Rd. DISCUSSION AND ACTION.",
-   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15402&GUID=DF8749EF-80EE-40E8-8D7B-1A4B87381097",
-   "file": "CUP25-02",
-   "from": "",
-   "to": "",
-   "hearing": "2026-07-27",
-   "topics": [
-    "Housing"
-   ]
-  },
-  {
-   "date": "2026-08-18",
-   "kind": "new",
-   "city": "Phoenix",
-   "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-92-23-8 - Southeast Corner of 19th Avenue and Baseline Road (Ordinance G-) - District 8",
-   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35663&GUID=E427C8A7-D4E7-461C-87C5-197EA4720498",
-   "file": "26-1628",
-   "from": "",
-   "to": "",
-   "hearing": "2026-08-26",
-   "topics": [
-    "Housing"
-   ]
-  },
-  {
-   "date": "2026-08-18",
-   "kind": "new",
-   "city": "Mesa",
-   "title": "Planning and Zoning Study Session held on July 22, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157",
-   "file": "26-0775",
-   "from": "",
-   "to": "",
-   "hearing": "2026-09-14",
-   "topics": [
-    "Housing"
-   ]
-  },
-  {
-   "date": "2026-08-18",
-   "kind": "new",
-   "city": "Mesa",
-   "title": "Planning and Zoning Public Hearing held on July 22, 2026.",
-   "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC",
-   "file": "26-0774",
-   "from": "",
-   "to": "",
-   "hearing": "2026-09-14",
-   "topics": [
-    "Housing"
-   ]
-  },
   {
    "date": "2026-08-19",
    "kind": "new",
@@ -2884,6 +2750,48 @@
    "from": "",
    "to": "",
    "hearing": "2026-09-01",
+   "topics": [
+    "Housing"
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "kind": "adopted",
+   "city": "City of Maricopa",
+   "title": "The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Testing Program, Federal Transit Administration (FTA) and Federal Motor Carrier Safety Administration (FMCSA) policy.  Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A",
+   "file": "POL 26-01",
+   "from": "Consent Agenda",
+   "to": "Approved",
+   "hearing": "2026-09-01",
+   "topics": [
+    "Transit"
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "kind": "adopted",
+   "city": "City of Maricopa",
+   "title": "Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Advisory Committee meetings, May 18, 2026, June 15, 2026 and July 20, 2026 Cultural Affairs and Arts Advisory Committee meetings, June 22, 2026 and July 27, 2026 Planning and Zoning Commission meetings. Discussion and Action.",
+   "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E",
+   "file": "MIN 26-52",
+   "from": "Consent Agenda",
+   "to": "Passed",
+   "hearing": "2026-09-01",
+   "topics": [
+    "Housing"
+   ]
+  },
+  {
+   "date": "2026-09-02",
+   "kind": "new",
+   "city": "Phoenix",
+   "title": "Amend City Code - Ordinance Adoption - Rezoning Application Z-30-26-1 - Approximately 425 Feet East of the Southeast Corner of 51st Avenue and Union Hills Drive (Ordinance G-) - District 1",
+   "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35678&GUID=8C80ABB3-E941-4172-9EE3-FB8C3DAF7C59",
+   "file": "26-1643",
+   "from": "",
+   "to": "",
+   "hearing": "2026-09-09",
    "topics": [
     "Housing"
    ]
