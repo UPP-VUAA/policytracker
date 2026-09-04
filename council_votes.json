@@ -17458,5 +17458,95 @@
 "absent": 1,
 "recused": 0
 }
+},
+{
+"city": "Tempe",
+"date": "2026-08-31",
+"body": "Regular City Council",
+"title": "Transportation Commission",
+"file": "4B14",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1959&doctype=3",
+"topics": [
+"Transit"
+],
+"result": "Passed",
+"motion": "Motion to Approve Items 4B1 \u2013 4B14 made by Vice Mayor Chin and seconded by Councilmember Garlid",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Chin": "Yes",
+"Amberg": "Yes",
+"Garlid": "Yes",
+"Keating": "Yes",
+"Nichols": "Yes",
+"St. George": "Yes"
+},
+"tally": {
+"aye": 7,
+"nay": 0,
+"abstain": 0,
+"absent": 0,
+"recused": 0
+}
+},
+{
+"city": "Tempe",
+"date": "2026-08-31",
+"body": "Regular City Council",
+"title": "Approve the utilization of a nine-month City of Chandler cooperative contract with Sierra Container Group, LLC for the purchase of residential refuse and recycling containers.",
+"file": "7B17",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1959&doctype=3",
+"topics": [
+"Housing"
+],
+"result": "Passed",
+"motion": "Motion to Approve Items 7A2 \u2013 7A7; Items 7B1 \u2013 7B24; and Items 7C1 \u2013 7C21, with the exception of Item 7A1, which was previously voted on by the Council to approve the Mayor\u2019s Youth Advisory Commission appointments, and Items 7C1, 7C16, and 7C17, which were pul",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Chin": "Yes",
+"Amberg": "Yes",
+"Garlid": "Yes",
+"Keating": "Yes",
+"Nichols": "Yes",
+"St. George": "Yes"
+},
+"tally": {
+"aye": 7,
+"nay": 0,
+"abstain": 0,
+"absent": 0,
+"recused": 0
+}
+},
+{
+"city": "Tempe",
+"date": "2026-08-31",
+"body": "Regular City Council",
+"title": "Award a change order to Combs Construction Company, LLC, for Project No. 6009741 - Bike Lanes/Pedestrian Improvements - Scottsdale Road from Curry Road to Continental Drive.",
+"file": "8A7",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1959&doctype=3",
+"topics": [
+"Walkability"
+],
+"result": "Passed",
+"motion": "Motion to Approve Item 8A7 made by Councilmember Keating and seconded by Councilmember Nichols",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Chin": "Yes",
+"Amberg": "Yes",
+"Garlid": "Yes",
+"Keating": "Yes",
+"Nichols": "Yes",
+"St. George": "Yes"
+},
+"tally": {
+"aye": 7,
+"nay": 0,
+"abstain": 0,
+"absent": 0,
+"recused": 0
+}
 }
 ]
