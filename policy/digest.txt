@@ -1,8 +1,8 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-04 09:40 MST | window 90d | 191 items
+Generated 2026-09-05 08:43 MST | window 90d | 192 items
 
 
-=== HOUSING (150) ===
+=== HOUSING (151) ===
   Phoenix 26-1798 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-3-26-7 - Southwest Corner
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35833&GUID=0C2F219B-732D-4FB6-8E24-C0192BFE79BE
   Phoenix 26-1796 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-152-25-8 (20th Street & Jone
@@ -27,6 +27,8 @@ Generated 2026-09-04 09:40 MST | window 90d | 191 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35678&GUID=8C80ABB3-E941-4172-9EE3-FB8C3DAF7C59
   Phoenix 26-1416 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-39-21-6 - Approxim
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35451&GUID=200AEA8A-02A4-40C9-B8CD-5B4E2248A9E9
+  Phoenix 25-2496 [Adopted]: (CONTINUED FROM NOVEMBER 19, 2025) - Public Hearing and Ordinance Adoption - Rezoning Appl
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33722&GUID=EC7610D9-B661-45D1-9C29-979DE5CF092B
   Mesa PZ 26078 [Agenda Ready]: Planning and Zoning minutes from August 26, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24025&GUID=8BC6BC86-54D9-4599-9742-5C3F54158D48
   Mesa PZ 26076 [Agenda Ready]: Amendments to Chapters 23, 44, 66, 74, and 87 of Title 11, Zoning Ordinance, of the Mesa C
@@ -81,8 +83,6 @@ Generated 2026-09-04 09:40 MST | window 90d | 191 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
   Mesa PZ 26071 [Agenda Ready]: Planning and Zoning minutes from August 12, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23969&GUID=1BB572D7-3F08-42FC-8248-51E51DBE34CC
-  Mesa PZ 26070 [Agenda Ready]: ZON26-00411 "ER2", 8.7± acres located approximately 630± feet south of the southwest corne
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23955&GUID=C6F28EA6-FF98-4333-B93C-7FB26FC6D4F7
 
 === HEAT (5) ===
   Phoenix 26-1767 [Agenda Ready - Human Services]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
