@@ -1,8 +1,18 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-08 09:57 MST | window 90d | 189 items
+Generated 2026-09-09 09:57 MST | window 90d | 189 items
 
 
-=== HOUSING (148) ===
+=== HOUSING (147) ===
+  Phoenix 26-1748 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-29-26-2 - Approximately 160 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35783&GUID=2F1354DB-C72C-4E4D-AC8C-1125A238C116
+  Phoenix 26-1653 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-58-26-1 - Southwest Corner o
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35688&GUID=D049B054-2166-4EDC-9A92-1A36E3FB49EC
+  Apache Junction 26-463 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Ordinance No. 1578
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12510&GUID=C9A06493-0E5B-4103-B70D-F1291CBC2793
+  Phoenix 26-1364 [Passed]: ***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoni
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913
+  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Phoenix 26-1798 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-3-26-7 - Southwest Corner
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35833&GUID=0C2F219B-732D-4FB6-8E24-C0192BFE79BE
   Phoenix 26-1796 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-152-25-8 (20th Street & Jone
@@ -17,8 +27,6 @@ Generated 2026-09-08 09:57 MST | window 90d | 189 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35789&GUID=3B09201E-D5D5-46D0-A5D8-9428EE6781CB
   Phoenix 26-1747 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-198-25-6 - Approximately 100
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35782&GUID=9A974349-14D4-4E9B-92B0-342400934809
-  Phoenix 26-1653 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-58-26-1 - Southwest Corner o
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35688&GUID=D049B054-2166-4EDC-9A92-1A36E3FB49EC
   Phoenix 26-1652 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-36-26-1 - Approximately 450 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35687&GUID=AC5518CD-EC19-4E3A-9092-0457672AD65F
   Phoenix 26-1644 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-34-26-3 - Northwest Corner o
@@ -33,20 +41,14 @@ Generated 2026-09-08 09:57 MST | window 90d | 189 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24025&GUID=8BC6BC86-54D9-4599-9742-5C3F54158D48
   Mesa PZ 26076 [Agenda Ready]: Amendments to Chapters 23, 44, 66, 74, and 87 of Title 11, Zoning Ordinance, of the Mesa C
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23990&GUID=F6CC901E-1DB5-4B42-948B-2B965876FD73
-  Apache Junction 26-463 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Ordinance No. 1578
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12510&GUID=C9A06493-0E5B-4103-B70D-F1291CBC2793
   Apache Junction 26-462 [Agenda Items]: Presentation and discussion of proposed Conditional Use Permit ("CUP”) case P-25-46-CUP, a
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12509&GUID=A33F0015-714E-4724-94C0-6FA4FE12C50E
-  Phoenix 26-1748 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-29-26-2 - Approximately 160 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35783&GUID=2F1354DB-C72C-4E4D-AC8C-1125A238C116
   Phoenix 26-1741 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-2-26-5 - Approximately 30
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35776&GUID=43E1A1D3-EB0B-4BC3-8864-229D1C0EAEC0
   City of Maricopa MIN 26-52 [Passed]: Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Adviso
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E
   Apache Junction 26-437 [Public Hearing]: Presentation, discussion, public hearing and consideration of proposed Conditional Use Per
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12484&GUID=B81E21E1-792A-46AD-BCC2-ABCBA82A3CDC
-  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Mesa HP 26-016 [Agenda Ready]: Amendments to Chapters 23, 44, 66, 74, and 87 of Title 11, Zoning Ordinance, of the Mesa C
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24002&GUID=0082979A-F519-4124-A458-B05130FCD6EC
   Apache Junction 26-441 [Consent Agenda]: Consideration of approval of the Land Use Assumptions and Infrastructure Improvements Plan
@@ -81,8 +83,6 @@ Generated 2026-09-08 09:57 MST | window 90d | 189 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
   Tempe  [Heard 2026-08-25]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED  AREA DEVELOPMENT OVERLAY
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
-  Mesa PZ 26071 [Agenda Ready]: Planning and Zoning minutes from August 12, 2026 Planning and Zoning Board
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23969&GUID=1BB572D7-3F08-42FC-8248-51E51DBE34CC
 
 === HEAT (5) ===
   Phoenix 26-1767 [Agenda Ready - Human Services]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -96,7 +96,9 @@ Generated 2026-09-08 09:57 MST | window 90d | 189 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (37) ===
+=== TRANSIT (38) ===
+  City of Maricopa RES 25-07 [Passed]: A Resolution of the Mayor and City Council of the City of Maricopa, Pinal County, Arizona,
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=13928&GUID=125E6E2A-F802-4A35-B673-EC026F8613BC
   Phoenix 26-1855 [Agenda Ready - Public Transit and Light Rail Department]: Authorization to Submit Applications for the Federal Transit Administration Low or No Emis
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35890&GUID=69C29422-3DE3-4199-91AC-86E082CF3A28
   Phoenix 26-1853 [Agenda Ready - Public Transit and Light Rail Department]: Retroactive Authorization to Submit Federal Transit Administration Grant Applications and 
