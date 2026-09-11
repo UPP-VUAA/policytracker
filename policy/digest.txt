@@ -1,8 +1,8 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-10 09:48 MST | window 90d | 185 items
+Generated 2026-09-11 09:50 MST | window 90d | 186 items
 
 
-=== HOUSING (145) ===
+=== HOUSING (146) ===
   Apache Junction 26-462 [Agenda Items]: Presentation and discussion of proposed Conditional Use Permit ("CUP”) case P-25-46-CUP, a
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12509&GUID=A33F0015-714E-4724-94C0-6FA4FE12C50E
   Phoenix 26-1798 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-3-26-7 - Southwest Corner
@@ -45,6 +45,8 @@ Generated 2026-09-10 09:48 MST | window 90d | 185 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24025&GUID=8BC6BC86-54D9-4599-9742-5C3F54158D48
   Mesa PZ 26076 [Agenda Ready]: Amendments to Chapters 23, 44, 66, 74, and 87 of Title 11, Zoning Ordinance, of the Mesa C
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23990&GUID=F6CC901E-1DB5-4B42-948B-2B965876FD73
+  Tempe  [Heard 2026-09-03]: 1. Mixed-Use Space Council Subcommittee – Recommendations for Council Consideration
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4048
   City of Maricopa MIN 26-52 [Passed]: Acceptance of Minutes from the March 26, 2026 and May 13 ,2026 Parks and Recreation Adviso
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15505&GUID=DE4E8E9C-07BA-46B3-A111-622389E5137E
   Apache Junction 26-437 [Public Hearing]: Presentation, discussion, public hearing and consideration of proposed Conditional Use Per
@@ -81,8 +83,6 @@ Generated 2026-09-10 09:48 MST | window 90d | 185 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
   Tempe PL260008 [Heard 2026-08-25]: A. Request a Zoning Map Amendment from R/O to CSS for approximately .34 acres and a Use Pe
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
-  Tempe  [Heard 2026-08-25]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED  AREA DEVELOPMENT OVERLAY
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
 
 === HEAT (5) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -97,12 +97,12 @@ Generated 2026-09-10 09:48 MST | window 90d | 185 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
 === TRANSIT (36) ===
+  Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
   Mesa 26-0825 [Agenda Ready]: Dollar Limit Increase to the Term Contract for Barricade Rental Service for Various City D
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24042&GUID=E999D8F0-568F-4E0F-99F0-5424FB74F92D
   City of Maricopa RES 25-07 [Passed]: A Resolution of the Mayor and City Council of the City of Maricopa, Pinal County, Arizona,
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=13928&GUID=125E6E2A-F802-4A35-B673-EC026F8613BC
-  Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
   Phoenix 26-1855 [Adopted]: Authorization to Submit Applications for the Federal Transit Administration Low or No Emis
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35890&GUID=69C29422-3DE3-4199-91AC-86E082CF3A28
   Phoenix 26-1853 [Adopted]: Retroactive Authorization to Submit Federal Transit Administration Grant Applications and 
