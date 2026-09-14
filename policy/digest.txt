@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-13 09:46 MST | window 90d | 188 items
+Generated 2026-09-14 11:17 MST | window 90d | 186 items
 
 
 === HOUSING (148) ===
+  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Phoenix 26-1628 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-92-23-8 - Southeas
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35663&GUID=E427C8A7-D4E7-461C-87C5-197EA4720498
   Phoenix 26-1416 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-39-21-6 - Approxim
@@ -45,8 +47,6 @@ Generated 2026-09-13 09:46 MST | window 90d | 188 items
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12510&GUID=C9A06493-0E5B-4103-B70D-F1291CBC2793
   Phoenix 26-1364 [Passed]: ***REQUEST TO WITHDRAW (SEE ATTACHED MEMO)*** Formal Action - PCD Major Amendment - Rezoni
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35399&GUID=C034831C-34F9-476F-836F-77AFAE898913
-  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Phoenix 25-2496 [Adopted]: (CONTINUED FROM NOVEMBER 19, 2025) - Public Hearing and Ordinance Adoption - Rezoning Appl
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33722&GUID=EC7610D9-B661-45D1-9C29-979DE5CF092B
   Mesa PZ 26078 [Agenda Ready]: Planning and Zoning minutes from August 26, 2026 Planning and Zoning Board
@@ -96,7 +96,7 @@ Generated 2026-09-13 09:46 MST | window 90d | 188 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (36) ===
+=== TRANSIT (34) ===
   Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
   Mesa 26-0825 [Agenda Ready]: Dollar Limit Increase to the Term Contract for Barricade Rental Service for Various City D
@@ -165,10 +165,6 @@ Generated 2026-09-13 09:46 MST | window 90d | 188 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4
   City of Maricopa CON 12-080 [Passed]: The Mayor and City Council shall discuss and possibly take action on a request to approve 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=1962&GUID=9AB78235-8E6D-4C40-BFC9-1D63951751E8
-  Phoenix 26-1195 [Adopted]: Request to Submit Annual Federal Transit Administration Grant Applications and Enter into 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35230&GUID=54294117-FF39-48B8-931B-1B23B6522C89
-  Phoenix 26-0806 [Adopted]: Annual Operations Funding Agreement with Valley Metro Rail for Operational Costs for Light
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34842&GUID=7475082B-9683-4899-BBA4-DFDB1A76C43D
 
 === WALKABILITY (8) ===
   Phoenix 26-1343 [Adopted]: Acceptance and Dedication of Deeds and Easements for Roadway, Sidewalk, Public Utility and
