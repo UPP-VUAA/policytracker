@@ -1,8 +1,14 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-14 11:17 MST | window 90d | 186 items
+Generated 2026-09-15 10:25 MST | window 90d | 188 items
 
 
-=== HOUSING (148) ===
+=== HOUSING (149) ===
+  Mesa 26-0830 [Agenda Ready]: Planning and Zoning Study Session held on August 26, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24047&GUID=C5B6A7CE-23A1-40B7-BE07-74AF5ECC1949
+  Mesa 26-0829 [Agenda Ready]: Planning and Zoning Public Hearing held on August 26, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24046&GUID=90EFADA9-D393-46A0-BA4D-3E1D376B503D
+  Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North", 5± acres located approximately 270± feet east of the northeast c
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
   Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Phoenix 26-1628 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-92-23-8 - Southeas
@@ -77,12 +83,6 @@ Generated 2026-09-14 11:17 MST | window 90d | 186 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15429&GUID=7D41635C-124B-407C-8F70-2D42D6BABEC8
   Tempe PL260219 [Heard 2026-08-26]: A. Request a variance to reduce the minimum front yard open structure setback from 35 feet
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4044
-  City of Maricopa CUP25-02 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15402&GUID=DF8749EF-80EE-40E8-8D7B-1A4B87381097
-  Phoenix 26-1590 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1310 (Ordinance G-7534) - District 2
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35625&GUID=CA1C952F-AC34-4611-9E5D-C3CD70F66D5A
-  Phoenix 26-1300 [Adopted]: Phoenix Sky Harbor International Airport Terminal 3 Garage Expansion Joints and Bearing Pa
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35335&GUID=3B406C45-D275-4230-8570-22B3F588EC2B
 
 === HEAT (5) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -96,7 +96,9 @@ Generated 2026-09-14 11:17 MST | window 90d | 186 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (34) ===
+=== TRANSIT (35) ===
+  Phoenix 26-1837 [Agenda Ready - Public Transit and Light Rail Department]: Heavy Duty Transit Buses - State of Washington Cooperative Agreement - COOP 04824
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35872&GUID=A2B621E7-7D39-4378-8A23-AD061433BC5F
   Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
   Mesa 26-0825 [Agenda Ready]: Dollar Limit Increase to the Term Contract for Barricade Rental Service for Various City D
