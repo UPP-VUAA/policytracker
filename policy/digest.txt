@@ -1,8 +1,14 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-15 10:25 MST | window 90d | 188 items
+Generated 2026-09-16 10:24 MST | window 90d | 193 items
 
 
-=== HOUSING (149) ===
+=== HOUSING (152) ===
+  Phoenix 26-1938 [Agenda Ready - Office of Arts and Culture Department]: Design, Fabrication and Installation Contract with coLAB studio, LLC for the Girasol Affor
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35973&GUID=23E934FD-CEDB-4430-B235-C0EA238EEE19
+  Phoenix 26-1870 [Agenda Ready - IDA Department]: Central Arizona Water Conservation District Land Use License CAWCD #2026-020 Water Line fo
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35905&GUID=CF2E0A4F-0143-4ECA-ABEA-2EA4807D0983
+  Phoenix 26-1869 [Agenda Ready - IDA Department]: Central Arizona Water Conservation District Land Use License CAWCD #2026-019 Water Line fo
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35904&GUID=3AA7E5CA-F4E2-4E22-A91A-C8D6A4EB9855
   Mesa 26-0830 [Agenda Ready]: Planning and Zoning Study Session held on August 26, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24047&GUID=C5B6A7CE-23A1-40B7-BE07-74AF5ECC1949
   Mesa 26-0829 [Agenda Ready]: Planning and Zoning Public Hearing held on August 26, 2026.
@@ -77,12 +83,6 @@ Generated 2026-09-15 10:25 MST | window 90d | 188 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157
   Mesa 26-0774 [Agenda Ready]: Planning and Zoning Public Hearing held on July 22, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23992&GUID=B6A7F1CD-CA52-4B47-80E3-B5770A35EEAC
-  City of Maricopa ZON 26-04 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone three parcels of land that tot
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15432&GUID=C541B593-F234-4E48-BE14-D78B9493F26F
-  City of Maricopa ZON 26-03 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone several parcels of land, total
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15429&GUID=7D41635C-124B-407C-8F70-2D42D6BABEC8
-  Tempe PL260219 [Heard 2026-08-26]: A. Request a variance to reduce the minimum front yard open structure setback from 35 feet
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4044
 
 === HEAT (5) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -96,13 +96,17 @@ Generated 2026-09-15 10:25 MST | window 90d | 188 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (35) ===
+=== TRANSIT (37) ===
+  Phoenix 26-1934 [Agenda Ready - Street Transportation]: Request Retroactive Authorization to Apply for, Accept, and Disburse Federal Funding for t
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35969&GUID=B3F8F01D-6CB9-4BCB-9700-26D754F43B91
   Phoenix 26-1837 [Agenda Ready - Public Transit and Light Rail Department]: Heavy Duty Transit Buses - State of Washington Cooperative Agreement - COOP 04824
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35872&GUID=A2B621E7-7D39-4378-8A23-AD061433BC5F
-  Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
+  Phoenix 26-1533 [Agenda Ready - Street Transportation]: Street Transportation Department Pavement Surface Treatment Program - 2-Step Job Order Con
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35568&GUID=2E9FC358-96F9-4EE1-BB49-F48D7EB73B45
   Mesa 26-0825 [Agenda Ready]: Dollar Limit Increase to the Term Contract for Barricade Rental Service for Various City D
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24042&GUID=E999D8F0-568F-4E0F-99F0-5424FB74F92D
+  Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
   City of Maricopa RES 25-07 [Passed]: A Resolution of the Mayor and City Council of the City of Maricopa, Pinal County, Arizona,
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=13928&GUID=125E6E2A-F802-4A35-B673-EC026F8613BC
   Phoenix 26-1855 [Adopted]: Authorization to Submit Applications for the Federal Transit Administration Low or No Emis
