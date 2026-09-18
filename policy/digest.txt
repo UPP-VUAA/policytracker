@@ -1,28 +1,36 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-17 10:23 MST | window 90d | 185 items
+Generated 2026-09-18 09:51 MST | window 90d | 190 items
 
 
-=== HOUSING (143) ===
-  Phoenix 26-1938 [Agenda Ready - Office of Arts and Culture Department]: Design, Fabrication and Installation Contract with coLAB studio, LLC for the Girasol Affor
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35973&GUID=23E934FD-CEDB-4430-B235-C0EA238EEE19
-  Phoenix 26-1870 [Agenda Ready - IDA Department]: Central Arizona Water Conservation District Land Use License CAWCD #2026-020 Water Line fo
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35905&GUID=CF2E0A4F-0143-4ECA-ABEA-2EA4807D0983
-  Phoenix 26-1869 [Agenda Ready - IDA Department]: Central Arizona Water Conservation District Land Use License CAWCD #2026-019 Water Line fo
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35904&GUID=3AA7E5CA-F4E2-4E22-A91A-C8D6A4EB9855
+=== HOUSING (146) ===
+  Mesa PZ 26079 [Agenda Ready]: ZON21-00066. "Greenfield Multifamily," 1.9± acres located approximately 2,025± feet north 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24052&GUID=9CB66DDF-196E-44D5-B997-3888A8ED9DB9
+  Phoenix 26-1416 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-39-21-6 - Approxim
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35451&GUID=200AEA8A-02A4-40C9-B8CD-5B4E2248A9E9
   Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
-  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Mesa 26-0830 [Agenda Ready]: Planning and Zoning Study Session held on August 26, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24047&GUID=C5B6A7CE-23A1-40B7-BE07-74AF5ECC1949
   Mesa 26-0829 [Agenda Ready]: Planning and Zoning Public Hearing held on August 26, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24046&GUID=90EFADA9-D393-46A0-BA4D-3E1D376B503D
   Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North", 5± acres located approximately 270± feet east of the northeast c
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
+  Mesa PZ 26080 [Agenda Ready]: Planning and Zoning minutes from September 9, 2026 Planning and Zoning Board
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24053&GUID=EE9A2252-632E-485C-AD74-720EB0311B00
+  Mesa PZ 26077 [Agenda Ready]: ZON25-00895. "Terrible's Commercial Development," 1.3± acres located approximately 190± fe
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24023&GUID=88D714B1-226D-49B5-9DD4-148AE50D5F71
+  Apache Junction 26-441 [Consent Agenda]: Consideration of approval of the Land Use Assumptions and Infrastructure Improvements Plan
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12488&GUID=5571E6B5-06D5-4899-A2B7-6F09C26F8C5E
+  Phoenix 26-1938 [Agenda Ready - Office of Arts and Culture Department]: Design, Fabrication and Installation Contract with coLAB studio, LLC for the Girasol Affor
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35973&GUID=23E934FD-CEDB-4430-B235-C0EA238EEE19
+  Phoenix 26-1870 [Agenda Ready - IDA Department]: Central Arizona Water Conservation District Land Use License CAWCD #2026-020 Water Line fo
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35905&GUID=CF2E0A4F-0143-4ECA-ABEA-2EA4807D0983
+  Phoenix 26-1869 [Agenda Ready - IDA Department]: Central Arizona Water Conservation District Land Use License CAWCD #2026-019 Water Line fo
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35904&GUID=3AA7E5CA-F4E2-4E22-A91A-C8D6A4EB9855
+  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Phoenix 26-1628 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-92-23-8 - Southeas
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35663&GUID=E427C8A7-D4E7-461C-87C5-197EA4720498
-  Phoenix 26-1416 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-39-21-6 - Approxim
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35451&GUID=200AEA8A-02A4-40C9-B8CD-5B4E2248A9E9
   Phoenix 26-1380 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-29-23-7(8) - Appro
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35415&GUID=41D89EE8-EA9A-41C6-BC59-B72825E1808C
   Phoenix 25-2152 [Adopted]: Amend City Code - Ordinance Adoption - Application PHO-1-25--Z-20-17-2 - Approximately 1,4
@@ -75,14 +83,6 @@ Generated 2026-09-17 10:23 MST | window 90d | 185 items
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12484&GUID=B81E21E1-792A-46AD-BCC2-ABCBA82A3CDC
   Mesa HP 26-016 [Agenda Ready]: Amendments to Chapters 23, 44, 66, 74, and 87 of Title 11, Zoning Ordinance, of the Mesa C
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24002&GUID=0082979A-F519-4124-A458-B05130FCD6EC
-  Apache Junction 26-441 [Consent Agenda]: Consideration of approval of the Land Use Assumptions and Infrastructure Improvements Plan
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12488&GUID=5571E6B5-06D5-4899-A2B7-6F09C26F8C5E
-  Apache Junction 26-433 [Agenda Items]: Presentation and discussion of case P-26-4-PZ, a request by Banyan Residential, LLC, repre
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12480&GUID=ADD1F56C-2985-4592-899B-E2DA38674FC9
-  Phoenix 26-1475 [Continued]: Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35510&GUID=7B005F66-0D8F-44C0-AC63-2A6EE32814B9
-  Mesa 26-0775 [Agenda Ready]: Planning and Zoning Study Session held on July 22, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23993&GUID=74DB4D1C-50F6-441B-8507-732243AF8157
 
 === HEAT (5) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -96,7 +96,7 @@ Generated 2026-09-17 10:23 MST | window 90d | 185 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (37) ===
+=== TRANSIT (39) ===
   Phoenix 26-1964 [Agenda Ready - Police Department]: Arizona Department of Transportation Encroachment Permit and Waiver of Phoenix City Code 4
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35999&GUID=D156F470-F06C-4F2F-8A21-985EC144F607
   Phoenix 26-1934 [Agenda Ready - Street Transportation]: Request Retroactive Authorization to Apply for, Accept, and Disburse Federal Funding for t
@@ -107,6 +107,10 @@ Generated 2026-09-17 10:23 MST | window 90d | 185 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35568&GUID=2E9FC358-96F9-4EE1-BB49-F48D7EB73B45
   Mesa 26-0825 [Agenda Ready]: Dollar Limit Increase to the Term Contract for Barricade Rental Service for Various City D
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24042&GUID=E999D8F0-568F-4E0F-99F0-5424FB74F92D
+  Phoenix 24-1564 [Adopted]: Naming of the Central Station Transit Center for Greg Stanton (Ordinance S-51131)
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=29822&GUID=4D08ACFE-55F3-43EF-9EBA-0F67715F5486
+  Phoenix 23-3166 [Adopted]: Street Transportation Department Pavement Maintenance Construction Inspection On-Call Serv
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=28219&GUID=89F6046E-DF8E-4E62-9533-407842A7CCE0
   Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
   City of Maricopa RES 25-07 [Passed]: A Resolution of the Mayor and City Council of the City of Maricopa, Pinal County, Arizona,
