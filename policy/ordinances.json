@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-20T09:39:02.304376-07:00",
+  "generated": "2026-09-21T11:24:32.881295-07:00",
   "window_days": 90,
-  "count": 190,
+  "count": 189,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -10,6 +10,52 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0834",
+      "type": "Contract",
+      "status": "Agenda Ready",
+      "title": "Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation and Community Facilities Department (Citywide)\r\n \r\nThis contract will allow for the purchase and delivery of pool treatment and testing chemicals for the aquatic complexes, splash pads, and fountains maintained by the Parks, Recreation, and Community Facilities Department. The use of these chemicals ensures that all bodies of water remain in compliance with the Maricopa County and Model Aquatic Health Code rules and regulations, supporting safe use by residents.\r\n \r\nThe Parks, Recreation and Community Facilities Department and Procurement Services recommend awarding the contract to the lowest, responsive, and responsible bidders, Brenntag Pacific, LLC.; Landmark Aquatic Services, LLC.; and Leslie\u2019s Poolmart, Inc. dba Leslie\u2019s Swimming Pool and Supplies in a combined total amount not to exceed $107,000, annually, with an annual increase allowance of up to 5% or the adjusted Consumer Price Index.",
+      "intro": "2026-09-16",
+      "agenda": "2026-10-26",
+      "enacted": "",
+      "last_modified": "2026-09-21",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0786",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "ZON24-00708 \"Park North\", 5\u00b1 acres located approximately 270\u00b1 feet east of the northeast corner of South Power Road and East Guadalupe Road. Rezone from Limited Commercial with Planned Area Development Overlay (LC-PAD) to Multiple Residence-3 with a Planned Area Development Overlay (RM-3-PAD) and Site Plan Review. This request will allow for a 78-lot attached single residence development. P & G Land Development LLC, Owner; Chris Webb, Rose Law Group, applicant. (District 6)\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+      "intro": "2026-08-24",
+      "agenda": "2026-09-28",
+      "enacted": "",
+      "last_modified": "2026-09-21",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A",
+      "source": "Legistar",
+      "_action_days": 7,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 1
+    },
     {
       "city": "Mesa",
       "county": "Maricopa",
@@ -26,12 +72,12 @@
       "last_modified": "2026-09-18",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24052&GUID=9CB66DDF-196E-44D5-B997-3888A8ED9DB9",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 2
     },
     {
       "city": "Phoenix",
@@ -54,30 +100,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0834",
-      "type": "Contract",
-      "status": "Agenda Ready",
-      "title": "Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation and Community Facilities Department (Citywide)\n \nThis contract will allow for the purchase and delivery of pool treatment and testing chemicals for the aquatic complexes, splash pads, and fountains maintained by the Parks, Recreation, and Community Facilities Department. The use of these chemicals ensures that all bodies of water remain in compliance with the Maricopa County and Model Aquatic Health Code rules and regulations, supporting safe use by residents.\n \nThe Parks, Recreation and Community Facilities Department and Procurement Services recommend awarding the contract to the lowest, responsive, and responsible bidders, Brenntag Pacific, LLC.; Landmark Aquatic Services, LLC.; and Leslie\u2019s Poolmart, Inc. dba Leslie\u2019s Swimming Pool and Supplies in a combined total amount not to exceed $107,000, annually, with an annual increase allowance of up to 5% or the adjusted Consumer Price Index.",
-      "intro": "2026-09-16",
-      "agenda": "2026-10-05",
-      "enacted": "",
-      "last_modified": "2026-09-18",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 2
+      "_uid": 3
     },
     {
       "city": "Mesa",
@@ -95,12 +118,12 @@
       "last_modified": "2026-09-18",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24047&GUID=C5B6A7CE-23A1-40B7-BE07-74AF5ECC1949",
       "source": "Legistar",
-      "_action_days": null,
+      "_action_days": 14,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 4
     },
     {
       "city": "Mesa",
@@ -118,30 +141,7 @@
       "last_modified": "2026-09-18",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24046&GUID=90EFADA9-D393-46A0-BA4D-3E1D376B503D",
       "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 4
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0786",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "ZON24-00708 \"Park North\", 5\u00b1 acres located approximately 270\u00b1 feet east of the northeast corner of South Power Road and East Guadalupe Road. Rezone from Limited Commercial with Planned Area Development Overlay (LC-PAD) to Multiple Residence-3 with a Planned Area Development Overlay (RM-3-PAD) and Site Plan Review. This request will allow for a 78-lot attached single residence development. P & G Land Development LLC, Owner; Chris Webb, Rose Law Group, Applicant. (District 6)\r\n\r\nStaff Recommendation: Approval with conditions\r\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-      "intro": "2026-08-24",
-      "agenda": "2026-09-28",
-      "enacted": "",
-      "last_modified": "2026-09-18",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A",
-      "source": "Legistar",
-      "_action_days": 8,
+      "_action_days": 14,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -164,7 +164,7 @@
       "last_modified": "2026-09-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24053&GUID=EE9A2252-632E-485C-AD74-720EB0311B00",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -187,7 +187,7 @@
       "last_modified": "2026-09-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24023&GUID=88D714B1-226D-49B5-9DD4-148AE50D5F71",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -233,7 +233,7 @@
       "last_modified": "2026-09-17",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35999&GUID=D156F470-F06C-4F2F-8A21-985EC144F607",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -256,7 +256,7 @@
       "last_modified": "2026-09-17",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35973&GUID=23E934FD-CEDB-4430-B235-C0EA238EEE19",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -279,7 +279,7 @@
       "last_modified": "2026-09-17",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35969&GUID=B3F8F01D-6CB9-4BCB-9700-26D754F43B91",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -302,7 +302,7 @@
       "last_modified": "2026-09-17",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35905&GUID=CF2E0A4F-0143-4ECA-ABEA-2EA4807D0983",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -325,7 +325,7 @@
       "last_modified": "2026-09-17",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35904&GUID=3AA7E5CA-F4E2-4E22-A91A-C8D6A4EB9855",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -348,7 +348,7 @@
       "last_modified": "2026-09-17",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35872&GUID=A2B621E7-7D39-4378-8A23-AD061433BC5F",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -371,7 +371,7 @@
       "last_modified": "2026-09-17",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35568&GUID=2E9FC358-96F9-4EE1-BB49-F48D7EB73B45",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -394,7 +394,7 @@
       "last_modified": "2026-09-17",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24042&GUID=E999D8F0-568F-4E0F-99F0-5424FB74F92D",
       "source": "Legistar",
-      "_action_days": 8,
+      "_action_days": 7,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -4363,30 +4363,6 @@
       "_movefrom": "",
       "_moveto": "",
       "_uid": 188
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing",
-        "Transit"
-      ],
-      "file": "PZ 26046",
-      "type": "PZ Zoning - Action",
-      "status": "Agenda Ready",
-      "title": "ZON26-00155. \u201cDU 5/6 South Plan Amendment,\u201d 750+/- acres located between East Elliot Road and East Point Twenty-Two Boulevard, and west of South Signal Butte Road, but not including the area north of East Rubidium Avenue and east of South Binary. Major Amendment to the Development Unit 5/6 South Development Unit Plan (DUP). This request will modify the boundary of the eastern portion of the DUP to align with East Rubidium, and establish new boundaries for the District Land Use Group (LUG) and transition area. (District 6) \r\n\r\nPlanner: Jennifer Merrill\r\nStaff Recommendation: Approval with Conditions",
-      "intro": "2026-05-26",
-      "agenda": "2026-06-24",
-      "enacted": "",
-      "last_modified": "2026-06-22",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 189
     }
   ]
 }

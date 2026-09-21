@@ -1,20 +1,20 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-20 09:39 MST | window 90d | 190 items
+Generated 2026-09-21 11:24 MST | window 90d | 189 items
 
 
-=== HOUSING (146) ===
+=== HOUSING (145) ===
+  Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
+  Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North", 5± acres located approximately 270± feet east of the northeast c
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
   Mesa PZ 26079 [Agenda Ready]: ZON21-00066. "Greenfield Multifamily," 1.9± acres located approximately 2,025± feet north 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24052&GUID=9CB66DDF-196E-44D5-B997-3888A8ED9DB9
   Phoenix 26-1416 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-39-21-6 - Approxim
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35451&GUID=200AEA8A-02A4-40C9-B8CD-5B4E2248A9E9
-  Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
   Mesa 26-0830 [Agenda Ready]: Planning and Zoning Study Session held on August 26, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24047&GUID=C5B6A7CE-23A1-40B7-BE07-74AF5ECC1949
   Mesa 26-0829 [Agenda Ready]: Planning and Zoning Public Hearing held on August 26, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24046&GUID=90EFADA9-D393-46A0-BA4D-3E1D376B503D
-  Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North", 5± acres located approximately 270± feet east of the northeast c
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
   Mesa PZ 26080 [Agenda Ready]: Planning and Zoning minutes from September 9, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24053&GUID=EE9A2252-632E-485C-AD74-720EB0311B00
   Mesa PZ 26077 [Agenda Ready]: ZON25-00895. "Terrible's Commercial Development," 1.3± acres located approximately 190± fe
@@ -96,7 +96,7 @@ Generated 2026-09-20 09:39 MST | window 90d | 190 items
   Tempe  [Heard 2026-06-25]: 15. Adopt a resolution to accept and disburse a sub-grant award from Tempe Community Actio
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
 
-=== TRANSIT (39) ===
+=== TRANSIT (38) ===
   Phoenix 26-1964 [Agenda Ready - Police Department]: Arizona Department of Transportation Encroachment Permit and Waiver of Phoenix City Code 4
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35999&GUID=D156F470-F06C-4F2F-8A21-985EC144F607
   Phoenix 26-1934 [Agenda Ready - Street Transportation]: Request Retroactive Authorization to Apply for, Accept, and Disburse Federal Funding for t
@@ -173,8 +173,6 @@ Generated 2026-09-20 09:39 MST | window 90d | 190 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
   Tempe  [Heard 2026-06-25]: 3. PUBLIC HEARING ITEM Hold the second and final public hearing to adopt an ordinance amen
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4034
-  Mesa PZ 26046 [Agenda Ready]: ZON26-00155. “DU 5/6 South Plan Amendment,” 750+/- acres located between East Elliot Road 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23799&GUID=A7DE4FDB-CD5F-4652-8A0C-17ECF4A68EA4
 
 === WALKABILITY (8) ===
   Phoenix 26-1343 [Adopted]: Acceptance and Dedication of Deeds and Easements for Roadway, Sidewalk, Public Utility and
