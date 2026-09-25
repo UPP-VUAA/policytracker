@@ -17759,5 +17759,65 @@
 "absent": 0,
 "recused": 0
 }
+},
+{
+"city": "Tempe",
+"date": "2026-09-10",
+"body": "Regular City Council",
+"title": "Adopt a resolution authorizing the Mayor to sign Amendment One to a Joint Use and Lease Agreement (Agreement) with the Regional Public Transportation Authority (RPTA) for the joint use and lease of the East Valley Bus Op",
+"file": "8A2",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1962&doctype=3",
+"topics": [
+"Transit"
+],
+"result": "Passed",
+"motion": "Motion to Approve Item 8A2 made by Councilmember Garlid and seconded by Councilmember Amberg",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Chin": "Yes",
+"Amberg": "Yes",
+"Garlid": "Yes",
+"Keating": "Yes",
+"Nichols": "Yes",
+"St. George": "Yes"
+},
+"tally": {
+"aye": 7,
+"nay": 0,
+"abstain": 0,
+"absent": 0,
+"recused": 0
+}
+},
+{
+"city": "Tempe",
+"date": "2026-09-10",
+"body": "Regular City Council",
+"title": "Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental Agreement (Agreement) with the Regional Public Transportation Authority (RPTA) for Paratransit Services for fiscal year 2026-27. (Res",
+"file": "8A3",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1962&doctype=3",
+"topics": [
+"Transit"
+],
+"result": "Passed",
+"motion": "Motion to Approve Item 8A3 made by Councilmember St. George and seconded by Councilmember Keating",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Chin": "Yes",
+"Amberg": "Yes",
+"Garlid": "Yes",
+"Keating": "Yes",
+"Nichols": "Yes",
+"St. George": "Yes"
+},
+"tally": {
+"aye": 7,
+"nay": 0,
+"abstain": 0,
+"absent": 0,
+"recused": 0
+}
 }
 ]

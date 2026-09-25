@@ -1,12 +1,30 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-09-24 10:40 MST | window 90d | 202 items
+Generated 2026-09-25 10:40 MST | window 90d | 209 items
 
 
-=== HOUSING (159) ===
+=== HOUSING (164) ===
+  Apache Junction 26-501 [Public Hearing]: Presentation, discussion and consideration of proposed Conditional Use Permit ("CUP”) case
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4
+  Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North" 5± acres located approximately 270± feet east of the northeast co
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
+  Phoenix 26-0193 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-4-25-2 - Approximately 40
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34229&GUID=F866F8E2-5752-42C3-AA4E-3EEE7B5C97FB
+  Phoenix 25-2134 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-81-25-2 - Approximately 200 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33360&GUID=88311B8E-0BF7-4EDF-AAF9-7E37802E479B
+  Phoenix 25-2000 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-69-25-8 - Approximately 300 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33227&GUID=D803EB85-70A5-40C0-AA16-A74C8DFA9C0C
+  Phoenix 25-0773 [Adopted]: Public Hearing and Ordinance Adoption - Rezoning Application Z-157-24-3 - Approximately 1,
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=32000&GUID=20B217DC-7ECC-4F8A-9CDA-9142C5F8A450
   Phoenix 25-0772 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-162-24-8 - Approximately 230
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=31999&GUID=DABB43A2-B3B5-488D-9D1B-28A62A72BB36
   Phoenix 24-2063 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-39-24-2 - Northwest Corner o
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=30320&GUID=55BA8C28-2665-4A30-B85C-8FCC75414C2B
+  Phoenix 24-1518 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-91-23-2 - Approximately 250 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=29776&GUID=7D51E8C7-ED0D-415B-9A97-ADFF4B5664D5
+  Tempe  [Heard 2026-09-24]: 1. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Introduce and hold the first public 
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
+  Tempe  [Heard 2026-09-24]: 2. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Introduce and hold the first public 
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
   City of Maricopa ZON 26-04(2) [Regular Agenda]: A request by the City of Maricopa to rezone three parcels of land that total ±0.90 acres, 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15566&GUID=92235B0F-6D62-4434-B8FF-360A0241D03C
   City of Maricopa PRES 26-17 [Regular Agenda]: The Planning and Zoning Commission will hear a staff presentation on the current draft of 
@@ -35,8 +53,6 @@ Generated 2026-09-24 10:40 MST | window 90d | 202 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
   Tempe PL260096 [Heard 2026-09-22]: B. Request a Use Permit to allow vehicle rental in the PCC-2 zoning district for EXTREME S
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
-  Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North" 5± acres located approximately 270± feet east of the northeast co
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
   Phoenix 25-2702 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-25--Z-25-25-4 - Approxim
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=33928&GUID=458029A8-B1A5-4895-86C9-EF06E9C826D5
   Phoenix 25-1699 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-35-25-7 - Approximately 554 
@@ -67,22 +83,6 @@ Generated 2026-09-24 10:40 MST | window 90d | 202 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24053&GUID=EE9A2252-632E-485C-AD74-720EB0311B00
   Mesa PZ 26077 [Agenda Ready]: ZON25-00895. "Terrible's Commercial Development," 1.3± acres located approximately 190± fe
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24023&GUID=88D714B1-226D-49B5-9DD4-148AE50D5F71
-  Apache Junction 26-441 [Consent Agenda]: Consideration of approval of the Land Use Assumptions and Infrastructure Improvements Plan
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12488&GUID=5571E6B5-06D5-4899-A2B7-6F09C26F8C5E
-  Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
-  Phoenix 26-1628 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-92-23-8 - Southeas
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35663&GUID=E427C8A7-D4E7-461C-87C5-197EA4720498
-  Phoenix 26-1380 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-29-23-7(8) - Appro
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35415&GUID=41D89EE8-EA9A-41C6-BC59-B72825E1808C
-  Phoenix 25-2152 [Adopted]: Amend City Code - Ordinance Adoption - Application PHO-1-25--Z-20-17-2 - Approximately 1,4
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=33378&GUID=49BCC831-B7B5-4EFB-B52B-D297A8AD43CA
-  Phoenix 25-1595 [Continued]: ***REQUEST TO CONTINUE (SEE ATTACHED MEMO)*** Public Hearing and Modification of Stipulati
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=32822&GUID=ADD1E2A1-FCB8-404E-AF81-9E7246DD6CD3
-  Apache Junction 26-462 [Agenda Items]: Presentation and discussion of proposed Conditional Use Permit ("CUP”) case P-25-46-CUP, a
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12509&GUID=A33F0015-714E-4724-94C0-6FA4FE12C50E
-  Tempe  [Heard 2026-09-10]: 1. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Introduce and hold the first public 
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4049
 
 === HEAT (5) ===
   Tempe PL260261 [Heard 2026-09-22]: C. Request a Use Permit to allow two (2) required parking spaces within the front yard set
@@ -96,7 +96,11 @@ Generated 2026-09-24 10:40 MST | window 90d | 202 items
   Mesa 26-0591 [Agenda Ready]: Aripine Park & Whitman Park Playground Renovation, Design-Bid-Build Contract (Districts 1 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23807&GUID=3BE1003E-684F-4A7C-9470-2E0CB6CA5288
 
-=== TRANSIT (36) ===
+=== TRANSIT (38) ===
+  Tempe  [Heard 2026-09-24]: 13. Ratify contract increase with Otto Trucking Inc., for the removal and transportation o
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
+  Tempe  [Heard 2026-09-24]: 2. Adopt a resolution authorizing the Mayor to accept the Safe Streets and Roads for All (
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
   Phoenix 26-1964 [Adopted]: Arizona Department of Transportation Encroachment Permit and Waiver of Phoenix City Code 4
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35999&GUID=D156F470-F06C-4F2F-8A21-985EC144F607
   Phoenix 26-1934 [Adopted]: Request Retroactive Authorization to Apply for, Accept, and Disburse Federal Funding for t
