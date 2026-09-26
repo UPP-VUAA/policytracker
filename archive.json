@@ -1644,5 +1644,24 @@
    "Phoenix",
    "Tempe"
   ]
+ },
+ {
+  "date": "2026-09-26",
+  "total": 209,
+  "topics": {
+   "Housing": 164,
+   "Heat": 5,
+   "Transit": 38,
+   "Walkability": 8
+  },
+  "adopted": 86,
+  "failed": 1,
+  "cities": [
+   "Apache Junction",
+   "City of Maricopa",
+   "Mesa",
+   "Phoenix",
+   "Tempe"
+  ]
  }
 ]
