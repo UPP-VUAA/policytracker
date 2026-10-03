@@ -1,12 +1,14 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-02 11:08 MST | window 90d | 208 items
+Generated 2026-10-03 09:55 MST | window 90d | 209 items
 
 
-=== HOUSING (161) ===
+=== HOUSING (162) ===
   City of Maricopa PRES 26-16 [Regular Agenda]: The Mayor and City Council will hear a staff presentation on the current draft of the City
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15568&GUID=3088E60F-E277-4BA7-ABF1-020DC0B69AD5
   City of Maricopa ORD 26-15 [Regular Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, extending and increasi
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15542&GUID=6FF642F1-2F6B-47C3-9E33-636C5459D02D
+  Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
   Mesa ADJ 26051 [Agenda Ready]: BOA26-00636. "Brett Bye," 0.18± acres located at 3750 South Hassett. Minor Modification to
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24082&GUID=AE5AF6CE-BA91-4709-B017-1072A52F2DDD
   Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
@@ -80,8 +82,6 @@ Generated 2026-10-02 11:08 MST | window 90d | 208 items
   Tempe PL260278 [Heard 2026-09-22]: E. Request a Use Permit to allow retail resale (clothing) in the CSS zoning district for V
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
   Tempe PL260265 [Heard 2026-09-22]: D. Request a Use Permit to allow retail resale (clothing and physical media) in the CSS zo
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
-  Tempe PL260261 [Heard 2026-09-22]: C. Request a Use Permit to allow two (2) required parking spaces within the front yard set
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
 
 === HEAT (5) ===
