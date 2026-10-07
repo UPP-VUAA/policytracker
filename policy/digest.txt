@@ -1,11 +1,11 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-06 11:42 MST | window 90d | 206 items
+Generated 2026-10-07 12:09 MST | window 90d | 205 items
 
 
 === HOUSING (159) ===
   City of Maricopa PRES 26-16 [Regular Agenda]: The Mayor and City Council will hear a staff presentation on the current draft of the City
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15568&GUID=3088E60F-E277-4BA7-ABF1-020DC0B69AD5
-  City of Maricopa ORD 26-15 [Regular Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, extending and increasi
+  City of Maricopa ORD 26-15 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, extending and increasi
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15542&GUID=6FF642F1-2F6B-47C3-9E33-636C5459D02D
   Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
@@ -96,7 +96,7 @@ Generated 2026-10-06 11:42 MST | window 90d | 206 items
   Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (40) ===
+=== TRANSIT (39) ===
   City of Maricopa MISC 26-24 [Proclamation]: SR347Facts Team Acknowledgement for receiving the 2025 Arizona Transportation Partnering E
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15620&GUID=7E43E503-14C0-4F1C-8BC4-E1B91014C273
   Phoenix 26-1862 [Agenda Ready - Public Transit and Light Rail Department]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
@@ -175,8 +175,6 @@ Generated 2026-10-06 11:42 MST | window 90d | 206 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=12254&GUID=C8E69A29-683A-4A6A-8C16-FD2213CB02A0
   Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
-  Apache Junction 26-328 [Consent Agenda]: Consideration of the Third Amendment to the Professional Services Agreement between the Ci
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE
 
 === WALKABILITY (8) ===
   Apache Junction 26-486 [Agenda Items]: Presentation and discussion on Resolution No. 26-41, authorizing submission of projects to

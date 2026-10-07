@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-06T11:42:59.045928-07:00",
+  "generated": "2026-10-07T12:09:29.971924-07:00",
   "window_days": 90,
-  "count": 206,
+  "count": 205,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -23,10 +23,10 @@
       "intro": "2026-09-16",
       "agenda": "2026-10-06",
       "enacted": "",
-      "last_modified": "2026-10-06",
+      "last_modified": "2026-10-07",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15568&GUID=3088E60F-E277-4BA7-ABF1-020DC0B69AD5",
       "source": "Legistar",
-      "_action_days": 0,
+      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -41,20 +41,66 @@
       ],
       "file": "ORD 26-15",
       "type": "Ordinance",
-      "status": "Regular Agenda",
+      "status": "Passed",
       "title": "An Ordinance of the Mayor and City Council of the City of Maricopa, extending and increasing the corporate limits of the City of Maricopa, Pinal County, State of Arizona, pursuant to the provisions of Title 9, Chapter 4, Article 7 Arizona Revised Statues and Amendments thereto, by annexing thereto certain territory contiguous to the existing city limits of the City of Maricopa, consisting of 73 acres, more or less, located in a portion of Sections 26 and 27 of Township 5 South, Range 4 East of the Gila and Salt River base meridian, Pinal County, Arizona, not currently within the corporate limits of the City of Maricopa, Pinal County, Arizona, known as Annexation Case 26-01, and adopting initial zoning of CR-3 (Single Family Residential) for said territory. DISCUSSION AND ACTION.",
       "intro": "2026-09-09",
       "agenda": "2026-10-06",
       "enacted": "",
-      "last_modified": "2026-10-06",
+      "last_modified": "2026-10-07",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15542&GUID=6FF642F1-2F6B-47C3-9E33-636C5459D02D",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "adopted",
+      "_movefrom": "Regular Agenda",
+      "_moveto": "Passed",
+      "_uid": 1
+    },
+    {
+      "city": "City of Maricopa",
+      "county": "Pinal (greater region)",
+      "topics": [
+        "Transit"
+      ],
+      "file": "MISC 26-24",
+      "type": "Miscellaneous Item",
+      "status": "Proclamation",
+      "title": "SR347Facts Team Acknowledgement for receiving the 2025 Arizona Transportation Partnering Excellence Award",
+      "intro": "2026-10-01",
+      "agenda": "2026-10-06",
+      "enacted": "",
+      "last_modified": "2026-10-07",
+      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15620&GUID=7E43E503-14C0-4F1C-8BC4-E1B91014C273",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 2
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Heat"
+      ],
+      "file": "26-2019",
+      "type": "Information and Discussion",
+      "status": "Agenda Ready",
+      "title": "Heat Related Calls Update - Citywide",
+      "intro": "2026-09-15",
+      "agenda": "2026-10-07",
+      "enacted": "",
+      "last_modified": "2026-10-07",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36054&GUID=5ECC3B21-1D3F-4E1F-8903-FD49D03439BC",
       "source": "Legistar",
       "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 3
     },
     {
       "city": "Mesa",
@@ -73,34 +119,11 @@
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90",
       "source": "Legistar",
       "_action_days": null,
-      "_new": true,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 2
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Transit"
-      ],
-      "file": "MISC 26-24",
-      "type": "Miscellaneous Item",
-      "status": "Proclamation",
-      "title": "SR347Facts Team Acknowledgement for receiving the 2025 Arizona Transportation Partnering Excellence Award",
-      "intro": "2026-10-01",
-      "agenda": "2026-10-06",
-      "enacted": "",
-      "last_modified": "2026-10-05",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15620&GUID=7E43E503-14C0-4F1C-8BC4-E1B91014C273",
-      "source": "Legistar",
-      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 4
     },
     {
       "city": "Apache Junction",
@@ -118,12 +141,12 @@
       "last_modified": "2026-10-05",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4",
       "source": "Legistar",
-      "_action_days": 0,
+      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
+      "_uid": 5
     },
     {
       "city": "Mesa",
@@ -146,7 +169,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 5
+      "_uid": 6
     },
     {
       "city": "Mesa",
@@ -169,7 +192,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 7
     },
     {
       "city": "Mesa",
@@ -187,12 +210,12 @@
       "last_modified": "2026-10-01",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24082&GUID=AE5AF6CE-BA91-4709-B017-1072A52F2DDD",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 8
     },
     {
       "city": "Apache Junction",
@@ -215,7 +238,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
+      "_uid": 9
     },
     {
       "city": "Phoenix",
@@ -233,30 +256,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36111&GUID=26480F2E-9BF3-4D7B-BFD2-251CEE7D2249",
       "source": "Legistar",
-      "_action_days": 1,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 9
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Heat"
-      ],
-      "file": "26-2019",
-      "type": "Information and Discussion",
-      "status": "Agenda Ready",
-      "title": "Heat Related Calls Update - Citywide",
-      "intro": "2026-09-15",
-      "agenda": "2026-10-07",
-      "enacted": "",
-      "last_modified": "2026-10-01",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36054&GUID=5ECC3B21-1D3F-4E1F-8903-FD49D03439BC",
-      "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -279,7 +279,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36043&GUID=27310C20-213E-47A3-B83B-304680D2C6D4",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -302,7 +302,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36021&GUID=A0654CCF-E95F-4F09-8049-91762C7D9A4C",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -325,7 +325,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36010&GUID=8D152220-82E3-45B2-8253-E8BBE5D50384",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -348,7 +348,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35980&GUID=AEC064BD-02BF-4CC8-B726-DD1D08736DA3",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -371,7 +371,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -394,7 +394,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35873&GUID=9ED202B2-E4DA-48F4-AC5D-0F8D870C74B5",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -417,7 +417,7 @@
       "last_modified": "2026-10-01",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35363&GUID=AACF378B-D78A-4E40-B42A-EB3CFDB58D67",
       "source": "Legistar",
-      "_action_days": 1,
+      "_action_days": 0,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -4730,29 +4730,6 @@
       "_movefrom": "",
       "_moveto": "",
       "_uid": 204
-    },
-    {
-      "city": "Apache Junction",
-      "county": "Maricopa/Pinal",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-328",
-      "type": "Contract",
-      "status": "Consent Agenda",
-      "title": "Consideration of the Third Amendment to the Professional Services Agreement between the City of Apache Junction and Central Arizona Council on Developmental Disabilities for senior services transportation.",
-      "intro": "2026-06-08",
-      "agenda": "2026-06-16",
-      "enacted": "",
-      "last_modified": "2026-07-08",
-      "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12375&GUID=62ABABC5-AB37-42FE-A9CE-15541F8F34BE",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 205
     }
   ]
 }
