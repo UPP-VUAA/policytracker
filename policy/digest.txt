@@ -1,12 +1,36 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-07 12:09 MST | window 90d | 205 items
+Generated 2026-10-08 12:05 MST | window 90d | 209 items
 
 
-=== HOUSING (159) ===
+=== HOUSING (162) ===
+  Mesa PZ 26083 [Agenda Ready]: Planning and Zoning minutes from September 23, 2026 Planning and Zoning Board
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24096&GUID=CDB08944-06C8-4568-9164-C8EB2E51ACA1
+  Mesa PZ 26082 [Agenda Ready]: ZON26-00162. "Hawes Crossing Village 6 Remainder," 44± acres located at the northwest corn
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24068&GUID=CB22BC40-D071-40E3-BE4E-3BE831E36CEF
+  Mesa PZ 26081 [Agenda Ready]: ZON25-00943. "Waffle Flower Warehouse Rezone," 2.4± acres located at the northwest corner 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24067&GUID=2A8EC9D7-6B47-4B8C-8F13-AF53BAB99673
+  Mesa DSN 26040 [Agenda Ready]: ZON26-00454. "Superstition Springs Honda Detail Building," 4.6± acres located approximatel
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24091&GUID=BC78F851-EB38-4F43-B948-CD2F4A3620F0
+  Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
   City of Maricopa PRES 26-16 [Regular Agenda]: The Mayor and City Council will hear a staff presentation on the current draft of the City
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15568&GUID=3088E60F-E277-4BA7-ABF1-020DC0B69AD5
   City of Maricopa ORD 26-15 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, extending and increasi
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15542&GUID=6FF642F1-2F6B-47C3-9E33-636C5459D02D
+  Phoenix 26-2076 [Adopted]: Permit, License, Utility, and Land Use Agreement Authorization for Paradise Ridge Flood Co
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36111&GUID=26480F2E-9BF3-4D7B-BFD2-251CEE7D2249
+  Phoenix 26-2008 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-6-26--Z-47-19-7 - Approxim
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36043&GUID=27310C20-213E-47A3-B83B-304680D2C6D4
+  Phoenix 26-1986 [Adopted]: Multi-Family Roofing Replacement Project Contract - IFB FY27-086-04 - Request for Award (O
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36021&GUID=A0654CCF-E95F-4F09-8049-91762C7D9A4C
+  Phoenix 26-1975 [Passed]: Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36010&GUID=8D152220-82E3-45B2-8253-E8BBE5D50384
+  Phoenix 26-1945 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-80-26-2 - Southwest Corner o
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35980&GUID=AEC064BD-02BF-4CC8-B726-DD1D08736DA3
+  Phoenix 26-1838 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1311 (Ordinance G-7549) - District 2
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35873&GUID=9ED202B2-E4DA-48F4-AC5D-0F8D870C74B5
+  Phoenix 26-1328 [Adopted]: Growth Projections and Land Use Assumptions Update - Amendment (Ordinance S-53226) - Cityw
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35363&GUID=AACF378B-D78A-4E40-B42A-EB3CFDB58D67
   Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
   Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
@@ -17,20 +41,6 @@ Generated 2026-10-07 12:09 MST | window 90d | 205 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
   Mesa ADJ 26051 [Agenda Ready]: BOA26-00636. "Brett Bye," 0.18± acres located at 3750 South Hassett. Minor Modification to
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24082&GUID=AE5AF6CE-BA91-4709-B017-1072A52F2DDD
-  Phoenix 26-2076 [Agenda Ready - Street Transportation]: Permit, License, Utility, and Land Use Agreement Authorization for Paradise Ridge Flood Co
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36111&GUID=26480F2E-9BF3-4D7B-BFD2-251CEE7D2249
-  Phoenix 26-2008 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-6-26--Z-47-19-7 - Approxim
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36043&GUID=27310C20-213E-47A3-B83B-304680D2C6D4
-  Phoenix 26-1986 [Agenda Ready - Housing Department]: Multi-Family Roofing Replacement Project Contract - IFB FY27-086-04 - Request for Award (O
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36021&GUID=A0654CCF-E95F-4F09-8049-91762C7D9A4C
-  Phoenix 26-1975 [Agenda Ready - Planning & Development Department]: Formal Action - PCD Major Amendment - Rezoning Application Z-104-L-75-3 - Southeast Corner
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36010&GUID=8D152220-82E3-45B2-8253-E8BBE5D50384
-  Phoenix 26-1945 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-80-26-2 - Southwest Corner o
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35980&GUID=AEC064BD-02BF-4CC8-B726-DD1D08736DA3
-  Phoenix 26-1838 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1311 (Ordinance G-7549) - District 2
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35873&GUID=9ED202B2-E4DA-48F4-AC5D-0F8D870C74B5
-  Phoenix 26-1328 [Agenda Ready - Community and Economic Development]: Growth Projections and Land Use Assumptions Update - Amendment (Ordinance S-53226) - Cityw
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35363&GUID=AACF378B-D78A-4E40-B42A-EB3CFDB58D67
   Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
   Phoenix 26-0421 [Adopted]: Remove/Replace Zoning District - Rancho Grande - Annexation 557 - Approximately 480 Feet W
@@ -73,16 +83,6 @@ Generated 2026-10-07 12:09 MST | window 90d | 205 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35973&GUID=23E934FD-CEDB-4430-B235-C0EA238EEE19
   Phoenix 26-1870 [Adopted]: Central Arizona Water Conservation District Land Use License CAWCD #2026-020 Water Line fo
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35905&GUID=CF2E0A4F-0143-4ECA-ABEA-2EA4807D0983
-  Phoenix 26-1869 [Adopted]: Central Arizona Water Conservation District Land Use License CAWCD #2026-019 Water Line fo
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35904&GUID=3AA7E5CA-F4E2-4E22-A91A-C8D6A4EB9855
-  Phoenix 26-0199 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-144-25-7 - Northeast Corner 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34235&GUID=8D883CA5-EF16-49F3-B0C6-A8F8F5ECBB2F
-  Phoenix 26-0163 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-161-25-6 - Approximately 1,0
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34199&GUID=0FA99ADF-A49A-44D5-9ECE-8906520BCBEE
-  Phoenix 25-1662 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-25-25-4 - Approximately 670 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=32889&GUID=A6DFC261-A62E-48E2-B594-F0F3A0701DD5
-  Tempe PL260278 [Heard 2026-09-22]: E. Request a Use Permit to allow retail resale (clothing) in the CSS zoning district for V
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
 
 === HEAT (5) ===
   Phoenix 26-2019 [Agenda Ready]: Heat Related Calls Update - Citywide
@@ -99,7 +99,7 @@ Generated 2026-10-07 12:09 MST | window 90d | 205 items
 === TRANSIT (39) ===
   City of Maricopa MISC 26-24 [Proclamation]: SR347Facts Team Acknowledgement for receiving the 2025 Arizona Transportation Partnering E
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15620&GUID=7E43E503-14C0-4F1C-8BC4-E1B91014C273
-  Phoenix 26-1862 [Agenda Ready - Public Transit and Light Rail Department]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
+  Phoenix 26-1862 [Adopted]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C
   City of Maricopa ORD 26-05 [Passed]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15096&GUID=B1403618-AAF8-45FD-A791-7878ADC94BF3
@@ -176,7 +176,9 @@ Generated 2026-10-07 12:09 MST | window 90d | 205 items
   Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
 
-=== WALKABILITY (8) ===
+=== WALKABILITY (9) ===
+  Phoenix 25-2807 [Adopted]: Acceptance and Dedication of Deeds and Easements for Roadway, Public Utility and Sidewalk 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34033&GUID=C78E0E93-62D5-47AA-B2AE-D6E712C44E18
   Apache Junction 26-486 [Agenda Items]: Presentation and discussion on Resolution No. 26-41, authorizing submission of projects to
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12533&GUID=4A9A84A2-6B31-40CB-8B11-2868BC03352A
   Phoenix 26-1343 [Adopted]: Acceptance and Dedication of Deeds and Easements for Roadway, Sidewalk, Public Utility and
