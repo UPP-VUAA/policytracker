@@ -1,16 +1,22 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-08 12:05 MST | window 90d | 209 items
+Generated 2026-10-09 11:36 MST | window 90d | 216 items
 
 
-=== HOUSING (162) ===
+=== HOUSING (165) ===
+  Mesa DSN 26044 [Agenda Ready]: ZON26-00542. "Boeing Warehouse," 3.2± acres located approximately 1,500± feet north of the
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24095&GUID=0FB6B6D3-4754-4A3A-BB73-5254B0F72FB6
+  Mesa DSN 26040 [Agenda Ready]: ZON26-00454. "Superstition Springs Honda Detail Building," 4.6± acres located approximatel
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24091&GUID=BC78F851-EB38-4F43-B948-CD2F4A3620F0
+  Apache Junction 26-520 [Public Hearing]: Presentation, Discussion and Public Hearing of the development fee study update including 
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12567&GUID=2368E5EA-E6F7-4D85-AFFD-D776D37102F2
+  Mesa 26-0884 [Agenda Ready]: Use of a Cooperative Contract for the Purchase of Seven Automated Side Loading (ASL) Refus
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24101&GUID=DE18D5D3-44FB-4A43-A2D9-4B872C91DCF3
   Mesa PZ 26083 [Agenda Ready]: Planning and Zoning minutes from September 23, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24096&GUID=CDB08944-06C8-4568-9164-C8EB2E51ACA1
   Mesa PZ 26082 [Agenda Ready]: ZON26-00162. "Hawes Crossing Village 6 Remainder," 44± acres located at the northwest corn
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24068&GUID=CB22BC40-D071-40E3-BE4E-3BE831E36CEF
   Mesa PZ 26081 [Agenda Ready]: ZON25-00943. "Waffle Flower Warehouse Rezone," 2.4± acres located at the northwest corner 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24067&GUID=2A8EC9D7-6B47-4B8C-8F13-AF53BAB99673
-  Mesa DSN 26040 [Agenda Ready]: ZON26-00454. "Superstition Springs Honda Detail Building," 4.6± acres located approximatel
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24091&GUID=BC78F851-EB38-4F43-B948-CD2F4A3620F0
   Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
   City of Maricopa PRES 26-16 [Regular Agenda]: The Mayor and City Council will hear a staff presentation on the current draft of the City
@@ -77,12 +83,6 @@ Generated 2026-10-08 12:05 MST | window 90d | 209 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15569&GUID=1F87B813-AF5B-4557-9593-FED327CBA128
   City of Maricopa CUP 26-01 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15567&GUID=651B0629-EA09-4823-8EE7-B0C11931C9E7
-  Apache Junction 26-463 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Ordinance No. 1578
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12510&GUID=C9A06493-0E5B-4103-B70D-F1291CBC2793
-  Phoenix 26-1938 [Adopted]: Design, Fabrication and Installation Contract with coLAB studio, LLC for the Girasol Affor
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35973&GUID=23E934FD-CEDB-4430-B235-C0EA238EEE19
-  Phoenix 26-1870 [Adopted]: Central Arizona Water Conservation District Land Use License CAWCD #2026-020 Water Line fo
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35905&GUID=CF2E0A4F-0143-4ECA-ABEA-2EA4807D0983
 
 === HEAT (5) ===
   Phoenix 26-2019 [Agenda Ready]: Heat Related Calls Update - Citywide
@@ -96,7 +96,13 @@ Generated 2026-10-08 12:05 MST | window 90d | 209 items
   Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (39) ===
+=== TRANSIT (42) ===
+  Mesa 26-0882 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Storm Drain Pump and Maintenanc
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24099&GUID=59B5789D-A95A-40FC-8073-8F8DFB25317B
+  Mesa 26-0881 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Traffic Signal LED Replacement 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24098&GUID=AF32A397-6229-4C4E-B133-A36D95702BC9
+  Mesa 26-0880 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for LED Modules for Traffic Control
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24097&GUID=6C4A9066-CC41-44BC-967B-546D0EECC2DA
   City of Maricopa MISC 26-24 [Proclamation]: SR347Facts Team Acknowledgement for receiving the 2025 Arizona Transportation Partnering E
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15620&GUID=7E43E503-14C0-4F1C-8BC4-E1B91014C273
   Phoenix 26-1862 [Adopted]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
@@ -171,12 +177,14 @@ Generated 2026-10-08 12:05 MST | window 90d | 209 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
   Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D
-  City of Maricopa IGA 23-12 [Passed]: The Mayor and City Council shall discuss and take action to approve an Intergovernmental A
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=12254&GUID=C8E69A29-683A-4A6A-8C16-FD2213CB02A0
-  Mesa 26-0615 [Agenda Ready]: Hear a presentation, discuss, and provide direction on a proposed Development Agreement an
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23831&GUID=92A93377-8FFF-4A19-A7F0-E0FD3001741D
 
-=== WALKABILITY (9) ===
+=== WALKABILITY (12) ===
+  Mesa 26-0881 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Traffic Signal LED Replacement 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24098&GUID=AF32A397-6229-4C4E-B133-A36D95702BC9
+  Mesa 26-0880 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for LED Modules for Traffic Control
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24097&GUID=6C4A9066-CC41-44BC-967B-546D0EECC2DA
+  Apache Junction 26-535 [Consent Agenda]: Consideration of approval of Resolution No. 26-41, authorizing submission of projects to t
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12582&GUID=4DB2A3B9-9C17-4EB6-AF72-C49677808214
   Phoenix 25-2807 [Adopted]: Acceptance and Dedication of Deeds and Easements for Roadway, Public Utility and Sidewalk 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34033&GUID=C78E0E93-62D5-47AA-B2AE-D6E712C44E18
   Apache Junction 26-486 [Agenda Items]: Presentation and discussion on Resolution No. 26-41, authorizing submission of projects to
