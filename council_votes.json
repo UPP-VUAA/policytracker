@@ -17819,5 +17819,34 @@
 "absent": 0,
 "recused": 0
 }
+},
+{
+"city": "Tempe",
+"date": "2026-09-24",
+"body": "Regular City Council",
+"title": "Transportation Commission - August 11, 2026",
+"file": "4B5",
+"url": "https://tempe.hylandcloud.com/Agendaonline/Meetings/ViewMeeting?id=1964&doctype=3",
+"topics": [
+"Transit"
+],
+"result": "Passed",
+"motion": "Motion to Approve Items 4B1 - 4B5 made by Councilmember Amberg and seconded by Councilmember Garlid",
+"source": "action-summary",
+"votes": {
+"Woods": "Yes",
+"Amberg": "Yes",
+"Garlid": "Yes",
+"Keating": "Yes",
+"Nichols": "Yes",
+"St. George": "Yes"
+},
+"tally": {
+"aye": 6,
+"nay": 0,
+"abstain": 0,
+"absent": 1,
+"recused": 0
+}
 }
 ]

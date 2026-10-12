@@ -1,24 +1,32 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-11 10:51 MST | window 90d | 216 items
+Generated 2026-10-12 14:29 MST | window 90d | 214 items
 
 
-=== HOUSING (165) ===
+=== HOUSING (163) ===
+  City of Maricopa RES 26-07 [Tabled]: Public Hearing: A Resolution of the Mayor and City Council of the City of Maricopa, Arizon
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15066&GUID=944F4539-B48D-4FE1-9403-DA44B9166E49
+  City of Maricopa ORD 26-04 [Tabled]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, approving and
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15068&GUID=480EEFC9-0314-4398-86C6-3C0927206D64
+  Mesa 26-0884 [Agenda Ready]: Use of a Cooperative Contract for the Purchase of Seven Automated Side Loading Refuse Truc
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24101&GUID=DE18D5D3-44FB-4A43-A2D9-4B872C91DCF3
+  Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
+  Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
+  Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
   Mesa DSN 26044 [Agenda Ready]: ZON26-00542. "Boeing Warehouse," 3.2± acres located approximately 1,500± feet north of the
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24095&GUID=0FB6B6D3-4754-4A3A-BB73-5254B0F72FB6
   Mesa DSN 26040 [Agenda Ready]: ZON26-00454. "Superstition Springs Honda Detail Building," 4.6± acres located approximatel
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24091&GUID=BC78F851-EB38-4F43-B948-CD2F4A3620F0
   Apache Junction 26-520 [Public Hearing]: Presentation, Discussion and Public Hearing of the development fee study update including 
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12567&GUID=2368E5EA-E6F7-4D85-AFFD-D776D37102F2
-  Mesa 26-0884 [Agenda Ready]: Use of a Cooperative Contract for the Purchase of Seven Automated Side Loading (ASL) Refus
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24101&GUID=DE18D5D3-44FB-4A43-A2D9-4B872C91DCF3
   Mesa PZ 26083 [Agenda Ready]: Planning and Zoning minutes from September 23, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24096&GUID=CDB08944-06C8-4568-9164-C8EB2E51ACA1
   Mesa PZ 26082 [Agenda Ready]: ZON26-00162. "Hawes Crossing Village 6 Remainder," 44± acres located at the northwest corn
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24068&GUID=CB22BC40-D071-40E3-BE4E-3BE831E36CEF
   Mesa PZ 26081 [Agenda Ready]: ZON25-00943. "Waffle Flower Warehouse Rezone," 2.4± acres located at the northwest corner 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24067&GUID=2A8EC9D7-6B47-4B8C-8F13-AF53BAB99673
-  Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
   City of Maricopa PRES 26-16 [Regular Agenda]: The Mayor and City Council will hear a staff presentation on the current draft of the City
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15568&GUID=3088E60F-E277-4BA7-ABF1-020DC0B69AD5
   City of Maricopa ORD 26-15 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, extending and increasi
@@ -37,12 +45,8 @@ Generated 2026-10-11 10:51 MST | window 90d | 216 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35873&GUID=9ED202B2-E4DA-48F4-AC5D-0F8D870C74B5
   Phoenix 26-1328 [Adopted]: Growth Projections and Land Use Assumptions Update - Amendment (Ordinance S-53226) - Cityw
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35363&GUID=AACF378B-D78A-4E40-B42A-EB3CFDB58D67
-  Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
   Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4
-  Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
   Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North" 5± acres located approximately 270± feet east of the northeast co
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
   Mesa ADJ 26051 [Agenda Ready]: BOA26-00636. "Brett Bye," 0.18± acres located at 3750 South Hassett. Minor Modification to
@@ -79,10 +83,6 @@ Generated 2026-10-11 10:51 MST | window 90d | 216 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
   City of Maricopa ZON 26-04(2) [Regular Agenda]: A request by the City of Maricopa to rezone three parcels of land that total ±0.90 acres, 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15566&GUID=92235B0F-6D62-4434-B8FF-360A0241D03C
-  City of Maricopa PRES 26-17 [Regular Agenda]: The Planning and Zoning Commission will hear a staff presentation on the current draft of 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15569&GUID=1F87B813-AF5B-4557-9593-FED327CBA128
-  City of Maricopa CUP 26-01 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15567&GUID=651B0629-EA09-4823-8EE7-B0C11931C9E7
 
 === HEAT (5) ===
   Phoenix 26-2019 [Agenda Ready]: Heat Related Calls Update - Citywide
@@ -103,6 +103,8 @@ Generated 2026-10-11 10:51 MST | window 90d | 216 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24098&GUID=AF32A397-6229-4C4E-B133-A36D95702BC9
   Mesa 26-0880 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for LED Modules for Traffic Control
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24097&GUID=6C4A9066-CC41-44BC-967B-546D0EECC2DA
+  Mesa 26-0853 [Agenda Ready]: Transportation Advisory Board meeting held on July 21, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24070&GUID=CE8F5A68-CE67-4491-9665-5F00C1907741
   City of Maricopa MISC 26-24 [Proclamation]: SR347Facts Team Acknowledgement for receiving the 2025 Arizona Transportation Partnering E
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15620&GUID=7E43E503-14C0-4F1C-8BC4-E1B91014C273
   Phoenix 26-1862 [Adopted]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
@@ -111,8 +113,6 @@ Generated 2026-10-11 10:51 MST | window 90d | 216 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15096&GUID=B1403618-AAF8-45FD-A791-7878ADC94BF3
   Phoenix 26-1724 [Agenda Ready]: Request to Issue a Competitive Solicitation and Award a Contract for Bus Stop and Transit 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35759&GUID=5E9DD2FA-B90A-4142-AF17-5094BA3172B4
-  Mesa 26-0853 [Agenda Ready]: Transportation Advisory Board meeting held on July 21, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24070&GUID=CE8F5A68-CE67-4491-9665-5F00C1907741
   Tempe  [Heard 2026-09-24]: 13. Ratify contract increase with Otto Trucking Inc., for the removal and transportation o
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
   Tempe  [Heard 2026-09-24]: 2. Adopt a resolution authorizing the Mayor to accept the Safe Streets and Roads for All (
