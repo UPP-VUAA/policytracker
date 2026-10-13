@@ -1,14 +1,18 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-12 14:29 MST | window 90d | 214 items
+Generated 2026-10-13 12:41 MST | window 90d | 214 items
 
 
-=== HOUSING (163) ===
+=== HOUSING (162) ===
+  Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4
   City of Maricopa RES 26-07 [Tabled]: Public Hearing: A Resolution of the Mayor and City Council of the City of Maricopa, Arizon
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15066&GUID=944F4539-B48D-4FE1-9403-DA44B9166E49
   City of Maricopa ORD 26-04 [Tabled]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, approving and
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15068&GUID=480EEFC9-0314-4398-86C6-3C0927206D64
   Mesa 26-0884 [Agenda Ready]: Use of a Cooperative Contract for the Purchase of Seven Automated Side Loading Refuse Truc
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24101&GUID=DE18D5D3-44FB-4A43-A2D9-4B872C91DCF3
+  Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7
   Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
   Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
@@ -45,8 +49,6 @@ Generated 2026-10-12 14:29 MST | window 90d | 214 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35873&GUID=9ED202B2-E4DA-48F4-AC5D-0F8D870C74B5
   Phoenix 26-1328 [Adopted]: Growth Projections and Land Use Assumptions Update - Amendment (Ordinance S-53226) - Cityw
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35363&GUID=AACF378B-D78A-4E40-B42A-EB3CFDB58D67
-  Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4
   Mesa 26-0786 [Agenda Ready]: ZON24-00708 "Park North" 5± acres located approximately 270± feet east of the northeast co
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24004&GUID=DD68F52C-81D9-4196-B359-889423C00B3A
   Mesa ADJ 26051 [Agenda Ready]: BOA26-00636. "Brett Bye," 0.18± acres located at 3750 South Hassett. Minor Modification to
@@ -81,8 +83,6 @@ Generated 2026-10-12 14:29 MST | window 90d | 214 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
   Tempe  [Heard 2026-09-24]: 2. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Introduce and hold the first public 
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
-  City of Maricopa ZON 26-04(2) [Regular Agenda]: A request by the City of Maricopa to rezone three parcels of land that total ±0.90 acres, 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15566&GUID=92235B0F-6D62-4434-B8FF-360A0241D03C
 
 === HEAT (5) ===
   Phoenix 26-2019 [Agenda Ready]: Heat Related Calls Update - Citywide
@@ -97,6 +97,10 @@ Generated 2026-10-12 14:29 MST | window 90d | 214 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
 === TRANSIT (42) ===
+  Phoenix 26-2228 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36262&GUID=D19601FD-3CA7-4513-BAAB-7529EA6CED28
+  Phoenix 26-1773 [Agenda Ready]: Request to Issue a Solicitation for Final Design and a Solicitation for Construction of th
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35808&GUID=FB2D4EE1-7BEC-4607-93A0-DA1293F87892
   Mesa 26-0882 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Storm Drain Pump and Maintenanc
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24099&GUID=59B5789D-A95A-40FC-8073-8F8DFB25317B
   Mesa 26-0881 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Traffic Signal LED Replacement 
@@ -173,10 +177,6 @@ Generated 2026-10-12 14:29 MST | window 90d | 214 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=20388&GUID=458EB4C7-56BF-4C4E-9BEF-2F76F76A44C9
   Phoenix 25-0328 [Adopted]: Acquisition of Real Property and Related Easements and Licenses for the Capitol Extension 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=31556&GUID=8BAB8F53-5EC2-4E0B-AFEF-0168634AEC17
-  Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
-  Mesa 26-0618 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23834&GUID=FB51645B-EF1E-4ECD-BD84-FAA3D440673D
 
 === WALKABILITY (12) ===
   Mesa 26-0881 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Traffic Signal LED Replacement 
