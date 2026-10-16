@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T10:32:00.284721-07:00",
+  "generated": "2026-10-16T10:07:23.918170-07:00",
   "window_days": 90,
-  "count": 207,
+  "count": 215,
   "cities_live": [
     "Phoenix",
     "Mesa",
@@ -10,6 +10,282 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "City of Maricopa",
+      "county": "Pinal (greater region)",
+      "topics": [
+        "Housing"
+      ],
+      "file": "ZON 26-04(2)",
+      "type": "Rezoning",
+      "status": "Regular Agenda",
+      "title": "A request by the City of Maricopa to rezone three parcels of land that total \u00b10.90 acres, from the Pinal County General Rural (GR) and General Business (CB-2) zoning districts to the City of Maricopa Public Institutional (PI) zoning district, located at the northwest corner of West Mercado Street and North Main Street, specifically parcel numbers 510-26-048A, 510-26-048B, and 510-26-0490. DISCUSSION AND ACTION.",
+      "intro": "2026-09-15",
+      "agenda": "2026-09-28",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15566&GUID=92235B0F-6D62-4434-B8FF-360A0241D03C",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
+    {
+      "city": "City of Maricopa",
+      "county": "Pinal (greater region)",
+      "topics": [
+        "Housing"
+      ],
+      "file": "ORD 26-16",
+      "type": "Ordinance",
+      "status": "Regular Agenda",
+      "title": "An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopting an amendment to the City's Zoning Map to rezone three parcels that total approximately 0.90 acres of land generally located at the northwest corner of West Mercado Street and North Main Street, within the City of Maricopa incorporated limits, from Pinal County General Rural (GR) and General Business (CB-2) to Public Institutional (PI) as described in Zoning case ZON 26-04.  The parcels of land, APNs 510-26-048A, 510-26-048B, and 510-26-0490, are located in a portion of Section 27, Township 4 South, Range 3 East, of the Gila and Salt River Meridian, Pinal County, Arizona. Discussion and Action.",
+      "intro": "2026-09-29",
+      "agenda": "2026-10-20",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F",
+      "source": "Legistar",
+      "_action_days": 4,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 1
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-2211",
+      "type": "Resolution",
+      "status": "Agenda Ready - Planning & Development Department",
+      "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-EST-1-26-7 - Southeast Corner of 63rd Avenue and Lower Buckeye Road (Resolution 22404) - District 7",
+      "intro": "2026-10-02",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36245&GUID=F684141D-F78C-4DF3-B6F1-904F5FEAAB48",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 2
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-2206",
+      "type": "Zoning Ordinance & Public Hearing",
+      "status": "Agenda Ready - Planning & Development Department",
+      "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-24-26-7 (SWC State Route 202 & Lower Buckeye Road PUD) - Southeast Corner of 63rd Avenue and Lower Buckeye Road (Ordinance G-7553) - District 7",
+      "intro": "2026-10-02",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36240&GUID=0229D14B-8ECE-4844-B8C5-8BA5773AF9EB",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 3
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-2137",
+      "type": "Ordinance-G",
+      "status": "Agenda Ready - Planning & Development Department",
+      "title": "Amend City Code - Ordinance Adoption - Rezoning Application PHO-2-26--Z-101-07-5 - Approximately 345 Feet East of the Northeast Corner of 75th Avenue and Weldon Avenue (Ordinance G-7552) - District 5",
+      "intro": "2026-09-28",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36172&GUID=860BED1E-F083-4293-92FE-825DA3AD6971",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 4
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-2134",
+      "type": "Ordinance-S",
+      "status": "Agenda Ready - Street Transportation",
+      "title": "Transportation 2050 Program Management Consultant - Professional Services - ST85100368 (Ordinance S-53283) - Citywide",
+      "intro": "2026-09-28",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36169&GUID=EBAE449F-70DC-40C6-86F1-6DFF0EA309DC",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 5
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-1999",
+      "type": "Ordinance-S",
+      "status": "Agenda Ready - Aviation Dept",
+      "title": "Phoenix Sky Harbor International Airport Rental Car Center Vertical Transportation Modernization - Engineering Services - AV15000080 (Ordinance S-53275) - District 8",
+      "intro": "2026-09-11",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36034&GUID=1D500C26-D237-4995-A837-27CEE7C27133",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "Agenda Ready",
+      "_moveto": "Agenda Ready - Aviation Dept",
+      "_uid": 6
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-1989",
+      "type": "Ordinance-S",
+      "status": "Agenda Ready - Water Services Department",
+      "title": "Retroactive Authorization for Central Arizona Water Conservation District Land Use License CAWCD #2020-005B Water Line and Sewer Lines for the City of Phoenix (Ordinance S-53274) - District 1",
+      "intro": "2026-09-10",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36024&GUID=4346B036-44F5-47A2-BDF9-6E79C0420790",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 7
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-1901",
+      "type": "Ordinance-G",
+      "status": "Agenda Ready - City Clerk",
+      "title": "***CONTINUED FROM AUGUST 26, 2026 *** Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5",
+      "intro": "2026-08-27",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35936&GUID=B0E991FD-CC55-47A7-A3D1-85C2469FC503",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 8
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-1731",
+      "type": "Law Dept. Consolidated S-Ordinance",
+      "status": "Agenda Ready - Public Transit and Light Rail Department",
+      "title": "Transit Regional Radio System Maintenance and Support Agreement Extension (Ordinance S-53254) - Citywide",
+      "intro": "2026-08-06",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35766&GUID=7C53BAA0-BC6C-44A7-AA48-3846E59818C5",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 9
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-1575",
+      "type": "Resolution",
+      "status": "Agenda Ready - Planning & Development Department",
+      "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-2-26-7-8 - Area Generally Bounded by Interstate 17 on the North, 32nd Street on the East, Broadway Road on the South, and 19th Avenue on the West (Resolution 22401) - Districts 7 and 8",
+      "intro": "2026-07-21",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35610&GUID=8795F2F3-B682-4CE4-8D7C-C3374B3F2A90",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 10
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-1573",
+      "type": "Resolution",
+      "status": "Agenda Ready - Planning & Development Department",
+      "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-1-26-7-8 (Rio Salado District Policy Plan) - Area Generally Bounded by Interstate 17 on the North, 32nd Street on the East, Broadway Road on the South, and 19th Avenue on the West (Resolution 22400) - Districts 7 and 8",
+      "intro": "2026-07-21",
+      "agenda": "2026-10-21",
+      "enacted": "",
+      "last_modified": "2026-10-16",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D",
+      "source": "Legistar",
+      "_action_days": 5,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 11
+    },
     {
       "city": "Apache Junction",
       "county": "Maricopa/Pinal",
@@ -26,12 +302,36 @@
       "last_modified": "2026-10-15",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12567&GUID=2368E5EA-E6F7-4D85-AFFD-D776D37102F2",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 12
+    },
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Housing",
+        "Walkability"
+      ],
+      "file": "26-2108",
+      "type": "Law Dept. Consolidated S-Ordinance",
+      "status": "Agenda Ready",
+      "title": "Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- District 6",
+      "intro": "2026-09-24",
+      "agenda": "2026-11-04",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 13
     },
     {
       "city": "Phoenix",
@@ -39,114 +339,45 @@
       "topics": [
         "Transit"
       ],
-      "file": "26-1999",
+      "file": "26-2001",
       "type": "Ordinance-S",
       "status": "Agenda Ready",
-      "title": "Phoenix Sky Harbor International Airport Rental Car Center Vertical Transportation Modernization - Engineering Services - AV15000080 - District 8",
+      "title": "Phoenix Sky Harbor International Airport Rental Car Center Vertical Transportation Modernization - Construction Manager at Risk Services - AV15000080 - District 8",
       "intro": "2026-09-11",
-      "agenda": "2026-10-21",
+      "agenda": "2026-11-04",
       "enacted": "",
       "last_modified": "2026-10-15",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36034&GUID=1D500C26-D237-4995-A837-27CEE7C27133",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36036&GUID=799AEC57-F057-4AB6-94D4-281D1A0890C1",
       "source": "Legistar",
-      "_action_days": 6,
+      "_action_days": null,
       "_new": true,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 14
     },
     {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-1901",
-      "type": "Ordinance-G",
-      "status": "Agenda Ready - City Clerk",
-      "title": "***CONTINUED FROM AUGUST 26, 2026 *** Amend City Code - Official Supplementary Zoning Map 1309 (Ordinance G-7533) - District 5",
-      "intro": "2026-08-27",
-      "agenda": "2026-10-21",
-      "enacted": "",
-      "last_modified": "2026-10-15",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35936&GUID=B0E991FD-CC55-47A7-A3D1-85C2469FC503",
-      "source": "Legistar",
-      "_action_days": 6,
-      "_new": true,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 2
-    },
-    {
-      "city": "Phoenix",
+      "city": "Mesa",
       "county": "Maricopa",
       "topics": [
         "Transit"
       ],
-      "file": "26-1731",
-      "type": "Law Dept. Consolidated S-Ordinance",
-      "status": "Agenda Ready - Public Transit and Light Rail Department",
-      "title": "Transit Regional Radio System Maintenance and Support Agreement Extension - Citywide",
-      "intro": "2026-08-06",
-      "agenda": "2026-10-21",
-      "enacted": "",
-      "last_modified": "2026-10-15",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35766&GUID=7C53BAA0-BC6C-44A7-AA48-3846E59818C5",
-      "source": "Legistar",
-      "_action_days": 6,
-      "_new": true,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 3
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-1575",
+      "file": "26-0907",
       "type": "Resolution",
-      "status": "Agenda Ready - Planning & Development Department",
-      "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-2-26-7-8 - Area Generally Bounded by Interstate 17 on the North, 32nd Street on the East, Broadway Road on the South, and 19th Avenue on the West (Resolution ) - Districts 7 and 8",
-      "intro": "2026-07-21",
-      "agenda": "2026-10-21",
+      "status": "Agenda Ready",
+      "title": "Approving and authorizing the City Manager to enter into an Intergovernmental Agreement (IGA) for Waste Collection and Transportation Mutual Aid among City of Mesa, City of Avondale, City of Glendale, Town of Gilbert, City of Peoria, City of Phoenix, Town of Queen Creek, Salt River Pima-Maricopa Indian Community, City of Scottsdale, City of Surprise, and City of Tempe. (Citywide)",
+      "intro": "2026-10-15",
+      "agenda": "2026-10-26",
       "enacted": "",
       "last_modified": "2026-10-15",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35610&GUID=8795F2F3-B682-4CE4-8D7C-C3374B3F2A90",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24124&GUID=F937B6B0-E5A1-49B5-A4A7-427A1838DF69",
       "source": "Legistar",
-      "_action_days": 6,
+      "_action_days": 10,
       "_new": true,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-1573",
-      "type": "Resolution",
-      "status": "Agenda Ready - Planning & Development Department",
-      "title": "Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-1-26-7-8 (Rio Salado District Policy Plan) - Area Generally Bounded by Interstate 17 on the North, 32nd Street on the East, Broadway Road on the South, and 19th Avenue on the West (Resolution ) - Districts 7 and 8",
-      "intro": "2026-07-21",
-      "agenda": "2026-10-21",
-      "enacted": "",
-      "last_modified": "2026-10-15",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D",
-      "source": "Legistar",
-      "_action_days": 6,
-      "_new": true,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 5
+      "_uid": 15
     },
     {
       "city": "Mesa",
@@ -164,12 +395,266 @@
       "last_modified": "2026-10-15",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24101&GUID=DE18D5D3-44FB-4A43-A2D9-4B872C91DCF3",
       "source": "Legistar",
-      "_action_days": 11,
+      "_action_days": 10,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 16
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0855",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "ZON25-00895 \"Terrible's Commercial Development\" 1.3\u00b1 acres located approximately 190\u00b1 feet south of the southwest corner of South Crismon Road and East Hampton Avenue. Rezone from Planned Employment Park with a Planned Area Development Overlay (PEP-PAD) to Limited Commercial (LC), Site Plan Review, and Special Use Permit. This request will allow for an approximately 4,689\u00b1 square foot Convenience Market with Accessory Service Station. KFH CRISMON & HAMPTON LLC, owner; Tim Rasnake, Archicon Architecture & Interiors LLC, applicant. (District 5)\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+      "intro": "2026-09-24",
+      "agenda": "2026-10-26",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A",
+      "source": "Legistar",
+      "_action_days": 10,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 17
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-0853",
+      "type": "Minutes",
+      "status": "Agenda Ready",
+      "title": "Transportation Advisory Board meeting held on July 21, 2026.",
+      "intro": "2026-09-23",
+      "agenda": "2026-10-22",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24070&GUID=CE8F5A68-CE67-4491-9665-5F00C1907741",
+      "source": "Legistar",
+      "_action_days": 6,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 18
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Transit",
+        "Walkability"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "5. Approve a one-year contract renewal with Artistic Land Management for landscape maintenance services for transit facilities, multi-use paths and City light rail train properties.",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 19
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "6. Approve one-year contract renewals with Artistic Land Management, Dusty Landscaping, and Kings Landscape and Maintenance for the installation of landscaping and irrigation materials for street beautification and right-of-way landscaping ",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 20
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Walkability"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "7. Adopt a resolution authorizing the Chief of Police or designee(s), to execute a grant agreement between the State of Arizona, Governor\u2019s Office of Highway Safety and the Tempe Police Department to accept funding for overtime and employee",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 21
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "11. Adopt a resolution authorizing the Mayor to execute a five-year Intergovernmental Agreement (IGA) between the City of Avondale, City of Glendale, Town of Gilbert, City of Mesa, City of Peoria, City of Phoenix, Town of Queen Creek, Salt ",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 22
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "2. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental Agreement (IGA) with the Regional Public Transportation Authority (RPTA) for the purchase and supply of transit services for fiscal year (FY) 2026-27.",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 23
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "3. Adopt a resolution authorizing the Mayor to sign Operations Funding Agreement (Fiscal Year 2026-27) Number 19 with Valley Metro Rail, Inc. for the purchase and supply of Light Rail and Streetcar transit services. (Resolution No. R2026.12",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 24
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "1. PUBLIC HEARING ITEM PURSUANT TO A.R.S. \u00a7 9-462.04: Hold the second and final public hearing to adopt an ordinance for a Zoning Map Amendment from R/O to CSS for approximately .34 acres for ASSISTED LIVING TRAINING SCHOOL, located at 1843",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 25
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "2. PUBLIC HEARING ITEM PURSUANT TO A.R.S. \u00a7 9-462.04: Hold the second and final public hearing to adopt an ordinance for a Zoning Map Amendment from GID to MU-4 and a Planned Area Development Overlay for EMERALD CENTER MIXED-USE, located at",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 26
+    },
+    {
+      "city": "Tempe",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "",
+      "type": "City Council - Regular Meeting",
+      "status": "Heard 2026-10-15",
+      "title": "3. PUBLIC HEARING ITEM PURSUANT TO A.R.S. \u00a7 9-462.04: Hold the second and final public hearing to adopt an Ordinance for a Zoning and Development Code Text Amendment for Section 3-409 - Group Homes for Adult Care, Persons with Disabilities,",
+      "intro": "",
+      "agenda": "2026-10-15",
+      "enacted": "",
+      "last_modified": "2026-10-15",
+      "url": "https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058",
+      "source": "Granicus",
+      "_action_days": null,
+      "_new": true,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 27
     },
     {
       "city": "City of Maricopa",
@@ -192,7 +677,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 28
     },
     {
       "city": "City of Maricopa",
@@ -215,30 +700,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Housing"
-      ],
-      "file": "ORD 26-16",
-      "type": "Ordinance",
-      "status": "Regular Agenda",
-      "title": "An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopting an amendment to the City's Zoning Map to rezone three parcels that total approximately 0.90 acres of land generally located at the northwest corner of West Mercado Street and North Main Street, within the City of Maricopa incorporated limits, from Pinal County General Rural (GR) and General Business (CB-2) to Public Institutional (PI) as described in Zoning case ZON 26-04.  The parcels of land, APNs 510-26-048A, 510-26-048B, and 510-26-0490, are located in a portion of Section 27, Township 4 South, Range 3 East, of the Gila and Salt River Meridian, Pinal County, Arizona. Discussion and Action.",
-      "intro": "2026-09-29",
-      "agenda": "2026-10-20",
-      "enacted": "",
-      "last_modified": "2026-10-14",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F",
-      "source": "Legistar",
-      "_action_days": 5,
-      "_new": true,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 9
+      "_uid": 29
     },
     {
       "city": "City of Maricopa",
@@ -261,30 +723,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 10
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0855",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "ZON25-00895 \"Terrible's Commercial Development\" 1.3\u00b1 acres located approximately 190\u00b1 feet south of the southwest corner of South Crismon Road and East Hampton Avenue. Rezone from Planned Employment Park with a Planned Area Development Overlay (PEP-PAD) to Limited Commercial (LC), Site Plan Review, and Special Use Permit. This request will allow for an approximately 4,689\u00b1 square foot Convenience Market with Accessory Service Station. KFH CRISMON & HAMPTON LLC, owner; Tim Rasnake, Archicon Architecture & Interiors LLC, applicant. (District 5)\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-      "intro": "2026-09-24",
-      "agenda": "2026-10-26",
-      "enacted": "",
-      "last_modified": "2026-10-14",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A",
-      "source": "Legistar",
-      "_action_days": 11,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 11
+      "_uid": 30
     },
     {
       "city": "Apache Junction",
@@ -307,7 +746,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 12
+      "_uid": 31
     },
     {
       "city": "Phoenix",
@@ -325,12 +764,12 @@
       "last_modified": "2026-10-13",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36262&GUID=D19601FD-3CA7-4513-BAAB-7529EA6CED28",
       "source": "Legistar",
-      "_action_days": 6,
+      "_action_days": 5,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 13
+      "_uid": 32
     },
     {
       "city": "Phoenix",
@@ -348,12 +787,12 @@
       "last_modified": "2026-10-13",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35808&GUID=FB2D4EE1-7BEC-4607-93A0-DA1293F87892",
       "source": "Legistar",
-      "_action_days": 6,
+      "_action_days": 5,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 14
+      "_uid": 33
     },
     {
       "city": "Mesa",
@@ -371,12 +810,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24099&GUID=59B5789D-A95A-40FC-8073-8F8DFB25317B",
       "source": "Legistar",
-      "_action_days": 11,
+      "_action_days": 10,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 15
+      "_uid": 34
     },
     {
       "city": "Mesa",
@@ -395,12 +834,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24098&GUID=AF32A397-6229-4C4E-B133-A36D95702BC9",
       "source": "Legistar",
-      "_action_days": 11,
+      "_action_days": 10,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 16
+      "_uid": 35
     },
     {
       "city": "Mesa",
@@ -419,12 +858,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24097&GUID=6C4A9066-CC41-44BC-967B-546D0EECC2DA",
       "source": "Legistar",
-      "_action_days": 11,
+      "_action_days": 10,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 17
+      "_uid": 36
     },
     {
       "city": "Mesa",
@@ -442,12 +881,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7",
       "source": "Legistar",
-      "_action_days": 11,
+      "_action_days": 10,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 18
+      "_uid": 37
     },
     {
       "city": "Mesa",
@@ -470,7 +909,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 19
+      "_uid": 38
     },
     {
       "city": "Mesa",
@@ -488,12 +927,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85",
       "source": "Legistar",
-      "_action_days": 11,
+      "_action_days": 10,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 20
+      "_uid": 39
     },
     {
       "city": "City of Maricopa",
@@ -516,7 +955,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 21
+      "_uid": 40
     },
     {
       "city": "City of Maricopa",
@@ -539,30 +978,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 22
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0853",
-      "type": "Minutes",
-      "status": "Agenda Ready",
-      "title": "Transportation Advisory Board meeting held on July 21, 2026.",
-      "intro": "2026-09-23",
-      "agenda": "2026-10-22",
-      "enacted": "",
-      "last_modified": "2026-10-12",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24070&GUID=CE8F5A68-CE67-4491-9665-5F00C1907741",
-      "source": "Legistar",
-      "_action_days": 7,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 23
+      "_uid": 41
     },
     {
       "city": "Mesa",
@@ -585,7 +1001,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 24
+      "_uid": 42
     },
     {
       "city": "Mesa",
@@ -608,7 +1024,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 25
+      "_uid": 43
     },
     {
       "city": "Mesa",
@@ -631,7 +1047,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 26
+      "_uid": 44
     },
     {
       "city": "Mesa",
@@ -654,7 +1070,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 27
+      "_uid": 45
     },
     {
       "city": "Mesa",
@@ -677,7 +1093,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 28
+      "_uid": 46
     },
     {
       "city": "Apache Junction",
@@ -695,12 +1111,12 @@
       "last_modified": "2026-10-08",
       "url": "https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12582&GUID=4DB2A3B9-9C17-4EB6-AF72-C49677808214",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 29
+      "_uid": 47
     },
     {
       "city": "City of Maricopa",
@@ -723,7 +1139,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 30
+      "_uid": 48
     },
     {
       "city": "Phoenix",
@@ -746,7 +1162,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 31
+      "_uid": 49
     },
     {
       "city": "Phoenix",
@@ -769,7 +1185,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 32
+      "_uid": 50
     },
     {
       "city": "Phoenix",
@@ -792,7 +1208,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 33
+      "_uid": 51
     },
     {
       "city": "Phoenix",
@@ -815,7 +1231,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 34
+      "_uid": 52
     },
     {
       "city": "Phoenix",
@@ -838,7 +1254,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 35
+      "_uid": 53
     },
     {
       "city": "Phoenix",
@@ -861,7 +1277,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 36
+      "_uid": 54
     },
     {
       "city": "Phoenix",
@@ -884,7 +1300,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 37
+      "_uid": 55
     },
     {
       "city": "Phoenix",
@@ -907,7 +1323,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 38
+      "_uid": 56
     },
     {
       "city": "Phoenix",
@@ -930,7 +1346,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 39
+      "_uid": 57
     },
     {
       "city": "Phoenix",
@@ -953,7 +1369,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 40
+      "_uid": 58
     },
     {
       "city": "Mesa",
@@ -976,7 +1392,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 41
+      "_uid": 59
     },
     {
       "city": "Mesa",
@@ -999,7 +1415,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 42
+      "_uid": 60
     },
     {
       "city": "Apache Junction",
@@ -1022,7 +1438,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 43
+      "_uid": 61
     },
     {
       "city": "Mesa",
@@ -1045,7 +1461,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 44
+      "_uid": 62
     },
     {
       "city": "Phoenix",
@@ -1068,7 +1484,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 45
+      "_uid": 63
     },
     {
       "city": "City of Maricopa",
@@ -1092,7 +1508,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 46
+      "_uid": 64
     },
     {
       "city": "Mesa",
@@ -1115,7 +1531,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 47
+      "_uid": 65
     },
     {
       "city": "Mesa",
@@ -1138,7 +1554,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 48
+      "_uid": 66
     },
     {
       "city": "Phoenix",
@@ -1161,7 +1577,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 49
+      "_uid": 67
     },
     {
       "city": "Phoenix",
@@ -1184,7 +1600,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 50
+      "_uid": 68
     },
     {
       "city": "Phoenix",
@@ -1207,7 +1623,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 51
+      "_uid": 69
     },
     {
       "city": "Phoenix",
@@ -1230,7 +1646,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 52
+      "_uid": 70
     },
     {
       "city": "Phoenix",
@@ -1253,7 +1669,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 53
+      "_uid": 71
     },
     {
       "city": "Phoenix",
@@ -1276,7 +1692,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 54
+      "_uid": 72
     },
     {
       "city": "Phoenix",
@@ -1299,7 +1715,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 55
+      "_uid": 73
     },
     {
       "city": "Phoenix",
@@ -1322,7 +1738,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 56
+      "_uid": 74
     },
     {
       "city": "Tempe",
@@ -1345,7 +1761,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 57
+      "_uid": 75
     },
     {
       "city": "Tempe",
@@ -1368,7 +1784,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 58
+      "_uid": 76
     },
     {
       "city": "Tempe",
@@ -1391,7 +1807,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 59
+      "_uid": 77
     },
     {
       "city": "Tempe",
@@ -1414,30 +1830,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 60
-    },
-    {
-      "city": "City of Maricopa",
-      "county": "Pinal (greater region)",
-      "topics": [
-        "Housing"
-      ],
-      "file": "ZON 26-04(2)",
-      "type": "Rezoning",
-      "status": "Regular Agenda",
-      "title": "A request by the City of Maricopa to rezone three parcels of land that total \u00b10.90 acres, from the Pinal County General Rural (GR) and General Business (CB-2) zoning districts to the City of Maricopa Public Institutional (PI) zoning district, located at the northwest corner of West Mercado Street and North Main Street, specifically parcel numbers 510-26-048A, 510-26-048B, and 510-26-0490. DISCUSSION AND ACTION.",
-      "intro": "2026-09-15",
-      "agenda": "2026-09-28",
-      "enacted": "",
-      "last_modified": "2026-09-23",
-      "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15566&GUID=92235B0F-6D62-4434-B8FF-360A0241D03C",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 61
+      "_uid": 78
     },
     {
       "city": "City of Maricopa",
@@ -1460,7 +1853,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 62
+      "_uid": 79
     },
     {
       "city": "City of Maricopa",
@@ -1483,7 +1876,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 63
+      "_uid": 80
     },
     {
       "city": "Apache Junction",
@@ -1506,7 +1899,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 64
+      "_uid": 81
     },
     {
       "city": "Phoenix",
@@ -1529,7 +1922,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 65
+      "_uid": 82
     },
     {
       "city": "Phoenix",
@@ -1552,7 +1945,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 66
+      "_uid": 83
     },
     {
       "city": "Phoenix",
@@ -1575,7 +1968,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 67
+      "_uid": 84
     },
     {
       "city": "Phoenix",
@@ -1598,7 +1991,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 68
+      "_uid": 85
     },
     {
       "city": "Phoenix",
@@ -1621,7 +2014,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 69
+      "_uid": 86
     },
     {
       "city": "Phoenix",
@@ -1644,7 +2037,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 70
+      "_uid": 87
     },
     {
       "city": "Phoenix",
@@ -1667,7 +2060,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 71
+      "_uid": 88
     },
     {
       "city": "Mesa",
@@ -1690,7 +2083,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 72
+      "_uid": 89
     },
     {
       "city": "Mesa",
@@ -1713,7 +2106,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 73
+      "_uid": 90
     },
     {
       "city": "Phoenix",
@@ -1736,7 +2129,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 74
+      "_uid": 91
     },
     {
       "city": "Phoenix",
@@ -1759,7 +2152,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 75
+      "_uid": 92
     },
     {
       "city": "Phoenix",
@@ -1782,7 +2175,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 76
+      "_uid": 93
     },
     {
       "city": "Tempe",
@@ -1805,7 +2198,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 77
+      "_uid": 94
     },
     {
       "city": "Tempe",
@@ -1828,7 +2221,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 78
+      "_uid": 95
     },
     {
       "city": "Tempe",
@@ -1852,7 +2245,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 79
+      "_uid": 96
     },
     {
       "city": "Tempe",
@@ -1875,7 +2268,7 @@
       "_moved": "",
       "_movefrom": "Heard 2026-09-08",
       "_moveto": "Heard 2026-09-22",
-      "_uid": 80
+      "_uid": 97
     },
     {
       "city": "Phoenix",
@@ -1898,7 +2291,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 81
+      "_uid": 98
     },
     {
       "city": "Phoenix",
@@ -1921,7 +2314,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 82
+      "_uid": 99
     },
     {
       "city": "Phoenix",
@@ -1944,7 +2337,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 83
+      "_uid": 100
     },
     {
       "city": "Phoenix",
@@ -1967,7 +2360,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 84
+      "_uid": 101
     },
     {
       "city": "Phoenix",
@@ -1990,7 +2383,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 85
+      "_uid": 102
     },
     {
       "city": "Phoenix",
@@ -2013,7 +2406,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 86
+      "_uid": 103
     },
     {
       "city": "Phoenix",
@@ -2036,7 +2429,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 87
+      "_uid": 104
     },
     {
       "city": "Tempe",
@@ -2059,7 +2452,7 @@
       "_moved": "",
       "_movefrom": "Heard 2026-08-11",
       "_moveto": "Heard 2026-09-22",
-      "_uid": 88
+      "_uid": 105
     },
     {
       "city": "Mesa",
@@ -2082,7 +2475,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 89
+      "_uid": 106
     },
     {
       "city": "Phoenix",
@@ -2105,7 +2498,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 90
+      "_uid": 107
     },
     {
       "city": "Mesa",
@@ -2128,7 +2521,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 91
+      "_uid": 108
     },
     {
       "city": "Mesa",
@@ -2151,7 +2544,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 92
+      "_uid": 109
     },
     {
       "city": "Apache Junction",
@@ -2174,7 +2567,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 93
+      "_uid": 110
     },
     {
       "city": "Phoenix",
@@ -2197,7 +2590,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 94
+      "_uid": 111
     },
     {
       "city": "Phoenix",
@@ -2220,7 +2613,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 95
+      "_uid": 112
     },
     {
       "city": "Apache Junction",
@@ -2243,7 +2636,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 96
+      "_uid": 113
     },
     {
       "city": "Phoenix",
@@ -2266,7 +2659,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 97
+      "_uid": 114
     },
     {
       "city": "Phoenix",
@@ -2289,7 +2682,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 98
+      "_uid": 115
     },
     {
       "city": "Phoenix",
@@ -2312,7 +2705,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 99
+      "_uid": 116
     },
     {
       "city": "Phoenix",
@@ -2335,7 +2728,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 100
+      "_uid": 117
     },
     {
       "city": "Apache Junction",
@@ -2358,7 +2751,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 101
+      "_uid": 118
     },
     {
       "city": "Tempe",
@@ -2381,7 +2774,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 102
+      "_uid": 119
     },
     {
       "city": "Tempe",
@@ -2404,7 +2797,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 103
+      "_uid": 120
     },
     {
       "city": "City of Maricopa",
@@ -2427,7 +2820,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 104
+      "_uid": 121
     },
     {
       "city": "Phoenix",
@@ -2450,7 +2843,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 105
+      "_uid": 122
     },
     {
       "city": "Phoenix",
@@ -2473,7 +2866,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 106
+      "_uid": 123
     },
     {
       "city": "Phoenix",
@@ -2496,7 +2889,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 107
+      "_uid": 124
     },
     {
       "city": "Phoenix",
@@ -2519,7 +2912,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 108
+      "_uid": 125
     },
     {
       "city": "Phoenix",
@@ -2542,7 +2935,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 109
+      "_uid": 126
     },
     {
       "city": "Phoenix",
@@ -2565,7 +2958,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 110
+      "_uid": 127
     },
     {
       "city": "Phoenix",
@@ -2588,7 +2981,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 111
+      "_uid": 128
     },
     {
       "city": "Phoenix",
@@ -2611,7 +3004,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 112
+      "_uid": 129
     },
     {
       "city": "Phoenix",
@@ -2634,7 +3027,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 113
+      "_uid": 130
     },
     {
       "city": "Phoenix",
@@ -2657,7 +3050,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 114
+      "_uid": 131
     },
     {
       "city": "Phoenix",
@@ -2680,7 +3073,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 115
+      "_uid": 132
     },
     {
       "city": "Phoenix",
@@ -2703,7 +3096,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 116
+      "_uid": 133
     },
     {
       "city": "Phoenix",
@@ -2726,7 +3119,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 117
+      "_uid": 134
     },
     {
       "city": "Phoenix",
@@ -2749,7 +3142,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 118
+      "_uid": 135
     },
     {
       "city": "Phoenix",
@@ -2772,7 +3165,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 119
+      "_uid": 136
     },
     {
       "city": "Phoenix",
@@ -2795,7 +3188,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 120
+      "_uid": 137
     },
     {
       "city": "Phoenix",
@@ -2818,7 +3211,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 121
+      "_uid": 138
     },
     {
       "city": "Phoenix",
@@ -2841,7 +3234,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 122
+      "_uid": 139
     },
     {
       "city": "Phoenix",
@@ -2864,7 +3257,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 123
+      "_uid": 140
     },
     {
       "city": "Phoenix",
@@ -2887,7 +3280,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 124
+      "_uid": 141
     },
     {
       "city": "Tempe",
@@ -2910,7 +3303,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 125
+      "_uid": 142
     },
     {
       "city": "Tempe",
@@ -2933,7 +3326,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 126
+      "_uid": 143
     },
     {
       "city": "Tempe",
@@ -2956,7 +3349,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 127
+      "_uid": 144
     },
     {
       "city": "Tempe",
@@ -2979,7 +3372,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 128
+      "_uid": 145
     },
     {
       "city": "Tempe",
@@ -3002,7 +3395,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 129
+      "_uid": 146
     },
     {
       "city": "Tempe",
@@ -3025,7 +3418,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 130
+      "_uid": 147
     },
     {
       "city": "Phoenix",
@@ -3048,7 +3441,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 131
+      "_uid": 148
     },
     {
       "city": "Tempe",
@@ -3071,7 +3464,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 132
+      "_uid": 149
     },
     {
       "city": "Phoenix",
@@ -3094,7 +3487,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 133
+      "_uid": 150
     },
     {
       "city": "Mesa",
@@ -3117,7 +3510,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 134
+      "_uid": 151
     },
     {
       "city": "Mesa",
@@ -3140,7 +3533,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 135
+      "_uid": 152
     },
     {
       "city": "Tempe",
@@ -3163,7 +3556,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 136
+      "_uid": 153
     },
     {
       "city": "City of Maricopa",
@@ -3186,7 +3579,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 137
+      "_uid": 154
     },
     {
       "city": "City of Maricopa",
@@ -3209,7 +3602,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 138
+      "_uid": 155
     },
     {
       "city": "Apache Junction",
@@ -3232,7 +3625,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 139
+      "_uid": 156
     },
     {
       "city": "Mesa",
@@ -3255,7 +3648,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 140
+      "_uid": 157
     },
     {
       "city": "Mesa",
@@ -3278,7 +3671,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 141
+      "_uid": 158
     },
     {
       "city": "Tempe",
@@ -3301,7 +3694,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 142
+      "_uid": 159
     },
     {
       "city": "Tempe",
@@ -3324,7 +3717,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 143
+      "_uid": 160
     },
     {
       "city": "Mesa",
@@ -3347,7 +3740,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 144
+      "_uid": 161
     },
     {
       "city": "Apache Junction",
@@ -3370,7 +3763,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 145
+      "_uid": 162
     },
     {
       "city": "Phoenix",
@@ -3393,7 +3786,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 146
+      "_uid": 163
     },
     {
       "city": "Mesa",
@@ -3416,7 +3809,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 147
+      "_uid": 164
     },
     {
       "city": "Mesa",
@@ -3439,7 +3832,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 148
+      "_uid": 165
     },
     {
       "city": "City of Maricopa",
@@ -3462,7 +3855,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 149
+      "_uid": 166
     },
     {
       "city": "City of Maricopa",
@@ -3486,7 +3879,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 150
+      "_uid": 167
     },
     {
       "city": "Tempe",
@@ -3509,7 +3902,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 151
+      "_uid": 168
     },
     {
       "city": "City of Maricopa",
@@ -3532,7 +3925,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 152
+      "_uid": 169
     },
     {
       "city": "Phoenix",
@@ -3555,7 +3948,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 153
+      "_uid": 170
     },
     {
       "city": "Phoenix",
@@ -3578,7 +3971,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 154
+      "_uid": 171
     },
     {
       "city": "Phoenix",
@@ -3601,7 +3994,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 155
+      "_uid": 172
     },
     {
       "city": "Phoenix",
@@ -3624,30 +4017,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 156
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Walkability"
-      ],
-      "file": "21-3412",
-      "type": "Zoning Ordinance & Public Hearing",
-      "status": "Adopted",
-      "title": "Public Hearing - Amend City Code - Ordinance Adoption - Walkable Urban Code Expansion and Fee Schedule Update - Z-TA-3-19 (Ordinance G-6962)",
-      "intro": "2022-01-11",
-      "agenda": "2022-02-02",
-      "enacted": "",
-      "last_modified": "2026-08-26",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=21883&GUID=6151F906-9D77-45D0-AE2C-3F0D8792ADDB",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 157
+      "_uid": 173
     },
     {
       "city": "Mesa",
@@ -3670,7 +4040,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 158
+      "_uid": 174
     },
     {
       "city": "Tempe",
@@ -3694,7 +4064,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 159
+      "_uid": 175
     },
     {
       "city": "Tempe",
@@ -3717,7 +4087,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 160
+      "_uid": 176
     },
     {
       "city": "Mesa",
@@ -3740,7 +4110,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 161
+      "_uid": 177
     },
     {
       "city": "Mesa",
@@ -3763,7 +4133,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 162
+      "_uid": 178
     },
     {
       "city": "Mesa",
@@ -3786,30 +4156,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 163
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0983",
-      "type": "Ordinance-S",
-      "status": "Adopted",
-      "title": "Central Arizona Water Conservation District Land Use License for the City of Phoenix (Ordinance S-53067) - District 2",
-      "intro": "2026-04-22",
-      "agenda": "2026-07-01",
-      "enacted": "",
-      "last_modified": "2026-08-20",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35018&GUID=262E325E-8AD5-4871-B86C-4DA258A45919",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 164
+      "_uid": 179
     },
     {
       "city": "Mesa",
@@ -3832,7 +4179,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 165
+      "_uid": 180
     },
     {
       "city": "Mesa",
@@ -3855,7 +4202,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 166
+      "_uid": 181
     },
     {
       "city": "City of Maricopa",
@@ -3878,7 +4225,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 167
+      "_uid": 182
     },
     {
       "city": "City of Maricopa",
@@ -3901,7 +4248,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 168
+      "_uid": 183
     },
     {
       "city": "Mesa",
@@ -3924,7 +4271,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 169
+      "_uid": 184
     },
     {
       "city": "Mesa",
@@ -3947,7 +4294,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 170
+      "_uid": 185
     },
     {
       "city": "Mesa",
@@ -3970,7 +4317,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 171
+      "_uid": 186
     },
     {
       "city": "Mesa",
@@ -3993,7 +4340,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 172
+      "_uid": 187
     },
     {
       "city": "Mesa",
@@ -4016,7 +4363,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 173
+      "_uid": 188
     },
     {
       "city": "Mesa",
@@ -4039,7 +4386,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 174
+      "_uid": 189
     },
     {
       "city": "Mesa",
@@ -4062,7 +4409,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 175
+      "_uid": 190
     },
     {
       "city": "Mesa",
@@ -4085,7 +4432,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 176
+      "_uid": 191
     },
     {
       "city": "Mesa",
@@ -4108,7 +4455,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 177
+      "_uid": 192
     },
     {
       "city": "Tempe",
@@ -4131,7 +4478,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 178
+      "_uid": 193
     },
     {
       "city": "Tempe",
@@ -4155,30 +4502,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 179
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "23-1970",
-      "type": "Zoning Ordinance & Public Hearing",
-      "status": "Passed",
-      "title": "Public Hearing and Ordinance Adoption - Rezoning Application Z-SP-5-23-7 - Southwest Corner of 15th Avenue and Jackson Street (Ordinance G-7167)",
-      "intro": "2023-08-02",
-      "agenda": "2023-09-20",
-      "enacted": "",
-      "last_modified": "2026-08-11",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=27023&GUID=424DB530-4C00-4CAF-A84A-4A6707005878",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 180
+      "_uid": 194
     },
     {
       "city": "Tempe",
@@ -4201,7 +4525,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 181
+      "_uid": 195
     },
     {
       "city": "Mesa",
@@ -4224,7 +4548,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 182
+      "_uid": 196
     },
     {
       "city": "Mesa",
@@ -4247,7 +4571,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 183
+      "_uid": 197
     },
     {
       "city": "Mesa",
@@ -4270,30 +4594,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 184
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "20-2734",
-      "type": "Formal Action",
-      "status": "Continued",
-      "title": "Eight-Hour Rule Request to Research Intergovernmental Agreements Related to Affordable Housing and Homelessness",
-      "intro": "2020-10-19",
-      "agenda": "2020-10-21",
-      "enacted": "",
-      "last_modified": "2026-08-07",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=17876&GUID=3AB59CD0-E10D-4366-891E-D4F2568180F2",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 185
+      "_uid": 198
     },
     {
       "city": "Mesa",
@@ -4316,99 +4617,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 186
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0979",
-      "type": "Ordinance-S",
-      "status": "Adopted",
-      "title": "Purchase of Residential 35-, 65-, and 95-Gallon Containers Contract - RFP 27-SW-001 - Request for Award (Ordinance S-52888) - Citywide",
-      "intro": "2026-04-21",
-      "agenda": "2026-05-20",
-      "enacted": "",
-      "last_modified": "2026-08-05",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35014&GUID=02E5E243-DE0A-4FED-B9C8-99B6EBEE1B1F",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 187
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-0949",
-      "type": "Ordinance-S",
-      "status": "Adopted",
-      "title": "The Greg Stanton Central Station Transit Center Improvements - Architectural Services - PT00130063 (Ordinance S-52886) - District 7",
-      "intro": "2026-04-20",
-      "agenda": "2026-05-20",
-      "enacted": "",
-      "last_modified": "2026-08-05",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34984&GUID=97B4CF0B-6261-4D5C-A4E1-A97352A3BDDD",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 188
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Walkability"
-      ],
-      "file": "26-0679",
-      "type": "Ordinance-S",
-      "status": "Adopted",
-      "title": "56th Street: Thomas Road to Indian School Road - Phase 2 Bike and Pedestrian Improvements - Design-Bid-Build Services - ST87210047 and ST87210049 (Ordinance S-52858) - District 6",
-      "intro": "2026-03-20",
-      "agenda": "2026-05-20",
-      "enacted": "",
-      "last_modified": "2026-08-05",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=34715&GUID=0E239BB3-89AB-4683-BA7E-61F8227ACECE",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 189
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "25-2629",
-      "type": "Ordinance-S",
-      "status": "Adopted",
-      "title": "Request to Enter Into an Easement and Drainage Agreement with Empire Residential Communities Fund IV, LLC (Ordinance S-52849) - District 7",
-      "intro": "2025-12-10",
-      "agenda": "2026-05-20",
-      "enacted": "",
-      "last_modified": "2026-08-05",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=33855&GUID=0EC78028-B5BB-49CA-86FF-84C4D6FB4DC1",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 190
+      "_uid": 199
     },
     {
       "city": "City of Maricopa",
@@ -4431,7 +4640,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 191
+      "_uid": 200
     },
     {
       "city": "Mesa",
@@ -4454,7 +4663,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 192
+      "_uid": 201
     },
     {
       "city": "City of Maricopa",
@@ -4477,7 +4686,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 193
+      "_uid": 202
     },
     {
       "city": "City of Maricopa",
@@ -4500,7 +4709,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 194
+      "_uid": 203
     },
     {
       "city": "City of Maricopa",
@@ -4523,7 +4732,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 195
+      "_uid": 204
     },
     {
       "city": "Mesa",
@@ -4546,7 +4755,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 196
+      "_uid": 205
     },
     {
       "city": "Mesa",
@@ -4569,7 +4778,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 197
+      "_uid": 206
     },
     {
       "city": "Mesa",
@@ -4592,7 +4801,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 198
+      "_uid": 207
     },
     {
       "city": "Mesa",
@@ -4615,7 +4824,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 199
+      "_uid": 208
     },
     {
       "city": "Mesa",
@@ -4638,7 +4847,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 200
+      "_uid": 209
     },
     {
       "city": "Mesa",
@@ -4661,7 +4870,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 201
+      "_uid": 210
     },
     {
       "city": "Mesa",
@@ -4684,7 +4893,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 202
+      "_uid": 211
     },
     {
       "city": "Mesa",
@@ -4707,7 +4916,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 203
+      "_uid": 212
     },
     {
       "city": "Mesa",
@@ -4730,7 +4939,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 204
+      "_uid": 213
     },
     {
       "city": "Mesa",
@@ -4753,30 +4962,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 205
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0636",
-      "type": "Resolution",
-      "status": "Agenda Ready",
-      "title": "A resolution declaring the documents filed with the City Clerk titled \u201c2026 Zoning Code Refinement Text Amendment\u201d to be a public record and providing for the availability of the documents for public use and inspection with the City Clerk. (Citywide) Resolution No. 12554",
-      "intro": "2026-06-30",
-      "agenda": "2026-07-20",
-      "enacted": "",
-      "last_modified": "2026-07-17",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23852&GUID=D38493D8-FD63-4B21-AC79-D0CC9B11AC41",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 206
+      "_uid": 214
     }
   ]
 }
