@@ -1,8 +1,20 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-18 09:18 MST | window 90d | 213 items
+Generated 2026-10-19 11:55 MST | window 90d | 214 items
 
 
 === HOUSING (157) ===
+  Apache Junction 26-520 [Public Hearing]: Presentation, discussion and public hearing of the development fee study update including 
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12567&GUID=2368E5EA-E6F7-4D85-AFFD-D776D37102F2
+  Phoenix 26-2137 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-2-26--Z-101-07-5 - Approxi
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36172&GUID=860BED1E-F083-4293-92FE-825DA3AD6971
+  Phoenix 26-1573 [Agenda Ready - Planning & Development Department]: ***ITEM REVISED (SEE ATTACHED MEMO)*** Public Hearing and Resolution Adoption - General Pl
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
+  Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7
+  Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
+  Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
   Phoenix 26-2211 [Agenda Ready - Planning & Development Department]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-EST-1-26-7 - Southeast
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36245&GUID=F684141D-F78C-4DF3-B6F1-904F5FEAAB48
   City of Maricopa ZON 26-04(2) [Regular Agenda]: A request by the City of Maricopa to rezone three parcels of land that total ±0.90 acres, 
@@ -11,24 +23,16 @@ Generated 2026-10-18 09:18 MST | window 90d | 213 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F
   Phoenix 26-2206 [Agenda Ready - Planning & Development Department]: Public Hearing and Ordinance Adoption - Rezoning Application Z-24-26-7 (SWC State Route 20
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36240&GUID=0229D14B-8ECE-4844-B8C5-8BA5773AF9EB
-  Phoenix 26-2137 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-2-26--Z-101-07-5 - Approxi
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36172&GUID=860BED1E-F083-4293-92FE-825DA3AD6971
   Phoenix 26-1989 [Agenda Ready - Water Services Department]: Retroactive Authorization for Central Arizona Water Conservation District Land Use License
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36024&GUID=4346B036-44F5-47A2-BDF9-6E79C0420790
   Phoenix 26-1901 [Agenda Ready - City Clerk]: ***CONTINUED FROM AUGUST 26, 2026 *** Amend City Code - Official Supplementary Zoning Map 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35936&GUID=B0E991FD-CC55-47A7-A3D1-85C2469FC503
   Phoenix 26-1575 [Agenda Ready - Planning & Development Department]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-2-26-7-8 - Area 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35610&GUID=8795F2F3-B682-4CE4-8D7C-C3374B3F2A90
-  Phoenix 26-1573 [Agenda Ready - Planning & Development Department]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-1-26-7-8 (Rio Sa
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
-  Apache Junction 26-520 [Public Hearing]: Presentation, discussion and public hearing of the development fee study update including 
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12567&GUID=2368E5EA-E6F7-4D85-AFFD-D776D37102F2
   Phoenix 26-2108 [Agenda Ready]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
   Mesa 26-0884 [Agenda Ready]: Use of a Cooperative Contract for the Purchase of Seven Automated Side Loading Refuse Truc
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24101&GUID=DE18D5D3-44FB-4A43-A2D9-4B872C91DCF3
-  Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
   Tempe  [Heard 2026-10-15]: 1. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Hold the second and final public hea
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
   Tempe  [Heard 2026-10-15]: 2. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Hold the second and final public hea
@@ -39,10 +43,6 @@ Generated 2026-10-18 09:18 MST | window 90d | 213 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15568&GUID=3088E60F-E277-4BA7-ABF1-020DC0B69AD5
   Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4
-  Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7
-  Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
   Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
   City of Maricopa RES 26-07 [Tabled]: Public Hearing: A Resolution of the Mayor and City Council of the City of Maricopa, Arizon
@@ -178,7 +178,9 @@ Generated 2026-10-18 09:18 MST | window 90d | 213 items
   City of Maricopa POL 26-01 [Approved]: The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Te
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A
 
-=== WALKABILITY (12) ===
+=== WALKABILITY (13) ===
+  Apache Junction 26-565 [Consent Agenda]: Consideration of approval of Resolution No. 26-41, authorizing submission of projects to t
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12612&GUID=A547A2AF-AA70-4A6E-9171-BF63FCF9FF99
   Phoenix 26-2108 [Agenda Ready]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
   Tempe  [Heard 2026-10-15]: 5. Approve a one-year contract renewal with Artistic Land Management for landscape mainten
