@@ -1,10 +1,16 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-20 10:40 MST | window 90d | 217 items
+Generated 2026-10-21 10:48 MST | window 90d | 181 items
 
 
-=== HOUSING (158) ===
+=== HOUSING (133) ===
+  Mesa PZ 26089 [Agenda Ready]: ZON26-00217. "Val Vista Oil," 0.45± acres located approximately 250± feet north of the nor
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24119&GUID=4F799939-EC16-4904-9F0F-AC45B269303E
+  City of Maricopa ORD 26-16 [Regular Agenda]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F
   Phoenix 26-2051 [Agenda Ready]: Neighborhood Services Department Update on Infill Property Dispositions - Districts 4 and 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36086&GUID=9F0BCE0E-54A6-4539-8FD7-ABAEC979F82F
+  Phoenix 26-1938 [Adopted]: Design, Fabrication and Installation Contract with coLAB studio, LLC for the Girasol Affor
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35973&GUID=23E934FD-CEDB-4430-B235-C0EA238EEE19
   Phoenix 26-1573 [Agenda Ready - Planning & Development Department]: ***ITEM REVISED (SEE ATTACHED MEMO)*** Public Hearing and Resolution Adoption - General Pl
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
   Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
@@ -21,8 +27,6 @@ Generated 2026-10-20 10:40 MST | window 90d | 217 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36245&GUID=F684141D-F78C-4DF3-B6F1-904F5FEAAB48
   City of Maricopa ZON 26-04(2) [Regular Agenda]: A request by the City of Maricopa to rezone three parcels of land that total ±0.90 acres, 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15566&GUID=92235B0F-6D62-4434-B8FF-360A0241D03C
-  City of Maricopa ORD 26-16 [Regular Agenda]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F
   Phoenix 26-2206 [Agenda Ready - Planning & Development Department]: Public Hearing and Ordinance Adoption - Rezoning Application Z-24-26-7 (SWC State Route 20
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36240&GUID=0229D14B-8ECE-4844-B8C5-8BA5773AF9EB
   Phoenix 26-1989 [Agenda Ready - Water Services Department]: Retroactive Authorization for Central Arizona Water Conservation District Land Use License
@@ -33,14 +37,6 @@ Generated 2026-10-20 10:40 MST | window 90d | 217 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35610&GUID=8795F2F3-B682-4CE4-8D7C-C3374B3F2A90
   Phoenix 26-2108 [Agenda Ready]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
-  Mesa 26-0884 [Agenda Ready]: Use of a Cooperative Contract for the Purchase of Seven Automated Side Loading Refuse Truc
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24101&GUID=DE18D5D3-44FB-4A43-A2D9-4B872C91DCF3
-  Tempe  [Heard 2026-10-15]: 1. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Hold the second and final public hea
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
-  Tempe  [Heard 2026-10-15]: 2. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Hold the second and final public hea
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
-  Tempe  [Heard 2026-10-15]: 3. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Hold the second and final public hea
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
   City of Maricopa PRES 26-16 [Regular Agenda]: The Mayor and City Council will hear a staff presentation on the current draft of the City
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15568&GUID=3088E60F-E277-4BA7-ABF1-020DC0B69AD5
   Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
@@ -83,20 +79,20 @@ Generated 2026-10-20 10:40 MST | window 90d | 217 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24082&GUID=AE5AF6CE-BA91-4709-B017-1072A52F2DDD
   Mesa 26-0756 [Agenda Ready]: ZON25-00891 "Legacy Park" 196.3± acres located at the northeast corner of South Ellsworth 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23972&GUID=915FF550-A53F-4B60-AA86-051F4BF0E375
+  Phoenix 26-0421 [Adopted]: Remove/Replace Zoning District - Rancho Grande - Annexation 557 - Approximately 480 Feet W
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34457&GUID=BAE4E330-C19C-4798-8F1E-F3ACC35F8323
+  City of Maricopa ORD 26-05 [Passed]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15096&GUID=B1403618-AAF8-45FD-A791-7878ADC94BF3
 
-=== HEAT (5) ===
+=== HEAT (2) ===
   Phoenix 26-2019 [Agenda Ready]: Heat Related Calls Update - Citywide
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36054&GUID=5ECC3B21-1D3F-4E1F-8903-FD49D03439BC
-  Tempe PL260261 [Heard 2026-09-22]: C. Request a Use Permit to allow two (2) required parking spaces within the front yard set
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35802&GUID=19194138-325B-4B68-AA0A-88CF43DC797A
-  Tempe PL260208 [Heard 2026-08-25]: A. Request a Use Permit to allow two (2) required parking spaces in the street side yard s
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
-  Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (50) ===
+=== TRANSIT (41) ===
+  Phoenix 26-2228 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36262&GUID=D19601FD-3CA7-4513-BAAB-7529EA6CED28
   Mesa 26-0916 [Agenda Ready]: Rehabilitate West Vehicle Service Road, Design-Bid-Build Contract (District 5) 
 
 This co
@@ -117,22 +113,10 @@ This co
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24124&GUID=F937B6B0-E5A1-49B5-A4A7-427A1838DF69
   Mesa 26-0853 [Agenda Ready]: Transportation Advisory Board meeting held on July 21, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24070&GUID=CE8F5A68-CE67-4491-9665-5F00C1907741
-  Tempe  [Heard 2026-10-15]: 5. Approve a one-year contract renewal with Artistic Land Management for landscape mainten
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
-  Tempe  [Heard 2026-10-15]: 6. Approve one-year contract renewals with Artistic Land Management, Dusty Landscaping, an
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
-  Tempe  [Heard 2026-10-15]: 11. Adopt a resolution authorizing the Mayor to execute a five-year Intergovernmental Agre
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
-  Tempe  [Heard 2026-10-15]: 2. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental 
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
-  Tempe  [Heard 2026-10-15]: 3. Adopt a resolution authorizing the Mayor to sign Operations Funding Agreement (Fiscal Y
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
   City of Maricopa RES 25-36 [Passed]: The Mayor and City Council shall discuss and take action to approve the 2025 Public Transi
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=14403&GUID=DD060002-3ED2-48F0-87B1-9AC523BAAF1E
   City of Maricopa MISC 26-24 [Proclamation]: SR347Facts Team Acknowledgement for receiving the 2025 Arizona Transportation Partnering E
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15620&GUID=7E43E503-14C0-4F1C-8BC4-E1B91014C273
-  Phoenix 26-2228 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36262&GUID=D19601FD-3CA7-4513-BAAB-7529EA6CED28
   Phoenix 26-1773 [Agenda Ready]: Request to Issue a Solicitation for Final Design and a Solicitation for Construction of th
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35808&GUID=FB2D4EE1-7BEC-4607-93A0-DA1293F87892
   Mesa 26-0882 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Storm Drain Pump and Maintenanc
@@ -145,10 +129,6 @@ This co
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C
   City of Maricopa ORD 26-05 [Passed]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15096&GUID=B1403618-AAF8-45FD-A791-7878ADC94BF3
-  Tempe  [Heard 2026-09-24]: 13. Ratify contract increase with Otto Trucking Inc., for the removal and transportation o
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
-  Tempe  [Heard 2026-09-24]: 2. Adopt a resolution authorizing the Mayor to accept the Safe Streets and Roads for All (
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
   Phoenix 26-1964 [Adopted]: Arizona Department of Transportation Encroachment Permit and Waiver of Phoenix City Code 4
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35999&GUID=D156F470-F06C-4F2F-8A21-985EC144F607
   Phoenix 26-1934 [Adopted]: Request Retroactive Authorization to Apply for, Accept, and Disburse Federal Funding for t
@@ -167,10 +147,6 @@ This co
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=28219&GUID=89F6046E-DF8E-4E62-9533-407842A7CCE0
   Apache Junction 26-485 [Agenda Items]: Presentation, discussion, and update on discussions and negotiations with the Arizona Depa
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12532&GUID=C3F35488-7019-4051-BDC3-6A1EB418B72B
-  Tempe  [Heard 2026-09-10]: 2. Adopt a resolution authorizing the Mayor to sign Amendment One to a Joint Use and Lease
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4049
-  Tempe  [Heard 2026-09-10]: 3. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental 
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4049
   City of Maricopa RES 25-07 [Passed]: A Resolution of the Mayor and City Council of the City of Maricopa, Pinal County, Arizona,
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=13928&GUID=125E6E2A-F802-4A35-B673-EC026F8613BC
   Phoenix 26-1855 [Adopted]: Authorization to Submit Applications for the Federal Transit Administration Low or No Emis
@@ -181,16 +157,30 @@ This co
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35792&GUID=678C78C5-387B-4766-A5D1-1F0F718B08DD
   Phoenix 26-1738 [Adopted]: Request Retroactive Authorization to Apply for Federal Funding for U.S. Department of Tran
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35773&GUID=E9C17DB6-7D1D-43B8-AC40-99004A2BDD25
+  Phoenix 26-0511 [Adopted]: Intergovernmental Agreement with Maricopa County Department of Transportation for Loop 101
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=34547&GUID=3F62288D-5CEF-4ACE-B689-BADAD3A98D43
+  City of Maricopa POL 26-01 [Approved]: The Mayor and City Council shall discuss and take action on adopting the Alcohol & Drug Te
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15451&GUID=D36FF304-D346-4031-A686-FC354F9AA21A
+  Mesa 26-0797 [Agenda Ready]: Five-Year Term Contract for Electrical Equipment, Part & Supplies for Various Citywide Dep
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24015&GUID=CDB55927-5D63-4474-8487-611DF35BB9AC
+  Mesa 26-0796 [Agenda Ready]: Five-Year Use of a Cooperative Term Contract for Information Technology Temporary and Prof
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24014&GUID=63FF59DB-D85A-4721-9B81-BD7586DEF437
+  City of Maricopa ZON 26-03 [Regular Agenda]: PUBLIC HEARING: A request by the City of Maricopa to rezone several parcels of land, total
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15429&GUID=7D41635C-124B-407C-8F70-2D42D6BABEC8
+  Phoenix 26-1695 [Adopted]: October 2026 Proposed Bus Service Improvements (Ordinance S-53136) - Districts 1, 2, 3, 5,
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35730&GUID=CBDB509C-6B46-4389-8E67-A7DD7DF16FC8
+  Mesa 26-0623 [Agenda Ready]: Amending Sections 10-4-2 and 10-4-3 of the Mesa City Code to establish a continuous speed 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23839&GUID=F2C6F5F5-CC18-4E6B-9C89-066545FFDFDA
+  Mesa 26-0737 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Intergovernmental Agreement wi
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23953&GUID=BE8581AE-185E-4B1F-A39B-DA3A881668D1
+  Mesa 26-0619 [Agenda Ready]: Amending Sections 10-4-5 and 10-4-6 of the Mesa City Code to modify the existing speed lim
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23835&GUID=7C18FFEA-07E5-45D5-8F92-43D05D5B6314
 
-=== WALKABILITY (13) ===
+=== WALKABILITY (10) ===
   Apache Junction 26-565 [Consent Agenda]: Consideration of approval of Resolution No. 26-41, authorizing submission of projects to t
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12612&GUID=A547A2AF-AA70-4A6E-9171-BF63FCF9FF99
   Phoenix 26-2108 [Agenda Ready]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
-  Tempe  [Heard 2026-10-15]: 5. Approve a one-year contract renewal with Artistic Land Management for landscape mainten
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
-  Tempe  [Heard 2026-10-15]: 7. Adopt a resolution authorizing the Chief of Police or designee(s), to execute a grant a
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
   Mesa 26-0881 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for Traffic Signal LED Replacement 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24098&GUID=AF32A397-6229-4C4E-B133-A36D95702BC9
   Mesa 26-0880 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for LED Modules for Traffic Control
@@ -203,8 +193,6 @@ This co
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12533&GUID=4A9A84A2-6B31-40CB-8B11-2868BC03352A
   Phoenix 26-1343 [Adopted]: Acceptance and Dedication of Deeds and Easements for Roadway, Sidewalk, Public Utility and
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35378&GUID=536B84A0-3961-465B-920E-3B3E8788606F
-  Tempe  [Heard 2026-09-01]: 7. Award a change order to Combs Construction Company, LLC, for Project No. 6009741 - Bike
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4045
   Phoenix 26-1530 [Adopted]: Van Buren Street: 7th Street to 24th Street Signal and Pedestrian Improvements - Design-Bi
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35565&GUID=FE7F65C2-1452-4834-A3AB-E4B9CD8BFB54
   Mesa 26-0748 [Agenda Ready]: Elliot Road: Eastern Maricopa Floodway to Ellsworth Road, Design-Bid-Build Contract (Distr
