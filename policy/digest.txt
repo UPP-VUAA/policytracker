@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-22 10:46 MST | window 90d | 232 items
+Generated 2026-10-23 10:37 MST | window 90d | 234 items
 
 
-=== HOUSING (173) ===
+=== HOUSING (175) ===
+  Phoenix 26-1573 [Adopted]: ***ITEM REVISED (SEE ATTACHED MEMO)*** Public Hearing and Resolution Adoption - General Pl
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
   City of Maricopa ZON26-07 [Regular Agenda]: Public Hearing: Maricopa Manor, ZON26-07. A request by Gwendolyn Butler, GTNJ Architecture
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15639&GUID=40F66557-B199-4282-B65C-974DE2ED3390
   City of Maricopa TXT 26-04 [Regular Agenda]: PUBLIC HEARING: TXT26-04 Non- Residential Design Guidelines: A request by the City of Mari
@@ -15,6 +17,8 @@ Generated 2026-10-22 10:46 MST | window 90d | 232 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24120&GUID=33402A4C-283D-4306-8C98-02234F54BBBD
   Mesa PZ 26089 [Agenda Ready]: ZON26-00217. "Val Vista Oil," 0.45± acres located approximately 250± feet north of the nor
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24119&GUID=4F799939-EC16-4904-9F0F-AC45B269303E
+  Mesa PZ 26088 [Agenda Ready]: ZON25-00660. “Gateway Crossing,” 37± acres located at the southwest corner of East William
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24118&GUID=1B79FEBB-4A4D-456D-86C6-BE61BD0BD046
   Mesa PZ 26087 [Agenda Ready]: ZON26-00131. "Ellsworth II Energy Center," 20.3± acres located approximately 1,200± feet w
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24117&GUID=0E2451B8-3C4C-486F-B4D9-A598686D1EE2
   Mesa PZ 26086 [Agenda Ready]: ZON26-00129. "Ellsworth I Energy Center," 21.8± acres located approximately 2,450± feet we
@@ -23,12 +27,18 @@ Generated 2026-10-22 10:46 MST | window 90d | 232 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24115&GUID=8862FD99-0706-4013-8BE8-3B2EFAB08773
   Mesa PZ 26084 [Agenda Ready]: GPA26-00248. "View 202 - Minor GPA," 21.6± acres located at the southwest corner of South 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24114&GUID=440F81FE-CEFB-42DE-925C-EBF519EC4F78
+  City of Maricopa ORD 26-16 [Passed]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F
   City of Maricopa CUP 26-08 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15649&GUID=60A7B22A-3CD5-4500-876D-A3FA86B3886A
   Phoenix 26-1901 [Continued]: ***CONTINUED FROM AUGUST 26, 2026 *** Amend City Code - Official Supplementary Zoning Map 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35936&GUID=B0E991FD-CC55-47A7-A3D1-85C2469FC503
+  Phoenix 26-1575 [Adopted]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-2-26-7-8 - Area 
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35610&GUID=8795F2F3-B682-4CE4-8D7C-C3374B3F2A90
   Mesa 26-0893 [Agenda Ready]: Approving and authorizing the City Manager to enter into a Development Agreement with The 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24110&GUID=984FF056-2ADE-4647-8C34-D3A28DF2E27B
+  Mesa 26-0892 [Agenda Ready]: ZON25-00943 "Waffle Flower Warehouse Rezone" 2.4± acres located at the northwest corner of
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24109&GUID=78588541-5E31-450A-AA28-26FED6517B7F
   Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7
   Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
@@ -41,12 +51,6 @@ Generated 2026-10-22 10:46 MST | window 90d | 232 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36172&GUID=860BED1E-F083-4293-92FE-825DA3AD6971
   Phoenix 26-1989 [Adopted]: Retroactive Authorization for Central Arizona Water Conservation District Land Use License
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36024&GUID=4346B036-44F5-47A2-BDF9-6E79C0420790
-  Phoenix 26-1575 [Adopted]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-CC-SM-2-26-7-8 - Area 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35610&GUID=8795F2F3-B682-4CE4-8D7C-C3374B3F2A90
-  Phoenix 26-1573 [Adopted]: ***ITEM REVISED (SEE ATTACHED MEMO)*** Public Hearing and Resolution Adoption - General Pl
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
-  City of Maricopa ORD 26-16 [Regular Agenda]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F
   Phoenix 26-2051 [Agenda Ready]: Neighborhood Services Department Update on Infill Property Dispositions - Districts 4 and 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36086&GUID=9F0BCE0E-54A6-4539-8FD7-ABAEC979F82F
   Phoenix 26-1938 [Adopted]: Design, Fabrication and Installation Contract with coLAB studio, LLC for the Girasol Affor
@@ -79,10 +83,6 @@ Generated 2026-10-22 10:46 MST | window 90d | 232 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4057
   Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4
-  Mesa 26-0834 [Agenda Ready]: Five-Year Term Contract for Pool Treatment Chemicals - Group 6 for the Parks, Recreation a
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85
-  Tempe  [Heard 2026-10-13]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED AREA DEVELOPMENT OVERLAY: NONE
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4057
 
 === HEAT (5) ===
   Phoenix 26-2019 [Agenda Ready]: Heat Related Calls Update - Citywide
