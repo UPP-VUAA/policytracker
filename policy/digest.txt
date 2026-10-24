@@ -1,5 +1,5 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-23 10:37 MST | window 90d | 234 items
+Generated 2026-10-24 09:23 MST | window 90d | 234 items
 
 
 === HOUSING (175) ===
@@ -97,6 +97,8 @@ Generated 2026-10-23 10:37 MST | window 90d | 234 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
 === TRANSIT (50) ===
+  Phoenix 26-1862 [Adopted]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C
   Phoenix 26-2228 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36262&GUID=D19601FD-3CA7-4513-BAAB-7529EA6CED28
   Phoenix 26-1773 [Agenda Ready]: Request to Issue a Solicitation for Final Design and a Solicitation for Construction of th
@@ -141,8 +143,6 @@ This co
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24098&GUID=AF32A397-6229-4C4E-B133-A36D95702BC9
   Mesa 26-0880 [Agenda Ready]: Three-Year Term Contract with Two-Year Renewal Options for LED Modules for Traffic Control
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24097&GUID=6C4A9066-CC41-44BC-967B-546D0EECC2DA
-  Phoenix 26-1862 [Adopted]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C
   City of Maricopa ORD 26-05 [Passed]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15096&GUID=B1403618-AAF8-45FD-A791-7878ADC94BF3
   Tempe  [Heard 2026-09-24]: 13. Ratify contract increase with Otto Trucking Inc., for the removal and transportation o

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T10:37:47.439783-07:00",
+  "generated": "2026-10-24T09:23:26.967235-07:00",
   "window_days": 90,
   "count": 234,
   "cities_live": [
@@ -10,6 +10,29 @@
     "City of Maricopa"
   ],
   "items": [
+    {
+      "city": "Phoenix",
+      "county": "Maricopa",
+      "topics": [
+        "Transit"
+      ],
+      "file": "26-1862",
+      "type": "Ordinance-S",
+      "status": "Adopted",
+      "title": "Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the use of Real Property for Valley Metro Rail, Inc. (Ordinance S-53234) - District 7",
+      "intro": "2026-08-21",
+      "agenda": "2026-10-07",
+      "enacted": "",
+      "last_modified": "2026-10-23",
+      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
     {
       "city": "Phoenix",
       "county": "Maricopa",
@@ -31,7 +54,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 1
     },
     {
       "city": "City of Maricopa",
@@ -49,12 +72,12 @@
       "last_modified": "2026-10-22",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15639&GUID=40F66557-B199-4282-B65C-974DE2ED3390",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 2
     },
     {
       "city": "City of Maricopa",
@@ -72,12 +95,12 @@
       "last_modified": "2026-10-22",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15673&GUID=2651C6F7-D967-4A33-B95E-33F9FE3C8004",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
+      "_uid": 3
     },
     {
       "city": "City of Maricopa",
@@ -95,12 +118,12 @@
       "last_modified": "2026-10-22",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15648&GUID=DDC2ECC1-4F14-41F8-A26E-E1B10C3BA17C",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 4
     },
     {
       "city": "Mesa",
@@ -118,12 +141,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24135&GUID=7AD5D1D3-D14A-44C9-B8D5-0B3701577E0C",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
+      "_uid": 5
     },
     {
       "city": "Mesa",
@@ -141,12 +164,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24120&GUID=33402A4C-283D-4306-8C98-02234F54BBBD",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 5
+      "_uid": 6
     },
     {
       "city": "Mesa",
@@ -164,12 +187,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24119&GUID=4F799939-EC16-4904-9F0F-AC45B269303E",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
+      "_uid": 7
     },
     {
       "city": "Mesa",
@@ -187,12 +210,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24118&GUID=1B79FEBB-4A4D-456D-86C6-BE61BD0BD046",
       "source": "Legistar",
-      "_action_days": 5,
-      "_new": true,
+      "_action_days": 4,
+      "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 7
+      "_uid": 8
     },
     {
       "city": "Mesa",
@@ -210,12 +233,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24117&GUID=0E2451B8-3C4C-486F-B4D9-A598686D1EE2",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 8
+      "_uid": 9
     },
     {
       "city": "Mesa",
@@ -233,12 +256,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24116&GUID=8337A9E1-C14A-4A94-A182-4503CF148FB6",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 9
+      "_uid": 10
     },
     {
       "city": "Mesa",
@@ -256,12 +279,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24115&GUID=8862FD99-0706-4013-8BE8-3B2EFAB08773",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 10
+      "_uid": 11
     },
     {
       "city": "Mesa",
@@ -279,12 +302,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24114&GUID=440F81FE-CEFB-42DE-925C-EBF519EC4F78",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 11
+      "_uid": 12
     },
     {
       "city": "City of Maricopa",
@@ -304,10 +327,10 @@
       "source": "Legistar",
       "_action_days": null,
       "_new": false,
-      "_moved": "adopted",
-      "_movefrom": "Regular Agenda",
-      "_moveto": "Passed",
-      "_uid": 12
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 13
     },
     {
       "city": "City of Maricopa",
@@ -325,12 +348,12 @@
       "last_modified": "2026-10-22",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15649&GUID=60A7B22A-3CD5-4500-876D-A3FA86B3886A",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 13
+      "_uid": 14
     },
     {
       "city": "Phoenix",
@@ -353,7 +376,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 14
+      "_uid": 15
     },
     {
       "city": "Phoenix",
@@ -376,7 +399,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 15
+      "_uid": 16
     },
     {
       "city": "Phoenix",
@@ -399,7 +422,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 16
+      "_uid": 17
     },
     {
       "city": "Phoenix",
@@ -422,7 +445,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 17
+      "_uid": 18
     },
     {
       "city": "Mesa",
@@ -440,12 +463,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24124&GUID=F937B6B0-E5A1-49B5-A4A7-427A1838DF69",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 18
+      "_uid": 19
     },
     {
       "city": "Mesa",
@@ -463,12 +486,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24110&GUID=984FF056-2ADE-4647-8C34-D3A28DF2E27B",
       "source": "Legistar",
-      "_action_days": 10,
+      "_action_days": 9,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 19
+      "_uid": 20
     },
     {
       "city": "Mesa",
@@ -486,12 +509,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24109&GUID=78588541-5E31-450A-AA28-26FED6517B7F",
       "source": "Legistar",
-      "_action_days": 10,
-      "_new": true,
+      "_action_days": 9,
+      "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 20
+      "_uid": 21
     },
     {
       "city": "Mesa",
@@ -509,12 +532,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 21
+      "_uid": 22
     },
     {
       "city": "Mesa",
@@ -532,12 +555,12 @@
       "last_modified": "2026-10-22",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 22
+      "_uid": 23
     },
     {
       "city": "Phoenix",
@@ -560,7 +583,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 23
+      "_uid": 24
     },
     {
       "city": "Phoenix",
@@ -583,7 +606,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 24
+      "_uid": 25
     },
     {
       "city": "Phoenix",
@@ -606,7 +629,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 25
+      "_uid": 26
     },
     {
       "city": "Phoenix",
@@ -629,7 +652,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 26
+      "_uid": 27
     },
     {
       "city": "Phoenix",
@@ -652,7 +675,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 27
+      "_uid": 28
     },
     {
       "city": "Phoenix",
@@ -675,7 +698,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 28
+      "_uid": 29
     },
     {
       "city": "Phoenix",
@@ -698,7 +721,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 29
+      "_uid": 30
     },
     {
       "city": "Phoenix",
@@ -716,12 +739,12 @@
       "last_modified": "2026-10-20",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36086&GUID=9F0BCE0E-54A6-4539-8FD7-ABAEC979F82F",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 30
+      "_uid": 31
     },
     {
       "city": "Phoenix",
@@ -744,7 +767,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 31
+      "_uid": 32
     },
     {
       "city": "Apache Junction",
@@ -767,7 +790,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 32
+      "_uid": 33
     },
     {
       "city": "Apache Junction",
@@ -790,7 +813,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 33
+      "_uid": 34
     },
     {
       "city": "Mesa",
@@ -808,12 +831,12 @@
       "last_modified": "2026-10-19",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24133&GUID=D7182DF9-6DEF-474E-AAB3-19C573F8B0EA",
       "source": "Legistar",
-      "_action_days": 10,
+      "_action_days": 9,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 34
+      "_uid": 35
     },
     {
       "city": "Mesa",
@@ -836,7 +859,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 35
+      "_uid": 36
     },
     {
       "city": "Mesa",
@@ -859,7 +882,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 36
+      "_uid": 37
     },
     {
       "city": "City of Maricopa",
@@ -882,7 +905,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 37
+      "_uid": 38
     },
     {
       "city": "Phoenix",
@@ -901,12 +924,12 @@
       "last_modified": "2026-10-15",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB",
       "source": "Legistar",
-      "_action_days": 12,
+      "_action_days": 11,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 38
+      "_uid": 39
     },
     {
       "city": "Phoenix",
@@ -924,12 +947,12 @@
       "last_modified": "2026-10-15",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36036&GUID=799AEC57-F057-4AB6-94D4-281D1A0890C1",
       "source": "Legistar",
-      "_action_days": 12,
+      "_action_days": 11,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 39
+      "_uid": 40
     },
     {
       "city": "Mesa",
@@ -952,7 +975,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 40
+      "_uid": 41
     },
     {
       "city": "Tempe",
@@ -976,7 +999,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 41
+      "_uid": 42
     },
     {
       "city": "Tempe",
@@ -999,7 +1022,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 42
+      "_uid": 43
     },
     {
       "city": "Tempe",
@@ -1022,7 +1045,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 43
+      "_uid": 44
     },
     {
       "city": "Tempe",
@@ -1045,7 +1068,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 44
+      "_uid": 45
     },
     {
       "city": "Tempe",
@@ -1068,7 +1091,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 45
+      "_uid": 46
     },
     {
       "city": "Tempe",
@@ -1091,7 +1114,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 46
+      "_uid": 47
     },
     {
       "city": "Tempe",
@@ -1114,7 +1137,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 47
+      "_uid": 48
     },
     {
       "city": "Tempe",
@@ -1137,7 +1160,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 48
+      "_uid": 49
     },
     {
       "city": "Tempe",
@@ -1160,7 +1183,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 49
+      "_uid": 50
     },
     {
       "city": "City of Maricopa",
@@ -1183,7 +1206,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 50
+      "_uid": 51
     },
     {
       "city": "City of Maricopa",
@@ -1206,7 +1229,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 51
+      "_uid": 52
     },
     {
       "city": "City of Maricopa",
@@ -1229,7 +1252,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 52
+      "_uid": 53
     },
     {
       "city": "Tempe",
@@ -1252,7 +1275,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 53
+      "_uid": 54
     },
     {
       "city": "Tempe",
@@ -1275,7 +1298,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 54
+      "_uid": 55
     },
     {
       "city": "Tempe",
@@ -1298,7 +1321,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 55
+      "_uid": 56
     },
     {
       "city": "Tempe",
@@ -1321,7 +1344,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 56
+      "_uid": 57
     },
     {
       "city": "Tempe",
@@ -1344,7 +1367,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 57
+      "_uid": 58
     },
     {
       "city": "Apache Junction",
@@ -1367,7 +1390,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 58
+      "_uid": 59
     },
     {
       "city": "Mesa",
@@ -1385,12 +1408,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24099&GUID=59B5789D-A95A-40FC-8073-8F8DFB25317B",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 59
+      "_uid": 60
     },
     {
       "city": "Mesa",
@@ -1409,12 +1432,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24098&GUID=AF32A397-6229-4C4E-B133-A36D95702BC9",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 60
+      "_uid": 61
     },
     {
       "city": "Mesa",
@@ -1433,12 +1456,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24097&GUID=6C4A9066-CC41-44BC-967B-546D0EECC2DA",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 61
+      "_uid": 62
     },
     {
       "city": "Mesa",
@@ -1456,12 +1479,12 @@
       "last_modified": "2026-10-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24051&GUID=D58948B3-0CE4-4200-A182-5B43240E8E85",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 62
+      "_uid": 63
     },
     {
       "city": "Tempe",
@@ -1484,7 +1507,7 @@
       "_moved": "",
       "_movefrom": "Heard 2026-08-11",
       "_moveto": "Heard 2026-10-13",
-      "_uid": 63
+      "_uid": 64
     },
     {
       "city": "City of Maricopa",
@@ -1507,7 +1530,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 64
+      "_uid": 65
     },
     {
       "city": "City of Maricopa",
@@ -1530,7 +1553,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 65
+      "_uid": 66
     },
     {
       "city": "Mesa",
@@ -1553,7 +1576,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 66
+      "_uid": 67
     },
     {
       "city": "Mesa",
@@ -1576,7 +1599,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 67
+      "_uid": 68
     },
     {
       "city": "Mesa",
@@ -1599,7 +1622,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 68
+      "_uid": 69
     },
     {
       "city": "Mesa",
@@ -1622,7 +1645,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 69
+      "_uid": 70
     },
     {
       "city": "Mesa",
@@ -1645,7 +1668,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 70
+      "_uid": 71
     },
     {
       "city": "Apache Junction",
@@ -1668,7 +1691,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 71
+      "_uid": 72
     },
     {
       "city": "City of Maricopa",
@@ -1691,7 +1714,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 72
+      "_uid": 73
     },
     {
       "city": "Phoenix",
@@ -1714,7 +1737,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 73
+      "_uid": 74
     },
     {
       "city": "Phoenix",
@@ -1737,7 +1760,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 74
+      "_uid": 75
     },
     {
       "city": "Phoenix",
@@ -1760,7 +1783,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 75
+      "_uid": 76
     },
     {
       "city": "Phoenix",
@@ -1783,7 +1806,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 76
+      "_uid": 77
     },
     {
       "city": "Phoenix",
@@ -1806,7 +1829,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 77
+      "_uid": 78
     },
     {
       "city": "Phoenix",
@@ -1823,29 +1846,6 @@
       "enacted": "",
       "last_modified": "2026-10-07",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35980&GUID=AEC064BD-02BF-4CC8-B726-DD1D08736DA3",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 78
-    },
-    {
-      "city": "Phoenix",
-      "county": "Maricopa",
-      "topics": [
-        "Transit"
-      ],
-      "file": "26-1862",
-      "type": "Ordinance-S",
-      "status": "Adopted",
-      "title": "Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the use of Real Property for Valley Metro Rail, Inc. (Ordinance S-53234) - District 7",
-      "intro": "2026-08-21",
-      "agenda": "2026-10-07",
-      "enacted": "",
-      "last_modified": "2026-10-07",
-      "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C",
       "source": "Legistar",
       "_action_days": null,
       "_new": false,
