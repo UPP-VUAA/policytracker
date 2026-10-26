@@ -1,12 +1,14 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-25 09:55 MST | window 90d | 234 items
+Generated 2026-10-26 11:57 MST | window 90d | 230 items
 
 
-=== HOUSING (175) ===
-  Phoenix 26-1573 [Adopted]: ***ITEM REVISED (SEE ATTACHED MEMO)*** Public Hearing and Resolution Adoption - General Pl
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
+=== HOUSING (173) ===
   City of Maricopa ZON26-07 [Regular Agenda]: Public Hearing: Maricopa Manor, ZON26-07. A request by Gwendolyn Butler, GTNJ Architecture
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15639&GUID=40F66557-B199-4282-B65C-974DE2ED3390
+  Mesa PZ 26087 [Agenda Ready]: ZON26-00131. "Ellsworth II Energy Center," 20.3± acres located approximately 1,200± feet w
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24117&GUID=0E2451B8-3C4C-486F-B4D9-A598686D1EE2
+  Phoenix 26-1573 [Adopted]: ***ITEM REVISED (SEE ATTACHED MEMO)*** Public Hearing and Resolution Adoption - General Pl
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
   City of Maricopa TXT 26-04 [Regular Agenda]: PUBLIC HEARING: TXT26-04 Non- Residential Design Guidelines: A request by the City of Mari
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15673&GUID=2651C6F7-D967-4A33-B95E-33F9FE3C8004
   City of Maricopa TXT 26-03 [Regular Agenda]: PUBLIC HEARING:TXT26-03: a request by the City of Maricopa for miscellaneous text revision
@@ -19,8 +21,6 @@ Generated 2026-10-25 09:55 MST | window 90d | 234 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24119&GUID=4F799939-EC16-4904-9F0F-AC45B269303E
   Mesa PZ 26088 [Agenda Ready]: ZON25-00660. “Gateway Crossing,” 37± acres located at the southwest corner of East William
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24118&GUID=1B79FEBB-4A4D-456D-86C6-BE61BD0BD046
-  Mesa PZ 26087 [Agenda Ready]: ZON26-00131. "Ellsworth II Energy Center," 20.3± acres located approximately 1,200± feet w
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24117&GUID=0E2451B8-3C4C-486F-B4D9-A598686D1EE2
   Mesa PZ 26086 [Agenda Ready]: ZON26-00129. "Ellsworth I Energy Center," 21.8± acres located approximately 2,450± feet we
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24116&GUID=8337A9E1-C14A-4A94-A182-4503CF148FB6
   Mesa PZ 26085 [Agenda Ready]: ZON26-00126. "View 202 - Multifamily Rezone," 21.6± acres located at the southwest corner 
@@ -96,7 +96,7 @@ Generated 2026-10-25 09:55 MST | window 90d | 234 items
   Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (50) ===
+=== TRANSIT (48) ===
   Phoenix 26-1862 [Adopted]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C
   Phoenix 26-2228 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
