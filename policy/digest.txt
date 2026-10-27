@@ -1,12 +1,24 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-26 11:57 MST | window 90d | 230 items
+Generated 2026-10-27 11:29 MST | window 90d | 227 items
 
 
-=== HOUSING (173) ===
+=== HOUSING (169) ===
+  Phoenix 26-2108 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
+  Phoenix 26-2107 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 - Di
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36142&GUID=F7855C4B-C42E-4EB6-BAF9-87BD007CE612
   City of Maricopa ZON26-07 [Regular Agenda]: Public Hearing: Maricopa Manor, ZON26-07. A request by Gwendolyn Butler, GTNJ Architecture
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15639&GUID=40F66557-B199-4282-B65C-974DE2ED3390
   Mesa PZ 26087 [Agenda Ready]: ZON26-00131. "Ellsworth II Energy Center," 20.3± acres located approximately 1,200± feet w
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24117&GUID=0E2451B8-3C4C-486F-B4D9-A598686D1EE2
+  Mesa PZ 26086 [Agenda Ready]: ZON26-00129. "Ellsworth I Energy Center," 21.8± acres located approximately 2,450± feet we
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24116&GUID=8337A9E1-C14A-4A94-A182-4503CF148FB6
+  Mesa PZ 26085 [Agenda Ready]: ZON26-00126. "View 202 - Multifamily Rezone," 21.6± acres located at the southwest corner 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24115&GUID=8862FD99-0706-4013-8BE8-3B2EFAB08773
+  Mesa PZ 26084 [Agenda Ready]: GPA26-00248. "View 202 - Minor GPA," 21.6± acres located at the southwest corner of South 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24114&GUID=440F81FE-CEFB-42DE-925C-EBF519EC4F78
+  Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7
   Phoenix 26-1573 [Adopted]: ***ITEM REVISED (SEE ATTACHED MEMO)*** Public Hearing and Resolution Adoption - General Pl
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35608&GUID=D4C62F21-D34A-4124-8B44-BE867962475D
   City of Maricopa TXT 26-04 [Regular Agenda]: PUBLIC HEARING: TXT26-04 Non- Residential Design Guidelines: A request by the City of Mari
@@ -21,12 +33,6 @@ Generated 2026-10-26 11:57 MST | window 90d | 230 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24119&GUID=4F799939-EC16-4904-9F0F-AC45B269303E
   Mesa PZ 26088 [Agenda Ready]: ZON25-00660. “Gateway Crossing,” 37± acres located at the southwest corner of East William
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24118&GUID=1B79FEBB-4A4D-456D-86C6-BE61BD0BD046
-  Mesa PZ 26086 [Agenda Ready]: ZON26-00129. "Ellsworth I Energy Center," 21.8± acres located approximately 2,450± feet we
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24116&GUID=8337A9E1-C14A-4A94-A182-4503CF148FB6
-  Mesa PZ 26085 [Agenda Ready]: ZON26-00126. "View 202 - Multifamily Rezone," 21.6± acres located at the southwest corner 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24115&GUID=8862FD99-0706-4013-8BE8-3B2EFAB08773
-  Mesa PZ 26084 [Agenda Ready]: GPA26-00248. "View 202 - Minor GPA," 21.6± acres located at the southwest corner of South 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24114&GUID=440F81FE-CEFB-42DE-925C-EBF519EC4F78
   City of Maricopa ORD 26-16 [Passed]: An Ordinance of the Mayor and City Council, City of Maricopa, Arizona, approving and adopt
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15609&GUID=622EAE93-14E8-4CBB-BE21-DC9BAEC74F2F
   City of Maricopa CUP 26-08 [Regular Agenda]: PUBLIC HEARING: The Planning and Zoning Commission shall discuss and take action on a requ
@@ -39,8 +45,6 @@ Generated 2026-10-26 11:57 MST | window 90d | 230 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24110&GUID=984FF056-2ADE-4647-8C34-D3A28DF2E27B
   Mesa 26-0892 [Agenda Ready]: ZON25-00943 "Waffle Flower Warehouse Rezone" 2.4± acres located at the northwest corner of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24109&GUID=78588541-5E31-450A-AA28-26FED6517B7F
-  Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7
   Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
   Phoenix 26-2211 [Adopted]: Public Hearing and Resolution Adoption - General Plan Amendment GPA-EST-1-26-7 - Southeast
@@ -61,8 +65,6 @@ Generated 2026-10-26 11:57 MST | window 90d | 230 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
   City of Maricopa ZON 26-04(2) [Regular Agenda]: A request by the City of Maricopa to rezone three parcels of land that total ±0.90 acres, 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15566&GUID=92235B0F-6D62-4434-B8FF-360A0241D03C
-  Phoenix 26-2108 [Agenda Ready]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
   Tempe  [Heard 2026-10-15]: 1. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Hold the second and final public hea
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
   Tempe  [Heard 2026-10-15]: 2. PUBLIC HEARING ITEM PURSUANT TO A.R.S. § 9-462.04: Hold the second and final public hea
@@ -81,8 +83,6 @@ Generated 2026-10-26 11:57 MST | window 90d | 230 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4057
   Tempe PL260076 [Heard 2026-10-13]: A. Request a Use Permit to allow two (2) required parking spaces within the front yard set
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4057
-  Apache Junction 26-501 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12548&GUID=F8384454-A679-487B-8D4C-100FAABC18F4
 
 === HEAT (5) ===
   Phoenix 26-2019 [Agenda Ready]: Heat Related Calls Update - Citywide
@@ -96,7 +96,13 @@ Generated 2026-10-26 11:57 MST | window 90d | 230 items
   Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (48) ===
+=== TRANSIT (49) ===
+  Phoenix 26-2001 [Agenda Ready - Aviation Dept]: Phoenix Sky Harbor International Airport Rental Car Center Vertical Transportation Moderni
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36036&GUID=799AEC57-F057-4AB6-94D4-281D1A0890C1
+  Mesa 26-0924 [Agenda Ready]: Brown Road and 40th Street Traffic Signal, Low Bid Construction Contract (District 2)
+ 
+
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24141&GUID=0978F903-D518-4793-AB93-819F3AF1E2BB
   Phoenix 26-1862 [Adopted]: Authorization to Enter Into an Easement Agreement with 701 N. Central Owner, LLC for the u
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35897&GUID=61818BEA-0352-4CC8-A8B8-989375B22F4C
   Phoenix 26-2228 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
@@ -119,8 +125,6 @@ This co
 
 This co
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24132&GUID=837C03F2-1364-4CF6-BED9-C19B76C4382C
-  Phoenix 26-2001 [Agenda Ready]: Phoenix Sky Harbor International Airport Rental Car Center Vertical Transportation Moderni
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36036&GUID=799AEC57-F057-4AB6-94D4-281D1A0890C1
   Mesa 26-0853 [Agenda Ready]: Transportation Advisory Board meeting held on July 21, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24070&GUID=CE8F5A68-CE67-4491-9665-5F00C1907741
   Tempe  [Heard 2026-10-15]: 5. Approve a one-year contract renewal with Artistic Land Management for landscape mainten
@@ -179,14 +183,18 @@ This co
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35888&GUID=1B62D44D-F99B-4C22-A2A5-A11D96D97F6A
   Phoenix 26-1757 [Adopted]: Request Retroactive Authorization to Apply for U.S. Department of Transportation Safe Stre
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35792&GUID=678C78C5-387B-4766-A5D1-1F0F718B08DD
-  Phoenix 26-1738 [Adopted]: Request Retroactive Authorization to Apply for Federal Funding for U.S. Department of Tran
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35773&GUID=E9C17DB6-7D1D-43B8-AC40-99004A2BDD25
 
-=== WALKABILITY (13) ===
+=== WALKABILITY (15) ===
+  Phoenix 26-2108 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
+  Phoenix 26-2107 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 - Di
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36142&GUID=F7855C4B-C42E-4EB6-BAF9-87BD007CE612
+  Mesa 26-0924 [Agenda Ready]: Brown Road and 40th Street Traffic Signal, Low Bid Construction Contract (District 2)
+ 
+
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24141&GUID=0978F903-D518-4793-AB93-819F3AF1E2BB
   Apache Junction 26-565 [Consent Agenda]: Consideration of approval of Resolution No. 26-41, authorizing submission of projects to t
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12612&GUID=A547A2AF-AA70-4A6E-9171-BF63FCF9FF99
-  Phoenix 26-2108 [Agenda Ready]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
   Tempe  [Heard 2026-10-15]: 5. Approve a one-year contract renewal with Artistic Land Management for landscape mainten
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4058
   Tempe  [Heard 2026-10-15]: 7. Adopt a resolution authorizing the Chief of Police or designee(s), to execute a grant a
