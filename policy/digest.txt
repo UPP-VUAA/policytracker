@@ -1,23 +1,31 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-10-29 11:45 MST | window 90d | 238 items
+Generated 2026-10-30 11:20 MST | window 90d | 241 items
 
 
-=== HOUSING (178) ===
-  Phoenix 26-2356 [Agenda Ready - City Clerk]: (CONTINUED FROM AUGUST 26, 2026 AND OCTOBER 21, 2026) - Amend City Code - Official Supplem
+=== HOUSING (180) ===
+  Phoenix 26-2195 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1313 (Ordinance G-7556) - District 4
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36229&GUID=2EA2A1E4-E009-4D07-916D-6397EC589388
+  Mesa ADJ 26054 [Agenda Ready]: BOA26-00410. "1147 N Diane St," 0.27± acres located at 1147 North Diane Street. Variance. 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24143&GUID=1062A31B-AF80-43EF-9CFF-9F6E82437312
+  Phoenix 26-2356 [Agenda Ready - City Clerk]: (CONTINUED FROM AUGUST 26 AND OCTOBER 21, 2026) - Amend City Code - Official Supplementary
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36390&GUID=D9E14606-FA43-4C41-BEEB-7A316FBA5318
+  Phoenix 26-2285 [Agenda Ready - IDA Department]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Bonds (Girasol T
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36319&GUID=9B79FF7E-5C10-46BF-B16A-EFF26A677907
+  Phoenix 26-2283 [Agenda Ready - IDA Department]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Bonds (West Elev
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36317&GUID=DACD5E4C-756B-4AC2-8EA5-6B09F9B9589A
   Phoenix 26-2282 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-103-26-8 - Southwest Corner 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36316&GUID=90FCE39C-8589-4467-B999-D85CF2CFF91B
+  Phoenix 26-2276 [Agenda Ready - IDA Department]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Bonds (The Cypre
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36310&GUID=D76C531C-74B6-4FFE-B6AE-B2E050B9C4DA
   Phoenix 26-2210 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-180-25-6 (Rio Rancho PUD) - 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36244&GUID=CE33A6F2-8C08-42C7-81FA-8F57DF492F2F
-  Phoenix 26-2195 [Agenda Ready - Planning & Development Department]: Amend City Code - Official Supplementary Zoning Map 1313 (Ordinance G- ) - District 4
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36229&GUID=2EA2A1E4-E009-4D07-916D-6397EC589388
   Phoenix 26-2176 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-92-26-6 - Southeast Corner o
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36210&GUID=B4C0D38F-5EB6-4A27-A251-7230779FCA3C
   Phoenix 26-2111 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - ST89340634 - 35th Avenue, Interstate 10 to Camelback
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36146&GUID=0D34D617-671F-4193-AFA8-FB0D82DB46F4
-  Phoenix 26-2108 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
+  Phoenix 26-2108 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
-  Phoenix 26-2107 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 - Di
+  Phoenix 26-2107 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36142&GUID=F7855C4B-C42E-4EB6-BAF9-87BD007CE612
   Phoenix 26-1798 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-3-26-7 - Southwest Corner
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35833&GUID=0C2F219B-732D-4FB6-8E24-C0192BFE79BE
@@ -75,14 +83,6 @@ Generated 2026-10-29 11:45 MST | window 90d | 238 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4061
   Tempe  [Heard 2026-10-27]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED  AREA DEVELOPMENT OVERLAY: NONE
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4061
-  City of Maricopa ZON26-07 [Regular Agenda]: Public Hearing: Maricopa Manor, ZON26-07. A request by Gwendolyn Butler, GTNJ Architecture
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15639&GUID=40F66557-B199-4282-B65C-974DE2ED3390
-  Mesa PZ 26086 [Agenda Ready]: ZON26-00129. "Ellsworth I Energy Center," 21.8± acres located approximately 2,450± feet we
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24116&GUID=8337A9E1-C14A-4A94-A182-4503CF148FB6
-  Mesa PZ 26085 [Agenda Ready]: ZON26-00126. "View 202 - Multifamily Rezone," 21.6± acres located at the southwest corner 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24115&GUID=8862FD99-0706-4013-8BE8-3B2EFAB08773
-  Mesa PZ 26084 [Agenda Ready]: GPA26-00248. "View 202 - Minor GPA," 21.6± acres located at the southwest corner of South 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24114&GUID=440F81FE-CEFB-42DE-925C-EBF519EC4F78
 
 === HEAT (6) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -98,8 +98,10 @@ Generated 2026-10-29 11:45 MST | window 90d | 238 items
   Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (50) ===
-  Phoenix 26-2261 [Agenda Ready - Public Transit and Light Rail Department]: Bus Stop and Transit Center Cleaning Services RFP PTD26-006 - Request for Award - Citywide
+=== TRANSIT (51) ===
+  Phoenix 22-1559 [Adopted]: Authorization to Sell City-Owned Property Located at 4815 S. 67th Ave. to Arizona Departme
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=24064&GUID=97A24679-382A-4B8E-9DF3-6B0D5218CA00
+  Phoenix 26-2261 [Agenda Ready - Public Transit and Light Rail Department]: Bus Stop and Transit Center Cleaning Services - RFP PTD26-006 - Request for Award (Ordinan
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36295&GUID=F6D595B9-C596-4DBE-84D8-B51F2399E7C9
   Phoenix 26-2001 [Agenda Ready - Aviation Dept]: Phoenix Sky Harbor International Airport Rental Car Center Vertical Transportation Moderni
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36036&GUID=799AEC57-F057-4AB6-94D4-281D1A0890C1
@@ -183,13 +185,11 @@ This co
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5
   Phoenix 24-1564 [Adopted]: Naming of the Central Station Transit Center for Greg Stanton (Ordinance S-51131)
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=29822&GUID=4D08ACFE-55F3-43EF-9EBA-0F67715F5486
-  Phoenix 23-3166 [Adopted]: Street Transportation Department Pavement Maintenance Construction Inspection On-Call Serv
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=28219&GUID=89F6046E-DF8E-4E62-9533-407842A7CCE0
 
 === WALKABILITY (15) ===
-  Phoenix 26-2108 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321- Dis
+  Phoenix 26-2108 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
-  Phoenix 26-2107 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 - Di
+  Phoenix 26-2107 [Agenda Ready - Street Transportation]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36142&GUID=F7855C4B-C42E-4EB6-BAF9-87BD007CE612
   Phoenix 26-1766 [Agenda Ready - Street Transportation]: Phoenix High Intensity Activated CrossWalk Signals - Three Locations - Design-Bid-Build Se
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35801&GUID=DBAA42CB-7C72-4AB1-BD91-0A3FF3A55FF7
