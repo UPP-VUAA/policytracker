@@ -1,14 +1,18 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-11-05 13:25 MST | window 90d | 243 items
+Generated 2026-11-06 12:46 MST | window 90d | 243 items
 
 
-=== HOUSING (182) ===
+=== HOUSING (180) ===
   Phoenix 26-2210 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-180-25-6 (Rio Rancho PUD) - 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36244&GUID=CE33A6F2-8C08-42C7-81FA-8F57DF492F2F
   Mesa 26-0920 [Agenda Ready]: ZON26-00162 "Hawes Crossing Village 6 Remainder" 44± acres located at the northwest corner
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24137&GUID=38622EA1-2DE7-4D9E-A159-C74B6F322306
+  Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
   Mesa 26-0705 [Agenda Ready]: ZON26-00160 "Hawes Crossing Village 7" 153.5± acres located at the southeast corner of Sou
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20
+  Tempe  [Heard 2026-11-05]: 8. Award a one-year contract with four, one-year renewal options to Solar United Neighbors
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4065
   City of Maricopa ZON26-06 [Regular Agenda]: Public Hearing: The Planning and Zoning Commission shall discuss and take action on a requ
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15692&GUID=1FB3F22B-BA6A-43D2-A967-23390C194A60
   Mesa DSN 26046 [Agenda Ready]: ZON26-00593. "Monogram Aerospace," 5.7± acres located approximately 800 feet northwest of 
@@ -35,8 +39,6 @@ Generated 2026-11-05 13:25 MST | window 90d | 243 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36142&GUID=F7855C4B-C42E-4EB6-BAF9-87BD007CE612
   Mesa 26-0892 [Agenda Ready]: ZON25-00943 "Waffle Flower Warehouse Rezone" 2.4± acres located at the northwest corner of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24109&GUID=78588541-5E31-450A-AA28-26FED6517B7F
-  Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
   City of Maricopa ORD 26-15 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, extending and increasi
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15542&GUID=6FF642F1-2F6B-47C3-9E33-636C5459D02D
   Phoenix 26-2008 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-6-26--Z-47-19-7 - Approxim
@@ -81,8 +83,6 @@ Generated 2026-11-05 13:25 MST | window 90d | 243 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
   Apache Junction 26-437 [Public Hearing]: Presentation, discussion, public hearing and consideration of proposed Conditional Use Per
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12484&GUID=B81E21E1-792A-46AD-BCC2-ABCBA82A3CDC
-  Mesa PZ 26087 [Agenda Ready]: ZON26-00131. "Ellsworth II Energy Center," 20.3± acres located approximately 1,200± feet w
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24117&GUID=0E2451B8-3C4C-486F-B4D9-A598686D1EE2
 
 === HEAT (6) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -98,9 +98,11 @@ Generated 2026-11-05 13:25 MST | window 90d | 243 items
   Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (51) ===
+=== TRANSIT (52) ===
   Phoenix 26-1775 [Passed]: ***ADDITIONAL INFORMATION (SEE ATTACHMENT)*** Request to Issue a Solicitation for Final De
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35810&GUID=DC6460BB-77DF-4B3C-BB22-69734F10F7E8
+  Tempe  [Heard 2026-11-05]: 9. Adopt a resolution authorizing the Mayor to sign Amendment One to an Intergovernmental 
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4065
   Phoenix 26-2261 [Adopted]: Bus Stop and Transit Center Cleaning Services - RFP PTD26-006 - Request for Award (Ordinan
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36295&GUID=F6D595B9-C596-4DBE-84D8-B51F2399E7C9
   Phoenix 26-2001 [Adopted]: Phoenix Sky Harbor International Airport Rental Car Center Vertical Transportation Moderni
@@ -184,10 +186,10 @@ This ite
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24042&GUID=E999D8F0-568F-4E0F-99F0-5424FB74F92D
   Mesa 26-0734 [Agenda Ready]: Transportation Advisory Board meeting held on May 19, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23950&GUID=43730607-6258-4304-B165-16BC09A3F4E5
-  Phoenix 24-1564 [Adopted]: Naming of the Central Station Transit Center for Greg Stanton (Ordinance S-51131)
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=29822&GUID=4D08ACFE-55F3-43EF-9EBA-0F67715F5486
 
-=== WALKABILITY (15) ===
+=== WALKABILITY (16) ===
+  Tempe  [Heard 2026-11-05]: 3. Award a professional services contract to T.Y. Lin International, Inc. for 6011191 - Ri
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4065
   Apache Junction 26-565 [Consent Agenda]: Consideration of approval of Resolution No. 26-41, authorizing submission of projects to t
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12612&GUID=A547A2AF-AA70-4A6E-9171-BF63FCF9FF99
   Phoenix 26-2108 [Adopted]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
