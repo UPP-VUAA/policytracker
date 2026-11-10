@@ -1,8 +1,12 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-11-09 15:48 MST | window 90d | 243 items
+Generated 2026-11-10 13:07 MST | window 90d | 238 items
 
 
-=== HOUSING (179) ===
+=== HOUSING (175) ===
+  City of Maricopa RES 26-29 [Public Hearing]: A Resolution of the Mayor and City Council of the City of Maricopa, Arizona adopting the N
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15689&GUID=E033B5F4-B9DA-4109-A65F-D272C1F53911
+  City of Maricopa ORD 26-17 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, approving and
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15688&GUID=C9563156-2E86-4474-969E-D23A91C66644
   Mesa 26-0949 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24166&GUID=5895D7C5-15D0-49D3-AFEE-40363BBE3065
   Mesa 26-0892 [Agenda Ready]: ZON25-00943 "Waffle Flower Warehouse Rezone" 2.4± acres located at the northwest corner of
@@ -79,12 +83,8 @@ Generated 2026-11-09 15:48 MST | window 90d | 243 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35451&GUID=200AEA8A-02A4-40C9-B8CD-5B4E2248A9E9
   Mesa 26-0893 [Agenda Ready]: Approving and authorizing the City Manager to enter into a Development Agreement with The 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24110&GUID=984FF056-2ADE-4647-8C34-D3A28DF2E27B
-  Mesa 26-0870 [Agenda Ready]: Amendments to Mesa City Code Title 11, Chapters 23, 44, 66, 74, and 87 pertaining to histo
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24087&GUID=FF6B211F-A3A4-49BB-8436-F2C672A960F7
-  Mesa 26-0855 [Agenda Ready]: ZON25-00895 "Terrible's Commercial Development" 1.3± acres located approximately 190± feet
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24072&GUID=4C028B1B-ACD8-4DCF-B3E1-E9C21E83CB1A
 
-=== HEAT (6) ===
+=== HEAT (5) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35802&GUID=19194138-325B-4B68-AA0A-88CF43DC797A
   Tempe PL260157 [Heard 2026-10-27]: B. Request a Use Permit to allow an engineered shade structure over the driveway for TAYLO
@@ -95,10 +95,12 @@ Generated 2026-11-09 15:48 MST | window 90d | 243 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
   Tempe PL260208 [Heard 2026-08-25]: A. Request a Use Permit to allow two (2) required parking spaces in the street side yard s
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
-  Tempe PL250281 [Heard 2026-08-11]: A. Request a Use Permit to allow a detached engineered shade structure within the front ya
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4041
 
-=== TRANSIT (53) ===
+=== TRANSIT (52) ===
+  Phoenix 26-2508 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36542&GUID=318B3925-5584-4E83-BEA3-233E2ADBC12D
+  Phoenix 26-1773 [Agenda Ready]: Request to Issue a Solicitation for Final Design and a Solicitation for Construction of th
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35808&GUID=FB2D4EE1-7BEC-4607-93A0-DA1293F87892
   Phoenix 18-3263 [Adopted]: Grant of Irrigation Easements to Salt River Project for the Maricopa County Department of 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=10157&GUID=893B6EBE-5D5C-4B0D-BA0B-AB1F4DEB7D29
   Phoenix 26-1775 [Passed]: ***ADDITIONAL INFORMATION (SEE ATTACHMENT)*** Request to Issue a Solicitation for Final De
@@ -138,8 +140,6 @@ This ite
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=34547&GUID=3F62288D-5CEF-4ACE-B689-BADAD3A98D43
   Phoenix 26-2228 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36262&GUID=D19601FD-3CA7-4513-BAAB-7529EA6CED28
-  Phoenix 26-1773 [Agenda Ready]: Request to Issue a Solicitation for Final Design and a Solicitation for Construction of th
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35808&GUID=FB2D4EE1-7BEC-4607-93A0-DA1293F87892
   Mesa 26-0907 [Agenda Ready]: Approving and authorizing the City Manager to enter into an Intergovernmental Agreement (I
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24124&GUID=F937B6B0-E5A1-49B5-A4A7-427A1838DF69
   Phoenix 26-2134 [Adopted]: Transportation 2050 Program Management Consultant - Professional Services - ST85100368 (Or
@@ -184,8 +184,6 @@ This ite
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35872&GUID=A2B621E7-7D39-4378-8A23-AD061433BC5F
   Phoenix 26-1533 [Adopted]: Street Transportation Department Pavement Surface Treatment Program - 2-Step Job Order Con
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35568&GUID=2E9FC358-96F9-4EE1-BB49-F48D7EB73B45
-  Mesa 26-0825 [Agenda Ready]: Dollar Limit Increase to the Term Contract for Barricade Rental Service for Various City D
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24042&GUID=E999D8F0-568F-4E0F-99F0-5424FB74F92D
 
 === WALKABILITY (16) ===
   Tempe  [Heard 2026-11-05]: 3. Award a professional services contract to T.Y. Lin International, Inc. for 6011191 - Ri
