@@ -1,12 +1,28 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-11-10 13:07 MST | window 90d | 238 items
+Generated 2026-11-11 12:56 MST | window 90d | 236 items
 
 
-=== HOUSING (175) ===
-  City of Maricopa RES 26-29 [Public Hearing]: A Resolution of the Mayor and City Council of the City of Maricopa, Arizona adopting the N
+=== HOUSING (171) ===
+  City of Maricopa RES 26-29 [Regular Agenda]: A Resolution of the Mayor and City Council of the City of Maricopa, Arizona adopting the N
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15689&GUID=E033B5F4-B9DA-4109-A65F-D272C1F53911
+  City of Maricopa ORD 26-18 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15691&GUID=58ED74D0-969A-4EEB-B086-807EB6F80AA4
   City of Maricopa ORD 26-17 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, approving and
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15688&GUID=C9563156-2E86-4474-969E-D23A91C66644
+  City of Maricopa MIN 26-66 [Consent Agenda]: Acceptance of Minutes from the July 29, August 26, and September 23, 2026 Parks and Recrea
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15713&GUID=BC3F43BE-92CA-4161-A6F0-80B98B52DB81
+  Phoenix 26-2312 [Agenda Ready - Planning & Development Department]: Public Hearing and Ordinance Adoption - Rezoning Application Z-129-26-4 - Southeast Corner
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36346&GUID=97BA854A-D4C7-4EC7-BE52-68D5CEA276C1
+  City of Maricopa ZON26-06 [Regular Agenda]: Public Hearing: The Planning and Zoning Commission shall discuss and take action on a requ
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15692&GUID=1FB3F22B-BA6A-43D2-A967-23390C194A60
+  Tempe PL260288 [Heard 2026-11-10]: A. Request a Zoning Map Amendment from CSS PAD to CSS PAD TOD by adding the Transportation
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4066
+  Tempe PL260257 [Heard 2026-11-10]: A. Request a Use Permit to allow a drive-through restaurant in the CSS zoning district for
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4066
+  Tempe  [Heard 2026-11-10]: B. Request a Use Permit to allow indoor vehicle sales in the GID zoning district for PRIME
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4066
+  Tempe  [Heard 2026-11-10]: 5. GENERAL PLAN AMENDMENT / ZONING MAP AMENDMENT / PLANNED  AREA DEVELOPMENT OVERLAY
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4066
   Mesa 26-0949 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24166&GUID=5895D7C5-15D0-49D3-AFEE-40363BBE3065
   Mesa 26-0892 [Agenda Ready]: ZON25-00943 "Waffle Flower Warehouse Rezone" 2.4± acres located at the northwest corner of
@@ -21,8 +37,6 @@ Generated 2026-11-10 13:07 MST | window 90d | 238 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20
   Tempe  [Heard 2026-11-05]: 8. Award a one-year contract with four, one-year renewal options to Solar United Neighbors
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4065
-  City of Maricopa ZON26-06 [Regular Agenda]: Public Hearing: The Planning and Zoning Commission shall discuss and take action on a requ
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15692&GUID=1FB3F22B-BA6A-43D2-A967-23390C194A60
   Mesa DSN 26046 [Agenda Ready]: ZON26-00593. "Monogram Aerospace," 5.7± acres located approximately 800 feet northwest of 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24162&GUID=8BDDEF16-0B1A-4585-85C6-F5F82E7320CC
   Phoenix 26-2356 [Adopted]: (CONTINUED FROM AUGUST 26 AND OCTOBER 21, 2026) - Amend City Code - Official Supplementary
@@ -69,20 +83,6 @@ Generated 2026-11-10 13:07 MST | window 90d | 238 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35783&GUID=2F1354DB-C72C-4E4D-AC8C-1125A238C116
   Phoenix 26-1747 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-198-25-6 - Approximately 100
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35782&GUID=9A974349-14D4-4E9B-92B0-342400934809
-  Phoenix 26-1741 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-SP-2-26-5 - Approximately 30
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35776&GUID=43E1A1D3-EB0B-4BC3-8864-229D1C0EAEC0
-  Phoenix 26-1653 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-58-26-1 - Southwest Corner o
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35688&GUID=D049B054-2166-4EDC-9A92-1A36E3FB49EC
-  Phoenix 26-1652 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-36-26-1 - Approximately 450 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35687&GUID=AC5518CD-EC19-4E3A-9092-0457672AD65F
-  Phoenix 26-1644 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-34-26-3 - Northwest Corner o
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35679&GUID=1A7D0D30-5DEB-4633-A42C-E44DD4E73291
-  Phoenix 26-1643 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-30-26-1 - Approximately 425 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35678&GUID=8C80ABB3-E941-4172-9EE3-FB8C3DAF7C59
-  Phoenix 26-1416 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-39-21-6 - Approxim
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35451&GUID=200AEA8A-02A4-40C9-B8CD-5B4E2248A9E9
-  Mesa 26-0893 [Agenda Ready]: Approving and authorizing the City Manager to enter into a Development Agreement with The 
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24110&GUID=984FF056-2ADE-4647-8C34-D3A28DF2E27B
 
 === HEAT (5) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -96,9 +96,13 @@ Generated 2026-11-10 13:07 MST | window 90d | 238 items
   Tempe PL260208 [Heard 2026-08-25]: A. Request a Use Permit to allow two (2) required parking spaces in the street side yard s
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
 
-=== TRANSIT (52) ===
+=== TRANSIT (54) ===
+  Tempe PL260288 [Heard 2026-11-10]: A. Request a Zoning Map Amendment from CSS PAD to CSS PAD TOD by adding the Transportation
+     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4066
   Phoenix 26-2508 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36542&GUID=318B3925-5584-4E83-BEA3-233E2ADBC12D
+  Phoenix 26-2259 [Agenda Ready - Street Transportation]: National Association of City Transportation Officials, Inc.
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36293&GUID=05FD9182-9FDC-4A01-B386-7E2EAAA7D7BB
   Phoenix 26-1773 [Agenda Ready]: Request to Issue a Solicitation for Final Design and a Solicitation for Construction of th
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35808&GUID=FB2D4EE1-7BEC-4607-93A0-DA1293F87892
   Phoenix 18-3263 [Adopted]: Grant of Irrigation Easements to Salt River Project for the Maricopa County Department of 
@@ -180,12 +184,10 @@ This ite
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35999&GUID=D156F470-F06C-4F2F-8A21-985EC144F607
   Phoenix 26-1934 [Adopted]: Request Retroactive Authorization to Apply for, Accept, and Disburse Federal Funding for t
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35969&GUID=B3F8F01D-6CB9-4BCB-9700-26D754F43B91
-  Phoenix 26-1837 [Adopted]: Heavy Duty Transit Buses - State of Washington Cooperative Agreement - COOP 04824 (Ordinan
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35872&GUID=A2B621E7-7D39-4378-8A23-AD061433BC5F
-  Phoenix 26-1533 [Adopted]: Street Transportation Department Pavement Surface Treatment Program - 2-Step Job Order Con
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=35568&GUID=2E9FC358-96F9-4EE1-BB49-F48D7EB73B45
 
-=== WALKABILITY (16) ===
+=== WALKABILITY (17) ===
+  Phoenix 26-2201 [Agenda Ready - Finance Department]: Acceptance and Dedication of Easements for Public Utility and Sidewalk Purposes - District
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36235&GUID=6EC037D5-68A8-4969-B800-B246C3B36875
   Tempe  [Heard 2026-11-05]: 3. Award a professional services contract to T.Y. Lin International, Inc. for 6011191 - Ri
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4065
   Apache Junction 26-565 [Consent Agenda]: Consideration of approval of Resolution No. 26-41, authorizing submission of projects to t
