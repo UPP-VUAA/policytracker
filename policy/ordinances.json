@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T13:11:56.363510-07:00",
+  "generated": "2026-11-14T11:36:53.259590-07:00",
   "window_days": 90,
   "count": 234,
   "cities_live": [
@@ -16,6 +16,121 @@
       "topics": [
         "Housing"
       ],
+      "file": "26-0949",
+      "type": "Resolution",
+      "status": "Agenda Ready",
+      "title": "GPA26-00161 \"Hawes Crossing Village 7\" 103\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Major General Plan Amendment to change the Placetype from Urban Center to Urban Residential on 29.7\u00b1 acres and Local Employment Center to Urban Residential on 73.2\u00b1 acres. State of Arizona, owner; Sean Lake, Pew & Lake PLC, applicant.  (District 6)\r\n\r\nStaff Recommendation: Adoption\r\nP&Z Board Recommendation: Adoption",
+      "intro": "2026-11-04",
+      "agenda": "2026-12-01",
+      "enacted": "",
+      "last_modified": "2026-11-14",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24166&GUID=5895D7C5-15D0-49D3-AFEE-40363BBE3065",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 0
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0920",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "ZON26-00162 \"Hawes Crossing Village 6 Remainder\" 44\u00b1 acres located at the northwest corner of the South Hawes Road alignment and East Warner Road. Rezone from Multiple Residence-5 with a Planned Area Development Overlay (RM-5-PAD), Office Commercial with a Planned Area Development Overlay (OC-PAD), and Limited Commercial with a Planned Area Development Overlay (LC-PAD) to Residential Small Lot-2.5 with a Planned Area Development Overlay (RSL-2.5-PAD). This request will allow for future development of State Land. State of Arizona, owner; Sean Lake, Pew & Lake PLC, applicant. (District 6)\r\n \r\nStaff Recommendation: Approval with conditions\r\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+      "intro": "2026-10-22",
+      "agenda": "2026-12-01",
+      "enacted": "",
+      "last_modified": "2026-11-14",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24137&GUID=38622EA1-2DE7-4D9E-A159-C74B6F322306",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 1
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0892",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "ZON25-00943 \"Waffle Flower Warehouse Rezone\" 2.4\u00b1 acres located at the northwest corner of East Thomas Road and North 54th Street. Rezone from Single Residence-90 (RS-90) to Light Industrial (LI), Site Plan Review, and Special Use Permit. This request will allow for an approximately 18,000\u00b1 square foot Industrial development. William Erwin, Erwin Architecture and Development, applicant; Zee Properties, LLC, owner. (District 5) Ordinance No. 6037\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)\n\nFor continuance to the December 1, 2026 City Council meeting.",
+      "intro": "2026-10-12",
+      "agenda": "2026-11-02",
+      "enacted": "",
+      "last_modified": "2026-11-14",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24109&GUID=78588541-5E31-450A-AA28-26FED6517B7F",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 2
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0852",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "ZON21-00066 \"Greenfield Multifamily\" 1.9\u00b1 acres located approximately 2,025\u00b1 feet north of the northwest corner of East Brown Road and North Greenfield Road. Rezone from Single Residence-35 (RS-35) to Multiple Residence-3 with a Planned Area Development Overlay (RM-3-PAD) and Site Plan Review. This request will allow for a 30-unit multiple residence development. Johnstar LLC, owner; Tim Boyle, Atmosphere Architects, applicant. (District 2) Ordinance No. 6038\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 4-3)",
+      "intro": "2026-09-22",
+      "agenda": "2026-11-16",
+      "enacted": "",
+      "last_modified": "2026-11-14",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90",
+      "source": "Legistar",
+      "_action_days": 2,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 3
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
+      "file": "26-0705",
+      "type": "Ordinance",
+      "status": "Agenda Ready",
+      "title": "ZON26-00160 \"Hawes Crossing Village 7\" 153.5\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Rezone of 102.9\u00b1 acres, from Mixed Use with a Planned Area Development Overlay (MX-PAD) (29.7\u00b1 acres) and Light Industrial PAD (LI-PAD) (73.2\u00b1 acres), to Residential Small Lot 2.5 PAD (RSL-2.5-PAD), and Rezone 50.6\u00b1 acres, from Limited Commercial PAD (LC-PAD) (23.5\u00b1 acres) and MX PAD (27.1\u00b1 acres), to LC-PAD (27.8\u00b1 acres) and MX-PAD (22.8\u00b1 acres). This request will allow for future development of State Land. State of Arizona, owner; Sean Lake, Pew &Lake PLC, applicant. (District 6)\r\n\r\nStaff Recommendation: Approval with conditions  \r\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
+      "intro": "2026-07-28",
+      "agenda": "2026-12-01",
+      "enacted": "",
+      "last_modified": "2026-11-14",
+      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20",
+      "source": "Legistar",
+      "_action_days": null,
+      "_new": false,
+      "_moved": "",
+      "_movefrom": "",
+      "_moveto": "",
+      "_uid": 4
+    },
+    {
+      "city": "Mesa",
+      "county": "Maricopa",
+      "topics": [
+        "Housing"
+      ],
       "file": "PZ 26096",
       "type": "PZ Minutes",
       "status": "Agenda Ready",
@@ -26,12 +141,12 @@
       "last_modified": "2026-11-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24169&GUID=34DD4658-A43D-4645-A7C0-4BA5718FB2DE",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 0
+      "_uid": 5
     },
     {
       "city": "Mesa",
@@ -49,12 +164,12 @@
       "last_modified": "2026-11-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24160&GUID=2D7D321B-0C10-40E5-9BA5-7C9643FD7758",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 1
+      "_uid": 6
     },
     {
       "city": "Mesa",
@@ -72,12 +187,12 @@
       "last_modified": "2026-11-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24159&GUID=0651CF92-B89A-4173-9080-3C9953F4B88D",
       "source": "Legistar",
-      "_action_days": 5,
-      "_new": true,
+      "_action_days": 4,
+      "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 2
+      "_uid": 7
     },
     {
       "city": "Mesa",
@@ -95,12 +210,12 @@
       "last_modified": "2026-11-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24138&GUID=73923963-96E8-4EB8-816E-7F60D71EB27E",
       "source": "Legistar",
-      "_action_days": 5,
-      "_new": true,
+      "_action_days": 4,
+      "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 3
+      "_uid": 8
     },
     {
       "city": "Phoenix",
@@ -118,12 +233,12 @@
       "last_modified": "2026-11-13",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36346&GUID=97BA854A-D4C7-4EC7-BE52-68D5CEA276C1",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 4
+      "_uid": 9
     },
     {
       "city": "Phoenix",
@@ -146,7 +261,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 5
+      "_uid": 10
     },
     {
       "city": "Phoenix",
@@ -169,30 +284,7 @@
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 6
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0949",
-      "type": "Resolution",
-      "status": "Agenda Ready",
-      "title": "GPA26-00161 \"Hawes Crossing Village 7\" 103\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Major General Plan Amendment to change the Placetype from Urban Center to Urban Residential on 29.7\u00b1 acres and Local Employment Center to Urban Residential on 73.2\u00b1 acres. State of Arizona, owner; Sean Lake, Pew & Lake PLC, applicant.  (District 6)\r\n\r\nStaff Recommendation: Adoption\r\nP&Z Board Recommendation: Adoption",
-      "intro": "2026-11-04",
-      "agenda": "2026-12-01",
-      "enacted": "",
-      "last_modified": "2026-11-13",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24166&GUID=5895D7C5-15D0-49D3-AFEE-40363BBE3065",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 7
+      "_uid": 11
     },
     {
       "city": "Mesa",
@@ -211,34 +303,11 @@
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24165&GUID=7FB75FEF-C29D-480A-9297-6C83E7C56E02",
       "source": "Legistar",
       "_action_days": null,
-      "_new": true,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 8
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0920",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "ZON26-00162 \"Hawes Crossing Village 6 Remainder\" 44\u00b1 acres located at the northwest corner of the South Hawes Road alignment and East Warner Road. Rezone from Multiple Residence-5 with a Planned Area Development Overlay (RM-5-PAD), Office Commercial with a Planned Area Development Overlay (OC-PAD), and Limited Commercial with a Planned Area Development Overlay (LC-PAD) to Residential Small Lot-2.5 with a Planned Area Development Overlay (RSL-2.5-PAD). This request will allow for future development of State Land. State of Arizona, owner; Sean Lake, Pew & Lake PLC, applicant. (District 6)\r\n \r\nStaff Recommendation: Approval with conditions\r\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-      "intro": "2026-10-22",
-      "agenda": "2026-12-01",
-      "enacted": "",
-      "last_modified": "2026-11-13",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24137&GUID=38622EA1-2DE7-4D9E-A159-C74B6F322306",
-      "source": "Legistar",
-      "_action_days": null,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
       "_moveto": "",
-      "_uid": 9
+      "_uid": 12
     },
     {
       "city": "Mesa",
@@ -256,76 +325,7 @@
       "last_modified": "2026-11-13",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24132&GUID=837C03F2-1364-4CF6-BED9-C19B76C4382C",
       "source": "Legistar",
-      "_action_days": 3,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 10
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0892",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "ZON25-00943 \"Waffle Flower Warehouse Rezone\" 2.4\u00b1 acres located at the northwest corner of East Thomas Road and North 54th Street. Rezone from Single Residence-90 (RS-90) to Light Industrial (LI), Site Plan Review, and Special Use Permit. This request will allow for an approximately 18,000\u00b1 square foot Industrial development. William Erwin, Erwin Architecture and Development, applicant; Zee Properties, LLC, owner. (District 5) Ordinance No. 6037\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)\n\nFor continuance to the December 1, 2026 City Council meeting.",
-      "intro": "2026-10-12",
-      "agenda": "2026-11-02",
-      "enacted": "",
-      "last_modified": "2026-11-13",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24109&GUID=78588541-5E31-450A-AA28-26FED6517B7F",
-      "source": "Legistar",
-      "_action_days": null,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 11
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0852",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "ZON21-00066 \"Greenfield Multifamily\" 1.9\u00b1 acres located approximately 2,025\u00b1 feet north of the northwest corner of East Brown Road and North Greenfield Road. Rezone from Single Residence-35 (RS-35) to Multiple Residence-3 with a Planned Area Development Overlay (RM-3-PAD) and Site Plan Review. This request will allow for a 30-unit multiple residence development. Johnstar LLC, owner; Tim Boyle, Atmosphere Architects, applicant. (District 2) Ordinance No. 6038\n \nStaff Recommendation: Approval with conditions\nP&Z Board Recommendation: Approval with conditions (Vote: 4-3)",
-      "intro": "2026-09-22",
-      "agenda": "2026-11-16",
-      "enacted": "",
-      "last_modified": "2026-11-13",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90",
-      "source": "Legistar",
-      "_action_days": 3,
-      "_new": false,
-      "_moved": "",
-      "_movefrom": "",
-      "_moveto": "",
-      "_uid": 12
-    },
-    {
-      "city": "Mesa",
-      "county": "Maricopa",
-      "topics": [
-        "Housing"
-      ],
-      "file": "26-0705",
-      "type": "Ordinance",
-      "status": "Agenda Ready",
-      "title": "ZON26-00160 \"Hawes Crossing Village 7\" 153.5\u00b1 acres located at the southeast corner of South Hawes Road and East Elliot Road. Rezone of 102.9\u00b1 acres, from Mixed Use with a Planned Area Development Overlay (MX-PAD) (29.7\u00b1 acres) and Light Industrial PAD (LI-PAD) (73.2\u00b1 acres), to Residential Small Lot 2.5 PAD (RSL-2.5-PAD), and Rezone 50.6\u00b1 acres, from Limited Commercial PAD (LC-PAD) (23.5\u00b1 acres) and MX PAD (27.1\u00b1 acres), to LC-PAD (27.8\u00b1 acres) and MX-PAD (22.8\u00b1 acres). This request will allow for future development of State Land. State of Arizona, owner; Sean Lake, Pew &Lake PLC, applicant. (District 6)\r\n\r\nStaff Recommendation: Approval with conditions  \r\nP&Z Board Recommendation: Approval with conditions (Vote: 7-0)",
-      "intro": "2026-07-28",
-      "agenda": "2026-12-01",
-      "enacted": "",
-      "last_modified": "2026-11-13",
-      "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20",
-      "source": "Legistar",
-      "_action_days": null,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -348,7 +348,7 @@
       "last_modified": "2026-11-12",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15713&GUID=BC3F43BE-92CA-4161-A6F0-80B98B52DB81",
       "source": "Legistar",
-      "_action_days": 4,
+      "_action_days": 3,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -371,7 +371,7 @@
       "last_modified": "2026-11-12",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36542&GUID=318B3925-5584-4E83-BEA3-233E2ADBC12D",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -394,7 +394,7 @@
       "last_modified": "2026-11-12",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36453&GUID=9F3DAF4D-3C64-4989-90EA-2DED9ADAC662",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -417,7 +417,7 @@
       "last_modified": "2026-11-12",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36293&GUID=05FD9182-9FDC-4A01-B386-7E2EAAA7D7BB",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -440,7 +440,7 @@
       "last_modified": "2026-11-12",
       "url": "https://phoenix.legistar.com/LegislationDetail.aspx?ID=36235&GUID=6EC037D5-68A8-4969-B800-B246C3B36875",
       "source": "Legistar",
-      "_action_days": 5,
+      "_action_days": 4,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -463,7 +463,7 @@
       "last_modified": "2026-11-11",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15689&GUID=E033B5F4-B9DA-4109-A65F-D272C1F53911",
       "source": "Legistar",
-      "_action_days": 4,
+      "_action_days": 3,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -486,7 +486,7 @@
       "last_modified": "2026-11-11",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15691&GUID=58ED74D0-969A-4EEB-B086-807EB6F80AA4",
       "source": "Legistar",
-      "_action_days": 4,
+      "_action_days": 3,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -509,7 +509,7 @@
       "last_modified": "2026-11-11",
       "url": "https://maricopa.legistar.com/LegislationDetail.aspx?ID=15688&GUID=C9563156-2E86-4474-969E-D23A91C66644",
       "source": "Legistar",
-      "_action_days": 4,
+      "_action_days": 3,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
@@ -1111,7 +1111,7 @@
       "last_modified": "2026-11-04",
       "url": "https://mesa.legistar.com/LegislationDetail.aspx?ID=24141&GUID=0978F903-D518-4793-AB93-819F3AF1E2BB",
       "source": "Legistar",
-      "_action_days": 3,
+      "_action_days": 2,
       "_new": false,
       "_moved": "",
       "_movefrom": "",
