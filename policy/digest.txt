@@ -1,8 +1,10 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-11-18 14:01 MST | window 90d | 235 items
+Generated 2026-11-19 14:06 MST | window 90d | 230 items
 
 
-=== HOUSING (173) ===
+=== HOUSING (170) ===
+  Mesa 26-0705 [Agenda Ready]: ZON26-00160 "Hawes Crossing Village 7" 153.5± acres located at the southeast corner of Sou
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20
   City of Maricopa ZON26-09 [Regular Agenda]: Public Hearing: A request by the City of Maricopa to rezone approximately 1.92 acres of la
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15716&GUID=A7D9B63E-2014-4C20-9729-05793614AB6B
   City of Maricopa ZON 26-10 (PAD 26-09) [Regular Agenda]: Public Hearing: The Planning and Zoning Commission shall discuss and take action on a requ
@@ -19,14 +21,20 @@ Generated 2026-11-18 14:01 MST | window 90d | 235 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15688&GUID=C9563156-2E86-4474-969E-D23A91C66644
   City of Maricopa MIN 26-66 [Consent Agenda]: Acceptance of Minutes from the July 29, August 26, and September 23, 2026 Parks and Recrea
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15713&GUID=BC3F43BE-92CA-4161-A6F0-80B98B52DB81
+  Apache Junction 26-515 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
+     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12562&GUID=C5EA0C58-3116-424E-9B95-F303C457E1CB
+  Phoenix 26-2419 [Adopted]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Notes and Subord
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36453&GUID=9F3DAF4D-3C64-4989-90EA-2DED9ADAC662
+  Phoenix 26-2312 [Adopted]: Public Hearing and Ordinance Adoption - Rezoning Application Z-129-26-4 - Southeast Corner
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36346&GUID=97BA854A-D4C7-4EC7-BE52-68D5CEA276C1
   Mesa 26-0990 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24207&GUID=8AE89F8A-C373-4210-94D2-008D79117A7A
+  Mesa 26-0948 [Agenda Ready]: Planning and Zoning Public Hearing held on July 29, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24165&GUID=7FB75FEF-C29D-480A-9297-6C83E7C56E02
   Mesa 26-0920 [Agenda Ready]: ZON26-00162 "Hawes Crossing Village 6 Remainder" 44± acres located at the northwest corner
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24137&GUID=38622EA1-2DE7-4D9E-A159-C74B6F322306
   Mesa 26-0892 [Agenda Ready]: ZON25-00943 "Waffle Flower Warehouse Rezone" 2.4± acres located at the northwest corner of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24109&GUID=78588541-5E31-450A-AA28-26FED6517B7F
-  Mesa 26-0705 [Agenda Ready]: ZON26-00160 "Hawes Crossing Village 7" 153.5± acres located at the southeast corner of Sou
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20
   Mesa PZ 26094 [Agenda Ready]: ZON26-00379. "Culdesac Mesa (FKA Site 17)," 24.3± acres located approximately 230± feet we
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24159&GUID=0651CF92-B89A-4173-9080-3C9953F4B88D
   Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
@@ -43,12 +51,6 @@ Generated 2026-11-18 14:01 MST | window 90d | 235 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24166&GUID=5895D7C5-15D0-49D3-AFEE-40363BBE3065
   Mesa PZ 26096 [Agenda Ready]: Planning and Zoning minutes from October 28, 2026 Planning and Zoning Board
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24169&GUID=34DD4658-A43D-4645-A7C0-4BA5718FB2DE
-  Phoenix 26-2312 [Agenda Ready - Planning & Development Department]: Public Hearing and Ordinance Adoption - Rezoning Application Z-129-26-4 - Southeast Corner
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36346&GUID=97BA854A-D4C7-4EC7-BE52-68D5CEA276C1
-  Mesa 26-0948 [Agenda Ready]: Planning and Zoning Public Hearing held on July 29, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24165&GUID=7FB75FEF-C29D-480A-9297-6C83E7C56E02
-  Phoenix 26-2419 [Agenda Ready - City Manager's Office Department]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Notes and Subord
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36453&GUID=9F3DAF4D-3C64-4989-90EA-2DED9ADAC662
   Tempe PL260288 [Heard 2026-11-10]: A. Request a Zoning Map Amendment from CSS PAD to CSS PAD TOD by adding the Transportation
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4066
   Tempe PL260257 [Heard 2026-11-10]: A. Request a Use Permit to allow a drive-through restaurant in the CSS zoning district for
@@ -81,8 +83,6 @@ Generated 2026-11-18 14:01 MST | window 90d | 235 items
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36146&GUID=0D34D617-671F-4193-AFA8-FB0D82DB46F4
   Phoenix 26-2108 [Adopted]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
-  Phoenix 26-2107 [Adopted]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36142&GUID=F7855C4B-C42E-4EB6-BAF9-87BD007CE612
 
 === HEAT (5) ===
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
@@ -96,7 +96,11 @@ Generated 2026-11-18 14:01 MST | window 90d | 235 items
   Tempe PL260208 [Heard 2026-08-25]: A. Request a Use Permit to allow two (2) required parking spaces in the street side yard s
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4043
 
-=== TRANSIT (51) ===
+=== TRANSIT (50) ===
+  Phoenix 26-2508 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36542&GUID=318B3925-5584-4E83-BEA3-233E2ADBC12D
+  Phoenix 26-2259 [Adopted]: National Association of City Transportation Officials, Inc.
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36293&GUID=05FD9182-9FDC-4A01-B386-7E2EAAA7D7BB
   Phoenix 24-0705 [Adopted]: Acquisition of Real Property for Bus Stop Enhancements Along the West Side of 16th Street 
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=28963&GUID=C6134B33-67B3-4AF1-8B00-D5F5D1379993
   Phoenix 23-1875 [Adopted]: Acquisition of Easements for Bus Stop Enhancements Along Northern Avenue, East of 27th Ave
@@ -108,10 +112,6 @@ Generated 2026-11-18 14:01 MST | window 90d | 235 items
 
 This ite
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24132&GUID=837C03F2-1364-4CF6-BED9-C19B76C4382C
-  Phoenix 26-2508 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36542&GUID=318B3925-5584-4E83-BEA3-233E2ADBC12D
-  Phoenix 26-2259 [Agenda Ready - Street Transportation]: National Association of City Transportation Officials, Inc.
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36293&GUID=05FD9182-9FDC-4A01-B386-7E2EAAA7D7BB
   Tempe PL260288 [Heard 2026-11-10]: A. Request a Zoning Map Amendment from CSS PAD to CSS PAD TOD by adding the Transportation
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4066
   Phoenix 26-1773 [Agenda Ready]: Request to Issue a Solicitation for Final Design and a Solicitation for Construction of th
@@ -185,11 +185,11 @@ This co
   Tempe  [Heard 2026-09-24]: 2. Adopt a resolution authorizing the Mayor to accept the Safe Streets and Roads for All (
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
 
-=== WALKABILITY (17) ===
+=== WALKABILITY (16) ===
+  Phoenix 26-2201 [Adopted]: Acceptance and Dedication of Easements for Public Utility and Sidewalk Purposes (Ordinance
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36235&GUID=6EC037D5-68A8-4969-B800-B246C3B36875
   Phoenix 26-1766 [Adopted]: Phoenix High Intensity Activated CrossWalk Signals - Three Locations - Design-Bid-Build Se
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35801&GUID=DBAA42CB-7C72-4AB1-BD91-0A3FF3A55FF7
-  Phoenix 26-2201 [Agenda Ready - Finance Department]: Acceptance and Dedication of Easements for Public Utility and Sidewalk Purposes (Ordinance
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36235&GUID=6EC037D5-68A8-4969-B800-B246C3B36875
   Tempe  [Heard 2026-11-05]: 3. Award a professional services contract to T.Y. Lin International, Inc. for 6011191 - Ri
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4065
   Apache Junction 26-565 [Consent Agenda]: Consideration of approval of Resolution No. 26-41, authorizing submission of projects to t
@@ -220,5 +220,3 @@ Th
      https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12533&GUID=4A9A84A2-6B31-40CB-8B11-2868BC03352A
   Tempe  [Heard 2026-09-01]: 7. Award a change order to Combs Construction Company, LLC, for Project No. 6009741 - Bike
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4045
-  Mesa 26-0748 [Agenda Ready]: Elliot Road: Eastern Maricopa Floodway to Ellsworth Road, Design-Bid-Build Contract (Distr
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23964&GUID=C0577125-1AEB-4EF6-BB53-860130D87D69
