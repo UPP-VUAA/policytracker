@@ -1,8 +1,24 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-11-19 14:06 MST | window 90d | 230 items
+Generated 2026-11-20 13:51 MST | window 90d | 238 items
 
 
-=== HOUSING (170) ===
+=== HOUSING (178) ===
+  Mesa 26-0989 [Agenda Ready]: GPA26-00248. "View 202 - Minor GPA," 21.6± acres located at the southwest corner of South 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24206&GUID=FC7E8B13-19AD-4441-846B-DF3DD7BFE2AF
+  Mesa 26-0988 [Agenda Ready]: ZON26-00379 "Culdesac Mesa (FKA Site 17)" 24.3± acres located approximately 230± feet west
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24205&GUID=CB3BE902-54D7-4DD8-9891-4C67FAB6A200
+  Mesa 26-0983 [Agenda Ready]: ZON26-00126 "View 202 - Multifamily Rezone" 21.6± acres located at the southwest corner of
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24200&GUID=ECA0C8BF-1E3C-4E40-B101-5D508F915283
+  Mesa 26-1005 [Agenda Ready]: Thirty-Month Use of a Cooperative Term Contract with Renewal Options for the Purchase of R
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24222&GUID=D4D23D99-29A1-47DA-95C7-A14616E634D8
+  Mesa 26-0964 [Agenda Ready]: An ordinance adopting titles and schedules of terms/rates/fees/charges for water utility s
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24181&GUID=1CE78E14-9A2F-4B98-80BA-6020D442CBDE
+  Mesa 26-0963 [Agenda Ready]: An ordinance adopting titles and schedules of terms/rates/fees/charges for water utility s
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24180&GUID=A62DA3E7-9D32-46DC-BCEA-6CBA34613BE0
+  Mesa 26-0954 [Agenda Ready]: A resolution declaring proposed titles and schedules of terms/rates/fees/charges for water
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24171&GUID=A6CF9264-1894-48D6-A97A-3B8E58E38894
+  Mesa 26-0953 [Agenda Ready]: A resolution declaring proposed titles and schedules of terms/rates/fees/charges for water
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24170&GUID=198F398A-FA6E-46E7-B610-7383DE05F41C
   Mesa 26-0705 [Agenda Ready]: ZON26-00160 "Hawes Crossing Village 7" 153.5± acres located at the southeast corner of Sou
      https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20
   City of Maricopa ZON26-09 [Regular Agenda]: Public Hearing: A request by the City of Maricopa to rezone approximately 1.92 acres of la
@@ -67,24 +83,10 @@ Generated 2026-11-19 14:06 MST | window 90d | 230 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24162&GUID=8BDDEF16-0B1A-4585-85C6-F5F82E7320CC
   Phoenix 26-2356 [Adopted]: (CONTINUED FROM AUGUST 26 AND OCTOBER 21, 2026) - Amend City Code - Official Supplementary
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36390&GUID=D9E14606-FA43-4C41-BEEB-7A316FBA5318
-  Phoenix 26-2285 [Adopted]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Bonds (Girasol T
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36319&GUID=9B79FF7E-5C10-46BF-B16A-EFF26A677907
-  Phoenix 26-2283 [Adopted]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Bonds (West Elev
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36317&GUID=DACD5E4C-756B-4AC2-8EA5-6B09F9B9589A
-  Phoenix 26-2282 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-103-26-8 - Southwest Corner 
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36316&GUID=90FCE39C-8589-4467-B999-D85CF2CFF91B
-  Phoenix 26-2276 [Adopted]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Bonds (The Cypre
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36310&GUID=D76C531C-74B6-4FFE-B6AE-B2E050B9C4DA
-  Phoenix 26-2195 [Adopted]: Amend City Code - Official Supplementary Zoning Map 1313 (Ordinance G-7556) - District 4
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36229&GUID=2EA2A1E4-E009-4D07-916D-6397EC589388
-  Phoenix 26-2176 [Adopted]: Amend City Code - Ordinance Adoption - Rezoning Application Z-92-26-6 - Southeast Corner o
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36210&GUID=B4C0D38F-5EB6-4A27-A251-7230779FCA3C
-  Phoenix 26-2111 [Adopted]: Salt River Project Land Use License - ST89340634 - 35th Avenue, Interstate 10 to Camelback
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36146&GUID=0D34D617-671F-4193-AFA8-FB0D82DB46F4
-  Phoenix 26-2108 [Adopted]: Salt River Project Land Use License - High-Intensity Activated Crosswalk - ST89330321 (Ord
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36143&GUID=27E606C6-BF60-4F56-971D-0F47E3B631EB
 
-=== HEAT (5) ===
+=== HEAT (6) ===
+  Mesa 26-0988 [Agenda Ready]: ZON26-00379 "Culdesac Mesa (FKA Site 17)" 24.3± acres located approximately 230± feet west
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24205&GUID=CB3BE902-54D7-4DD8-9891-4C67FAB6A200
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35802&GUID=19194138-325B-4B68-AA0A-88CF43DC797A
   Tempe PL260157 [Heard 2026-10-27]: B. Request a Use Permit to allow an engineered shade structure over the driveway for TAYLO
@@ -185,7 +187,9 @@ This co
   Tempe  [Heard 2026-09-24]: 2. Adopt a resolution authorizing the Mayor to accept the Safe Streets and Roads for All (
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
 
-=== WALKABILITY (16) ===
+=== WALKABILITY (17) ===
+  Mesa 26-0988 [Agenda Ready]: ZON26-00379 "Culdesac Mesa (FKA Site 17)" 24.3± acres located approximately 230± feet west
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24205&GUID=CB3BE902-54D7-4DD8-9891-4C67FAB6A200
   Phoenix 26-2201 [Adopted]: Acceptance and Dedication of Easements for Public Utility and Sidewalk Purposes (Ordinance
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36235&GUID=6EC037D5-68A8-4969-B800-B246C3B36875
   Phoenix 26-1766 [Adopted]: Phoenix High Intensity Activated CrossWalk Signals - Three Locations - Design-Bid-Build Se
