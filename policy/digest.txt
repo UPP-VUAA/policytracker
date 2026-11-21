@@ -1,16 +1,20 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-11-20 13:51 MST | window 90d | 238 items
+Generated 2026-11-21 12:53 MST | window 90d | 238 items
 
 
 === HOUSING (178) ===
+  Mesa 26-0995 [Agenda Ready]: Planning and Zoning Board meeting held on October 14, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24212&GUID=5C58A470-887D-46B4-BB51-9A7E9537CE58
+  Mesa 26-0994 [Agenda Ready]: Planning and Zoning Board meeting held on September 23, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24211&GUID=61032D69-B3B1-411D-B254-BD10C1BF774B
+  Mesa 26-1005 [Agenda Ready]: Thirty-Month Use of a Cooperative Term Contract with Renewal Options for the Purchase of R
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24222&GUID=D4D23D99-29A1-47DA-95C7-A14616E634D8
   Mesa 26-0989 [Agenda Ready]: GPA26-00248. "View 202 - Minor GPA," 21.6± acres located at the southwest corner of South 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24206&GUID=FC7E8B13-19AD-4441-846B-DF3DD7BFE2AF
   Mesa 26-0988 [Agenda Ready]: ZON26-00379 "Culdesac Mesa (FKA Site 17)" 24.3± acres located approximately 230± feet west
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24205&GUID=CB3BE902-54D7-4DD8-9891-4C67FAB6A200
   Mesa 26-0983 [Agenda Ready]: ZON26-00126 "View 202 - Multifamily Rezone" 21.6± acres located at the southwest corner of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24200&GUID=ECA0C8BF-1E3C-4E40-B101-5D508F915283
-  Mesa 26-1005 [Agenda Ready]: Thirty-Month Use of a Cooperative Term Contract with Renewal Options for the Purchase of R
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24222&GUID=D4D23D99-29A1-47DA-95C7-A14616E634D8
   Mesa 26-0964 [Agenda Ready]: An ordinance adopting titles and schedules of terms/rates/fees/charges for water utility s
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24181&GUID=1CE78E14-9A2F-4B98-80BA-6020D442CBDE
   Mesa 26-0963 [Agenda Ready]: An ordinance adopting titles and schedules of terms/rates/fees/charges for water utility s
@@ -59,10 +63,6 @@ Generated 2026-11-20 13:51 MST | window 90d | 238 items
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15692&GUID=1FB3F22B-BA6A-43D2-A967-23390C194A60
   Mesa PZ 26095 [Agenda Ready]: ZON23-00560. "Arizona Propane," 6.2± acres located at the northeast corner of East Pecos R
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24160&GUID=2D7D321B-0C10-40E5-9BA5-7C9643FD7758
-  Mesa 26-0995 [Agenda Ready]: Planning and Zoning Board meeting held on October 14, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24212&GUID=5C58A470-887D-46B4-BB51-9A7E9537CE58
-  Mesa 26-0994 [Agenda Ready]: Planning and Zoning Board meeting held on September 23, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24211&GUID=61032D69-B3B1-411D-B254-BD10C1BF774B
   Mesa 26-0949 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7" 103± acres located at the southeast corner of South
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24166&GUID=5895D7C5-15D0-49D3-AFEE-40363BBE3065
   Mesa PZ 26096 [Agenda Ready]: Planning and Zoning minutes from October 28, 2026 Planning and Zoning Board
