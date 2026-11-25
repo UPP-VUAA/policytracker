@@ -1,33 +1,23 @@
 VALLEY URBAN ACTION ALLIANCE / URBAN PHOENIX PROJECT — REGIONAL POLICY & ORDINANCE TRACKER
-Generated 2026-11-24 15:51 MST | window 90d | 240 items
+Generated 2026-11-25 15:04 MST | window 90d | 238 items
 
 
-=== HOUSING (181) ===
-  Mesa PZ 25006 [Agenda Ready]: Minutes from the December 11, 2024 Planning and Zoning Board meeting.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=22156&GUID=6D6E78D1-100C-459E-8CB0-3493585E91C4
+=== HOUSING (178) ===
   City of Maricopa ORD 26-20 [Consent Agenda]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, approving and
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15730&GUID=293781AD-C48C-4A75-A3B3-B0D2D0B7ABB9
-  City of Maricopa ORD 26-18 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15691&GUID=58ED74D0-969A-4EEB-B086-807EB6F80AA4
-  City of Maricopa ORD 26-17 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, approving and
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15688&GUID=C9563156-2E86-4474-969E-D23A91C66644
-  City of Maricopa MIN 26-66 [Passed]: Acceptance of Minutes from the July 29, August 26, and September 23, 2026 Parks and Recrea
-     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15713&GUID=BC3F43BE-92CA-4161-A6F0-80B98B52DB81
   Mesa ADJ 26060 [Agenda Ready]: BOA26-00641. "6459 East Menlo St," 0.2± acres located at 6459 East Menlo Street. Variance.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24241&GUID=E482C8A3-2FFF-44B5-AC53-59C1E3D1A51D
-  Phoenix 26-2458 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-6-26-2 (Solis at Norterra PU
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36492&GUID=D4FE10A5-BD3C-4C8D-BEB9-B3488E1D21F9
-  Phoenix 26-2455 [Agenda Ready - Planning & Development Department]: Public Hearing and Ordinance Adoption - Rezoning Application Z-58-23-4 (Indian School Road
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36489&GUID=0882C995-AD18-4EC2-8A00-AE232F33646B
-  Phoenix 26-2429 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-23-23-7 - Northwes
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36463&GUID=73911DC9-DA49-4DBE-ABAE-DD6411210FF7
-  Phoenix 26-2419 [Adopted]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Notes and Subord
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36453&GUID=9F3DAF4D-3C64-4989-90EA-2DED9ADAC662
-  Phoenix 26-1980 [Agenda Ready - Parks and Recreation Department]: Salt River Project Land Use License for the City of Phoenix (Ordinance S-53354) - District
-     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36015&GUID=10C91882-B1EF-4181-B538-27719A5F9B18
+  Mesa ADJ 26058 [Agenda Ready]: BOA26-00410. "1147 N Diane St," 0.27± acres located at 1147 North Diane Street. Variance. 
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24239&GUID=59DF5F26-368E-44DE-9D56-448719455C6B
+  Mesa 26-1005 [Agenda Ready]: Thirty-Month Use of a Cooperative Term Contract with Renewal Options for the Purchase of R
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24222&GUID=D4D23D99-29A1-47DA-95C7-A14616E634D8
   Mesa 26-0991 [Agenda Ready]: Approving and authorizing the City Manager to enter into an amendment to a development agr
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24208&GUID=74D700A5-6425-412A-BEF7-1DE6D81F5E25
-  Mesa 26-0988 [Agenda Ready]: ZON26-00379 "Culdesac Mesa (FKA Site 17)" 24.3± acres located approximately 230± feet west
+  Mesa 26-0990 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24207&GUID=8AE89F8A-C373-4210-94D2-008D79117A7A
+  Mesa 26-0989 [Agenda Ready]: GPA26-00248 "View 202 - Minor GPA" 21.6± acres located at the southwest corner of South El
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24206&GUID=FC7E8B13-19AD-4441-846B-DF3DD7BFE2AF
+  Mesa 26-0988 [Agenda Ready]: ZON26-00379 “Culdesac Mesa (FKA Site 17)” 24.3 acres located approximately 230± feet west 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24205&GUID=CB3BE902-54D7-4DD8-9891-4C67FAB6A200
   Mesa 26-0987 [Agenda Ready]: ZON26-00614 "Stonelake-Pecos Crossing" 35± acres located at the northeast corner of East P
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24204&GUID=1354BEED-1EC5-4C44-A9AA-4747D892949C
@@ -39,20 +29,6 @@ Generated 2026-11-24 15:51 MST | window 90d | 240 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24201&GUID=051407A3-DFF2-4A46-AFBF-B726926B4A91
   Mesa 26-0983 [Agenda Ready]: ZON26-00126 "View 202 - Multifamily Rezone" 21.6± acres located at the southwest corner of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24200&GUID=ECA0C8BF-1E3C-4E40-B101-5D508F915283
-  Mesa 26-0948 [Agenda Ready]: Planning and Zoning Public Hearing held on July 29, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24165&GUID=7FB75FEF-C29D-480A-9297-6C83E7C56E02
-  Mesa 26-0922 [Agenda Ready]: Proposed amendments to Title 8, Chapter 6, Article III and Title 11, Chapters 79 and Chapt
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24139&GUID=F758B015-B291-47E8-95D7-8597241DE51A
-  Mesa 26-0705 [Agenda Ready]: ZON26-00160 "Hawes Crossing Village 7" 153.5± acres located at the southeast corner of Sou
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20
-  Mesa 26-1005 [Agenda Ready]: Thirty-Month Use of a Cooperative Term Contract with Renewal Options for the Purchase of R
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24222&GUID=D4D23D99-29A1-47DA-95C7-A14616E634D8
-  Mesa 26-0993 [Agenda Ready]: Planning and Zoning Board meeting held on September 9, 2026.
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24210&GUID=B62544FE-0978-46F8-8342-E27EBC8BEC06
-  Mesa 26-0990 [Agenda Ready]: GPA26-00161 "Hawes Crossing Village 7", 103± acres located at the southeast corner of Sout
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24207&GUID=8AE89F8A-C373-4210-94D2-008D79117A7A
-  Mesa 26-0989 [Agenda Ready]: GPA26-00248 "View 202 - Minor GPA" 21.6± acres located at the southwest corner of South El
-     https://mesa.legistar.com/LegislationDetail.aspx?ID=24206&GUID=FC7E8B13-19AD-4441-846B-DF3DD7BFE2AF
   Mesa 26-0982 [Agenda Ready]: ZON25-00660 “Gateway Crossing” 37± acres located at the southwest corner of East Williams 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24199&GUID=0DCFA3D1-AC8A-4B52-AD80-3AFC43718CFB
   Mesa 26-0964 [Agenda Ready]: An ordinance adopting titles and schedules of terms/rates/fees/charges for water utility s
@@ -63,10 +39,36 @@ Generated 2026-11-24 15:51 MST | window 90d | 240 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24171&GUID=A6CF9264-1894-48D6-A97A-3B8E58E38894
   Mesa 26-0953 [Agenda Ready]: A resolution declaring proposed titles and schedules of terms/rates/fees/charges for water
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24170&GUID=198F398A-FA6E-46E7-B610-7383DE05F41C
+  Mesa 26-0922 [Agenda Ready]: Proposed amendments to Title 8, Chapter 6, Article III and Title 11, Chapters 79 and Chapt
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24139&GUID=F758B015-B291-47E8-95D7-8597241DE51A
   Mesa 26-0920 [Agenda Ready]: ZON26-00162 "Hawes Crossing Village 6 Remainder" 44± acres located at the northwest corner
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24137&GUID=38622EA1-2DE7-4D9E-A159-C74B6F322306
   Mesa 26-0852 [Agenda Ready]: ZON21-00066 "Greenfield Multifamily" 1.9± acres located approximately 2,025± feet north of
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24069&GUID=8A2E6E25-4895-45AE-9ADF-26032EC2AB90
+  Mesa 26-0705 [Agenda Ready]: ZON26-00160 "Hawes Crossing Village 7" 153.5± acres located at the southeast corner of Sou
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=23920&GUID=3E468827-5B85-452D-B377-91D33A165A20
+  Mesa PZ 25006 [Agenda Ready]: Minutes from the December 11, 2024 Planning and Zoning Board meeting.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=22156&GUID=6D6E78D1-100C-459E-8CB0-3493585E91C4
+  City of Maricopa ORD 26-18 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, adopting the 
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15691&GUID=58ED74D0-969A-4EEB-B086-807EB6F80AA4
+  City of Maricopa ORD 26-17 [Passed]: An Ordinance of the Mayor and City Council of the City of Maricopa, Arizona, approving and
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15688&GUID=C9563156-2E86-4474-969E-D23A91C66644
+  City of Maricopa MIN 26-66 [Passed]: Acceptance of Minutes from the July 29, August 26, and September 23, 2026 Parks and Recrea
+     https://maricopa.legistar.com/LegislationDetail.aspx?ID=15713&GUID=BC3F43BE-92CA-4161-A6F0-80B98B52DB81
+  Phoenix 26-2458 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application Z-6-26-2 (Solis at Norterra PU
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36492&GUID=D4FE10A5-BD3C-4C8D-BEB9-B3488E1D21F9
+  Phoenix 26-2455 [Agenda Ready - Planning & Development Department]: Public Hearing and Ordinance Adoption - Rezoning Application Z-58-23-4 (Indian School Road
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36489&GUID=0882C995-AD18-4EC2-8A00-AE232F33646B
+  Phoenix 26-2429 [Agenda Ready - Planning & Development Department]: Amend City Code - Ordinance Adoption - Rezoning Application PHO-1-26--Z-23-23-7 - Northwes
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36463&GUID=73911DC9-DA49-4DBE-ABAE-DD6411210FF7
+  Phoenix 26-2419 [Adopted]: Approval of Proceedings Regarding Issuance of Multifamily Housing Revenue Notes and Subord
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36453&GUID=9F3DAF4D-3C64-4989-90EA-2DED9ADAC662
+  Phoenix 26-1980 [Agenda Ready - Parks and Recreation Department]: Salt River Project Land Use License for the City of Phoenix (Ordinance S-53354) - District
+     https://phoenix.legistar.com/LegislationDetail.aspx?ID=36015&GUID=10C91882-B1EF-4181-B538-27719A5F9B18
+  Mesa 26-0948 [Agenda Ready]: Planning and Zoning Public Hearing held on July 29, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24165&GUID=7FB75FEF-C29D-480A-9297-6C83E7C56E02
+  Mesa 26-0993 [Agenda Ready]: Planning and Zoning Board meeting held on September 9, 2026.
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24210&GUID=B62544FE-0978-46F8-8342-E27EBC8BEC06
   Mesa 26-0995 [Agenda Ready]: Planning and Zoning Board meeting held on October 14, 2026.
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24212&GUID=5C58A470-887D-46B4-BB51-9A7E9537CE58
   Mesa 26-0994 [Agenda Ready]: Planning and Zoning Board meeting held on September 23, 2026.
@@ -81,11 +83,9 @@ Generated 2026-11-24 15:51 MST | window 90d | 240 items
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24138&GUID=73923963-96E8-4EB8-816E-7F60D71EB27E
   City of Maricopa PRES 26-20 [Regular Agenda]: The Planning and Zoning Commission will hear a staff presentation on the current draft of 
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15729&GUID=16AC3085-5DF1-4F83-9E76-9DDAE3C8AF48
-  Apache Junction 26-515 [Public Hearing]: Presentation, discussion, public hearing, and consideration of proposed Resolution No. 26-
-     https://apachejunction.legistar.com/LegislationDetail.aspx?ID=12562&GUID=C5EA0C58-3116-424E-9B95-F303C457E1CB
 
 === HEAT (4) ===
-  Mesa 26-0988 [Agenda Ready]: ZON26-00379 "Culdesac Mesa (FKA Site 17)" 24.3± acres located approximately 230± feet west
+  Mesa 26-0988 [Agenda Ready]: ZON26-00379 “Culdesac Mesa (FKA Site 17)” 24.3 acres located approximately 230± feet west 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24205&GUID=CB3BE902-54D7-4DD8-9891-4C67FAB6A200
   Phoenix 26-1767 [Adopted]: Authorization to Amend Contract 165207 with UMOM New Day Centers, Inc. for Heat Related Re
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=35802&GUID=19194138-325B-4B68-AA0A-88CF43DC797A
@@ -95,6 +95,8 @@ Generated 2026-11-24 15:51 MST | window 90d | 240 items
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4052
 
 === TRANSIT (50) ===
+  Mesa 26-0980 [Agenda Ready]: Approving and authorizing the City Manager to enter into an amendment to the Intergovernme
+     https://mesa.legistar.com/LegislationDetail.aspx?ID=24197&GUID=A98DD41C-A2C9-45B8-A7F4-603F4392D5AA
   Phoenix 26-2508 [Agenda Ready]: Minutes of the Transportation, Infrastructure, and Planning Subcommittee Meeting
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=36542&GUID=318B3925-5584-4E83-BEA3-233E2ADBC12D
   Phoenix 26-2259 [Adopted]: National Association of City Transportation Officials, Inc.
@@ -180,11 +182,9 @@ This co
      https://maricopa.legistar.com/LegislationDetail.aspx?ID=15096&GUID=B1403618-AAF8-45FD-A791-7878ADC94BF3
   Tempe  [Heard 2026-09-24]: 13. Ratify contract increase with Otto Trucking Inc., for the removal and transportation o
      https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
-  Tempe  [Heard 2026-09-24]: 2. Adopt a resolution authorizing the Mayor to accept the Safe Streets and Roads for All (
-     https://tempe.granicus.com/AgendaViewer.php?view_id=2&clip_id=4054
 
 === WALKABILITY (17) ===
-  Mesa 26-0988 [Agenda Ready]: ZON26-00379 "Culdesac Mesa (FKA Site 17)" 24.3± acres located approximately 230± feet west
+  Mesa 26-0988 [Agenda Ready]: ZON26-00379 “Culdesac Mesa (FKA Site 17)” 24.3 acres located approximately 230± feet west 
      https://mesa.legistar.com/LegislationDetail.aspx?ID=24205&GUID=CB3BE902-54D7-4DD8-9891-4C67FAB6A200
   Phoenix 21-0596 [Adopted]: Authorization to Grant Temporary Construction Easement and Dedicate Sidewalk Easement over
      https://phoenix.legistar.com/LegislationDetail.aspx?ID=19068&GUID=4DC3798F-53D3-4F17-A3AE-66A8C39C28F1
